@@ -1,4 +1,4 @@
 #labels Featured
 You can use any image on the web for your placemarks. Just click on the new 'Add an icon' link in the icon menu, type the URL into the dialog box, and you're good to go.
 
-[http://2.bp.blogspot.com/_4CCd2LdAOCg/RvGsuznD5DI/AAAAAAAAAKo/MKvpqfrvKW0/s1600-h/File2.htm]
+[http://google-maps-icons.googlecode.com/files/howto.png]

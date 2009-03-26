@@ -3,6 +3,6 @@ If you feel this program is useful, please consider donating money.
 
 ===How to donate===
 
-The easiest way to donate to me is by [https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=nico.mollet%40gmail%2ecom sending money with Paypal to nico.mollet(_at_)gmail.com]. You can donate with Paypal using your credit card, but note that Paypal will take a small processing fee if you don't have a Paypal account. If you prefer, you can transfer money to me by bank, [mailto:nico.mollet@gmail.com email me] to get banking details. If you want to remain anonymous and not have your name appear in the list below, please let me know. 
+The easiest way to donate to me is by [https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=nico.mollet%40gmail%2ecom sending money with Paypal to nico.mollet(_at_)gmail.com]. You can donate with Paypal using your credit card, but note that Paypal will take a small processing fee if you don't have a Paypal account. If you prefer, you can transfer money to me by bank, [mailto:nico.mollet_at_gmail.com email me] to get banking details. If you want to remain anonymous and not have your name appear in the list below, please let me know. 
 
 [https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=nico.mollet%40gmail%2ecom https://www.paypal.com/en_US/i/btn/x-click-butcc-donate.gif]

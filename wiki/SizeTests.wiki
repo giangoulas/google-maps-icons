@@ -1,10 +1,8 @@
 Here are some size tests I am recently doing.
 I am in the process of reducing the size of 2 pixels
 
-The original size icon :
-[http://google-maps-icons.googlecode.com/files/casino.png]
-
-The new size :
-[http://google-maps-icons.googlecode.com/files/casino-small.png]
+The original size icon (1) & The new size (2) :
+(1) [http://google-maps-icons.googlecode.com/files/casino.png] (2) [http://google-maps-icons.googlecode.com/files/casino-small.png]
 
 Let me know what you think.
+

@@ -1,5 +1,5 @@
 Here are some size tests I am recently doing.
-I am in the process of reducing the size of 2 pixels
+I am in the process of reducing the size by 2 pixels
 
 The original size icon (1) & The new size (2) :
 

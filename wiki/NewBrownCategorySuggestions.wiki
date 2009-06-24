@@ -1,0 +1,22 @@
+#labels Featured
+I am actually thinking in introducing a new color, a new category to the already existing ones. The color is brown.
+[http://google-maps-icons.googlecode.com/files/all-colors.png]
+
+===<font color="#5781fc" >Administration & Offices</font>===  
+===<font color="#fc6355">Health & Sports</font> ===
+===<font color="#00e13c">Tourism & Nature</font> ===
+===<font color="#55d7d7">Stores</font>===
+===<font color="#fcf357">Friends & Family</font>===
+===<font color="#7e55fc">Restaurants & Hotels</font> ===
+===<font color="#e14f9e">Culture & Entertainment</font>===
+===<font color="#ef9e40">Miscalenous</font>===
+===<font color="#000" >Transportation</font>===
+===<font color="#9e7151" >NewCategory</font>===
+
+I am not satisfied with the <font color="#ef9e40">Miscalenous</font> category. There are some icons I think, can be regrouped into a new category ===<font color="#9e7151" >Education & Kids</font>=== . The icons are : school, university, library, playground...
+
+Maybe it's would be better to switch the colors. Then it would be :
+===<font color="#ef9e40">Education & Kids</font>===
+===<font color="#9e7151" >Miscalenous</font>===
+
+Any suggestion is welcome on this subject, I haven't decided anything yet.

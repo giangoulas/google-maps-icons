@@ -11,7 +11,7 @@ I am actually thinking in introducing a new color, a new category to the already
 ===<font color="#e14f9e">Culture & Entertainment</font>===
 ===<font color="#ef9e40">Miscalenous</font>===
 ===<font color="#000" >Transportation</font>===
-===<font color="#9e7151" >New_Category</font>===
+===<font color="#9e7151" >New Category</font>===
 
 I am not satisfied with the <font color="#ef9e40">Miscalenous</font> category. There are some icons I think, can be regrouped into a new category ===<font color="#9e7151" >Education & Kids</font>=== . The icons are : school, university, library, playground...
 

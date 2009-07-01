@@ -1,5 +1,6 @@
 #labels Featured
 <table><tr><td valign="top" align="left">
+
 ===<font color="#5781fc" >Administration & Offices</font>===  
  * Police  
  * Firemen  
@@ -11,6 +12,8 @@
  * Company
  * Find a job
  * Factory
+
+</td><td valign="top" align="left">
 
 ===<font color="#fc6355">Health & Sports</font> ===
 *Health*
@@ -26,6 +29,8 @@
  * Soccer
  * Skiing
 
+</td><td valign="top" align="left">
+
 ===<font color="#00e13c">Tourism & Nature</font> ===
  * Park  
  * Beautiful place  
@@ -39,6 +44,8 @@
  * Farm 
  * Recycle
 
+</td><td valign="top" align="left">
+
 ===<font color="#55d7d7">Stores</font>===
  * Supermarket  
  * Music  
@@ -49,6 +56,8 @@
  * Flowers 
  * Toys
  * Gifts
+
+</td><td valign="top" align="left">
 
 ===<font color="#fcf357">Friends & Family & Real Estate</font>===
  * Friends  
@@ -73,6 +82,8 @@
  * Hotel  
  * Bread 
 
+</td><td valign="top" align="left">
+
 ===<font color="#e14f9e">Culture & Entertainment</font>===
  * Cinema 
  * Club  
@@ -87,6 +98,8 @@
  * University 
  * Library  
  * Playground 
+
+</td><td valign="top" align="left">
 
 ===<font color="#000" >Transportation</font>===
 *Road*
@@ -105,6 +118,8 @@
  * Airport 
  * Port 
  * Train
+
+</td><td valign="top" align="left">
 
 ===<font color="#9e7151" >Miscalenous</font>===
  * Toilets 

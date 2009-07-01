@@ -1,5 +1,6 @@
 #labels Featured
-|| ===<font color="#5781fc" >Administration & Offices</font>===  
+<table><tr><td>
+===<font color="#5781fc" >Administration & Offices</font>===  
  * Police  
  * Firemen  
  * Justice  
@@ -57,7 +58,8 @@
  * Real estate  
  * Apartment
 
-|| ===<font color="#7e55fc">Restaurants & Hotels</font> ===
+</td><td>
+ ===<font color="#7e55fc">Restaurants & Hotels</font> ===
 *Restaurants*
  * Restaurant 
  * Pizza 
@@ -123,4 +125,5 @@
  * Friday 
  * Satursday 
  * Sunday
-||
+
+</tr></table>

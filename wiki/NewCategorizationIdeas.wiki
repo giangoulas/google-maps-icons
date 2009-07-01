@@ -1,0 +1,125 @@
+#labels Featured
+===<font color="#5781fc" >Administration & Offices</font>===  
+Police  
+Firemen  
+Justice  
+Postal office  
+Military base 
+Administration 
+Bank 
+Company 
+Find a job 
+Factory 
+
+===<font color="#fc6355">Health & Sports</font> ===
+*Health*
+Doctor  
+Drug store  
+Hospital  
+Schrink 
+Disability
+*Sports*
+Pool 
+Golf 
+Tennis 
+Soccer 
+Skiing 
+
+===<font color="#00e13c">Tourism & Nature</font> ===
+Park  
+Beautiful place  
+Camping  
+Hiking  
+Wild life  
+Beach  
+Church 
+Fishing 
+Horse riding
+Farm 
+Recycle
+
+===<font color="#55d7d7">Stores</font>===
+Supermarket  
+Music  
+Videogames  
+Computer  
+Clothes  
+Shoes 
+Flowers 
+Toys
+Gifts
+
+===<font color="#fcf357">Friends & Family & Real Estate</font>===
+Friends  
+Home  
+Girl/Boy friend  
+Date  
+Real estate  
+Apartment
+
+===<font color="#7e55fc">Restaurants & Hotels</font> ===
+*Restaurants*
+Restaurant 
+Pizza 
+Fast food 
+Chinese restaurant 
+Japanese restaurant
+*Other*
+Bar  
+Coffee 
+Hotel  
+Bread 
+
+===<font color="#e14f9e">Culture & Entertainment</font>===
+Cinema 
+Club  
+Theater  
+Casino  
+Poker 
+Museum 
+Bowling
+
+===<font color="#ef9e40">Education & Kids</font>===
+School  
+University 
+Library  
+Playground 
+
+===<font color="#000" >Transportation</font>===
+*Road*
+Car
+Highway
+Parking
+Truck 
+Cycling  
+Gaz station  
+Stoplight 
+Car repair
+Accident
+Taxi
+Bus 
+*Other*
+Airport 
+Port 
+ Train
+
+===<font color="#9e7151" >Miscalenous</font>===
+Toilets 
+Wifi 
+Info
+
+===<font color="#000" >Events & Weather</font>===
+*Weather*
+Sun
+Clouds
+Clouds & sun
+Thunder 
+Rain 
+*Days of Week*
+Monday 
+Tuesday 
+Wednesday 
+Thursday 
+Friday 
+Satursday 
+Sunday

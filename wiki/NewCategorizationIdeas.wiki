@@ -1,5 +1,5 @@
 #labels Featured
-||===<font color="#5781fc" >Administration & Offices</font>===  
+|| ===<font color="#5781fc" >Administration & Offices</font>===  
  * Police  
  * Firemen  
  * Justice  

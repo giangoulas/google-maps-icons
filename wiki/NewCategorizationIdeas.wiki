@@ -93,13 +93,15 @@
  * Museum 
  * Bowling
 
+</td><td valign="top" align="left">
+
 ===<font color="#ef9e40">Education & Kids</font>===
  * School  
  * University 
  * Library  
  * Playground 
 
-</td><td valign="top" align="left">
+</td></tr><tr><td valign="top" align="left">
 
 ===<font color="#000" >Transportation</font>===
 *Road*
@@ -142,4 +144,4 @@
  * Satursday 
  * Sunday
 
-</tr></table>
+</td></tr></table>

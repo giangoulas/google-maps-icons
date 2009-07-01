@@ -146,4 +146,12 @@
  * Satursday 
  * Sunday
 
+</td><td valign="top" align="left">
+
+===<font color="#000" >Media</font>===
+ * Video
+ * Audio
+ * Photo
+ * Text
+
 </td></tr></table>

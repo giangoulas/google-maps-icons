@@ -1,15 +1,15 @@
 #labels Featured
 ===<font color="#5781fc" >Administration & Offices</font>===  
-Police  
-Firemen  
-Justice  
-Postal office  
-Military base 
-Administration 
-Bank
-Company
-Find a job
-Factory
+*Police  
+*Firemen  
+*Justice  
+*Postal office  
+*Military base 
+*Administration 
+*Bank
+*Company
+*Find a job
+*Factory
 
 ===<font color="#fc6355">Health & Sports</font> ===
 *Health*

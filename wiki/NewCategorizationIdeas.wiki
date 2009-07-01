@@ -1,29 +1,29 @@
 #labels Featured
 ===<font color="#5781fc" >Administration & Offices</font>===  
- *Police  
- *Firemen  
- *Justice  
- *Postal office  
- *Military base 
- *Administration 
- *Bank
- *Company
- *Find a job
- *Factory
+ * Police  
+ * Firemen  
+ * Justice  
+ * Postal office  
+ * Military base 
+ * Administration 
+ * Bank
+ * Company
+ * Find a job
+ * Factory
 
 ===<font color="#fc6355">Health & Sports</font> ===
 *Health*
-Doctor
-Drug store
-Hospital
-Schrink
-Disability
+* Doctor
+* Drug store
+* Hospital
+* Schrink
+* Disability
 *Sports*
-Pool
-Golf
-Tennis
-Soccer
-Skiing
+* Pool
+* Golf
+* Tennis
+* Soccer
+* Skiing
 
 ===<font color="#00e13c">Tourism & Nature</font> ===
 Park  

@@ -59,7 +59,8 @@
  * Apartment
 
 </td><td valign="top" align="left">
- ===<font color="#7e55fc">Restaurants & Hotels</font> ===
+
+===<font color="#7e55fc">Restaurants & Hotels</font> ===
 *Restaurants*
  * Restaurant 
  * Pizza 

@@ -1,5 +1,5 @@
 #labels Featured
-<table><tr><td>
+<table><tr><td valign="top" align="left">
 ===<font color="#5781fc" >Administration & Offices</font>===  
  * Police  
  * Firemen  
@@ -58,7 +58,7 @@
  * Real estate  
  * Apartment
 
-</td><td>
+</td><td valign="top" align="left">
  ===<font color="#7e55fc">Restaurants & Hotels</font> ===
 *Restaurants*
  * Restaurant 

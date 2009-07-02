@@ -106,6 +106,7 @@ _italic icons_ means the icon is not done yet.
  * Poker 
  * Museum 
  * Bowling
+ * _Party_
 
 </td><td valign="top" align="left">
 

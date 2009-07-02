@@ -1,4 +1,6 @@
 #labels Featured
+_italic icons_ means the icon is not done yet.
+
 <table><tr><td valign="top" align="left">
 
 ===<font color="#5781fc" >Administration & Offices</font>===  
@@ -22,12 +24,14 @@
  * Hospital
  * Schrink
  * Disability
+ * _Yoga_
 *Sports*
  * Pool
  * Golf
  * Tennis
  * Soccer
  * Skiing
+ * _Gym_
 
 </td><td valign="top" align="left">
 
@@ -43,6 +47,12 @@
  * Horse riding
  * Farm 
  * Recycle
+ * _Picnic_
+ * _Castle_
+ * _Windmill_
+ * _Bridge_
+ * _Statue_
+ * _Fountain_
 
 </td><td valign="top" align="left">
 
@@ -146,13 +156,18 @@
  * Friday 
  * Satursday 
  * Sunday
+*Events*
+ * _Fire_
+ * _Shooting_
+ * _Flood_
+ * _General Crime_
 
 </td><td valign="top" align="left">
 
 ===<font color="#000" >Media</font>===
- * Video
- * Audio
- * Photo
- * Text
+ * _Video_
+ * _Audio_
+ * _Photo_
+ * _Text_
 
 </td></tr></table>

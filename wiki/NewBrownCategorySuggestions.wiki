@@ -4,7 +4,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 _italic icons_ means the icon is not done yet.
 
-<table><tr><td valign="top" align="left">
+<table><tr><td valign="top" align="left" border=1>
 
 ===<font color="#5781fc" >Administration & Offices</font>===  
  * Police  

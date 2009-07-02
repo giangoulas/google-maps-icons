@@ -144,7 +144,7 @@ _italic icons_ means the icon is not done yet.
 
 </td><td valign="top" align="left">
 
-===<font color="#808080" >Events & Weather</font>===
+===<font color="#999999" >Events & Weather</font>===
 *Weather*
  * Sun
  * Clouds

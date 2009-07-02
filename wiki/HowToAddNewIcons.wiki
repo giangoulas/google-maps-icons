@@ -2,3 +2,6 @@
 You can use any image on the web for your placemarks. Just click on the new 'Add an icon' link in the icon menu, type the URL into the dialog box, and you're good to go.
 
 [http://google-maps-icons.googlecode.com/files/howto.png]
+
+A working example, with my maps :
+[http://google-maps-icons.googlecode.com/files/map-example-01.png]

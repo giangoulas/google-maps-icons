@@ -1,0 +1,22 @@
+#labels Featured
+*2nd of July, 2009* ::: 1 new icon : hardware (tools & hammers)
+
+*1st of July, 2009* ::: The project is growing, and many people are asking for news icons. You may help me and [NewBrownCategorySuggestions collaborate on the project, regarding new Categories and Colors]. You can ask me to be a project member so that you can edit the Wiki page.
+
+*24th of June, 2009* ::: 2 new icons : truck, gifts / updated PSD file / [NewBrownCategorySuggestions Thinking in a new category, any suggestion welcome] 
+
+*19th of June, 2009* ::: 5 new icons : schrink, playground, bowling, university, coffee
+
+*18th of June, 2009* ::: 7 new icons : skiing, fishing, horse riding, shoes, flowers, factory, toys
+
+*17th of June, 2009* ::: 7 new icons : tennis, soccer, sun, rain, clouds, clouds&sun, thunder
+
+*16th of June, 2009* ::: 9 new icons : apartment, monday, tuesday, wednesday, thursday, friday, satursday, sunday, highway
+
+*11th of June, 2009* ::: 11 new icons : car, bread, church, cinema (new version), fast food, museum, poker, chinese restaurant, japanese restaurant, taxi, wifi
+
+*11th of June, 2009* ::: After a week of [SizeTests tests], I decided to reduce the size of the icons. You don't need to update the URLs to get the new ones. But if you still want the old bigger ones, you will find zip files in the download section. [http://code.google.com/p/google-maps-icons/issues/entry Let me know what you think].
+
+*8th of June, 2009* ::: Doing [SizeTests some size tests], 1 new icon : military base
+
+*29th of May, 2009* ::: 3 new icons : pizza, firemen, stoplight

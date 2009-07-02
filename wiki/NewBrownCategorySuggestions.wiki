@@ -117,11 +117,16 @@ _italic icons_ means the icon is not done yet.
 </td><td valign="top" align="left">
 
 ===<font color="#ef9e40">Education & Kids</font>===
+*Education*
  * School  
  * University 
- * Library  
- * Playground 
  * _Private teacher_
+ * Library  
+ * _Adult education_
+*Kids*
+ * Playground 
+ * _Day care_
+ * _Summer camp_
 
 </td></tr><tr><td valign="top" align="left">
 

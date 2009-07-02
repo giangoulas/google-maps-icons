@@ -1,22 +1,182 @@
 #labels Featured
-I am actually thinking in introducing a new color, a new category to the already existing ones. The color is brown.
+I am actually thinking in introducing new colors, new categories to the already existing ones. 
 [http://google-maps-icons.googlecode.com/files/all-colors.png]
 
+_italic icons_ means the icon is not done yet.
+
+<table><tr><td valign="top" align="left">
+
 ===<font color="#5781fc" >Administration & Offices</font>===  
+ * Police  
+ * Firemen  
+ * Justice  
+ * Postal office  
+ * Military base 
+ * Administration 
+ * Bank
+ * Company
+ * Find a job
+ * Factory
+
+</td><td valign="top" align="left">
+
 ===<font color="#fc6355">Health & Sports</font> ===
+*Health*
+ * Doctor
+ * Drug store
+ * Hospital
+ * Schrink
+ * Disability
+ * _Yoga_
+*Sports*
+ * Pool
+ * Golf
+ * Tennis
+ * Soccer
+ * Skiing
+ * _Gym_
+
+</td><td valign="top" align="left">
+
 ===<font color="#00e13c">Tourism & Nature</font> ===
+ * Park  
+ * Beautiful place  
+ * Camping  
+ * Hiking  
+ * Wild life  
+ * Beach  
+ * Church 
+ * Fishing 
+ * Horse riding
+ * Farm 
+ * Recycle
+ * _Picnic_
+ * _Castle_
+ * _Windmill_
+ * _Bridge_
+ * _Statue_
+ * _Fountain_
+
+</td><td valign="top" align="left">
+
 ===<font color="#55d7d7">Stores</font>===
-===<font color="#fcf357">Friends & Family</font>===
+ * Supermarket  
+ * Music  
+ * Videogames  
+ * Computer  
+ * Clothes  
+ * Shoes 
+ * Flowers 
+ * Toys
+ * Gifts
+ * Tools
+
+</td></tr><tr><td valign="top" align="left">
+
+===<font color="#fcf357">Friends & Family & Real Estate</font>===
+ * Friends  
+ * Home  
+ * Girl/Boy friend  
+ * Date  
+ * Real estate  
+ * Apartment
+
+</td><td valign="top" align="left">
+
 ===<font color="#7e55fc">Restaurants & Hotels</font> ===
+*Restaurants*
+ * Restaurant 
+ * Pizza 
+ * Fast food 
+ * Chinese restaurant 
+ * Japanese restaurant
+*Other*
+ * Bar  
+ * Coffee 
+ * Hotel  
+ * Bread 
+
+</td><td valign="top" align="left">
+
 ===<font color="#e14f9e">Culture & Entertainment</font>===
-===<font color="#ef9e40">Miscalenous</font>===
-===<font color="#000" >Transportation</font>===
-===<font color="#9e7151" >New Category</font>===
+ * Cinema 
+ * Club  
+ * Theater  
+ * Casino  
+ * Poker 
+ * Museum 
+ * Bowling
 
-I am not satisfied with the <font color="#ef9e40">Miscalenous</font> category. There are some icons that can be regrouped into a new category <font color="#9e7151" >Education & Kids</font>. The icons are : school, university, library, playground...
+</td><td valign="top" align="left">
 
-Maybe it's would be better to switch the colors. Then it would be :
 ===<font color="#ef9e40">Education & Kids</font>===
+ * School  
+ * University 
+ * Library  
+ * Playground 
+
+</td></tr><tr><td valign="top" align="left">
+
+===<font color="#000" >Transportation</font>===
+*Road*
+ * Car
+ * Highway
+ * Parking
+ * Truck 
+ * Cycling  
+ * Gaz station  
+ * Stoplight 
+ * Car repair
+ * Accident
+ * Taxi
+ * Bus 
+*Other*
+ * Airport 
+ * Port 
+ * Train
+
+</td><td valign="top" align="left">
+
 ===<font color="#9e7151" >Miscalenous</font>===
+ * Toilets 
+ * Wifi 
+ * Info
+
+</td><td valign="top" align="left">
+
+===<font color="#000" >Events & Weather</font>===
+*Weather*
+ * Sun
+ * Clouds
+ * Clouds & sun
+ * Thunder 
+ * Rain 
+ * _Tornado_
+ * _Wind_
+ * _Snow_
+
+*Days of Week*
+ * Monday 
+ * Tuesday 
+ * Wednesday 
+ * Thursday 
+ * Friday 
+ * Satursday 
+ * Sunday
+*Events*
+ * _Fire_
+ * _Shooting_
+ * _Flood_
+ * _General Crime_
+
+</td><td valign="top" align="left">
+
+===<font color="#000" >Media</font>===
+ * _Video_
+ * _Audio_
+ * _Photo_
+ * _Text_
+
+</td></tr></table>
 
 Any suggestion is welcome on this subject, I haven't decided anything yet.

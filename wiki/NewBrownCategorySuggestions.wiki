@@ -99,7 +99,8 @@ _italic icons_ means the icon is not done yet.
  * Bar  
  * Coffee 
  * Hotel  
- * Bread 
+ * Bread
+ * _Youth Hostel_
 
 </td><td valign="top" align="left">
 

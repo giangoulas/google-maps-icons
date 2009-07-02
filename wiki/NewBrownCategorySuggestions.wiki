@@ -144,7 +144,7 @@ _italic icons_ means the icon is not done yet.
 
 </td><td valign="top" align="left">
 
-===<font color="#000" >Events & Weather</font>===
+===<font color="#ddd" >Events & Weather</font>===
 *Weather*
  * Sun
  * Clouds
@@ -163,6 +163,7 @@ _italic icons_ means the icon is not done yet.
  * Friday 
  * Satursday 
  * Sunday
+
 *Events*
  * _Fire_
  * _Shooting_
@@ -173,7 +174,7 @@ _italic icons_ means the icon is not done yet.
 
 </td><td valign="top" align="left">
 
-===<font color="#000" >Media</font>===
+===<font color="#0337D1" >Media</font>===
  * _Video_
  * _Audio_
  * _Photo_

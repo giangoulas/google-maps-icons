@@ -1,5 +1,5 @@
 #labels Featured
-I am actually thinking in introducing new colors, new categories to the already existing ones. 
+aaaI am actually thinking in introducing new colors, new categories to the already existing ones. 
 [http://google-maps-icons.googlecode.com/files/all-colors.png]
 
 _italic icons_ means the icon is not done yet.

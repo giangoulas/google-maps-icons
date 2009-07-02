@@ -168,6 +168,8 @@ _italic icons_ means the icon is not done yet.
  * _Shooting_
  * _Flood_
  * _General Crime_
+ * _Plane crash..._
+ * _Earthquake_
 
 </td><td valign="top" align="left">
 

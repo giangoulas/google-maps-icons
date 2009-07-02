@@ -121,6 +121,7 @@ _italic icons_ means the icon is not done yet.
  * University 
  * Library  
  * Playground 
+ * _Private teacher_
 
 </td></tr><tr><td valign="top" align="left">
 

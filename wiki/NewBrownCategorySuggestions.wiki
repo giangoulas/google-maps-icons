@@ -120,8 +120,8 @@ _italic icons_ means the icon is not done yet.
 *Education*
  * School  
  * University 
- * _Private teacher_
  * Library  
+ * _Private teacher_
  * _Adult education_
 *Kids*
  * Playground 

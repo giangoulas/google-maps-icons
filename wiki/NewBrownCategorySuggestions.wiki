@@ -1,5 +1,5 @@
 #labels Featured
-aaaI am actually thinking in introducing new colors, new categories to the already existing ones. 
+I am actually thinking in introducing new colors, new categories to the already existing ones. 
 [http://google-maps-icons.googlecode.com/files/all-colors.png]
 
 _italic icons_ means the icon is not done yet.
@@ -35,6 +35,7 @@ _italic icons_ means the icon is not done yet.
  * Soccer
  * Skiing
  * _Gym_
+ * _Basketball_
 
 </td><td valign="top" align="left">
 
@@ -56,6 +57,10 @@ _italic icons_ means the icon is not done yet.
  * _Bridge_
  * _Statue_
  * _Fountain_
+ * _Graveyard_
+ * _Mosque_
+ * _Synagogue_
+ * _Zoo_
 
 </td><td valign="top" align="left">
 
@@ -107,6 +112,7 @@ _italic icons_ means the icon is not done yet.
  * Museum 
  * Bowling
  * _Party_
+ * _Theme park*
 
 </td><td valign="top" align="left">
 
@@ -135,6 +141,7 @@ _italic icons_ means the icon is not done yet.
  * Airport 
  * Port 
  * Train
+ * _Underground_
 
 </td><td valign="top" align="left">
 

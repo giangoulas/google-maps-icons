@@ -17,6 +17,9 @@ _italic icons_ means the icon is not done yet.
  * Company
  * Find a job
  * Factory
+ * _Prison_
+ * _Senior site_
+ * _Community center_
 
 </td><td valign="top" align="left">
 
@@ -61,6 +64,8 @@ _italic icons_ means the icon is not done yet.
  * _Mosque_
  * _Synagogue_
  * _Zoo_
+ * _Canoe_
+ * _Field (agriculture)_
 
 </td><td valign="top" align="left">
 
@@ -144,6 +149,7 @@ _italic icons_ means the icon is not done yet.
  * Accident
  * Taxi
  * Bus 
+ * _Rent a Car_
 *Other*
  * Airport 
  * Port 
@@ -186,6 +192,7 @@ _italic icons_ means the icon is not done yet.
  * _General Crime_
  * _Plane crash..._
  * _Earthquake_
+ * _Air pollution_
 
 </td><td valign="top" align="left">
 

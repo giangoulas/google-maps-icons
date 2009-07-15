@@ -4,7 +4,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 _italic icons_ means the icon is not done yet.
 
-<table cellspacing="0" cellpadding="3"><tr><td valign="top" align="left" >
+<table cellspacing="0" cellpadding="6"><tr><td valign="top" align="left" >
 
 ===<font color="#5781fc" >Administration & Offices</font>===  
 [http://google-maps-icons.googlecode.com/files/police.png]
@@ -143,6 +143,7 @@ _italic icons_ means the icon is not done yet.
  * Private teacher
  * Adult education
 *Kids*
+
 [http://google-maps-icons.googlecode.com/files/playground.png]
  * Day care
  * Summer camp
@@ -167,6 +168,7 @@ _italic icons_ means the icon is not done yet.
 [http://google-maps-icons.googlecode.com/files/bus.png]
  * Rent a car
 *Other*
+
 [http://google-maps-icons.googlecode.com/files/airport.png]
 [http://google-maps-icons.googlecode.com/files/port.png]
 [http://google-maps-icons.googlecode.com/files/train.png]
@@ -183,6 +185,7 @@ _italic icons_ means the icon is not done yet.
 
 ===<font color="#999999" >Events & Weather</font>===
 *Weather*
+
 [http://google-maps-icons.googlecode.com/files/sun.png]
 [http://google-maps-icons.googlecode.com/files/clouds.png]
 [http://google-maps-icons.googlecode.com/files/cloudsun.png]

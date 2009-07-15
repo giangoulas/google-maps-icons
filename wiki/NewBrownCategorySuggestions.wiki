@@ -7,15 +7,17 @@ _italic icons_ means the icon is not done yet.
 <table cellspacing="0" cellpadding="3"><tr><td valign="top" align="left" >
 
 ===<font color="#5781fc" >Administration & Offices</font>===  
- * Police  
- * Firemen  
- * Justice  
- * Postal office  
- * Military base 
- * Administration 
- * Bank
- * Company
- * Find a job
+[http://google-maps-icons.googlecode.com/files/police.png]
+[http://google-maps-icons.googlecode.com/files/firemen.png]
+[http://google-maps-icons.googlecode.com/files/justice.png]
+[http://google-maps-icons.googlecode.com/files/postal.png]
+[http://google-maps-icons.googlecode.com/files/military.png]
+[http://google-maps-icons.googlecode.com/files/administration.png]
+[http://google-maps-icons.googlecode.com/files/bank.png]
+[http://google-maps-icons.googlecode.com/files/company.png]
+[http://google-maps-icons.googlecode.com/files/findajob.png]
+[http://google-maps-icons.googlecode.com/files/company.png]
+[http://google-maps-icons.googlecode.com/files/factory.png]
  * Factory
  * _Prison_
  * _Senior site_

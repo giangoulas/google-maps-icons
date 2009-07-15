@@ -157,14 +157,14 @@ _italic icons_ means the icon is not done yet.
 [http://google-maps-icons.googlecode.com/files/parking.png]
 [http://google-maps-icons.googlecode.com/files/truck.png]
 [http://google-maps-icons.googlecode.com/files/cycling.png]
+
 [http://google-maps-icons.googlecode.com/files/gazstation.png]
 [http://google-maps-icons.googlecode.com/files/stoplight.png]
 [http://google-maps-icons.googlecode.com/files/carrepair.png]
 [http://google-maps-icons.googlecode.com/files/accident.png]
 [http://google-maps-icons.googlecode.com/files/taxi.png]
+
 [http://google-maps-icons.googlecode.com/files/bus.png]
-[http://google-maps-icons.googlecode.com/files/bread.png]
-[http://google-maps-icons.googlecode.com/files/bread.png]
  * Rent a car
 *Other*
 [http://google-maps-icons.googlecode.com/files/airport.png]
@@ -183,40 +183,41 @@ _italic icons_ means the icon is not done yet.
 
 ===<font color="#999999" >Events & Weather</font>===
 *Weather*
- * Sun
- * Clouds
- * Clouds & sun
- * Thunder 
- * Rain 
+[http://google-maps-icons.googlecode.com/files/sun.png]
+[http://google-maps-icons.googlecode.com/files/clouds.png]
+[http://google-maps-icons.googlecode.com/files/cloudsun.png]
+[http://google-maps-icons.googlecode.com/files/rain.png]
+[http://google-maps-icons.googlecode.com/files/bread.png]
  * _Tornado_
  * _Wind_
  * _Snow_
 
 *Days of Week*
- * Monday 
- * Tuesday 
- * Wednesday 
- * Thursday 
- * Friday 
- * Satursday 
- * Sunday
+
+[http://google-maps-icons.googlecode.com/files/monday.png]
+[http://google-maps-icons.googlecode.com/files/tuesday.png]
+[http://google-maps-icons.googlecode.com/files/wednesday.png]
+[http://google-maps-icons.googlecode.com/files/thursday.png]
+[http://google-maps-icons.googlecode.com/files/friday.png]
+[http://google-maps-icons.googlecode.com/files/satursday.png]
+[http://google-maps-icons.googlecode.com/files/sunday.png]
 
 *Events*
- * _Fire_
- * _Shooting_
- * _Flood_
- * _General Crime_
- * _Plane crash..._
- * _Earthquake_
- * _Air pollution_
+ * Fire
+ * Shooting
+ * Flood
+ * General Crime
+ * Plane crash...
+ * Earthquake
+ * Air pollution
 
 </td><td valign="top" align="left">
 
 ===<font color="#0337D1" >Media</font>===
- * _Video_
- * _Audio_
- * _Photo_
- * _Text_
+ * Video
+ * Audio
+ * Photo
+ * Text
 
 </td></tr></table>
 

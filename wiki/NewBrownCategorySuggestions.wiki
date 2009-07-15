@@ -89,28 +89,34 @@ _italic icons_ means the icon is not done yet.
 </td></tr><tr><td valign="top" align="left">
 
 ===<font color="#fcf357">Friends & Family & Real Estate</font>===
- * Friends  
- * Home  
- * Girl/Boy friend  
- * Date  
- * Real estate  
- * Apartment
-
+[http://google-maps-icons.googlecode.com/files/friends.png]
+[http://google-maps-icons.googlecode.com/files/home.png]
+[http://google-maps-icons.googlecode.com/files/girlfriend.png]
+[http://google-maps-icons.googlecode.com/files/date.png]
+[http://google-maps-icons.googlecode.com/files/realestate.png]
+[http://google-maps-icons.googlecode.com/files/apartment.png]
 </td><td valign="top" align="left">
 
 ===<font color="#7e55fc">Restaurants & Hotels</font> ===
 *Restaurants*
+
+[http://google-maps-icons.googlecode.com/files/restaurant.png]
+[http://google-maps-icons.googlecode.com/files/pizza.png]
+[http://google-maps-icons.googlecode.com/files/fastfood.png]
+[http://google-maps-icons.googlecode.com/files/chineserestaurant.png]
+[http://google-maps-icons.googlecode.com/files/japaneserestaurant.png]
  * Restaurant 
  * Pizza 
  * Fast food 
  * Chinese restaurant 
  * Japanese restaurant
 *Other*
- * Bar  
- * Coffee 
- * Hotel  
- * Bread
- * _Youth Hostel_
+
+[http://google-maps-icons.googlecode.com/files/bar.png]
+[http://google-maps-icons.googlecode.com/files/coffee.png]
+[http://google-maps-icons.googlecode.com/files/hotel.png]
+[http://google-maps-icons.googlecode.com/files/bread.png]
+ * Youth Hostel
 
 </td><td valign="top" align="left">
 

@@ -48,15 +48,17 @@ _italic icons_ means the icon is not done yet.
 
 ===<font color="#00e13c">Tourism & Nature</font> ===
 [http://google-maps-icons.googlecode.com/files/park.png]
-[http://google-maps-icons.googlecode.com/files/beautifulplace.png]
+[http://google-maps-icons.googlecode.com/files/beautiful.png]
 [http://google-maps-icons.googlecode.com/files/camping.png]
 [http://google-maps-icons.googlecode.com/files/hiking.png]
-[http://google-maps-icons.googlecode.com/files/wildlife.png]
+[http://google-maps-icons.googlecode.com/files/animals.png]
+
 [http://google-maps-icons.googlecode.com/files/beach.png]
 [http://google-maps-icons.googlecode.com/files/church.png]
 [http://google-maps-icons.googlecode.com/files/fishing.png]
 [http://google-maps-icons.googlecode.com/files/horseriding.png]
 [http://google-maps-icons.googlecode.com/files/farm.png]
+
 [http://google-maps-icons.googlecode.com/files/recycle.png]
  * _Picnic_
  * _Castle_

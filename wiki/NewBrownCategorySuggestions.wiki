@@ -190,7 +190,7 @@ _italic icons_ means the icon is not done yet.
 [http://google-maps-icons.googlecode.com/files/clouds.png]
 [http://google-maps-icons.googlecode.com/files/cloudsun.png]
 [http://google-maps-icons.googlecode.com/files/rain.png]
-[http://google-maps-icons.googlecode.com/files/bread.png]
+[http://google-maps-icons.googlecode.com/files/thunder.png]
  * _Tornado_
  * _Wind_
  * _Snow_

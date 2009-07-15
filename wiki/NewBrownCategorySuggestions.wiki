@@ -28,7 +28,7 @@ _italic icons_ means the icon is not done yet.
 ===<font color="#fc6355">Health & Sports</font> ===
 *Health*
 [http://google-maps-icons.googlecode.com/files/doctor.png]
-[http://google-maps-icons.googlecode.com/files/drugstore.png]
+[http://google-maps-icons.googlecode.com/files/drugs.png]
 [http://google-maps-icons.googlecode.com/files/hostpital.png]
 [http://google-maps-icons.googlecode.com/files/schrink.png]
 [http://google-maps-icons.googlecode.com/files/disability.png]

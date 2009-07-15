@@ -18,7 +18,6 @@ _italic icons_ means the icon is not done yet.
 [http://google-maps-icons.googlecode.com/files/company.png]
 [http://google-maps-icons.googlecode.com/files/findajob.png]
 [http://google-maps-icons.googlecode.com/files/company.png]
-
 [http://google-maps-icons.googlecode.com/files/factory.png]
  * Factory
  * _Prison_

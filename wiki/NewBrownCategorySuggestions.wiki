@@ -61,11 +61,11 @@ _italic icons_ means the icon is not done yet.
 
 [http://google-maps-icons.googlecode.com/files/recycle.png]
  * Picnic (by [http://www.umapper.com UMapper])
- * Castle
- * Windmill (by Matthias Stasiak [http://www.BNC.es www.myBNC.es])
- * Bridge
+ * Castle (by  [http://www.myBCN.es Matthias Stasiak])
+ * Windmill (by  [http://www.myBCN.es Matthias Stasiak])
+ * Bridge (by  [http://www.myBCN.es Matthias Stasiak])
  * Statue
- * Fountain
+ * Fountain (by  [http://www.myBCN.es Matthias Stasiak])
  * Graveyard
  * Mosque
  * Synagogue
@@ -207,14 +207,14 @@ _italic icons_ means the icon is not done yet.
 [http://google-maps-icons.googlecode.com/files/sunday.png]
 
 *Events*
- * Fire (by UMapper)
- * Shooting (by UMapper)
+ * Fire (by [http://www.umapper.com UMapper])
+ * Shooting (by [http://www.umapper.com UMapper])
  * Flood
- * General Crime (by UMapper)
- * Plane crash... (by UMapper)
+ * General Crime (by [http://www.umapper.com UMapper])
+ * Plane crash... (by [http://www.umapper.com UMapper])
  * Earthquake
  * Air pollution
- * Explosion (by UMapper)
+ * Explosion (by [http://www.umapper.com UMapper])
 
 </td><td valign="top" align="left">
 

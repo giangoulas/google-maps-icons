@@ -19,7 +19,7 @@ _italic icons_ means the icon is not done yet.
 [http://google-maps-icons.googlecode.com/files/findajob.png]
 [http://google-maps-icons.googlecode.com/files/company.png]
 [http://google-maps-icons.googlecode.com/files/factory.png]
- * Prison_
+ * Prison
  * Senior site
  * Community center
 
@@ -60,33 +60,32 @@ _italic icons_ means the icon is not done yet.
 [http://google-maps-icons.googlecode.com/files/farm.png]
 
 [http://google-maps-icons.googlecode.com/files/recycle.png]
- * _Picnic_
- * _Castle_
- * _Windmill_
- * _Bridge_
- * _Statue_
- * _Fountain_
- * _Graveyard_
- * _Mosque_
- * _Synagogue_
- * _Zoo_
- * _Canoe_
- * _Field (agriculture)_
-
+ * Picnic
+ * Castle
+ * Windmill
+ * Bridge
+ * Statue
+ * Fountain
+ * Graveyard
+ * Mosque
+ * Synagogue
+ * Zoo
+ * Canoe
+ * Field (agriculture)
 </td><td valign="top" align="left">
 
 ===<font color="#55d7d7">Stores</font>===
- * Supermarket  
- * Music  
- * Videogames  
- * Computer  
- * Clothes  
- * Shoes 
- * Flowers 
- * Toys
- * Gifts
- * Tools
+[http://google-maps-icons.googlecode.com/files/supermarket.png]
+[http://google-maps-icons.googlecode.com/files/music.png]
+[http://google-maps-icons.googlecode.com/files/videogames.png]
+[http://google-maps-icons.googlecode.com/files/computer.png]
+[http://google-maps-icons.googlecode.com/files/clothes.png]
 
+[http://google-maps-icons.googlecode.com/files/shoes.png]
+[http://google-maps-icons.googlecode.com/files/flowers.png]
+[http://google-maps-icons.googlecode.com/files/toys.png]
+[http://google-maps-icons.googlecode.com/files/gifts.png]
+[http://google-maps-icons.googlecode.com/files/tools.png]
 </td></tr><tr><td valign="top" align="left">
 
 ===<font color="#fcf357">Friends & Family & Real Estate</font>===

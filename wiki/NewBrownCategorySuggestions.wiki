@@ -19,29 +19,28 @@ _italic icons_ means the icon is not done yet.
 [http://google-maps-icons.googlecode.com/files/findajob.png]
 [http://google-maps-icons.googlecode.com/files/company.png]
 [http://google-maps-icons.googlecode.com/files/factory.png]
- * Factory
- * _Prison_
- * _Senior site_
- * _Community center_
+ * Prison_
+ * Senior site
+ * Community center
 
 </td><td valign="top" align="left">
 
 ===<font color="#fc6355">Health & Sports</font> ===
 *Health*
- * Doctor
- * Drug store
- * Hospital
- * Schrink
- * Disability
- * _Yoga_
+[http://google-maps-icons.googlecode.com/files/doctor.png]
+[http://google-maps-icons.googlecode.com/files/drugstore.png]
+[http://google-maps-icons.googlecode.com/files/hostpital.png]
+[http://google-maps-icons.googlecode.com/files/schrink.png]
+[http://google-maps-icons.googlecode.com/files/disability.png]
+ * Yoga
 *Sports*
- * Pool
- * Golf
- * Tennis
- * Soccer
- * Skiing
- * _Gym_
- * _Basketball_
+[http://google-maps-icons.googlecode.com/files/pool.png]
+[http://google-maps-icons.googlecode.com/files/golf.png]
+[http://google-maps-icons.googlecode.com/files/tennis.png]
+[http://google-maps-icons.googlecode.com/files/soccer.png]
+[http://google-maps-icons.googlecode.com/files/skiing.png]
+ * Gym
+ * Basketball
 
 </td><td valign="top" align="left">
 

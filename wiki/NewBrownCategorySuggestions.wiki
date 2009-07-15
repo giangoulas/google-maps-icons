@@ -103,8 +103,8 @@ _italic icons_ means the icon is not done yet.
 [http://google-maps-icons.googlecode.com/files/restaurant.png]
 [http://google-maps-icons.googlecode.com/files/pizza.png]
 [http://google-maps-icons.googlecode.com/files/fastfood.png]
-[http://google-maps-icons.googlecode.com/files/chineserestaurant.png]
-[http://google-maps-icons.googlecode.com/files/japaneserestaurant.png]
+[http://google-maps-icons.googlecode.com/files/restaurantchinese.png]
+[http://google-maps-icons.googlecode.com/files/restaurantjapanese.png]
  * Restaurant 
  * Pizza 
  * Fast food 
@@ -121,29 +121,32 @@ _italic icons_ means the icon is not done yet.
 </td><td valign="top" align="left">
 
 ===<font color="#e14f9e">Culture & Entertainment</font>===
- * Cinema 
- * Club  
- * Theater  
- * Casino  
- * Poker 
- * Museum 
- * Bowling
- * _Party_
- * _Theme park*
+[http://google-maps-icons.googlecode.com/files/cinema.png]
+[http://google-maps-icons.googlecode.com/files/club.png]
+[http://google-maps-icons.googlecode.com/files/theater.png]
+[http://google-maps-icons.googlecode.com/files/casino.png]
+[http://google-maps-icons.googlecode.com/files/poker.png]
+
+[http://google-maps-icons.googlecode.com/files/museum.png]
+[http://google-maps-icons.googlecode.com/files/bowling.png]
+[http://google-maps-icons.googlecode.com/files/bread.png]
+ * Party
+ * Theme park
 
 </td><td valign="top" align="left">
 
 ===<font color="#ef9e40">Education & Kids</font>===
 *Education*
- * School  
- * University 
- * Library  
- * _Private teacher_
- * _Adult education_
+
+[http://google-maps-icons.googlecode.com/files/school.png]
+[http://google-maps-icons.googlecode.com/files/university.png]
+[http://google-maps-icons.googlecode.com/files/library.png]
+ * Private teacher
+ * Adult education
 *Kids*
- * Playground 
- * _Day care_
- * _Summer camp_
+[http://google-maps-icons.googlecode.com/files/playground.png]
+ * Day care
+ * Summer camp
 
 </td></tr><tr><td valign="top" align="left">
 

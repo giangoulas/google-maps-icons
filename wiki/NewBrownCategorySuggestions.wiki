@@ -47,17 +47,17 @@ _italic icons_ means the icon is not done yet.
 </td><td valign="top" align="left">
 
 ===<font color="#00e13c">Tourism & Nature</font> ===
- * Park  
- * Beautiful place  
- * Camping  
- * Hiking  
- * Wild life  
- * Beach  
- * Church 
- * Fishing 
- * Horse riding
- * Farm 
- * Recycle
+[http://google-maps-icons.googlecode.com/files/park.png]
+[http://google-maps-icons.googlecode.com/files/beautifulplace.png]
+[http://google-maps-icons.googlecode.com/files/camping.png]
+[http://google-maps-icons.googlecode.com/files/hiking.png]
+[http://google-maps-icons.googlecode.com/files/wildlife.png]
+[http://google-maps-icons.googlecode.com/files/beach.png]
+[http://google-maps-icons.googlecode.com/files/church.png]
+[http://google-maps-icons.googlecode.com/files/fishing.png]
+[http://google-maps-icons.googlecode.com/files/horseriding.png]
+[http://google-maps-icons.googlecode.com/files/farm.png]
+[http://google-maps-icons.googlecode.com/files/recycle.png]
  * _Picnic_
  * _Castle_
  * _Windmill_

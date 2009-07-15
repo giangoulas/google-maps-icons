@@ -12,11 +12,13 @@ _italic icons_ means the icon is not done yet.
 [http://google-maps-icons.googlecode.com/files/justice.png]
 [http://google-maps-icons.googlecode.com/files/postal.png]
 [http://google-maps-icons.googlecode.com/files/military.png]
+
 [http://google-maps-icons.googlecode.com/files/administration.png]
 [http://google-maps-icons.googlecode.com/files/bank.png]
 [http://google-maps-icons.googlecode.com/files/company.png]
 [http://google-maps-icons.googlecode.com/files/findajob.png]
 [http://google-maps-icons.googlecode.com/files/company.png]
+
 [http://google-maps-icons.googlecode.com/files/factory.png]
  * Factory
  * _Prison_

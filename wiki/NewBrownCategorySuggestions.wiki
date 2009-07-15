@@ -199,6 +199,7 @@ _italic icons_ means the icon is not done yet.
 [http://google-maps-icons.googlecode.com/files/wednesday.png]
 [http://google-maps-icons.googlecode.com/files/thursday.png]
 [http://google-maps-icons.googlecode.com/files/friday.png]
+
 [http://google-maps-icons.googlecode.com/files/satursday.png]
 [http://google-maps-icons.googlecode.com/files/sunday.png]
 

@@ -129,7 +129,6 @@ _italic icons_ means the icon is not done yet.
 
 [http://google-maps-icons.googlecode.com/files/museum.png]
 [http://google-maps-icons.googlecode.com/files/bowling.png]
-[http://google-maps-icons.googlecode.com/files/bread.png]
  * Party
  * Theme park
 
@@ -152,30 +151,33 @@ _italic icons_ means the icon is not done yet.
 
 ===<font color="#000" >Transportation</font>===
 *Road*
- * Car
- * Highway
- * Parking
- * Truck 
- * Cycling  
- * Gaz station  
- * Stoplight 
- * Car repair
- * Accident
- * Taxi
- * Bus 
- * _Rent a Car_
+
+[http://google-maps-icons.googlecode.com/files/car.png]
+[http://google-maps-icons.googlecode.com/files/highway.png]
+[http://google-maps-icons.googlecode.com/files/parking.png]
+[http://google-maps-icons.googlecode.com/files/truck.png]
+[http://google-maps-icons.googlecode.com/files/cycling.png]
+[http://google-maps-icons.googlecode.com/files/gazstation.png]
+[http://google-maps-icons.googlecode.com/files/stoplight.png]
+[http://google-maps-icons.googlecode.com/files/carrepair.png]
+[http://google-maps-icons.googlecode.com/files/accident.png]
+[http://google-maps-icons.googlecode.com/files/taxi.png]
+[http://google-maps-icons.googlecode.com/files/bus.png]
+[http://google-maps-icons.googlecode.com/files/bread.png]
+[http://google-maps-icons.googlecode.com/files/bread.png]
+ * Rent a car
 *Other*
- * Airport 
- * Port 
- * Train
- * _Underground_
+[http://google-maps-icons.googlecode.com/files/airport.png]
+[http://google-maps-icons.googlecode.com/files/port.png]
+[http://google-maps-icons.googlecode.com/files/train.png]
+ * Underground
 
 </td><td valign="top" align="left">
 
 ===<font color="#9e7151" >Miscalenous</font>===
- * Toilets 
- * Wifi 
- * Info
+[http://google-maps-icons.googlecode.com/files/toilets.png]
+[http://google-maps-icons.googlecode.com/files/wifi.png]
+[http://google-maps-icons.googlecode.com/files/info.png]
 
 </td><td valign="top" align="left">
 

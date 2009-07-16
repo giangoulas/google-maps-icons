@@ -207,8 +207,9 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/sunday.png]
 
 *Events*
+
 [http://google-maps-icons.googlecode.com/files/fire.png]
-[http://google-maps-icons.googlecode.com/files/crime.png]
+[http://google-maps-icons.googlecode.com/files/gun.png]
 [http://google-maps-icons.googlecode.com/files/planecrash.png]
 [http://google-maps-icons.googlecode.com/files/explosion.png]
 [http://google-maps-icons.googlecode.com/files/radiation.png]

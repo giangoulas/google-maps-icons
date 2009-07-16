@@ -58,7 +58,9 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/farm.png]
 
 [http://google-maps-icons.googlecode.com/files/recycle.png]
- * Picnic (by [http://www.umapper.com UMapper])
+[http://google-maps-icons.googlecode.com/files/picnic.png]
+(1 above by [http://www.umapper.com UMapper])
+
  * Castle (by  [http://www.myBCN.es Matthias Stasiak])
  * Windmill (by  [http://www.myBCN.es Matthias Stasiak])
  * Bridge (by  [http://www.myBCN.es Matthias Stasiak])
@@ -205,14 +207,12 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/sunday.png]
 
 *Events*
- * Fire (by [http://www.umapper.com UMapper])
- * Shooting (by [http://www.umapper.com UMapper])
- * Flood
- * General Crime (by [http://www.umapper.com UMapper])
- * Plane crash... (by [http://www.umapper.com UMapper])
- * Earthquake
- * Air pollution
- * Explosion (by [http://www.umapper.com UMapper])
+[http://google-maps-icons.googlecode.com/files/fire.png]
+[http://google-maps-icons.googlecode.com/files/crime.png]
+[http://google-maps-icons.googlecode.com/files/planecrash.png]
+[http://google-maps-icons.googlecode.com/files/explosion.png]
+[http://google-maps-icons.googlecode.com/files/radiation.png]
+(5 above by [http://www.umapper.com UMapper])
 
 </td><td valign="top" align="left">
 

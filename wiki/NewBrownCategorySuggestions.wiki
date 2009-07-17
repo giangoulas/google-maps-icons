@@ -104,19 +104,11 @@ I am actually thinking in introducing new colors, new categories to the already 
 </td><td valign="top" align="left">
 
 ===<font color="#7e55fc">Restaurants & Hotels</font> ===
-*Restaurants*
-
 [http://google-maps-icons.googlecode.com/files/restaurant.png]
 [http://google-maps-icons.googlecode.com/files/pizza.png]
 [http://google-maps-icons.googlecode.com/files/fastfood.png]
 [http://google-maps-icons.googlecode.com/files/restaurantchinese.png]
 [http://google-maps-icons.googlecode.com/files/restaurantjapanese.png]
- * Restaurant 
- * Pizza 
- * Fast food 
- * Chinese restaurant 
- * Japanese restaurant
-*Other*
 
 [http://google-maps-icons.googlecode.com/files/bar.png]
 [http://google-maps-icons.googlecode.com/files/coffee.png]
@@ -141,24 +133,18 @@ I am actually thinking in introducing new colors, new categories to the already 
 </td><td valign="top" align="left">
 
 ===<font color="#ef9e40">Education & Kids</font>===
-*Education*
-
 [http://google-maps-icons.googlecode.com/files/school.png]
 [http://google-maps-icons.googlecode.com/files/university.png]
 [http://google-maps-icons.googlecode.com/files/library.png]
+[http://google-maps-icons.googlecode.com/files/playground.png]
  * Private teacher
  * Adult education
-*Kids*
-
-[http://google-maps-icons.googlecode.com/files/playground.png]
  * Day care
  * Summer camp
 
 </td></tr><tr><td valign="top" align="left">
 
 ===<font color="#000" >Transportation</font>===
-*Road*
-
 [http://google-maps-icons.googlecode.com/files/car.png]
 [http://google-maps-icons.googlecode.com/files/highway.png]
 [http://google-maps-icons.googlecode.com/files/parking.png]
@@ -172,12 +158,10 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/taxi.png]
 
 [http://google-maps-icons.googlecode.com/files/bus.png]
- * Rent a car
-*Other*
-
 [http://google-maps-icons.googlecode.com/files/airport.png]
 [http://google-maps-icons.googlecode.com/files/port.png]
 [http://google-maps-icons.googlecode.com/files/train.png]
+ * Rent a car
  * Underground
 
 </td><td valign="top" align="left">
@@ -190,18 +174,11 @@ I am actually thinking in introducing new colors, new categories to the already 
 </td><td valign="top" align="left">
 
 ===<font color="#999999" >Events & Weather</font>===
-*Weather*
-
 [http://google-maps-icons.googlecode.com/files/sun.png]
 [http://google-maps-icons.googlecode.com/files/clouds.png]
 [http://google-maps-icons.googlecode.com/files/cloudsun.png]
 [http://google-maps-icons.googlecode.com/files/rain.png]
 [http://google-maps-icons.googlecode.com/files/thunder.png]
- * _Tornado_
- * _Wind_
- * _Snow_
-
-*Days of Week*
 
 [http://google-maps-icons.googlecode.com/files/monday.png]
 [http://google-maps-icons.googlecode.com/files/tuesday.png]
@@ -212,15 +189,17 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/satursday.png]
 [http://google-maps-icons.googlecode.com/files/sunday.png]
 
-*Events*
-
 [http://google-maps-icons.googlecode.com/files/fire.png]
 [http://google-maps-icons.googlecode.com/files/gun.png]
 [http://google-maps-icons.googlecode.com/files/planecrash.png]
 [http://google-maps-icons.googlecode.com/files/explosion.png]
 [http://google-maps-icons.googlecode.com/files/radiation.png]
 
-(5 above by [http://www.umapper.com UMapper])
+(last 5 by [http://www.umapper.com UMapper])
+
+ * Tornado
+ * Wind
+ * Snow
 
 </td><td valign="top" align="left">
 

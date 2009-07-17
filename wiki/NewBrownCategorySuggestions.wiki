@@ -24,21 +24,18 @@ I am actually thinking in introducing new colors, new categories to the already 
 </td><td valign="top" align="left">
 
 ===<font color="#fc6355">Health & Sports</font> ===
-*Health*
-
 [http://google-maps-icons.googlecode.com/files/doctor.png]
 [http://google-maps-icons.googlecode.com/files/drugs.png]
 [http://google-maps-icons.googlecode.com/files/hospital.png]
 [http://google-maps-icons.googlecode.com/files/schrink.png]
 [http://google-maps-icons.googlecode.com/files/disability.png]
- * Yoga
-*Sports*
 
 [http://google-maps-icons.googlecode.com/files/pool.png]
 [http://google-maps-icons.googlecode.com/files/golf.png]
 [http://google-maps-icons.googlecode.com/files/tennis.png]
 [http://google-maps-icons.googlecode.com/files/soccer.png]
 [http://google-maps-icons.googlecode.com/files/skiing.png]
+ * Yoga
  * Gym
  * Basketball
 

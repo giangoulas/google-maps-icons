@@ -95,8 +95,9 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/friends.png]
 [http://google-maps-icons.googlecode.com/files/home.png]
 [http://google-maps-icons.googlecode.com/files/girlfriend.png]
-[http://google-maps-icons.googlecode.com/files/date.png]
+[http://google-maps-icons.googlecode.com/files/dates.png]
 [http://google-maps-icons.googlecode.com/files/realestate.png]
+
 [http://google-maps-icons.googlecode.com/files/apartment.png]
 </td><td valign="top" align="left">
 

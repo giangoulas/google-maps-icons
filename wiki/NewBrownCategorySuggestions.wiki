@@ -78,6 +78,7 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Synagogue
  * Canoe
  * Field (agriculture)
+ * Panoramic view
 </td><td valign="top" align="left">
 
 ===<font color="#55d7d7">Stores</font>===

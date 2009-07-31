@@ -129,7 +129,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/museum.png]
 [http://google-maps-icons.googlecode.com/files/bowling.png]
- * Party
+[http://google-maps-icons.googlecode.com/files/party.png]
  * Theme park
 
 </td><td valign="top" align="left">

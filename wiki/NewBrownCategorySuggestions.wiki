@@ -172,6 +172,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/toilets.png]
 [http://google-maps-icons.googlecode.com/files/wifi.png]
 [http://google-maps-icons.googlecode.com/files/info.png]
+[http://google-maps-icons.googlecode.com/files/regroup.png]
 
 </td><td valign="top" align="left">
 

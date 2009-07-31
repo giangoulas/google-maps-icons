@@ -35,6 +35,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/tennis.png]
 [http://google-maps-icons.googlecode.com/files/soccer.png]
 [http://google-maps-icons.googlecode.com/files/skiing.png]
+
 [http://google-maps-icons.googlecode.com/files/basketball.png]
 [http://google-maps-icons.googlecode.com/files/rugby.png]
  * Yoga

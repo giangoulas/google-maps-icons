@@ -114,6 +114,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/hotel.png]
 [http://google-maps-icons.googlecode.com/files/bread.png]
  * Youth Hostel
+ * Ice Cream
 
 </td><td valign="top" align="left">
 

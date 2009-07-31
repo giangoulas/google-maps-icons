@@ -35,10 +35,11 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/tennis.png]
 [http://google-maps-icons.googlecode.com/files/soccer.png]
 [http://google-maps-icons.googlecode.com/files/skiing.png]
+[http://google-maps-icons.googlecode.com/files/basketball.png]
+[http://google-maps-icons.googlecode.com/files/rugby.png]
  * Yoga
  * Gym
- * Basketball
- * Rugby
+
 
 </td><td valign="top" align="left">
 
@@ -113,8 +114,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/coffee.png]
 [http://google-maps-icons.googlecode.com/files/hotel.png]
 [http://google-maps-icons.googlecode.com/files/bread.png]
+[http://google-maps-icons.googlecode.com/files/icecream.png]
  * Youth Hostel
- * Ice Cream
 
 </td><td valign="top" align="left">
 

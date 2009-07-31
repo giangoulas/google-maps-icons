@@ -59,18 +59,17 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/recycle.png]
 [http://google-maps-icons.googlecode.com/files/zoo.png]
-
 [http://google-maps-icons.googlecode.com/files/picnic.png]
-
-(1 above by [http://www.umapper.com UMapper])
-
 [http://google-maps-icons.googlecode.com/files/castle.png]
 [http://google-maps-icons.googlecode.com/files/windmill.png]
+
 [http://google-maps-icons.googlecode.com/files/bridge.png]
 [http://google-maps-icons.googlecode.com/files/fountain.png]
 [http://google-maps-icons.googlecode.com/files/cathedral.png]
+[http://google-maps-icons.googlecode.com/files/monument.png]
 
-(5 above by  [http://www.myBCN.es Matthias Stasiak])
+(picnic by [http://www.umapper.com UMapper])
+(last 6 by  [http://www.myBCN.es Matthias Stasiak])
 
  * Statue
  * Graveyard

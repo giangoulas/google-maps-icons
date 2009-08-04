@@ -142,6 +142,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/party.png]
  * Theme park
  * Public Aquarium
+ * Pool (billard)
 
 </td><td valign="top" align="left">
 

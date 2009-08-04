@@ -1,4 +1,20 @@
 #labels Featured
+*3rd of August, 2009* ::: new icons : statue, cemetary, panoramic view, world heritage site, regroup. Made possible with original design by [http://www.myBCN.es Matthias Stasiak]
+[http://google-maps-icons.googlecode.com/files/statue.png]
+[http://google-maps-icons.googlecode.com/files/cemetary.png]
+[http://google-maps-icons.googlecode.com/files/panoramic.png]
+[http://google-maps-icons.googlecode.com/files/worldheritagesite.png]
+[http://google-maps-icons.googlecode.com/files/regroup.png]
+
+*31st of July, 2009* ::: 4 new icons : basketball, rugby, ice cream, party. A special thank to Shane for his donation. You made this possible.
+
+[http://google-maps-icons.googlecode.com/files/basketball.png]
+[http://google-maps-icons.googlecode.com/files/rugby.png]
+[http://google-maps-icons.googlecode.com/files/party.png]
+[http://google-maps-icons.googlecode.com/files/icecream.png]
+
+*27th of July, 2009* ::: New wiki page [SitesUsing for sites using this icon collection]. Share your maps and sites !
+
 *24th of July, 2009* ::: 4 new media icons : video, audio, text, photo
 
 *17th of July, 2009* ::: 5 new icons : castle, bridge, windmill, cathedral, fountain. Original design by [http://www.myBCN.es Matthias Stasiak]

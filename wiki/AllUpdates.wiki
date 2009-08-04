@@ -15,11 +15,29 @@
 
 *27th of July, 2009* ::: New wiki page [SitesUsing for sites using this icon collection]. Share your maps and sites !
 
-*24th of July, 2009* ::: 4 new media icons : video, audio, text, photo
+*24th of July, 2009* ::: 4 new media icons : video, audio, text, photo.
+
+[http://google-maps-icons.googlecode.com/files/video.png]
+[http://google-maps-icons.googlecode.com/files/audio.png]
+[http://google-maps-icons.googlecode.com/files/photo.png]
+[http://google-maps-icons.googlecode.com/files/text.png]
 
 *17th of July, 2009* ::: 5 new icons : castle, bridge, windmill, cathedral, fountain. Original design by [http://www.myBCN.es Matthias Stasiak]
 
+[http://google-maps-icons.googlecode.com/files/castle.png]
+[http://google-maps-icons.googlecode.com/files/windmill.png]
+[http://google-maps-icons.googlecode.com/files/bridge.png]
+[http://google-maps-icons.googlecode.com/files/fountain.png]
+[http://google-maps-icons.googlecode.com/files/cathedral.png]
+
 *16th of July, 2009* ::: 6 new icons : fire, crime, radiation, explosion, plane crash, pic nic. Original design by [http://www.umapper.com UMapper]
+
+[http://google-maps-icons.googlecode.com/files/fire.png]
+[http://google-maps-icons.googlecode.com/files/gun.png]
+[http://google-maps-icons.googlecode.com/files/planecrash.png]
+[http://google-maps-icons.googlecode.com/files/explosion.png]
+[http://google-maps-icons.googlecode.com/files/radiation.png]
+[http://google-maps-icons.googlecode.com/files/picnic.png]
 
 *2nd of July, 2009* ::: 1 new icon : hardware (tools & hammers)
 

@@ -1,5 +1,6 @@
 #labels Featured
 *3rd of August, 2009* ::: new icons : statue, cemetary, panoramic view, world heritage site, regroup. Made possible with original design by [http://www.myBCN.es Matthias Stasiak]
+
 [http://google-maps-icons.googlecode.com/files/statue.png]
 [http://google-maps-icons.googlecode.com/files/cemetary.png]
 [http://google-maps-icons.googlecode.com/files/panoramic.png]

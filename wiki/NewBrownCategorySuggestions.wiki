@@ -141,9 +141,9 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/museum.png]
 [http://google-maps-icons.googlecode.com/files/bowling.png]
 [http://google-maps-icons.googlecode.com/files/party.png]
- * Theme park
+ * Theme Park
  * Public Aquarium
- * Pool (billard)
+ * Pool Hall (billiard)
 
 </td><td valign="top" align="left">
 

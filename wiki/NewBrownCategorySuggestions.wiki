@@ -100,6 +100,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/gifts.png]
 [http://google-maps-icons.googlecode.com/files/tools.png]
  * Pet Store
+ * Fishing (bait) shop
 </td></tr><tr><td valign="top" align="left">
 
 ===<font color="#fcf357">Friends & Family & Real Estate</font>===

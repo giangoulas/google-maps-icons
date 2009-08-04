@@ -182,7 +182,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 </td><td valign="top" align="left">
 
-===<font color="#9e7151" >Miscalenous</font>===
+===<font color="#9e7151" >Miscellaneous</font>===
 [http://google-maps-icons.googlecode.com/files/toilets.png]
 [http://google-maps-icons.googlecode.com/files/wifi.png]
 [http://google-maps-icons.googlecode.com/files/info.png]

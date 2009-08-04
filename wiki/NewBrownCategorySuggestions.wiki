@@ -74,13 +74,12 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/worldheritagesite.png]
 [http://google-maps-icons.googlecode.com/files/statue.png]
+[http://google-maps-icons.googlecode.com/files/cemetary.png]
 
 (picnic by [http://www.umapper.com UMapper]) 
 
 (last 9 by  [http://www.myBCN.es Matthias Stasiak])
 
- * Statue
- * Graveyard
  * Mosque
  * Synagogue
  * Canoe

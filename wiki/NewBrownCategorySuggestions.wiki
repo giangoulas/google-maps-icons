@@ -106,7 +106,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/toys.png]
 [http://google-maps-icons.googlecode.com/files/gifts.png]
 [http://google-maps-icons.googlecode.com/files/tools.png]
- * Pet Store
+
+[http://google-maps-icons.googlecode.com/files/pets.png]
  * Fishing (bait) shop
 </td></tr><tr><td valign="top" align="left">
 

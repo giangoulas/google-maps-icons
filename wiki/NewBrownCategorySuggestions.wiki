@@ -134,7 +134,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/restaurantgreek.png]
 [http://google-maps-icons.googlecode.com/files/restaurantindian.png]
 
-[http://google-maps-icons.googlecode.com/files/restaurantitalia.png]
+[http://google-maps-icons.googlecode.com/files/restaurantitalian.png]
 [http://google-maps-icons.googlecode.com/files/restaurantkebab.png]
 [http://google-maps-icons.googlecode.com/files/restaurantkorean.png]
 [http://google-maps-icons.googlecode.com/files/restaurantmediterranean.png]

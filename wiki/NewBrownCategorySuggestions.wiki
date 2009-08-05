@@ -3,7 +3,6 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/all-colors.png]
 
 <table cellspacing="0" cellpadding="12"><tr><td valign="top" align="left" >
-
 ===<font color="#5781fc" >Administration & Offices</font>===  
 [http://google-maps-icons.googlecode.com/files/police.png]
 [http://google-maps-icons.googlecode.com/files/firemen.png]
@@ -20,9 +19,7 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Prison
  * Senior site
  * Community center
-
 </td><td valign="top" align="left">
-
 ===<font color="#fc6355">Health & Sports</font> ===
 [http://google-maps-icons.googlecode.com/files/doctor.png]
 [http://google-maps-icons.googlecode.com/files/drugs.png]
@@ -53,7 +50,6 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Skate Park
  * Barber
 </td><td valign="top" align="left">
-
 ===<font color="#00e13c">Tourism & Nature</font> ===
 [http://google-maps-icons.googlecode.com/files/park.png]
 [http://google-maps-icons.googlecode.com/files/beautiful.png]
@@ -93,7 +89,6 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Canoe
  * Field (agriculture)
 </td><td valign="top" align="left">
-
 ===<font color="#55d7d7">Stores</font>===
 [http://google-maps-icons.googlecode.com/files/supermarket.png]
 [http://google-maps-icons.googlecode.com/files/music.png]
@@ -110,7 +105,6 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/pets.png]
 [http://google-maps-icons.googlecode.com/files/fishingshop.png]
 </td></tr><tr><td valign="top" align="left">
-
 ===<font color="#fcf357">Friends & Family & Real Estate</font>===
 [http://google-maps-icons.googlecode.com/files/friends.png]
 [http://google-maps-icons.googlecode.com/files/home.png]
@@ -120,7 +114,6 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/apartment.png]
 </td><td valign="top" align="left">
-
 ===<font color="#7e55fc">Restaurants & Hotels</font> ===
 [http://google-maps-icons.googlecode.com/files/restaurant.png]
 [http://google-maps-icons.googlecode.com/files/pizza.png]
@@ -151,7 +144,6 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Youth Hostel
  * Steakhouse
 </td><td valign="top" align="left">
-
 ===<font color="#e14f9e">Culture & Entertainment</font>===
 [http://google-maps-icons.googlecode.com/files/cinema.png]
 [http://google-maps-icons.googlecode.com/files/club.png]
@@ -165,9 +157,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/billiard.png]
  * Theme Park
  * Public Aquarium
-
 </td><td valign="top" align="left">
-
 ===<font color="#ef9e40">Education & Kids</font>===
 [http://google-maps-icons.googlecode.com/files/school.png]
 [http://google-maps-icons.googlecode.com/files/university.png]
@@ -178,9 +168,7 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Day care
  * Summer camp
  * Dog Park
-
 </td></tr><tr><td valign="top" align="left">
-
 ===<font color="#000" >Transportation</font>===
 [http://google-maps-icons.googlecode.com/files/car.png]
 [http://google-maps-icons.googlecode.com/files/highway.png]
@@ -208,9 +196,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/wifi.png]
 [http://google-maps-icons.googlecode.com/files/info.png]
 [http://google-maps-icons.googlecode.com/files/regroup.png]
-
 </td><td valign="top" align="left">
-
 ===<font color="#999999" >Events & Weather</font>===
 [http://google-maps-icons.googlecode.com/files/sun.png]
 [http://google-maps-icons.googlecode.com/files/clouds.png]
@@ -238,15 +224,12 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Tornado
  * Wind
  * Snow
-
 </td><td valign="top" align="left">
-
 ===<font color="#0337D1" >Media</font>===
 [http://google-maps-icons.googlecode.com/files/video.png]
 [http://google-maps-icons.googlecode.com/files/audio.png]
 [http://google-maps-icons.googlecode.com/files/photo.png]
 [http://google-maps-icons.googlecode.com/files/text.png]
-
 </td></tr></table>
 
 Any suggestion is welcome on this subject, I haven't decided anything yet.

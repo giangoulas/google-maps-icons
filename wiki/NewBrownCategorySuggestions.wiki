@@ -108,7 +108,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/tools.png]
 
 [http://google-maps-icons.googlecode.com/files/pets.png]
- * Fishing (bait) shop
+[http://google-maps-icons.googlecode.com/files/fishingshop.png]
 </td></tr><tr><td valign="top" align="left">
 
 ===<font color="#fcf357">Friends & Family & Real Estate</font>===

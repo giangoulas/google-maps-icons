@@ -1,4 +1,39 @@
 #labels Featured
+*5th of August ::: big update with 26 new icons :::
+
+ * Pool Hall, 
+ * 12 types of restaurants (african, fish&chips, gourmet, greek, indian, italian, kebab, korean, mediterranean, mexican, thai, turkish). Made possible with the donation of Adam of [http://www.mellowfish.com Mellowfish],
+ * Pet shop, Fishing shop,
+ * 8 Cycling icons with the help of Jordi Pujol of [http://enmamaps.join.cat Enma Maps]
+ * Mosque, Modern monument, Lighthouse by the hard-wkorking [http://www.myBCN.es Matthias Stasiak] :)
+
+[http://google-maps-icons.googlecode.com/files/billiard.png]
+[http://google-maps-icons.googlecode.com/files/restaurantafrican.png]
+[http://google-maps-icons.googlecode.com/files/restaurantfishchips.png]
+[http://google-maps-icons.googlecode.com/files/restaurantgourmet.png]
+[http://google-maps-icons.googlecode.com/files/restaurantgreek.png]
+[http://google-maps-icons.googlecode.com/files/restaurantindian.png]
+[http://google-maps-icons.googlecode.com/files/restaurantitalian.png]
+[http://google-maps-icons.googlecode.com/files/restaurantkebab.png]
+[http://google-maps-icons.googlecode.com/files/restaurantkorean.png]
+[http://google-maps-icons.googlecode.com/files/restaurantmediterranean.png]
+[http://google-maps-icons.googlecode.com/files/restaurantmexican.png]
+[http://google-maps-icons.googlecode.com/files/restaurantthai.png]
+[http://google-maps-icons.googlecode.com/files/restaurantturkish.png]
+[http://google-maps-icons.googlecode.com/files/pets.png]
+[http://google-maps-icons.googlecode.com/files/fishingshop.png]
+[http://google-maps-icons.googlecode.com/files/cyclingsport.png]
+[http://google-maps-icons.googlecode.com/files/cyclingfeedarea.png]
+[http://google-maps-icons.googlecode.com/files/cyclingsprint.png]
+[http://google-maps-icons.googlecode.com/files/cyclingmountain1.png]
+[http://google-maps-icons.googlecode.com/files/cyclingmountain2.png]
+[http://google-maps-icons.googlecode.com/files/cyclingmountain3.png]
+[http://google-maps-icons.googlecode.com/files/cyclingmountain4.png]
+[http://google-maps-icons.googlecode.com/files/cyclinguncategorized.png]
+[http://google-maps-icons.googlecode.com/files/mosque.png]
+[http://google-maps-icons.googlecode.com/files/modernmonument.png]
+[http://google-maps-icons.googlecode.com/files/lighthouse.png]
+
 *3rd of August, 2009* ::: new icons : statue, cemetary, panoramic view, world heritage site, regroup. Made possible with original design by [http://www.myBCN.es Matthias Stasiak]
 
 [http://google-maps-icons.googlecode.com/files/statue.png]

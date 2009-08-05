@@ -38,13 +38,20 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/basketball.png]
 [http://google-maps-icons.googlecode.com/files/rugby.png]
+[http://google-maps-icons.googlecode.com/files/cycling.png]
+[http://google-maps-icons.googlecode.com/files/cyclingfeedarea.png]
+[http://google-maps-icons.googlecode.com/files/cyclingsprint.png]
+
+[http://google-maps-icons.googlecode.com/files/cyclingmountain1.png]
+[http://google-maps-icons.googlecode.com/files/cyclingmountain2.png]
+[http://google-maps-icons.googlecode.com/files/cyclingmountain3.png]
+[http://google-maps-icons.googlecode.com/files/cyclingmountain4.png]
+[http://google-maps-icons.googlecode.com/files/cyclinguncategorized.png]
  * Yoga
  * Gym
  * Veterinarian
  * Skate Park
  * Barber
-
-
 </td><td valign="top" align="left">
 
 ===<font color="#00e13c">Tourism & Nature</font> ===
@@ -62,29 +69,29 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/recycle.png]
 [http://google-maps-icons.googlecode.com/files/zoo.png]
+[http://google-maps-icons.googlecode.com/files/cemetary.png]
 [http://google-maps-icons.googlecode.com/files/picnic.png]
 [http://google-maps-icons.googlecode.com/files/castle.png]
-[http://google-maps-icons.googlecode.com/files/windmill.png]
 
+[http://google-maps-icons.googlecode.com/files/windmill.png]
 [http://google-maps-icons.googlecode.com/files/bridge.png]
 [http://google-maps-icons.googlecode.com/files/fountain.png]
 [http://google-maps-icons.googlecode.com/files/cathedral.png]
 [http://google-maps-icons.googlecode.com/files/monument.png]
-[http://google-maps-icons.googlecode.com/files/panoramic.png]
 
+[http://google-maps-icons.googlecode.com/files/panoramic.png]
 [http://google-maps-icons.googlecode.com/files/worldheritagesite.png]
 [http://google-maps-icons.googlecode.com/files/statue.png]
-[http://google-maps-icons.googlecode.com/files/cemetary.png]
+[http://google-maps-icons.googlecode.com/files/mosque.png]
+[http://google-maps-icons.googlecode.com/files/lighthouse.png]
 
+[http://google-maps-icons.googlecode.com/files/modernmonument.png]
 (picnic by [http://www.umapper.com UMapper]) 
 
-(last 9 by  [http://www.myBCN.es Matthias Stasiak])
-
- * Mosque
+(last 12 by  [http://www.myBCN.es Matthias Stasiak])
  * Synagogue
  * Canoe
  * Field (agriculture)
- * Lighthouse
 </td><td valign="top" align="left">
 
 ===<font color="#55d7d7">Stores</font>===

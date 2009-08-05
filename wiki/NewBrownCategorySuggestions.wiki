@@ -38,7 +38,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/basketball.png]
 [http://google-maps-icons.googlecode.com/files/rugby.png]
-[http://google-maps-icons.googlecode.com/files/cycling.png]
+[http://google-maps-icons.googlecode.com/files/cyclingsport.png]
 [http://google-maps-icons.googlecode.com/files/cyclingfeedarea.png]
 [http://google-maps-icons.googlecode.com/files/cyclingsprint.png]
 

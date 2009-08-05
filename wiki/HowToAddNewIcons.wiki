@@ -8,3 +8,5 @@ You can host theses files on your own server. Or you can link to theses files di
 A working example, with my maps :
 
 [http://google-maps-icons.googlecode.com/files/map-example-01.png]
+
+If you want to create a map with Google Maps Api 3, follow [http://www.svennerberg.com/2009/07/google-maps-api-3-markers/ this tutorial by Gabriel Svennerberg]

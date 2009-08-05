@@ -63,25 +63,24 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/horseriding.png]
 [http://google-maps-icons.googlecode.com/files/farm.png]
 
-[http://google-maps-icons.googlecode.com/files/recycle.png]
 [http://google-maps-icons.googlecode.com/files/zoo.png]
 [http://google-maps-icons.googlecode.com/files/cemetary.png]
 [http://google-maps-icons.googlecode.com/files/picnic.png]
 [http://google-maps-icons.googlecode.com/files/castle.png]
-
 [http://google-maps-icons.googlecode.com/files/windmill.png]
+
 [http://google-maps-icons.googlecode.com/files/bridge.png]
 [http://google-maps-icons.googlecode.com/files/fountain.png]
 [http://google-maps-icons.googlecode.com/files/cathedral.png]
 [http://google-maps-icons.googlecode.com/files/monument.png]
-
 [http://google-maps-icons.googlecode.com/files/panoramic.png]
+
 [http://google-maps-icons.googlecode.com/files/worldheritagesite.png]
 [http://google-maps-icons.googlecode.com/files/statue.png]
 [http://google-maps-icons.googlecode.com/files/mosque.png]
 [http://google-maps-icons.googlecode.com/files/lighthouse.png]
-
 [http://google-maps-icons.googlecode.com/files/modernmonument.png]
+
 (picnic by [http://www.umapper.com UMapper]) 
 
 (last 12 by  [http://www.myBCN.es Matthias Stasiak])
@@ -196,6 +195,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/wifi.png]
 [http://google-maps-icons.googlecode.com/files/info.png]
 [http://google-maps-icons.googlecode.com/files/regroup.png]
+[http://google-maps-icons.googlecode.com/files/recycle.png]
 </td><td valign="top" align="left">
 ===<font color="#999999" >Events & Weather</font>===
 [http://google-maps-icons.googlecode.com/files/sun.png]

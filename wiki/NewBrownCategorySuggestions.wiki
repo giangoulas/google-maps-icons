@@ -155,7 +155,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/bowling.png]
 [http://google-maps-icons.googlecode.com/files/party.png]
 [http://google-maps-icons.googlecode.com/files/billiard.png]
- * Theme Park
+[http://google-maps-icons.googlecode.com/files/themepark.png]
  * Public Aquarium
 </td><td valign="top" align="left">
 ===<font color="#ef9e40">Education & Kids</font>===

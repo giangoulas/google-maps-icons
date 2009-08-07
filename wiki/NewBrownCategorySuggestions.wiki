@@ -25,7 +25,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/drugs.png]
 [http://google-maps-icons.googlecode.com/files/hospital.png]
 [http://google-maps-icons.googlecode.com/files/schrink.png]
-[http://google-maps-icons.googlecode.com/files/disability.png]
+[http://google-maps-icons.googlecode.com/files/canoe.png]
 
 [http://google-maps-icons.googlecode.com/files/pool.png]
 [http://google-maps-icons.googlecode.com/files/golf.png]
@@ -65,20 +65,21 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/farm.png]
 [http://google-maps-icons.googlecode.com/files/zoo.png]
 [http://google-maps-icons.googlecode.com/files/cemetary.png]
-[http://google-maps-icons.googlecode.com/files/picnic.png]
+[http://google-maps-icons.googlecode.com/files/agriculture.png]
 
+[http://google-maps-icons.googlecode.com/files/picnic.png]
 [http://google-maps-icons.googlecode.com/files/castle.png]
 [http://google-maps-icons.googlecode.com/files/windmill.png]
 [http://google-maps-icons.googlecode.com/files/bridge.png]
 [http://google-maps-icons.googlecode.com/files/fountain.png]
-[http://google-maps-icons.googlecode.com/files/cathedral.png]
 
+[http://google-maps-icons.googlecode.com/files/cathedral.png]
 [http://google-maps-icons.googlecode.com/files/monument.png]
 [http://google-maps-icons.googlecode.com/files/panoramic.png]
 [http://google-maps-icons.googlecode.com/files/worldheritagesite.png]
 [http://google-maps-icons.googlecode.com/files/statue.png]
-[http://google-maps-icons.googlecode.com/files/mosque.png]
 
+[http://google-maps-icons.googlecode.com/files/mosque.png]
 [http://google-maps-icons.googlecode.com/files/lighthouse.png]
 [http://google-maps-icons.googlecode.com/files/modernmonument.png]
 [http://google-maps-icons.googlecode.com/files/synagogue.png]
@@ -86,8 +87,6 @@ I am actually thinking in introducing new colors, new categories to the already 
 (picnic by [http://www.umapper.com UMapper]) 
 
 (last 13 by  [http://www.myBCN.es Matthias Stasiak])
- * Canoe
- * Field (agriculture)
 </td><td valign="top" align="left">
 ===<font color="#55d7d7">Stores</font>===
 [http://google-maps-icons.googlecode.com/files/supermarket.png]
@@ -197,6 +196,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/info.png]
 [http://google-maps-icons.googlecode.com/files/regroup.png]
 [http://google-maps-icons.googlecode.com/files/recycle.png]
+
+[http://google-maps-icons.googlecode.com/files/disability.png]
 </td><td valign="top" align="left">
 ===<font color="#999999" >Events & Weather</font>===
 [http://google-maps-icons.googlecode.com/files/sun.png]

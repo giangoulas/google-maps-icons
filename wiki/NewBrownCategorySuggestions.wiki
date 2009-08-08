@@ -12,7 +12,6 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/administration.png]
 [http://google-maps-icons.googlecode.com/files/bank.png]
-[http://google-maps-icons.googlecode.com/files/company.png]
 [http://google-maps-icons.googlecode.com/files/findajob.png]
 [http://google-maps-icons.googlecode.com/files/company.png]
 [http://google-maps-icons.googlecode.com/files/factory.png]

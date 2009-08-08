@@ -155,6 +155,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/party.png]
 [http://google-maps-icons.googlecode.com/files/billiard.png]
 [http://google-maps-icons.googlecode.com/files/themepark.png]
+
 [http://google-maps-icons.googlecode.com/files/aquarium.png]
 
 (last 1 by  [http://www.myBCN.es Matthias Stasiak])

@@ -83,11 +83,9 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/lighthouse.png]
 [http://google-maps-icons.googlecode.com/files/modernmonument.png]
 [http://google-maps-icons.googlecode.com/files/synagogue.png]
-[http://google-maps-icons.googlecode.com/files/aquarium.png]
-
 (picnic by [http://www.umapper.com UMapper]) 
 
-(last 14 by  [http://www.myBCN.es Matthias Stasiak])
+(last 13 by  [http://www.myBCN.es Matthias Stasiak])
 </td><td valign="top" align="left">
 ===<font color="#55d7d7">Stores</font>===
 [http://google-maps-icons.googlecode.com/files/supermarket.png]
@@ -156,7 +154,9 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/party.png]
 [http://google-maps-icons.googlecode.com/files/billiard.png]
 [http://google-maps-icons.googlecode.com/files/themepark.png]
- * Public Aquarium
+[http://google-maps-icons.googlecode.com/files/aquarium.png]
+
+(last 1 by  [http://www.myBCN.es Matthias Stasiak])
 </td><td valign="top" align="left">
 ===<font color="#ef9e40">Education & Kids</font>===
 [http://google-maps-icons.googlecode.com/files/school.png]

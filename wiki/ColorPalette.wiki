@@ -1,6 +1,5 @@
 
 
-
 ===Original Color Palette (1)===
 [http://google-maps-icons.googlecode.com/files/office-google.png]
 [http://google-maps-icons.googlecode.com/files/sport-google.png]
@@ -13,7 +12,9 @@
 [http://google-maps-icons.googlecode.com/files/transports-nico.png]
 [http://google-maps-icons.googlecode.com/files/misc-nico.png]
 [http://google-maps-icons.googlecode.com/files/events-nico.png]
+
 [http://google-maps-icons.googlecode.com/files/media-nico.png]
+[http://google-maps-icons.googlecode.com/files/darkred.png]
+[http://google-maps-icons.googlecode.com/files/darkgreen.png]
 
 ===New Color Palette (2)===
-

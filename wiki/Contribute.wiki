@@ -1,10 +1,8 @@
+#labels Featured
 You can help contribute on the project in different ways :
  * Suggesting new icons
  * Help organizing the categories
  * Design new icons
-
-:-$``;;:
-
 
 
 =Suggesting new icons=

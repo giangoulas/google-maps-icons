@@ -54,6 +54,7 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Veterinarian
  * Skate Park
  * Barber
+ * Karting
 </td><td valign="top" align="left">
 ===<font color="#00e13c">Tourism & Nature</font> ===
 [http://google-maps-icons.googlecode.com/files/park.png]
@@ -163,6 +164,11 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/themepark.png]
 
 [http://google-maps-icons.googlecode.com/files/aquarium.png]
+ * Military museum
+ * Historical museum
+ * "Open air" museum
+ * Crafts museum
+ * Dance hall
 
 (last 1 by  [http://www.myBCN.es Matthias Stasiak])
 </td><td valign="top" align="left">
@@ -195,6 +201,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/port.png]
 [http://google-maps-icons.googlecode.com/files/train.png]
 [http://google-maps-icons.googlecode.com/files/cablecar.png]
+
+[http://google-maps-icons.googlecode.com/files/subway.png]
  * Rent a car
  * Underground
  * Direction (left, right)
@@ -202,6 +210,8 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Speed limit ?
  * Helicopter base
  * Sail boat
+ * Toll station
+ * Customs
 </td><td valign="top" align="left">
 
 ===<font color="#9e7151" >Miscellaneous</font>===

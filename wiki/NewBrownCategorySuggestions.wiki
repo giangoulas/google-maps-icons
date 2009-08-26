@@ -99,6 +99,25 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/ancienttemple.png]
  * Fortress
  * Palace
+ * Arch/Gate
+ * Camping (tents)
+ * Coal mine, Marble mine, etc
+ * Cross (like Saint Patrick's cross in Ireland)
+ * Fjord
+ * Flower Fields (like the tulip fields in NL)
+ * Glacier
+ * Gondolas
+ * Hydro-power Dam
+ * Lake
+ * Rock
+ * Shore
+ * Square (like in town square, piazza, plaza, place)
+ * Tower (Modern)
+ * Waterworks (dyke, etc.)
+ * Water Mill
+ * Well
+ * Amphitheatre
+ * Waterfall
 (picnic by [http://www.umapper.com UMapper]) 
 
 (last 17 by  [http://www.myBCN.es Matthias Stasiak])

@@ -5,6 +5,7 @@
 || Firemen || [http://google-maps-icons.googlecode.com/files/firemen.png] |||| Police || [http://google-maps-icons.googlecode.com/files/police.png] ||
 
 
+
 ===<font color="#fc6355">Health & Sports</font> ===
 
 || Doctor || [http://google-maps-icons.googlecode.com/files/doctor.png] |||| Drugstore || [http://google-maps-icons.googlecode.com/files/drugs.png] |||| Hospital || [http://google-maps-icons.googlecode.com/files/hospital.png] |||| Schrink || [http://google-maps-icons.googlecode.com/files/schrink.png] |||| Canoe || [http://google-maps-icons.googlecode.com/files/canoe.png] ||

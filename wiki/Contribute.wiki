@@ -3,6 +3,7 @@ You can help contribute on the project in different ways :
  * Suggesting new icons
  * Help organizing the categories
  * Design new icons
+ * Share your icons
 
 
 =Suggesting new icons=
@@ -52,3 +53,7 @@ all symbols (except for the F&F&R Set where it obviously is Black instead). This
 means that the Layer with the symbol can only contain White (and Black) pixels, with
 0-99% transparency as seen in the example Layer in the attached Templates. Using
 Transparency below 25% almost never makes sense.
+
+=Share your icons=
+Once you created new icons, you can  [http://code.google.com/p/google-maps-icons/issues/entry propose] and upload it to this project.
+If we accept your design, you need to know that we will publish it under the [http://creativecommons.org/licenses/by-sa/3.0/deed Creations Commons Share-Alike 3.0].

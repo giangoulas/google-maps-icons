@@ -101,19 +101,19 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Palace
  * Arch/Gate
  * Camping (tents)
- * Coal mine, Marble mine, etc
- * Cross (like Saint Patrick's cross in Ireland)
+ * Coal mine
+ * Cross
  * Fjord
- * Flower Fields (like the tulip fields in NL)
+ * Flower Fields
  * Glacier
  * Gondolas
  * Hydro-power Dam
  * Lake
  * Rock
  * Shore
- * Square (like in town square, piazza, plaza, place)
+ * Square
  * Tower (Modern)
- * Waterworks (dyke, etc.)
+ * Waterworks
  * Water Mill
  * Well
  * Amphitheatre

@@ -1,0 +1,56 @@
+You can help contribute on the project in different ways :
+ * Suggesting new icons
+ * Help organizing the categories
+ * Design new icons
+
+:-$``;;:
+
+
+
+=Suggesting new icons=
+Check out the [http://code.google.com/p/google-maps-icons/issues/list others suggestions we are currently working on]. 
+
+[http://code.google.com/p/google-maps-icons/issues/entry Add a suggestion]
+
+
+=Help organizing the categories=
+The [NewBrownCategorySuggestions working in progress page], shows the future icon organizations, and suggestions. 
+
+
+=Design new icons=
+
+We use either Photoshop or Paint.net to create icons.
+Download the template files :
+
+ * [http://google-maps-icons.googlecode.com/files/paint-net-template.pdn Paint.net template] (www.getPaint.NET)
+ * [http://google-maps-icons.googlecode.com/files/template-empty.psd Photoshop Template (without icons)]
+ * [http://google-maps-icons.googlecode.com/files/template.psd Photoshop Template (with layers and icons)]
+
+... start adding your designs following theses rules written by Matthias :
+
+===The Templates===
+Templates with the official Set Colors, the frame and the transparent background can
+be found attached below.
+
+===About Transparency===
+You also need to understand how to work with semi-transparent pixels, like in the
+pixels surrounding the icon frame. This to be able to create the icons looking a bit
+softer and with more detail then if you paint them with 100% color. An example Layer
+with lots of semi-transparent pixels is provided with the Canoe icon.
+
+===About Layers===
+You need to understand the principles of working with Layers, like the Layers you
+find in the templates below. Key to the icons designed by me is the Layer Blending
+Mode found under Layer Properties in Paint.NET.  Icon sybols are never drawn on a
+background color, always in their own layer as in the attached Templates. This for
+many reasons but most importantly to be able to easily be able change the background
+color.
+
+===Some Basic Rules===
+The size of the inner icon symbol should never be bigger then 20x20 pixels. Use
+common sense with size, a midget needs to be smaller than a gigant even if they look
+similar in basic shape. White pixels on the Set standard background is the color for
+all symbols (except for the F&F&R Set where it obviously is Black instead). This
+means that the Layer with the symbol can only contain White (and Black) pixels, with
+0-99% transparency as seen in the example Layer in the attached Templates. Using
+Transparency below 25% almost never makes sense.

@@ -1,5 +1,4 @@
 ===<font color="#5781fc" >Administration & Offices</font>===  
-
 || Conference center || [http://google-maps-icons.googlecode.com/files/conference.png] |||| Laboratory || [http://google-maps-icons.googlecode.com/files/laboratory.png] |||| Factory || [http://google-maps-icons.googlecode.com/files/factory.png] |||| Company || [http://google-maps-icons.googlecode.com/files/company.png] |||| Find a job || [http://google-maps-icons.googlecode.com/files/findajob.png] ||
 || Bank || [http://google-maps-icons.googlecode.com/files/bank.png] |||| Administration || [http://google-maps-icons.googlecode.com/files/administration.png] |||| Military || [http://google-maps-icons.googlecode.com/files/military.png] |||| Postal office || [http://google-maps-icons.googlecode.com/files/postal.png] |||| Justice || [http://google-maps-icons.googlecode.com/files/justice.png] ||
 || Firemen || [http://google-maps-icons.googlecode.com/files/firemen.png] |||| Police || [http://google-maps-icons.googlecode.com/files/police.png] ||
@@ -7,7 +6,6 @@
 
 
 ===<font color="#fc6355">Health & Sports</font> ===
-
 || Doctor || [http://google-maps-icons.googlecode.com/files/doctor.png] |||| Drugstore || [http://google-maps-icons.googlecode.com/files/drugs.png] |||| Hospital || [http://google-maps-icons.googlecode.com/files/hospital.png] |||| Schrink || [http://google-maps-icons.googlecode.com/files/schrink.png] |||| Canoe || [http://google-maps-icons.googlecode.com/files/canoe.png] ||
 || Pool || [http://google-maps-icons.googlecode.com/files/pool.png] |||| Golf || [http://google-maps-icons.googlecode.com/files/golf.png] |||| Tennis || [http://google-maps-icons.googlecode.com/files/tennis.png] |||| Soccer || [http://google-maps-icons.googlecode.com/files/soccer.png] |||| Skiing || [http://google-maps-icons.googlecode.com/files/skiing.png] ||
 || Baskteball || [http://google-maps-icons.googlecode.com/files/basketball.png] |||| Rugby || [http://google-maps-icons.googlecode.com/files/rugby.png] |||| Cycling || [http://google-maps-icons.googlecode.com/files/cyclingsport.png] |||| Cycling feed area || [http://google-maps-icons.googlecode.com/files/cyclingfeedarea.png] |||| Cycling sprint || [http://google-maps-icons.googlecode.com/files/cyclingsprint.png] ||

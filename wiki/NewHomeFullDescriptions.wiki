@@ -5,6 +5,8 @@
 
 
 
+
+
 ===<font color="#fc6355">Health & Sports</font> ===
 || Doctor || [http://google-maps-icons.googlecode.com/files/doctor.png] |||| Drugstore || [http://google-maps-icons.googlecode.com/files/drugs.png] |||| Hospital || [http://google-maps-icons.googlecode.com/files/hospital.png] |||| Schrink || [http://google-maps-icons.googlecode.com/files/schrink.png] |||| Canoe || [http://google-maps-icons.googlecode.com/files/canoe.png] ||
 || Pool || [http://google-maps-icons.googlecode.com/files/pool.png] |||| Golf || [http://google-maps-icons.googlecode.com/files/golf.png] |||| Tennis || [http://google-maps-icons.googlecode.com/files/tennis.png] |||| Soccer || [http://google-maps-icons.googlecode.com/files/soccer.png] |||| Skiing || [http://google-maps-icons.googlecode.com/files/skiing.png] ||

@@ -50,12 +50,13 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/fishing.png]
 [http://google-maps-icons.googlecode.com/files/horseriding.png]
 [http://google-maps-icons.googlecode.com/files/hiking.png]
+[http://google-maps-icons.googlecode.com/files/racing.png]
+[http://google-maps-icons.googlecode.com/files/karting.png]
  * Yoga
  * Gym
  * Veterinarian
  * Skate Park
  * Barber
- * Karting
 </td><td valign="top" align="left">
 ===<font color="#00e13c">Tourism & Nature</font> ===
 [http://google-maps-icons.googlecode.com/files/park.png]

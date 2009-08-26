@@ -17,6 +17,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/factory.png]
 
 [http://google-maps-icons.googlecode.com/files/laboratory.png]
+[http://google-maps-icons.googlecode.com/files/conference.png]
  * Prison
  * Senior site
  * Community center

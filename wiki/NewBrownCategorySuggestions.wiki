@@ -194,12 +194,14 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/airport.png]
 [http://google-maps-icons.googlecode.com/files/port.png]
 [http://google-maps-icons.googlecode.com/files/train.png]
+[http://google-maps-icons.googlecode.com/files/cablecar.png]
  * Rent a car
  * Underground
  * Direction (left, right)
  * Stop sign
  * Speed limit ?
-
+ * Helicopter base
+ * Sail boat
 </td><td valign="top" align="left">
 
 ===<font color="#9e7151" >Miscellaneous</font>===

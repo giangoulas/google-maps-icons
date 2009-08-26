@@ -143,6 +143,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/icecream.png]
  * Youth Hostel
  * Steakhouse
+ * Winery
+ * Resort
 </td><td valign="top" align="left">
 ===<font color="#e14f9e">Culture & Entertainment</font>===
 [http://google-maps-icons.googlecode.com/files/cinema.png]

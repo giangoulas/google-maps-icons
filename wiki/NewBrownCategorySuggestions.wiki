@@ -63,6 +63,7 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Rowboat
  * Sailing
  * Ski Jump
+ * US Football
 </td><td valign="top" align="left">
 ===<font color="#00e13c">Tourism & Nature</font> ===
 [http://google-maps-icons.googlecode.com/files/park.png]

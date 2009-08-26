@@ -95,7 +95,7 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Palace
 (picnic by [http://www.umapper.com UMapper]) 
 
-(last 13 by  [http://www.myBCN.es Matthias Stasiak])
+(last 17 by  [http://www.myBCN.es Matthias Stasiak])
 </td><td valign="top" align="left">
 ===<font color="#55d7d7">Stores</font>===
 [http://google-maps-icons.googlecode.com/files/supermarket.png]

@@ -57,6 +57,12 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Veterinarian
  * Skate Park
  * Barber
+ * Bob Sleigh Track
+ * Ice Skating
+ * Hockey Field
+ * Rowboat
+ * Sailing
+ * Ski Jump
 </td><td valign="top" align="left">
 ===<font color="#00e13c">Tourism & Nature</font> ===
 [http://google-maps-icons.googlecode.com/files/park.png]

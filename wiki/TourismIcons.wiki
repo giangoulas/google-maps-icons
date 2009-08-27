@@ -1,39 +1,52 @@
 =<font color="#00e13c">Tourism & Nature</font>=
 
-[http://google-maps-icons.googlecode.com/files/park.png] Park
-[http://google-maps-icons.googlecode.com/files/beautiful.png] Beautiful place
-[http://google-maps-icons.googlecode.com/files/camping.png] Camping
-[http://google-maps-icons.googlecode.com/files/animals.png] Wild animals
+
+
+=<font color="#00e13c">Natural marvels</font>=
 [http://google-maps-icons.googlecode.com/files/beach.png] Beach
+[http://google-maps-icons.googlecode.com/files/animals.png] Wild animals
+[http://google-maps-icons.googlecode.com/files/beautiful.png] Beautiful place
 
+=<font color="#00e13c">Defensive buildings</font>=
+[http://google-maps-icons.googlecode.com/files/castle.png] Castle
+
+[http://google-maps-icons.googlecode.com/files/fortress.png] Fortress
+
+[http://google-maps-icons.googlecode.com/files/palace.png] Palace 
+
+[http://google-maps-icons.googlecode.com/files/gateswalls.png] City walls & gates
+
+
+=<font color="#00e13c">Cult</font>=
 [http://google-maps-icons.googlecode.com/files/church.png] Church
-[http://google-maps-icons.googlecode.com/files/farm.png] Farm
 [http://google-maps-icons.googlecode.com/files/cemetary.png]
-[http://google-maps-icons.googlecode.com/files/agriculture.png]
-[http://google-maps-icons.googlecode.com/files/picnic.png]
+[http://google-maps-icons.googlecode.com/files/mosque.png]
+[http://google-maps-icons.googlecode.com/files/cathedral.png]
+[http://google-maps-icons.googlecode.com/files/synagogue.png]
 
-[http://google-maps-icons.googlecode.com/files/castle.png]
+
+=<font color="#00e13c">Agriculture</font>=
+[http://google-maps-icons.googlecode.com/files/farm.png] Farm
+[http://google-maps-icons.googlecode.com/files/agriculture.png]
 [http://google-maps-icons.googlecode.com/files/windmill.png]
+[http://google-maps-icons.googlecode.com/files/wineyard.png]
+
+=<font color="#00e13c">Misc...</font>=
+[http://google-maps-icons.googlecode.com/files/park.png] Park
+[http://google-maps-icons.googlecode.com/files/camping.png] Camping
+[http://google-maps-icons.googlecode.com/files/olympicsite.png]
+[http://google-maps-icons.googlecode.com/files/picnic.png]
 [http://google-maps-icons.googlecode.com/files/bridge.png]
 [http://google-maps-icons.googlecode.com/files/fountain.png]
-[http://google-maps-icons.googlecode.com/files/cathedral.png]
-
 [http://google-maps-icons.googlecode.com/files/monument.png]
 [http://google-maps-icons.googlecode.com/files/panoramic.png]
 [http://google-maps-icons.googlecode.com/files/worldheritagesite.png]
 [http://google-maps-icons.googlecode.com/files/statue.png]
-[http://google-maps-icons.googlecode.com/files/mosque.png]
-
 [http://google-maps-icons.googlecode.com/files/lighthouse.png]
 [http://google-maps-icons.googlecode.com/files/modernmonument.png]
-[http://google-maps-icons.googlecode.com/files/synagogue.png]
-[http://google-maps-icons.googlecode.com/files/wineyard.png]
-[http://google-maps-icons.googlecode.com/files/olympicsite.png]
-
-[http://google-maps-icons.googlecode.com/files/gateswalls.png]
 [http://google-maps-icons.googlecode.com/files/ancienttemple.png]
-[http://google-maps-icons.googlecode.com/files/fortress.png]
-[http://google-maps-icons.googlecode.com/files/palace.png]
+
+=<font color="#00e13c">TODO list / Suggestions</font>=
  * Arch/Gate
  * Camping (tents)
  * Coal mine

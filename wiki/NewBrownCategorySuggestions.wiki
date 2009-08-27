@@ -298,6 +298,7 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Tornado
  * Wind
  * Snow
+ * Wedding
 </td><td valign="top" align="left">
 ===<font color="#0337D1" >Media</font>===
 [http://google-maps-icons.googlecode.com/files/video.png]

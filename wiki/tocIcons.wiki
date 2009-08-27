@@ -1,6 +1,9 @@
 [OfficesIcons Offices & Administration]
-[SportsIcons Sports & Healph]
+
+[SportsIcons Sports & Health]
+
 [TourismIcons Tourism & Nature]
+
   * [StoresIcons Stores]
   * [FriendsIcons Friends]
   * [CultureIcons Culture & Entertainment]

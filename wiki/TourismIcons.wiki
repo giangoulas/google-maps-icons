@@ -20,22 +20,18 @@
 
 ===Cult=== 
 (3 - table, 3 columns)
+
 || [http://google-maps-icons.googlecode.com/files/church.png] || Church |||| [http://google-maps-icons.googlecode.com/files/cemetary.png] || Cemetary |||| [http://google-maps-icons.googlecode.com/files/mosque.png] || Mosque ||
-|| [http://google-maps-icons.googlecode.com/files/cathedral.png] || Cathedral |||| [http://google-maps-icons.googlecode.com/files/synagogue.png] || Synagogue ||
+|| [http://google-maps-icons.googlecode.com/files/cathedral.png] || Cathedral || [http://google-maps-icons.googlecode.com/files/synagogue.png] || Synagogue ||
+
  
 ===Agriculture=== 
 (4 - table, 1 column)
+
 || [http://google-maps-icons.googlecode.com/files/farm.png] Farm || Farm || ||
 || [http://google-maps-icons.googlecode.com/files/agriculture.png] || Agriculture field ||by [http://www.myBCN.es Matthias Stasiak]||
 || [http://google-maps-icons.googlecode.com/files/windmill.png] || Windmill ||by [http://www.myBCN.es Matthias Stasiak]||
 || [http://google-maps-icons.googlecode.com/files/wineyard.png] || Wineyard ||by [http://www.myBCN.es Matthias Stasiak]||
-
-
-
-
-
-
-
 
 
 ===Misc...===

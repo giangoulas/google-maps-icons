@@ -7,7 +7,7 @@
 [http://google-maps-icons.googlecode.com/files/animals.png] Wild animals
 [http://google-maps-icons.googlecode.com/files/beautiful.png] Beautiful place
 
-===Defensive buildings</font>===
+===Defensive buildings===
 [http://google-maps-icons.googlecode.com/files/castle.png] Castle
 
 [http://google-maps-icons.googlecode.com/files/fortress.png] Fortress

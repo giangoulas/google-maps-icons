@@ -238,7 +238,6 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/subway.png]
  * Rent a car
- * Underground
  * Direction (left, right)
  * Stop sign
  * Speed limit ?

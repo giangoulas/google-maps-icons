@@ -22,7 +22,7 @@
 (3 - table, 3 columns, no credit)
 
 || [http://google-maps-icons.googlecode.com/files/church.png] || Church |||| [http://google-maps-icons.googlecode.com/files/cemetary.png] || Cemetary |||| [http://google-maps-icons.googlecode.com/files/mosque.png] || Mosque ||
-|| [http://google-maps-icons.googlecode.com/files/cathedral.png] || Cathedral |||| [http://google-maps-icons.googlecode.com/files/synagogue.png] || Synagogue |||| aaa || bbb ||
+|| [http://google-maps-icons.googlecode.com/files/cathedral.png] || Cathedral |||| [http://google-maps-icons.googlecode.com/files/synagogue.png] || Synagogue ||||  ||  ||
 
  
 ===Agriculture=== 

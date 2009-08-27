@@ -1,6 +1,6 @@
   * [OfficesIcons Offices & Administration]
   * [SportsIcons Sports & Healph]
-  * <font color="#00e13c">[TourismIcons Tourism & Nature]</font>
+  * [TourismIcons <font color="#00e13c">Tourism & Nature</font>]
   * [StoresIcons Stores]
   * [FriendsIcons Friends]
   * [CultureIcons Culture & Entertainment]

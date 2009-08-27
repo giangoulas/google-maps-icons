@@ -2,12 +2,12 @@
 
 
 
-===<font color="#00e13c">Natural marvels</font>===
+===Natural marvels===
 [http://google-maps-icons.googlecode.com/files/beach.png] Beach
 [http://google-maps-icons.googlecode.com/files/animals.png] Wild animals
 [http://google-maps-icons.googlecode.com/files/beautiful.png] Beautiful place
 
-===<font color="#00e13c">Defensive buildings</font>===
+===Defensive buildings</font>===
 [http://google-maps-icons.googlecode.com/files/castle.png] Castle
 
 [http://google-maps-icons.googlecode.com/files/fortress.png] Fortress
@@ -17,7 +17,7 @@
 [http://google-maps-icons.googlecode.com/files/gateswalls.png] City walls & gates
 
 
-===<font color="#00e13c">Cult</font>===
+===Cult===
 [http://google-maps-icons.googlecode.com/files/church.png] Church
 [http://google-maps-icons.googlecode.com/files/cemetary.png]
 [http://google-maps-icons.googlecode.com/files/mosque.png]
@@ -25,13 +25,13 @@
 [http://google-maps-icons.googlecode.com/files/synagogue.png]
 
 
-===<font color="#00e13c">Agriculture</font>===
+===Agriculture===
 [http://google-maps-icons.googlecode.com/files/farm.png] Farm
 [http://google-maps-icons.googlecode.com/files/agriculture.png]
 [http://google-maps-icons.googlecode.com/files/windmill.png]
 [http://google-maps-icons.googlecode.com/files/wineyard.png]
 
-===<font color="#00e13c">Misc...</font>===
+===Misc...===
 [http://google-maps-icons.googlecode.com/files/park.png] Park
 [http://google-maps-icons.googlecode.com/files/camping.png] Camping
 [http://google-maps-icons.googlecode.com/files/olympicsite.png]
@@ -46,7 +46,7 @@
 [http://google-maps-icons.googlecode.com/files/modernmonument.png]
 [http://google-maps-icons.googlecode.com/files/ancienttemple.png]
 
-===<font color="#00e13c">TODO list / Suggestions</font>===
+===TODO list / Suggestions===
  * Arch/Gate
  * Camping (tents)
  * Coal mine

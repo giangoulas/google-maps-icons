@@ -2,14 +2,14 @@
 
 
 
-===Natural marvels=== 
-(1 - tableless, all on one line)
+===Natural marvels (1 - tableless, all on one line)=== 
+
 [http://google-maps-icons.googlecode.com/files/beach.png] Beach
 [http://google-maps-icons.googlecode.com/files/animals.png] Wild animals
 [http://google-maps-icons.googlecode.com/files/beautiful.png] Beautiful place
 
-===Defensive buildings=== 
-(2 - tableless, one icon per line)
+===Defensive buildings (2 - tableless, one icon per line)=== 
+
 [http://google-maps-icons.googlecode.com/files/castle.png] Castle
 
 [http://google-maps-icons.googlecode.com/files/fortress.png] Fortress
@@ -18,15 +18,12 @@
 
 [http://google-maps-icons.googlecode.com/files/gateswalls.png] City walls & gates
 
-===Cult=== 
-(3 - table, 3 columns, no credit)
+===Cult (3 - table, 3 columns, no credit)=== 
 
 || [http://google-maps-icons.googlecode.com/files/church.png] || Church |||| [http://google-maps-icons.googlecode.com/files/cemetary.png] || Cemetary |||| [http://google-maps-icons.googlecode.com/files/mosque.png] || Mosque ||
 || [http://google-maps-icons.googlecode.com/files/cathedral.png] || Cathedral |||| [http://google-maps-icons.googlecode.com/files/synagogue.png] || Synagogue ||||  ||  ||
 
- 
-===Agriculture=== 
-(4 - table, 1 column, credits)
+===Agriculture (4 - table, 1 column, credits)=== 
 
 || [http://google-maps-icons.googlecode.com/files/farm.png] Farm || Farm || ||
 || [http://google-maps-icons.googlecode.com/files/agriculture.png] || Agriculture field ||by [http://www.myBCN.es Matthias Stasiak]||

@@ -100,6 +100,11 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/ancienttemple.png]
 [http://google-maps-icons.googlecode.com/files/fortress.png]
 [http://google-maps-icons.googlecode.com/files/palace.png]
+[http://google-maps-icons.googlecode.com/files/chapel.png]
+
+[http://google-maps-icons.googlecode.com/files/ruins.png]
+[http://google-maps-icons.googlecode.com/files/convent.png]
+[http://google-maps-icons.googlecode.com/files/tower.png]
  * Arch/Gate
  * Camping (tents)
  * Coal mine

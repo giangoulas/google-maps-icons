@@ -1,5 +1,5 @@
 =<font color="#00e13c">Tourism & Nature</font>=
-<wiki:toc max_depth="1" />
+<wiki:toc max_depth="3" />
 
 
 ===Natural marvels (1 - tableless, all on one line)=== 

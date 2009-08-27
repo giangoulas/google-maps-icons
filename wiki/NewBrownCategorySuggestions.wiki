@@ -105,7 +105,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/ruins.png]
 [http://google-maps-icons.googlecode.com/files/convent.png]
 [http://google-maps-icons.googlecode.com/files/tower.png]
- * Arch/Gate
+[http://google-maps-icons.googlecode.com/files/arch.png]
  * Camping (tents)
  * Coal mine
  * Cross

@@ -1,0 +1,58 @@
+=<font color="#00e13c">Tourism & Nature</font>=
+
+[http://google-maps-icons.googlecode.com/files/park.png Park]
+[http://google-maps-icons.googlecode.com/files/beautiful.png]
+[http://google-maps-icons.googlecode.com/files/camping.png]
+[http://google-maps-icons.googlecode.com/files/animals.png]
+[http://google-maps-icons.googlecode.com/files/beach.png]
+
+[http://google-maps-icons.googlecode.com/files/church.png]
+[http://google-maps-icons.googlecode.com/files/farm.png]
+[http://google-maps-icons.googlecode.com/files/cemetary.png]
+[http://google-maps-icons.googlecode.com/files/agriculture.png]
+[http://google-maps-icons.googlecode.com/files/picnic.png]
+
+[http://google-maps-icons.googlecode.com/files/castle.png]
+[http://google-maps-icons.googlecode.com/files/windmill.png]
+[http://google-maps-icons.googlecode.com/files/bridge.png]
+[http://google-maps-icons.googlecode.com/files/fountain.png]
+[http://google-maps-icons.googlecode.com/files/cathedral.png]
+
+[http://google-maps-icons.googlecode.com/files/monument.png]
+[http://google-maps-icons.googlecode.com/files/panoramic.png]
+[http://google-maps-icons.googlecode.com/files/worldheritagesite.png]
+[http://google-maps-icons.googlecode.com/files/statue.png]
+[http://google-maps-icons.googlecode.com/files/mosque.png]
+
+[http://google-maps-icons.googlecode.com/files/lighthouse.png]
+[http://google-maps-icons.googlecode.com/files/modernmonument.png]
+[http://google-maps-icons.googlecode.com/files/synagogue.png]
+[http://google-maps-icons.googlecode.com/files/wineyard.png]
+[http://google-maps-icons.googlecode.com/files/olympicsite.png]
+
+[http://google-maps-icons.googlecode.com/files/gateswalls.png]
+[http://google-maps-icons.googlecode.com/files/ancienttemple.png]
+[http://google-maps-icons.googlecode.com/files/fortress.png]
+[http://google-maps-icons.googlecode.com/files/palace.png]
+ * Arch/Gate
+ * Camping (tents)
+ * Coal mine
+ * Cross
+ * Fjord
+ * Flower Fields
+ * Glacier
+ * Gondolas
+ * Hydro-power Dam
+ * Lake
+ * Rock
+ * Shore
+ * Square
+ * Tower (Modern)
+ * Waterworks
+ * Water Mill
+ * Well
+ * Amphitheatre
+ * Waterfall
+(picnic by [http://www.umapper.com UMapper]) 
+
+(last 17 by  [http://www.myBCN.es Matthias Stasiak])

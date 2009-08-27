@@ -25,7 +25,7 @@
 
 ===Agriculture (4 - table, 1 column, credits)=== 
 
-|| [http://google-maps-icons.googlecode.com/files/farm.png] Farm || Farm || ||
+|| [http://google-maps-icons.googlecode.com/files/farm.png] || Farm || ||
 || [http://google-maps-icons.googlecode.com/files/agriculture.png] || Agriculture field ||by [http://www.myBCN.es Matthias Stasiak]||
 || [http://google-maps-icons.googlecode.com/files/windmill.png] || Windmill ||by [http://www.myBCN.es Matthias Stasiak]||
 || [http://google-maps-icons.googlecode.com/files/wineyard.png] || Wineyard ||by [http://www.myBCN.es Matthias Stasiak]||

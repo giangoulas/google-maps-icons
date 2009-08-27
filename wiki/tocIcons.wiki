@@ -12,4 +12,4 @@
 
 
 
-<font color="#00e13c" size="5">[TourismIcons Tourism & Nature]</font>
+<a href="http://code.google.com/p/google-maps-icons/wiki/TourismIcons"><font color="#00e13c">Tourism & Nature</font></a>

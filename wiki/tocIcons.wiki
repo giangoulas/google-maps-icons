@@ -4,11 +4,18 @@
 
 [TourismIcons Tourism & Nature]
 
-  * [StoresIcons Stores]
-  * [FriendsIcons Friends]
-  * [CultureIcons Culture & Entertainment]
-  * [EducationIcons Education & Kids]
-  * [TransportationIcons Transportation]
-  * [MiscellaneousIcons Miscellaneous]
-  * [EventsIcons Events & Weather]
-  * [MediaIcons Media]
+[StoresIcons Stores]
+
+[FriendsIcons Friends]
+
+[CultureIcons Culture & Entertainment]
+
+[EducationIcons Education & Kids]
+
+[TransportationIcons Transportation]
+
+[MiscellaneousIcons Miscellaneous]
+
+[EventsIcons Events & Weather]
+
+[MediaIcons Media]

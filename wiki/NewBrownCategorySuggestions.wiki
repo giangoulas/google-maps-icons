@@ -98,8 +98,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/gateswalls.png]
 [http://google-maps-icons.googlecode.com/files/ancienttemple.png]
- * Fortress
- * Palace
+[http://google-maps-icons.googlecode.com/files/fortress.png]
+[http://google-maps-icons.googlecode.com/files/palace.png]
  * Arch/Gate
  * Camping (tents)
  * Coal mine

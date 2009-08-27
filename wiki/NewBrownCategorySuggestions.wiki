@@ -143,8 +143,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/pets.png]
 [http://google-maps-icons.googlecode.com/files/fishingshop.png]
+[http://google-maps-icons.googlecode.com/files/shoppingmall.png]
  * Bookstore
- * Shopping mall
 </td></tr><tr><td valign="top" align="left">
 ===<font color="#fcf357">Friends & Family & Real Estate</font>===
 [http://google-maps-icons.googlecode.com/files/friends.png]

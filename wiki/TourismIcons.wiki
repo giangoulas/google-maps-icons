@@ -1,4 +1,3 @@
-=<font color="#00e13c">Tourism & Nature</font>=
 <wiki:toc max_depth="3" />
 
 

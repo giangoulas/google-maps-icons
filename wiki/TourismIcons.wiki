@@ -2,12 +2,12 @@
 
 
 
-===Natural marvels===
+===Natural marvels=== (1 - tableless, all on one line)
 [http://google-maps-icons.googlecode.com/files/beach.png] Beach
 [http://google-maps-icons.googlecode.com/files/animals.png] Wild animals
 [http://google-maps-icons.googlecode.com/files/beautiful.png] Beautiful place
 
-===Defensive buildings===
+===Defensive buildings=== (2 - tableless, one icon per line)
 [http://google-maps-icons.googlecode.com/files/castle.png] Castle
 
 [http://google-maps-icons.googlecode.com/files/fortress.png] Fortress
@@ -16,20 +16,23 @@
 
 [http://google-maps-icons.googlecode.com/files/gateswalls.png] City walls & gates
 
+===Cult=== (3 - table, 3 columns)
+|| [http://google-maps-icons.googlecode.com/files/church.png] || Church |||| [http://google-maps-icons.googlecode.com/files/cemetary.png] || Cemetary |||| [http://google-maps-icons.googlecode.com/files/mosque.png] || Mosque ||
+|| [http://google-maps-icons.googlecode.com/files/cathedral.png] || Cathedral |||| [http://google-maps-icons.googlecode.com/files/synagogue.png] || Synagogue ||
+ 
+===Agriculture=== (4 - table, 1 column)
+|| [http://google-maps-icons.googlecode.com/files/farm.png] Farm || Farm || ||
+|| [http://google-maps-icons.googlecode.com/files/agriculture.png] || Agriculture field ||by [http://www.myBCN.es Matthias Stasiak]||
+|| [http://google-maps-icons.googlecode.com/files/windmill.png] || Windmill ||by [http://www.myBCN.es Matthias Stasiak]||
+|| [http://google-maps-icons.googlecode.com/files/wineyard.png] || Wineyard ||by [http://www.myBCN.es Matthias Stasiak]||
 
-===Cult===
-[http://google-maps-icons.googlecode.com/files/church.png] Church
-[http://google-maps-icons.googlecode.com/files/cemetary.png]
-[http://google-maps-icons.googlecode.com/files/mosque.png]
-[http://google-maps-icons.googlecode.com/files/cathedral.png]
-[http://google-maps-icons.googlecode.com/files/synagogue.png]
 
 
-===Agriculture===
-[http://google-maps-icons.googlecode.com/files/farm.png] Farm
-[http://google-maps-icons.googlecode.com/files/agriculture.png]
-[http://google-maps-icons.googlecode.com/files/windmill.png]
-[http://google-maps-icons.googlecode.com/files/wineyard.png]
+
+
+
+
+
 
 ===Misc...===
 [http://google-maps-icons.googlecode.com/files/park.png] Park

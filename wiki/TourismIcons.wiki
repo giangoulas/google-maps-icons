@@ -35,19 +35,10 @@
 
 
 ===Misc...===
-[http://google-maps-icons.googlecode.com/files/park.png] Park
-[http://google-maps-icons.googlecode.com/files/camping.png] Camping
-[http://google-maps-icons.googlecode.com/files/olympicsite.png]
-[http://google-maps-icons.googlecode.com/files/picnic.png]
-[http://google-maps-icons.googlecode.com/files/bridge.png]
-[http://google-maps-icons.googlecode.com/files/fountain.png]
-[http://google-maps-icons.googlecode.com/files/monument.png]
-[http://google-maps-icons.googlecode.com/files/panoramic.png]
-[http://google-maps-icons.googlecode.com/files/worldheritagesite.png]
-[http://google-maps-icons.googlecode.com/files/statue.png]
-[http://google-maps-icons.googlecode.com/files/lighthouse.png]
-[http://google-maps-icons.googlecode.com/files/modernmonument.png]
-[http://google-maps-icons.googlecode.com/files/ancienttemple.png]
+|| [http://google-maps-icons.googlecode.com/files/park.png] Park || [http://google-maps-icons.googlecode.com/files/camping.png] Camping |||| [http://google-maps-icons.googlecode.com/files/olympicsite.png] Olympic site || [http://google-maps-icons.googlecode.com/files/picnic.png] Picnic |||| [http://google-maps-icons.googlecode.com/files/bridge.png] Bridge || [http://google-maps-icons.googlecode.com/files/fountain.png] Fountain ||
+
+|| [http://google-maps-icons.googlecode.com/files/monument.png] Monument || [http://google-maps-icons.googlecode.com/files/panoramic.png] Panoramic view |||| [http://google-maps-icons.googlecode.com/files/worldheritagesite.png] World heritage site || [http://google-maps-icons.googlecode.com/files/statue.png] Statue |||| table || [http://google-maps-icons.googlecode.com/files/lighthouse.png] Lighthouse || cells |||| [http://google-maps-icons.googlecode.com/files/modernmonument.png] Modern monument || [http://google-maps-icons.googlecode.com/files/ancienttemple.png] Ancient temple ||
+
 
 ===TODO list / Suggestions===
  * Arch/Gate

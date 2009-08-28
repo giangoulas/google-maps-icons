@@ -5,11 +5,14 @@
 <wiki:toc max_depth="3" />
 
 
+
 ===Natural marvels (1 - tableless, all on one line)=== 
 
 [http://google-maps-icons.googlecode.com/files/beach.png] Beach
 [http://google-maps-icons.googlecode.com/files/animals.png] Wild animals
 [http://google-maps-icons.googlecode.com/files/beautiful.png] Beautiful place
+
+
 
 ===Defensive buildings (2 - tableless, one icon per line)=== 
 
@@ -21,10 +24,14 @@
 
 [http://google-maps-icons.googlecode.com/files/gateswalls.png] City walls & gates
 
+
+
 ===Cult (3 - table, 3 columns, no credit)=== 
 
 || [http://google-maps-icons.googlecode.com/files/church.png] || Church |||| [http://google-maps-icons.googlecode.com/files/cemetary.png] || Cemetary |||| [http://google-maps-icons.googlecode.com/files/mosque.png] || Mosque ||
 || [http://google-maps-icons.googlecode.com/files/cathedral.png] || Cathedral |||| [http://google-maps-icons.googlecode.com/files/synagogue.png] || Synagogue ||||  ||  ||
+
+
 
 ===Agriculture (4 - table, 1 column, credits)=== 
 
@@ -32,6 +39,7 @@
 || [http://google-maps-icons.googlecode.com/files/agriculture.png] || Agriculture field ||by [http://www.myBCN.es Matthias Stasiak]||
 || [http://google-maps-icons.googlecode.com/files/windmill.png] || Windmill ||by [http://www.myBCN.es Matthias Stasiak]||
 || [http://google-maps-icons.googlecode.com/files/wineyard.png] || Wineyard ||by [http://www.myBCN.es Matthias Stasiak]||
+
 
 
 ===Misc... (5 - table, 5 columns, icon and description together)===

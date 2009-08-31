@@ -43,7 +43,8 @@
 
 
 ===Misc... (5 - table, 5 columns, icon and description together)===
-|| [http://google-maps-icons.googlecode.com/files/park.png] Park || [http://google-maps-icons.googlecode.com/files/camping.png] Camping || [http://google-maps-icons.googlecode.com/files/olympicsite.png] Olympic site || [http://google-maps-icons.googlecode.com/files/picnic.png] Picnic || [http://google-maps-icons.googlecode.com/files/bridge.png] Bridge ||
+|| [http://google-maps-icons.googlecode.com/files/park.png] Park || [http://google-maps-icons.googlecode.com/files/camping.png] Camping || [http://google-maps-icons.googlecode.com/files/olympicsite.png] Olympic site || [http://google-maps-icons.googlecode.com/files/picnic.png] Picnic || [http://google-maps-icons.googlecode.com/files/bridge.png] 
+Bridge ||
 
 ===Misc... (6 - table, 5 columns with linebreaks, icon and description together)===
 <table width="100%" border="1"><tr><td align="center">

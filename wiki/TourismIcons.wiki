@@ -46,10 +46,8 @@
 || [http://google-maps-icons.googlecode.com/files/park.png] Park || [http://google-maps-icons.googlecode.com/files/camping.png] Camping || [http://google-maps-icons.googlecode.com/files/olympicsite.png] Olympic site || [http://google-maps-icons.googlecode.com/files/picnic.png] Picnic || [http://google-maps-icons.googlecode.com/files/bridge.png] Bridge ||
 
 ===Misc... (6 - table, 5 columns with linebreaks, icon and description together)===
-
-
-|| [http://google-maps-icons.googlecode.com/files/fountain.png] Fountain || [http://google-maps-icons.googlecode.com/files/monument.png] Monument || [http://google-maps-icons.googlecode.com/files/panoramic.png] Panoramic view || [http://google-maps-icons.googlecode.com/files/worldheritagesite.png] World heritage site || [http://google-maps-icons.googlecode.com/files/statue.png] Statue ||
-|| [http://google-maps-icons.googlecode.com/files/lighthouse.png] Lighthouse ||[http://google-maps-icons.googlecode.com/files/modernmonument.png] Modern monument || [http://google-maps-icons.googlecode.com/files/ancienttemple.png] Ancient temple ||
+|| [http://google-maps-icons.googlecode.com/files/fountain.png] <br> Fountain || [http://google-maps-icons.googlecode.com/files/monument.png] <br> Monument || [http://google-maps-icons.googlecode.com/files/panoramic.png] <br> Panoramic view || [http://google-maps-icons.googlecode.com/files/worldheritagesite.png] <br> World heritage site || [http://google-maps-icons.googlecode.com/files/statue.png] Statue ||
+|| [http://google-maps-icons.googlecode.com/files/lighthouse.png] <br> Lighthouse ||[http://google-maps-icons.googlecode.com/files/modernmonument.png] <br> Modern monument || [http://google-maps-icons.googlecode.com/files/ancienttemple.png] <br> Ancient temple ||
 
 
 ===TODO list / Suggestions===

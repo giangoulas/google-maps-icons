@@ -62,13 +62,12 @@ Panoramic view
 </td>
 <td align="center">
 [http://google-maps-icons.googlecode.com/files/statue.png] 
-<br>Statue
+<hr>Statue
 </td>
 </tr>
 <tr>
 <td align="center">
-[http://google-maps-icons.googlecode.com/files/lighthouse.png] 
-<br> Lighthouse
+[http://google-maps-icons.googlecode.com/files/lighthouse.png] <hr> Lighthouse
 </td>
 <td align="center">
 [http://google-maps-icons.googlecode.com/files/modernmonument.png] 

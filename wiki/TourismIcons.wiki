@@ -46,17 +46,7 @@
 || [http://google-maps-icons.googlecode.com/files/park.png] Park || [http://google-maps-icons.googlecode.com/files/camping.png] Camping || [http://google-maps-icons.googlecode.com/files/olympicsite.png] Olympic site || [http://google-maps-icons.googlecode.com/files/picnic.png] Picnic || [http://google-maps-icons.googlecode.com/files/bridge.png] Bridge ||
 
 ===Misc... (6 - table, 5 columns with linebreaks, icon and description together)===
-<table width="100%" border="1"><tr><td>[http://google-maps-icons.googlecode.com/files/fountain.png] <br> Fountain</td>
-    <td>[http://google-maps-icons.googlecode.com/files/monument.png] <br> Monument </td>
-    <td>[http://google-maps-icons.googlecode.com/files/panoramic.png] <br> Panoramic view</td>
-    <td>[http://google-maps-icons.googlecode.com/files/worldheritagesite.png] <br> World heritage site</td>
-    <td>[http://google-maps-icons.googlecode.com/files/statue.png] Statue</td></tr><tr>
-    <td>[http://google-maps-icons.googlecode.com/files/lighthouse.png] <br> Lighthouse</td>
-    <td>[http://google-maps-icons.googlecode.com/files/modernmonument.png] <br> Modern monument</td>
-    <td>[http://google-maps-icons.googlecode.com/files/ancienttemple.png] <br> Ancient temple</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td></tr>
-</table>
+<table width="100%" border="1"><tr><td>[http://google-maps-icons.googlecode.com/files/fountain.png] <br> Fountain</td> <td>[http://google-maps-icons.googlecode.com/files/monument.png] <br> Monument </td>    <td>[http://google-maps-icons.googlecode.com/files/panoramic.png] <br> Panoramic view</td>    <td>[http://google-maps-icons.googlecode.com/files/worldheritagesite.png] <br> World heritage site</td>    <td>[http://google-maps-icons.googlecode.com/files/statue.png] Statue</td></tr><tr>    <td>[http://google-maps-icons.googlecode.com/files/lighthouse.png] <br> Lighthouse</td>    <td>[http://google-maps-icons.googlecode.com/files/modernmonument.png] <br> Modern monument</td>    <td>[http://google-maps-icons.googlecode.com/files/ancienttemple.png] <br> Ancient temple</td>   <td>&nbsp;</td>    <td>&nbsp;</td></tr></table>
 
 ===TODO list / Suggestions===
  * Arch/Gate

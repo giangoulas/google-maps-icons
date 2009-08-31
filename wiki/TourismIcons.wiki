@@ -46,19 +46,15 @@
 || [http://google-maps-icons.googlecode.com/files/park.png] Park || [http://google-maps-icons.googlecode.com/files/camping.png] Camping || [http://google-maps-icons.googlecode.com/files/olympicsite.png] Olympic site || [http://google-maps-icons.googlecode.com/files/picnic.png] Picnic || [http://google-maps-icons.googlecode.com/files/bridge.png] Bridge ||
 
 ===Misc... (6 - table, 5 columns with linebreaks, icon and description together)===
-<table width="100%" border="1">
-<tr>
-<td align="center">
+<table width="100%" border="1"><tr><td align="center">
 [http://google-maps-icons.googlecode.com/files/fountain.png] 
-<br> Fountain
-</td>
+<br> Fountain</td>
 <td align="center">
 [http://google-maps-icons.googlecode.com/files/monument.png] 
-<br> Monument 
-</td>
+Monument</td>
 <td align="center">
 [http://google-maps-icons.googlecode.com/files/panoramic.png] 
-<br> Panoramic view
+Panoramic view
 </td>
 <td align="center">
 [http://google-maps-icons.googlecode.com/files/worldheritagesite.png] 
@@ -83,9 +79,7 @@
 <br> Ancient temple
 </td>
 <td align="center">&nbsp;</td>
-<td align="center">&nbsp;</td>
-</tr>
-</table>
+<td align="center">&nbsp;</td></tr></table>
 
 
 

@@ -47,45 +47,46 @@
 
 ===Misc... (6 - table, 5 columns with linebreaks, icon and description together)===
 <table width="100%" border="1">
-  <tr>
-    <td align="center">
-	[http://google-maps-icons.googlecode.com/files/fountain.png] 
-	<br> Fountain
-	</td>
-    <td align="center">
-	[http://google-maps-icons.googlecode.com/files/monument.png] 
-	<br> Monument 
-	</td>
-    <td align="center">
-	[http://google-maps-icons.googlecode.com/files/panoramic.png] 
-	<br> Panoramic view
-	</td>
-    <td align="center">
-	[http://google-maps-icons.googlecode.com/files/worldheritagesite.png] 
-	<br> World heritage site
-	</td>
-    <td align="center">
-	[http://google-maps-icons.googlecode.com/files/statue.png] 
-	<br>Statue
-	</td>
-  </tr>
-  <tr>
-    <td align="center">
-	[http://google-maps-icons.googlecode.com/files/lighthouse.png] 
-	<br> Lighthouse
-	</td>
-    <td align="center">
-	[http://google-maps-icons.googlecode.com/files/modernmonument.png] 
-	<br> Modern monument
-	</td>
-    <td align="center">
-	[http://google-maps-icons.googlecode.com/files/ancienttemple.png] 
-	<br> Ancient temple
-	</td>
-    <td align="center">&nbsp;</td>
-    <td align="center">&nbsp;</td>
-  </tr>
+<tr>
+<td align="center">
+[http://google-maps-icons.googlecode.com/files/fountain.png] 
+<br> Fountain
+</td>
+<td align="center">
+[http://google-maps-icons.googlecode.com/files/monument.png] 
+<br> Monument 
+</td>
+<td align="center">
+[http://google-maps-icons.googlecode.com/files/panoramic.png] 
+<br> Panoramic view
+</td>
+<td align="center">
+[http://google-maps-icons.googlecode.com/files/worldheritagesite.png] 
+<br> World heritage site
+</td>
+<td align="center">
+[http://google-maps-icons.googlecode.com/files/statue.png] 
+<br>Statue
+</td>
+</tr>
+<tr>
+<td align="center">
+[http://google-maps-icons.googlecode.com/files/lighthouse.png] 
+<br> Lighthouse
+</td>
+<td align="center">
+[http://google-maps-icons.googlecode.com/files/modernmonument.png] 
+<br> Modern monument
+</td>
+<td align="center">
+[http://google-maps-icons.googlecode.com/files/ancienttemple.png] 
+<br> Ancient temple
+</td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+</tr>
 </table>
+
 
 
 

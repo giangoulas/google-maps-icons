@@ -48,14 +48,8 @@
 ===Misc... (6 - table, 5 columns with linebreaks, icon and description together)===
 
 
-|| [http://google-maps-icons.googlecode.com/files/fountain.png] 
-Fountain || [http://google-maps-icons.googlecode.com/files/monument.png] 
-Monument || [http://google-maps-icons.googlecode.com/files/panoramic.png] 
-Panoramic view || [http://google-maps-icons.googlecode.com/files/worldheritagesite.png] World heritage site || [http://google-maps-icons.googlecode.com/files/statue.png] 
-Statue ||
-|| [http://google-maps-icons.googlecode.com/files/lighthouse.png] 
-Lighthouse ||[http://google-maps-icons.googlecode.com/files/modernmonument.png] 
-Modern monument || [http://google-maps-icons.googlecode.com/files/ancienttemple.png] Ancient temple ||
+|| [http://google-maps-icons.googlecode.com/files/fountain.png] Fountain || [http://google-maps-icons.googlecode.com/files/monument.png] Monument || [http://google-maps-icons.googlecode.com/files/panoramic.png] Panoramic view || [http://google-maps-icons.googlecode.com/files/worldheritagesite.png] World heritage site || [http://google-maps-icons.googlecode.com/files/statue.png] Statue ||
+|| [http://google-maps-icons.googlecode.com/files/lighthouse.png] Lighthouse ||[http://google-maps-icons.googlecode.com/files/modernmonument.png] Modern monument || [http://google-maps-icons.googlecode.com/files/ancienttemple.png] Ancient temple ||
 
 
 ===TODO list / Suggestions===

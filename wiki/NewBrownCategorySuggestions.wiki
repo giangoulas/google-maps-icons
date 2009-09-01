@@ -114,6 +114,7 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Glacier
  * Gondolas
  * Hydro-power Dam
+ * Historical Building
  * Lake
  * Rock
  * Shore

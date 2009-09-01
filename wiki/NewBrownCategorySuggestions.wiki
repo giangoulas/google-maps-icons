@@ -58,7 +58,6 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Yoga
  * Gym
  * Skate Park
- * Barber
  * Bob Sleigh Track
  * Ice Skating
  * Hockey Field

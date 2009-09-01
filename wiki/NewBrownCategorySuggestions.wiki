@@ -18,8 +18,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/laboratory.png]
 [http://google-maps-icons.googlecode.com/files/conference.png]
- * Prison
- * Senior site
+[http://google-maps-icons.googlecode.com/files/prison.png]
+[http://google-maps-icons.googlecode.com/files/seniorsite.png]
  * Community center
 </td><td valign="top" align="left">
 ===<font color="#fc6355">Health & Sports</font> ===
@@ -217,9 +217,9 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/university.png]
 [http://google-maps-icons.googlecode.com/files/library.png]
 [http://google-maps-icons.googlecode.com/files/playground.png]
+[http://google-maps-icons.googlecode.com/files/daycare.png]
  * Private teacher
  * Adult education
- * Day care
  * Summer camp
  * Dog Park
 </td></tr><tr><td valign="top" align="left">
@@ -271,6 +271,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/recycle.png]
 
 [http://google-maps-icons.googlecode.com/files/disability.png]
+[http://google-maps-icons.googlecode.com/files/construction.png]
 </td><td valign="top" align="left">
 ===<font color="#999999" >Events & Weather</font>===
 [http://google-maps-icons.googlecode.com/files/sun.png]

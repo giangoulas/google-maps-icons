@@ -53,9 +53,10 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/hiking.png]
 [http://google-maps-icons.googlecode.com/files/racing.png]
 [http://google-maps-icons.googlecode.com/files/karting.png]
+
+[http://google-maps-icons.googlecode.com/files/vet.png]
  * Yoga
  * Gym
- * Veterinarian
  * Skate Park
  * Barber
  * Bob Sleigh Track

@@ -156,6 +156,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/realestate.png]
 
 [http://google-maps-icons.googlecode.com/files/apartment.png]
+[http://google-maps-icons.googlecode.com/files/family.png]
 </td><td valign="top" align="left">
 ===<font color="#7e55fc">Restaurants & Hotels</font> ===
 [http://google-maps-icons.googlecode.com/files/restaurant.png]

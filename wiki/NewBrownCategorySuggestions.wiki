@@ -20,6 +20,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/conference.png]
 [http://google-maps-icons.googlecode.com/files/prison.png]
 [http://google-maps-icons.googlecode.com/files/seniorsite.png]
+[http://google-maps-icons.googlecode.com/files/workoffice.png]
  * Community center
 </td><td valign="top" align="left">
 ===<font color="#fc6355">Health & Sports</font> ===

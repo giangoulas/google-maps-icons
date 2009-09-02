@@ -5,14 +5,12 @@
 <wiki:toc max_depth="3" />
 
 || [http://google-maps-icons.googlecode.com/files/friends.png] || Friends || || || 
-|| [http://google-maps-icons.googlecode.com/files/home.png] || Home || <font color="#ccc">house, living</font>|| || 
+|| [http://google-maps-icons.googlecode.com/files/home.png] || Home || <font color="#eee">house, living</font>|| || 
 || [http://google-maps-icons.googlecode.com/files/girlfriend.png] || Girlfriend || || || 
-|| [http://google-maps-icons.googlecode.com/files/dates.png] || Dates || <font color="#ccc">lover</font> || || 
+|| [http://google-maps-icons.googlecode.com/files/dates.png] || Dates || <font color="#eee">lover</font> || || 
 || [http://google-maps-icons.googlecode.com/files/realestate.png] || Real estate || || || 
 || [http://google-maps-icons.googlecode.com/files/apartment.png] || Apartement || || || 
 || [http://google-maps-icons.googlecode.com/files/family.png] || Family || || || 
-
-
 
 
 

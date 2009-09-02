@@ -3,12 +3,12 @@
 <font color="#ef9e40" size="5">Education & Kids</font>
 <wiki:toc max_depth="3" />
 
-||[http://google-maps-icons.googlecode.com/files/school.png]||School|| || 
-|| [http://google-maps-icons.googlecode.com/files/university.png]|| University|| || 
-|| [http://google-maps-icons.googlecode.com/files/library.png]|| Library|| || 
-|| [http://google-maps-icons.googlecode.com/files/playground.png]|| Playground|| || 
-|| [http://google-maps-icons.googlecode.com/files/daycare.png]|| Day care|| || 
-|| || Private teacher|| || 
-|| || Adult education|| || 
-|| || Summer camp|| || 
-|| || Dog Park|| || 
+|| [http://google-maps-icons.googlecode.com/files/school.png] || School|| || || 
+|| [http://google-maps-icons.googlecode.com/files/university.png] || University|| || || 
+|| [http://google-maps-icons.googlecode.com/files/library.png] || Library|| || || 
+|| [http://google-maps-icons.googlecode.com/files/playground.png] || Playground|| || || 
+|| [http://google-maps-icons.googlecode.com/files/daycare.png] || Day care|| || || 
+|| || Private teacher|| || || 
+|| || Adult education|| || || 
+|| || Summer camp|| || || 
+|| || Dog Park|| || || 

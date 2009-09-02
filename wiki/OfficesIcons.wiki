@@ -27,3 +27,6 @@ All icons made by Nicolas Mollet, if not specified.
 || [http://google-maps-icons.googlecode.com/files/laboratory.png] || Laboratory || <font color="#888">science</font> ||  ||  
 || [http://google-maps-icons.googlecode.com/files/conference.png] || Conference || <font color="#888">buziness</font> || by [http://www.myBCN.es Matthias Stasiak] ||  
 || [http://google-maps-icons.googlecode.com/files/workoffice.png] || Work office || <font color="#888">buziness</font> ||  ||  
+
+=Requests=
+* Community center

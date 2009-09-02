@@ -29,4 +29,4 @@ All icons made by Nicolas Mollet, if not specified.
 || [http://google-maps-icons.googlecode.com/files/workoffice.png] || Work office || <font color="#888">buziness</font> ||  ||  
 
 =Requests=
-* Community center
+ * Community center

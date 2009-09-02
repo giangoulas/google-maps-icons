@@ -239,33 +239,33 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/stoplight.png]
 [http://google-maps-icons.googlecode.com/files/carrepair.png]
 [http://google-maps-icons.googlecode.com/files/accident.png]
-[http://google-maps-icons.googlecode.com/files/taxi.png]
+[http://google-maps-icons.googlecode.com/files/speed50.png]
 
+[http://google-maps-icons.googlecode.com/files/speed60.png]
+[http://google-maps-icons.googlecode.com/files/speed80.png]
+[http://google-maps-icons.googlecode.com/files/speed90.png]
+[http://google-maps-icons.googlecode.com/files/speed100.png]
+[http://google-maps-icons.googlecode.com/files/speed110.png]
+
+[http://google-maps-icons.googlecode.com/files/speed130.png]
+[http://google-maps-icons.googlecode.com/files/turnleft.png]
+[http://google-maps-icons.googlecode.com/files/turnright.png]
+[http://google-maps-icons.googlecode.com/files/mainroad.png]
+[http://google-maps-icons.googlecode.com/files/stop.png]
+
+[http://google-maps-icons.googlecode.com/files/taxi.png]
 [http://google-maps-icons.googlecode.com/files/bus.png]
 [http://google-maps-icons.googlecode.com/files/airport.png]
 [http://google-maps-icons.googlecode.com/files/port.png]
 [http://google-maps-icons.googlecode.com/files/train.png]
+
 [http://google-maps-icons.googlecode.com/files/cablecar.png]
-
 [http://google-maps-icons.googlecode.com/files/subway.png]
-[http://google-maps-icons.googlecode.com/files/speed50.png]
-[http://google-maps-icons.googlecode.com/files/speed60.png]
-[http://google-maps-icons.googlecode.com/files/speed80.png]
-[http://google-maps-icons.googlecode.com/files/speed90.png]
-
-[http://google-maps-icons.googlecode.com/files/speed100.png]
-[http://google-maps-icons.googlecode.com/files/speed110.png]
-[http://google-maps-icons.googlecode.com/files/speed130.png]
-[http://google-maps-icons.googlecode.com/files/turnleft.png]
-[http://google-maps-icons.googlecode.com/files/turnright.png]
-
-[http://google-maps-icons.googlecode.com/files/mainroad.png]
-[http://google-maps-icons.googlecode.com/files/stop.png]
+[http://google-maps-icons.googlecode.com/files/customs.png]
  * Rent a car
  * Helicopter base
  * Sail boat
  * Toll station
- * Customs
 </td><td valign="top" align="left">
 
 ===<font color="#9e7151" >Miscellaneous</font>===
@@ -301,7 +301,6 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/radiation.png]
 
 (last 5 by [http://www.umapper.com UMapper])
-
  * Tornado
  * Wind
  * Snow

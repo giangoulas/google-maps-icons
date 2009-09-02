@@ -14,6 +14,7 @@
 || [http://google-maps-icons.googlecode.com/files/prison.png] || Prison || <font color="#888">crime</font> ||  ||  
 || [http://google-maps-icons.googlecode.com/files/seniorsite.png] || Senior site  || <font color="#888">senior</font> ||  ||  
 
+---
 
 =Private offices=
 || [http://google-maps-icons.googlecode.com/files/bank.png] || Bank || <font color="#888">buziness, money</font> ||  ||  
@@ -23,5 +24,3 @@
 || [http://google-maps-icons.googlecode.com/files/laboratory.png] || Laboratory ||  ||  ||  
 || [http://google-maps-icons.googlecode.com/files/conference.png] || Conference || <font color="#888">buziness</font> || by [http://www.myBCN.es Matthias Stasiak] ||  
 || [http://google-maps-icons.googlecode.com/files/workoffice.png] || Work office || <font color="#888">buziness</font> ||  ||  
-
-

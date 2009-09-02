@@ -3,7 +3,7 @@
 <font color="#5781fc" size="5">Administration & Offices icons</font>
 
 <wiki:toc max_depth="3" />
-=City services=
+<br>=City services=
 
 || [http://google-maps-icons.googlecode.com/files/police.png] || Police  || <font color="#888">citizen protection</font> ||  ||  
 || [http://google-maps-icons.googlecode.com/files/firemen.png] || Firemen || <font color="#888">citizen protection</font> ||  ||  

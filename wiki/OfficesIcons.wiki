@@ -3,6 +3,8 @@
 <font color="#5781fc" size="5">Administration & Offices icons</font>
 
 <wiki:toc max_depth="3" />
+
+All icons made by Nicolas Mollet, if not specified.
 <br>
 =City services=
 

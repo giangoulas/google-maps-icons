@@ -23,17 +23,17 @@ Download the template files :
 
 ... start adding your designs following theses rules written by Matthias :
 
-===The Templates===
+==The Templates==
 Templates with the official Set Colors, the frame and the transparent background can
 be found attached below.
 
-===About Transparency===
+==About Transparency==
 You also need to understand how to work with semi-transparent pixels, like in the
 pixels surrounding the icon frame. This to be able to create the icons looking a bit
 softer and with more detail then if you paint them with 100% color. An example Layer
 with lots of semi-transparent pixels is provided with the Canoe icon.
 
-===About Layers===
+==About Layers==
 You need to understand the principles of working with Layers, like the Layers you
 find in the templates below. Key to the icons designed by me is the Layer Blending
 Mode found under Layer Properties in Paint.NET.  Icon sybols are never drawn on a
@@ -41,7 +41,7 @@ background color, always in their own layer as in the attached Templates. This f
 many reasons but most importantly to be able to easily be able change the background
 color.
 
-===Some Basic Rules===
+==Some Basic Rules==
 The size of the inner icon symbol should never be bigger then 20x20 pixels. Use
 common sense with size, a midget needs to be smaller than a gigant even if they look
 similar in basic shape. White pixels on the Set standard background is the color for

@@ -1,4 +1,14 @@
 #labels Featured
+
+*8th of August, 2009* ::: 6 new icons : aquarium, zoo, agriculture, canoe, theme park, synagogue. Three of them are from [http://www.myBCN.es Matthias Stasiak].
+
+[http://google-maps-icons.googlecode.com/files/zoo.png]
+[http://google-maps-icons.googlecode.com/files/synagogue.png]
+[http://google-maps-icons.googlecode.com/files/agriculture.png]
+[http://google-maps-icons.googlecode.com/files/canoe.png]
+[http://google-maps-icons.googlecode.com/files/aquarium.png]
+[http://google-maps-icons.googlecode.com/files/themepark.png]
+
 *5th of August ::: big update with 26 new icons :::
 
  * Pool Hall, 

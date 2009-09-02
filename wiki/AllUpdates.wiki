@@ -1,5 +1,4 @@
 #labels Featured
-
 *8th of August, 2009* ::: 6 new icons : aquarium, zoo, agriculture, canoe, theme park, synagogue. Three of them are from [http://www.myBCN.es Matthias Stasiak].
 
 [http://google-maps-icons.googlecode.com/files/zoo.png]
@@ -9,7 +8,7 @@
 [http://google-maps-icons.googlecode.com/files/aquarium.png]
 [http://google-maps-icons.googlecode.com/files/themepark.png]
 
-*5th of August ::: big update with 26 new icons :::
+*5th of August, 2009 ::: big update with 26 new icons :::
 
  * Pool Hall, 
  * 12 types of restaurants (african, fish&chips, gourmet, greek, indian, italian, kebab, korean, mediterranean, mexican, thai, turkish). Made possible with the donation of Adam of [http://www.mellowfish.com Mellowfish],

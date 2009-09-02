@@ -1,0 +1,27 @@
+#sidebar tocIcons
+
+<font color="#5781fc" size="5">Administration & Offices icons</font>
+
+<wiki:toc max_depth="3" />
+=City services=
+
+|| [http://google-maps-icons.googlecode.com/files/police.png] || Police  || <font color="#888">citizen protection</font> ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/firemen.png] || Firemen || <font color="#888">citizen protection</font> ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/justice.png] || Justice ||  ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/postal.png] || Postal office ||  ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/military.png] || Military base || <font color="#888">citizen protection</font> ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/administration.png] || Administration ||  ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/prison.png] || Prison || <font color="#888">crime</font> ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/seniorsite.png] || Senior site  || <font color="#888">senior</font> ||  ||  
+
+
+=Private offices=
+|| [http://google-maps-icons.googlecode.com/files/bank.png] || Bank || <font color="#888">buziness, money</font> ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/findajob.png] || Find a job ||  ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/company.png] || Company || <font color="#888">buziness, money</font> ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/factory.png] || Factory ||  ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/laboratory.png] || Laboratory ||  ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/conference.png] || Conference || <font color="#888">buziness</font> || by [http://www.myBCN.es Matthias Stasiak] ||  
+|| [http://google-maps-icons.googlecode.com/files/workoffice.png] || Work office || <font color="#888">buziness</font> ||  ||  
+
+

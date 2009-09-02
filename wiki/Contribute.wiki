@@ -1,10 +1,6 @@
 #labels Featured
 You can help contribute on the project in different ways :
- * Suggesting new icons
- * Help organizing the categories
- * Design new icons
- * Share your icons
-
+<wiki:toc max_depth="1" />
 
 =Suggesting new icons=
 Check out the [http://code.google.com/p/google-maps-icons/issues/list others suggestions we are currently working on]. 

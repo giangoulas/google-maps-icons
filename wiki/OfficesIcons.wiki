@@ -14,7 +14,7 @@
 || [http://google-maps-icons.googlecode.com/files/prison.png] || Prison || <font color="#888">crime</font> ||  ||  
 || [http://google-maps-icons.googlecode.com/files/seniorsite.png] || Senior site  || <font color="#888">senior</font> ||  ||  
 
-----
+<br>
 
 =Private offices=
 || [http://google-maps-icons.googlecode.com/files/bank.png] || Bank || <font color="#888">buziness, money</font> ||  ||  

@@ -1,0 +1,20 @@
+#sidebar tocIcons
+
+<font color="fcf357" size="5">Friends & Family & Real Estate icons</font>
+
+<wiki:toc max_depth="3" />
+
+|| [http://google-maps-icons.googlecode.com/files/friends.png] || Friends || || || 
+|| [http://google-maps-icons.googlecode.com/files/home.png] || Home || || || 
+|| [http://google-maps-icons.googlecode.com/files/girlfriend.png] || Girlfriend || || || 
+|| [http://google-maps-icons.googlecode.com/files/dates.png] || Dates || || || 
+|| [http://google-maps-icons.googlecode.com/files/realestate.png] || Real estate || || || 
+|| [http://google-maps-icons.googlecode.com/files/apartment.png] || Apartement || || || 
+|| [http://google-maps-icons.googlecode.com/files/family.png] || Family || || || 
+
+
+
+
+
+
+

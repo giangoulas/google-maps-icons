@@ -1,6 +1,6 @@
 #labels Featured
 You can help contribute on the project in different ways :
-<wiki:toc max_depth="1" />
+<wiki:toc max_depth="3" />
 
 =Suggesting new icons=
 Check out the [http://code.google.com/p/google-maps-icons/issues/list others suggestions we are currently working on]. 
@@ -8,11 +8,11 @@ Check out the [http://code.google.com/p/google-maps-icons/issues/list others sug
 [http://code.google.com/p/google-maps-icons/issues/entry Add a suggestion]
 
 
-=Help organizing the categories=
+=Organizing the categories=
 The [NewBrownCategorySuggestions working in progress page], shows the future icon organizations, and suggestions. 
 
 
-=Design new icons=
+=Designing new icons=
 
 We use either Photoshop or Paint.net to create icons.
 Download the template files :

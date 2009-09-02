@@ -18,7 +18,6 @@ All icons made by Nicolas Mollet, if not specified.
 || [http://google-maps-icons.googlecode.com/files/seniorsite.png] || Senior site  || <font color="#888">senior</font> ||  ||  
 
 <br>
-
 =Private offices=
 || [http://google-maps-icons.googlecode.com/files/bank.png] || Bank || <font color="#888">buziness, money</font> ||  ||  
 || [http://google-maps-icons.googlecode.com/files/findajob.png] || Find a job ||  ||  ||  
@@ -28,5 +27,6 @@ All icons made by Nicolas Mollet, if not specified.
 || [http://google-maps-icons.googlecode.com/files/conference.png] || Conference || <font color="#888">buziness</font> || by [http://www.myBCN.es Matthias Stasiak] ||  
 || [http://google-maps-icons.googlecode.com/files/workoffice.png] || Work office || <font color="#888">buziness</font> ||  ||  
 
+<br>
 =Requests=
  * Community center

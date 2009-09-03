@@ -224,6 +224,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/library.png]
 [http://google-maps-icons.googlecode.com/files/playground.png]
 [http://google-maps-icons.googlecode.com/files/daycare.png]
+
+[http://google-maps-icons.googlecode.com/files/nanny.png]
  * Private teacher
  * Adult education
  * Summer camp

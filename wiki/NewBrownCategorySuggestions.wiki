@@ -258,8 +258,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/stop.png]
 [http://google-maps-icons.googlecode.com/files/speed50.png]
 [http://google-maps-icons.googlecode.com/files/speed60.png]
-
 [http://google-maps-icons.googlecode.com/files/speed80.png]
+
 [http://google-maps-icons.googlecode.com/files/speed90.png]
 [http://google-maps-icons.googlecode.com/files/speed100.png]
 [http://google-maps-icons.googlecode.com/files/speed110.png]
@@ -321,6 +321,9 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/planecrash.png]
 [http://google-maps-icons.googlecode.com/files/explosion.png]
 [http://google-maps-icons.googlecode.com/files/radiation.png]
+
+[http://google-maps-icons.googlecode.com/files/revolution.png]
+[http://google-maps-icons.googlecode.com/files/bomb.png]
 
 (last 5 by [http://www.umapper.com UMapper])
  * Tornado

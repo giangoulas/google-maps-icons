@@ -186,14 +186,14 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/restaurantturkish.png]
 [http://google-maps-icons.googlecode.com/files/bar.png]
 [http://google-maps-icons.googlecode.com/files/coffee.png]
-[http://google-maps-icons.googlecode.com/files/hotel.png]
-
 [http://google-maps-icons.googlecode.com/files/bread.png]
+
 [http://google-maps-icons.googlecode.com/files/icecream.png]
 [http://google-maps-icons.googlecode.com/files/winery.png]
+[http://google-maps-icons.googlecode.com/files/hotel.png]
+[http://google-maps-icons.googlecode.com/files/resort.png]
  * Youth Hostel
  * Steakhouse
- * Resort
 </td><td valign="top" align="left">
 ===<font color="#e14f9e">Culture & Entertainment</font>===
 [http://google-maps-icons.googlecode.com/files/cinema.png]

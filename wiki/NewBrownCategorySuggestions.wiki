@@ -21,6 +21,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/prison.png]
 [http://google-maps-icons.googlecode.com/files/seniorsite.png]
 [http://google-maps-icons.googlecode.com/files/workoffice.png]
+
+[http://google-maps-icons.googlecode.com/files/powerplant.png]
  * Community center
 </td><td valign="top" align="left">
 ===<font color="#fc6355">Health & Sports</font> ===
@@ -240,43 +242,47 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/truck.png]
 [http://google-maps-icons.googlecode.com/files/cycling.png]
 
+[http://google-maps-icons.googlecode.com/files/vespa.png]
+[http://google-maps-icons.googlecode.com/files/sailboat.png]
+[http://google-maps-icons.googlecode.com/files/hotairballoon.png]
 [http://google-maps-icons.googlecode.com/files/car.png]
 [http://google-maps-icons.googlecode.com/files/highway.png]
+
 [http://google-maps-icons.googlecode.com/files/parking.png]
 [http://google-maps-icons.googlecode.com/files/gazstation.png]
 [http://google-maps-icons.googlecode.com/files/stoplight.png]
-
 [http://google-maps-icons.googlecode.com/files/carrepair.png]
 [http://google-maps-icons.googlecode.com/files/accident.png]
+
 [http://google-maps-icons.googlecode.com/files/mainroad.png]
 [http://google-maps-icons.googlecode.com/files/stop.png]
 [http://google-maps-icons.googlecode.com/files/speed50.png]
-
 [http://google-maps-icons.googlecode.com/files/speed60.png]
+
 [http://google-maps-icons.googlecode.com/files/speed80.png]
 [http://google-maps-icons.googlecode.com/files/speed90.png]
 [http://google-maps-icons.googlecode.com/files/speed100.png]
 [http://google-maps-icons.googlecode.com/files/speed110.png]
-
 [http://google-maps-icons.googlecode.com/files/speed130.png]
+
 [http://google-maps-icons.googlecode.com/files/left.png]
 [http://google-maps-icons.googlecode.com/files/upthenleft.png]
 [http://google-maps-icons.googlecode.com/files/upleft.png]
 [http://google-maps-icons.googlecode.com/files/leftthenup.png]
-
 [http://google-maps-icons.googlecode.com/files/up.png]
+
 [http://google-maps-icons.googlecode.com/files/rightthenup.png]
 [http://google-maps-icons.googlecode.com/files/upright.png]
 [http://google-maps-icons.googlecode.com/files/upthenright.png]
 [http://google-maps-icons.googlecode.com/files/right.png]
-
 [http://google-maps-icons.googlecode.com/files/downthenright.png]
+
 [http://google-maps-icons.googlecode.com/files/downright.png]
 [http://google-maps-icons.googlecode.com/files/rightthendown.png]
 [http://google-maps-icons.googlecode.com/files/down.png]
 [http://google-maps-icons.googlecode.com/files/leftthendown.png]
-
 [http://google-maps-icons.googlecode.com/files/downleft.png]
+
 [http://google-maps-icons.googlecode.com/files/downthenleft.png]
  * Rent a car
  * Helicopter base

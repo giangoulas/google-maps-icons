@@ -55,6 +55,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/karting.png]
 
 [http://google-maps-icons.googlecode.com/files/vet.png]
+[http://google-maps-icons.googlecode.com/files/hairsalon.png]
  * Yoga
  * Gym
  * Skate Park
@@ -148,8 +149,6 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/shoppingmall.png]
 [http://google-maps-icons.googlecode.com/files/bookstore.png]
 [http://google-maps-icons.googlecode.com/files/phones.png]
-
-[http://google-maps-icons.googlecode.com/files/hairsalon.png]
 </td></tr><tr><td valign="top" align="left">
 ===<font color="#fcf357">Friends & Family & Real Estate</font>===
 [http://google-maps-icons.googlecode.com/files/friends.png]

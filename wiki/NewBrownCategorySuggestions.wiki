@@ -301,6 +301,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/disability.png]
 [http://google-maps-icons.googlecode.com/files/construction.png]
+ * Smoking area
 </td><td valign="top" align="left">
 ===<font color="#999999" >Events & Weather</font>===
 [http://google-maps-icons.googlecode.com/files/sun.png]

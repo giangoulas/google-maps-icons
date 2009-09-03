@@ -120,6 +120,7 @@ I am actually thinking in introducing new colors, new categories to the already 
  * Hydro-power Dam
  * Historical Building
  * Lake
+ * Pyramid
  * Rock
  * Shore
  * Square

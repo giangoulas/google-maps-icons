@@ -288,7 +288,6 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/downthenleft.png]
  * Rent a car
  * Helicopter base
- * Sail boat
  * Toll station
 </td><td valign="top" align="left">
 

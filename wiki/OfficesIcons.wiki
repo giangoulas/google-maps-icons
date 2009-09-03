@@ -4,7 +4,7 @@
 
 <wiki:toc max_depth="3" />
 
-All icons made by Nicolas Mollet, if not specified.
+All icons made by Nicolas Mollet, unless specified.
 <br>
 =City services=
 
@@ -20,10 +20,10 @@ All icons made by Nicolas Mollet, if not specified.
 <br>
 =Private offices=
 || [http://google-maps-icons.googlecode.com/files/bank.png] || Bank || <font color="#888">buziness, money</font> ||  ||  
-|| [http://google-maps-icons.googlecode.com/files/findajob.png] || Find a job ||  ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/findajob.png] || Find a job || <font color="#888">employment</font> ||  ||  
 || [http://google-maps-icons.googlecode.com/files/company.png] || Company || <font color="#888">buziness, money</font> ||  ||  
-|| [http://google-maps-icons.googlecode.com/files/factory.png] || Factory ||  ||  ||  
-|| [http://google-maps-icons.googlecode.com/files/laboratory.png] || Laboratory || <font color="#888">science</font> ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/factory.png] || Factory || <font color="#888">industrial</font> ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/laboratory.png] || Laboratory || <font color="#888">science, experiments</font> ||  ||  
 || [http://google-maps-icons.googlecode.com/files/conference.png] || Conference || <font color="#888">buziness</font> || by [http://www.myBCN.es Matthias Stasiak] ||  
 || [http://google-maps-icons.googlecode.com/files/workoffice.png] || Work office || <font color="#888">buziness</font> ||  ||  
 

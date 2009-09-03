@@ -336,7 +336,6 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/photodownleft.png]
 
 [http://google-maps-icons.googlecode.com/files/photoleft.png]
-[http://google-maps-icons.googlecode.com/files/photoleft.png]
 [http://google-maps-icons.googlecode.com/files/photoupleft.png]
 
 </td></tr></table>

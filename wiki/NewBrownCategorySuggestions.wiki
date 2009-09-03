@@ -325,8 +325,20 @@ I am actually thinking in introducing new colors, new categories to the already 
 ===<font color="#0337D1" >Media</font>===
 [http://google-maps-icons.googlecode.com/files/video.png]
 [http://google-maps-icons.googlecode.com/files/audio.png]
-[http://google-maps-icons.googlecode.com/files/photo.png]
 [http://google-maps-icons.googlecode.com/files/text.png]
+[http://google-maps-icons.googlecode.com/files/photo.png]
+[http://google-maps-icons.googlecode.com/files/photoup.png]
+
+[http://google-maps-icons.googlecode.com/files/photoupright.png]
+[http://google-maps-icons.googlecode.com/files/photoright.png]
+[http://google-maps-icons.googlecode.com/files/photodownright.png]
+[http://google-maps-icons.googlecode.com/files/photodown.png]
+[http://google-maps-icons.googlecode.com/files/photodownleft.png]
+
+[http://google-maps-icons.googlecode.com/files/photoleft.png]
+[http://google-maps-icons.googlecode.com/files/photoleft.png]
+[http://google-maps-icons.googlecode.com/files/photoupleft.png]
+
 </td></tr></table>
 
 Any suggestion is welcome on this subject, I haven't decided anything yet.

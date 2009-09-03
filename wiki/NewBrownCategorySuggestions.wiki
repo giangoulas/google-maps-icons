@@ -327,6 +327,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/revolution.png]
 [http://google-maps-icons.googlecode.com/files/bomb.png]
+[http://google-maps-icons.googlecode.com/files/strike.png]
 
 (last 5 by [http://www.umapper.com UMapper])
  * Tornado

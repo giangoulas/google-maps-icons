@@ -46,7 +46,7 @@
 || [http://google-maps-icons.googlecode.com/files/park.png] Park || [http://google-maps-icons.googlecode.com/files/camping.png] Camping || [http://google-maps-icons.googlecode.com/files/olympicsite.png] Olympic site || [http://google-maps-icons.googlecode.com/files/picnic.png] Picnic || [http://google-maps-icons.googlecode.com/files/bridge.png] Bridge ||
 
 || [http://google-maps-icons.googlecode.com/files/park.png] <br>*Park* <br><font color="#777">nature, forest</font>|| [http://google-maps-icons.googlecode.com/files/camping.png] <br>*Camping*<br><font color="#777"></font> || [http://google-maps-icons.googlecode.com/files/olympicsite.png] <br>*Olympic site*<br><font color="#777">sport</font> || [http://google-maps-icons.googlecode.com/files/picnic.png] <br>*Picnic* <br><font color="#777">food</font>|| [http://google-maps-icons.googlecode.com/files/bridge.png] <br>*Bridge*<br><font color="#777">water, river</font>||
-
+|| [http://google-maps-icons.googlecode.com/files/olympicsite.png] <br>*Olympic site*<br><font color="#777">sport</font> || [http://google-maps-icons.googlecode.com/files/picnic.png] <br>*Picnic* <br><font color="#777">food</font>|| [http://google-maps-icons.googlecode.com/files/park.png] <br>*Park* <br><font color="#777">nature, forest</font>|| [http://google-maps-icons.googlecode.com/files/camping.png] <br>*Camping*<br><font color="#777"></font> || [http://google-maps-icons.googlecode.com/files/bridge.png] <br>*Bridge*<br><font color="#777">water, river</font>||
 
 
 

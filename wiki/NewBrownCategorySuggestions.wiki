@@ -156,6 +156,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/shoppingmall.png]
 [http://google-maps-icons.googlecode.com/files/bookstore.png]
 [http://google-maps-icons.googlecode.com/files/phones.png]
+ * Video rentals
+
 </td></tr><tr><td valign="top" align="left">
 ===<font color="#fcf357">Friends & Family & Real Estate</font>===
 [http://google-maps-icons.googlecode.com/files/friends.png]
@@ -296,7 +298,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/downthenleft.png]
  * Rent a car
  * Helicopter base
- * Toll station
+ * Car wash
 </td><td valign="top" align="left">
 
 ===<font color="#9e7151" >Miscellaneous</font>===

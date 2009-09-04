@@ -1,6 +1,6 @@
 #sidebar tocIcons
 
-<font color="#00e13c" size="4">*Tourism & Nature icons*</font>
+<font color="#00e13c" size="5">*Tourism & Nature icons*</font>
 
 <wiki:toc max_depth="3" />
 

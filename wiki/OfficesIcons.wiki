@@ -19,8 +19,12 @@ All icons made by Nicolas Mollet, unless specified.
 
 <font color="#ffffff" size="1">sport</font>
 </td><td>
-aaa
 
+[http://google-maps-icons.googlecode.com/files/firemen.png] 
+
+*Firemen*
+
+<font color="#777777" size="1">citizen protection</font>
 
 </td></tr></table>
 

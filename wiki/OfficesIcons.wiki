@@ -15,7 +15,7 @@ All icons made by Nicolas Mollet, unless specified.
 
 [http://google-maps-icons.googlecode.com/files/police.png] 
 
-*Police*<br>
+*Police*
 
 <font color="#777777" size="1">citizen protection</font>
 

@@ -4,10 +4,6 @@
 
 <wiki:toc max_depth="3" />
 
-|| [http://google-maps-icons.googlecode.com/files/friends.png] || Friends || || || 
-|| [http://google-maps-icons.googlecode.com/files/home.png] || Home || <font color="#888">house, living</font>|| || 
-|| [http://google-maps-icons.googlecode.com/files/girlfriend.png] || Girlfriend || || || 
-|| [http://google-maps-icons.googlecode.com/files/dates.png] || Dates || <font color="#888">lover</font> || || 
-|| [http://google-maps-icons.googlecode.com/files/realestate.png] || Real estate || || || 
-|| [http://google-maps-icons.googlecode.com/files/apartment.png] || Apartement || || || 
-|| [http://google-maps-icons.googlecode.com/files/family.png] || Family || || || 
+|| [http://google-maps-icons.googlecode.com/files/friends.png] <br> *Friends*<br><font color="#777777*" size="1">house, living</font> || [http://google-maps-icons.googlecode.com/files/home.png] <br>*Home*<br><font color="#777777*" size="1">house, living</font>|| [http://google-maps-icons.googlecode.com/files/girlfriend.png]<br>*Girlfriend*<font color="#777777*" size="1">house, living</font>
+|| [http://google-maps-icons.googlecode.com/files/dates.png] <br>*Dates* <br><font color="#777777" size="1">love</font> ||  [http://google-maps-icons.googlecode.com/files/realestate.png]<br>*Real estate* <br><font color="#777777*" size="1">house</font>
+|| [http://google-maps-icons.googlecode.com/files/apartment.png] <br>*Apartement*<br><font color="#777777*" size="1">house</font>|| [http://google-maps-icons.googlecode.com/files/family.png] <br>*Family*<br><font color="#777777*" size="1">house, living</font>||

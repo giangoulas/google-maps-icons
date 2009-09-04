@@ -17,25 +17,21 @@
 || [http://google-maps-icons.googlecode.com/files/church.png] <br>*Church* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cemetary.png]  <br>*Cemetary* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/mosque.png]  <br>*Mosque* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cathedral.png]  <br>* Cathedral* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/synagogue.png]  <br>* Synagogue* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 || [http://google-maps-icons.googlecode.com/files/chapel.png]  <br>* Chapel* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
-
-<br>
-=Agriculture=
+=<br><font size="3">Agriculture</font>=
 
 || [http://google-maps-icons.googlecode.com/files/farm.png] <br>*Farm* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/agriculture.png]<br>* Agriculture field* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/windmill.png] <br>*Windmill* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/wineyard.png] <br>*Wineyard* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
-<br>
-=Monuments=
+=<br><font size="3">Monuments</font>=
 
 || [http://google-maps-icons.googlecode.com/files/bridge.png] <br>*Bridge* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/fountain.png] <br>* Fountain* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/monument.png] <br>*Monument* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/worldheritagesite.png] <br> *World heritage site* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/statue.png] <br>*Statue* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 || [http://google-maps-icons.googlecode.com/files/lighthouse.png] <br> *Lighthouse* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/modernmonument.png] <br> *Modern monument* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/ancienttemple.png] <br> *Ancient temple* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/arch.png] <br>*Arch* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>
 
-<br>
-=Misc=
+=<br><font size="3">Misc</font>=
 
 || [http://google-maps-icons.googlecode.com/files/park.png] <br>*Park* <br><font color="#777777" size="1">nature, forest</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/camping.png] <br>*Camping <br><font color="#777777" size="1">food</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/olympicsite.png] <br>*Olympic site* <br><font color="#777777" size="1">sport</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/picnic.png] <br>*Picnic* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/panoramic.png] <br>*Panoramic view* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
+=<br><font size="3">Requests</font>=
 
-=Requests=
  * Arch/Gate
  * Camping (tents)
  * Coal mine

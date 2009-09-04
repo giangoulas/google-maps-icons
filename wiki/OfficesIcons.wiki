@@ -13,7 +13,7 @@ All icons made by Nicolas Mollet, unless specified.
 
 <table><tr><td>
 
-
+[http://google-maps-icons.googlecode.com/files/police.png] 
 *Police  * 
 
 <font color="#ffffff" size="1">sport</font>

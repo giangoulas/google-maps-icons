@@ -12,7 +12,7 @@ All icons made by Nicolas Mollet, unless specified.
 || [http://google-maps-icons.googlecode.com/files/administration.png] <br>*Administration* <br><font color="#777777" size="1">papers</font>|| [http://google-maps-icons.googlecode.com/files/prison.png] <br>*Prison *<br><font color="#777777" size="1">crime</font> || [http://google-maps-icons.googlecode.com/files/seniorsite.png] <br>*Senior site*<br><font color="#777777" size="1">senior</font> || [http://google-maps-icons.googlecode.com/files/powerplant.png] <br>*Powerplant*<br><font color="#777777" size="1">nuclear, power, industrial</font> || ||
 
 <table><tr><td>
-[http://google-maps-icons.googlecode.com/files/police.png] 
+
 
 *Police  * 
 

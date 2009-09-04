@@ -11,7 +11,7 @@ All icons made by Nicolas Mollet, unless specified.
 || [http://google-maps-icons.googlecode.com/files/police.png] <br>*Police  * <br><font color="#777777" size="1">citizen protection</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/firemen.png] <br>*Firemen*<br><font color="#777777" size="1">citizen protection</font><br><font color="#ffffff" size="1">----------------------------------------</font> || [http://google-maps-icons.googlecode.com/files/justice.png] <br>*Justice *<br><font color="#777777" size="1"></font><br><br><font color="#ffffff" size="1">----------------------------------------</font> || [http://google-maps-icons.googlecode.com/files/postal.png] <br>*Postal office* <br><font color="#777777" size="1">papers</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/military.png] <br>*Military base*<br><font color="#777777" size="1">citizen protection</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 || [http://google-maps-icons.googlecode.com/files/administration.png] <br>*Administration* <br><font color="#777777" size="1">papers</font>|| [http://google-maps-icons.googlecode.com/files/prison.png] <br>*Prison *<br><font color="#777777" size="1">crime</font> || [http://google-maps-icons.googlecode.com/files/seniorsite.png] <br>*Senior site*<br><font color="#777777" size="1">senior</font> || [http://google-maps-icons.googlecode.com/files/powerplant.png] <br>*Powerplant*<br><font color="#777777" size="1">nuclear, power, industrial</font> || ||
 
-<table><tr><td>
+<table><tr><td valign="top" width="150">
 
 [http://google-maps-icons.googlecode.com/files/police.png] 
 
@@ -19,7 +19,7 @@ All icons made by Nicolas Mollet, unless specified.
 
 <font color="#777777" size="1">citizen protection</font>
 
-</td><td>
+</td><td valign="top" width="150">
 
 [http://google-maps-icons.googlecode.com/files/firemen.png] 
 
@@ -27,7 +27,7 @@ All icons made by Nicolas Mollet, unless specified.
 
 <font color="#777777" size="1">citizen protection</font>
 
-</td><td>
+</td><td valign="top" width="150">
 
 [http://google-maps-icons.googlecode.com/files/justice.png] 
 
@@ -35,7 +35,7 @@ All icons made by Nicolas Mollet, unless specified.
 
 <font color="#777777" size="1"></font>
 
-</td><td>
+</td><td valign="top" width="150">
 
 [http://google-maps-icons.googlecode.com/files/postal.png]
 
@@ -43,7 +43,7 @@ All icons made by Nicolas Mollet, unless specified.
 
 <font color="#777777" size="1">papers</font>
 
-</td><td>
+</td><td valign="top" width="150">
 
 [http://google-maps-icons.googlecode.com/files/military.png]
 
@@ -51,7 +51,7 @@ All icons made by Nicolas Mollet, unless specified.
 
 <font color="#777777" size="1">citizen protection</font>
 
-</td></tr><tr><td>
+</td></tr><tr><td valign="top" width="150">
 
 [http://google-maps-icons.googlecode.com/files/administration.png]
 
@@ -59,7 +59,7 @@ All icons made by Nicolas Mollet, unless specified.
 
 <font color="#777777" size="1">papers</font>
 
-</td><td>
+</td><td valign="top" width="150">
 
 [http://google-maps-icons.googlecode.com/files/prison.png]
 
@@ -67,7 +67,7 @@ All icons made by Nicolas Mollet, unless specified.
 
 <font color="#777777" size="1">crime</font>
 
-</td><td>
+</td><td valign="top" width="150">
 
 [http://google-maps-icons.googlecode.com/files/seniorsite.png]
 
@@ -75,7 +75,7 @@ All icons made by Nicolas Mollet, unless specified.
 
 <font color="#777777" size="1">senior</font>
 
-</td><td>
+</td><td valign="top" width="150">
 
 [http://google-maps-icons.googlecode.com/files/powerplant.png]
 
@@ -83,7 +83,7 @@ All icons made by Nicolas Mollet, unless specified.
 
 <font color="#777777" size="1">nuclear, power, industrial</font>
 
-</td><td>
+</td><td valign="top" width="150">
 
 
 

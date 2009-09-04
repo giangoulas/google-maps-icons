@@ -1,6 +1,7 @@
 =Others ressources=
 
 ===Red Green Blue numeric balloon icons from 1 to 25===
+[http://google-maps-icons.googlecode.com/files/brennan.png]
 
 http://google-maps-icons.googlecode.com/files/red-green-blue-numeric-1-25.zip Zip package]
 

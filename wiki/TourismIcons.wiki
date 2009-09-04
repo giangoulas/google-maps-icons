@@ -3,7 +3,6 @@
 <font color="#00e13c" size="5">*Tourism & Nature icons*</font>
 <wiki:toc max_depth="3" />
 
-
 =<br><font size="3">Natural marvels</font>=
 || [http://google-maps-icons.googlecode.com/files/beach.png] <br>*Beach* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/animals.png] <br>*Wild animals* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/beautiful.png] <br>*Beautiful place* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font> ||
 

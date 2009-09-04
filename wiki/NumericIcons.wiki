@@ -15,3 +15,9 @@ Made by [http://brennan.offwhite.net/blog/2005/07/23/new-google-maps-icons-free/
 [http://google-maps-icons.googlecode.com/files/lettered-A-Z-10-colors.zip Zip package] 
 
 Made by [http://www.benjaminkeen.com/?p=105 Benjamin Keen]
+
+
+===Google icons===
+
+http://www.google.com/mapfiles/markerA.png
+http://www.google.com/mapfiles/markerZ.png

@@ -27,59 +27,19 @@
 
 || [http://google-maps-icons.googlecode.com/files/farm.png] <br>*Farm* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/agriculture.png]<br>* Agriculture field* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/windmill.png] <br>*Windmill* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/wineyard.png] <br>*Wineyard* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
+<br>
+=Monuments=
+
+|| [http://google-maps-icons.googlecode.com/files/bridge.png] <br>*Bridge* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/fountain.png] <br>* Fountain* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/monument.png] <br>*Monument* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/worldheritagesite.png] <br> *World heritage site* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/statue.png] <br>*Statue* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
+|| [http://google-maps-icons.googlecode.com/files/lighthouse.png] <br> *Lighthouse* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/modernmonument.png] <br> *Modern monument* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/ancienttemple.png] <br> *Ancient temple* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
 <br>
 =Misc=
 
-*5.1/*
-|| [http://google-maps-icons.googlecode.com/files/park.png] Park || [http://google-maps-icons.googlecode.com/files/camping.png] Camping || [http://google-maps-icons.googlecode.com/files/olympicsite.png] Olympic site || [http://google-maps-icons.googlecode.com/files/picnic.png] Picnic || [http://google-maps-icons.googlecode.com/files/bridge.png] Bridge ||
-
-*5.2/*
-
-|| [http://google-maps-icons.googlecode.com/files/park.png] <br>*Park* <br><font color="#777" size="1">nature, forest</font>|| [http://google-maps-icons.googlecode.com/files/camping.png] <br>*Camping*<br><br><font color="#777" size="1"></font> || [http://google-maps-icons.googlecode.com/files/olympicsite.png] <br>*Olympic site*<br><font color="#777" size="1">sport</font> || [http://google-maps-icons.googlecode.com/files/picnic.png] <br>*Picnic* <br><font color="#777" size="1">food</font>|| [http://google-maps-icons.googlecode.com/files/bridge.png] <br>*Bridge*<br><font color="#777" size="1">water, river</font>||
-|| [http://google-maps-icons.googlecode.com/files/olympicsite.png] <br>*Olympic site*<br><font color="#777" size="1">sport</font> || [http://google-maps-icons.googlecode.com/files/picnic.png] <br>*Picnic* <br><font color="#777" size="1">food</font>|| [http://google-maps-icons.googlecode.com/files/park.png] <br>*Park* <br><font color="#777" size="1">nature, forest</font>|| [http://google-maps-icons.googlecode.com/files/camping.png] <br>*Camping*<br><br><font color="#777" size="1"></font> || [http://google-maps-icons.googlecode.com/files/bridge.png] <br>*Bridge*<br><font color="#777" size="1">water, river</font>||
+|| [http://google-maps-icons.googlecode.com/files/park.png] <br>*Park* <br><font color="#777777" size="1">nature, forest</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/camping.png] <br>*Camping <br><font color="#777777" size="1">food</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/olympicsite.png] <br>*Olympic site* <br><font color="#777777" size="1">sport</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/picnic.png] <br>*Picnic* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/panoramic.png] <br>*Panoramic view* <br><font color="#777777" size="1">water, river</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
 
-
-===Misc... (6 - table, 5 columns with linebreaks, icon and description together)===
-<table width="100%" border="1"><tr><td align="center">
-[http://google-maps-icons.googlecode.com/files/fountain.png] 
-<br> Fountain</td>
-<td align="center">
-[http://google-maps-icons.googlecode.com/files/monument.png] 
-Monument</td>
-<td align="center">
-[http://google-maps-icons.googlecode.com/files/panoramic.png] 
-Panoramic view
-</td>
-<td align="center">
-[http://google-maps-icons.googlecode.com/files/worldheritagesite.png] 
-<br> World heritage site
-</td>
-<td align="center">
-[http://google-maps-icons.googlecode.com/files/statue.png] 
-<hr>Statue
-</td>
-</tr>
-<tr>
-<td align="center">
-[http://google-maps-icons.googlecode.com/files/lighthouse.png] <hr> Lighthouse
-</td>
-<td align="center">
-[http://google-maps-icons.googlecode.com/files/modernmonument.png] 
-<br> Modern monument
-</td>
-<td align="center">
-[http://google-maps-icons.googlecode.com/files/ancienttemple.png] 
-<br> Ancient temple
-</td>
-<td align="center">&nbsp;</td>
-<td align="center">&nbsp;</td></tr></table>
-
-
-
-
-===TODO list / Suggestions===
+=Requests=
  * Arch/Gate
  * Camping (tents)
  * Coal mine

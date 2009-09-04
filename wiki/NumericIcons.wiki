@@ -1,5 +1,11 @@
 =Others ressources=
 
+===Symlbol you want & color you want balloon=== 
+
+[http://google-maps-icons.googlecode.com/files/thydzik.png]
+
+Made by [http://thydzik.com/dynamic-google-maps-markersicons-with-php/ Thydzik]
+
 ===Red Green Blue numeric balloon icons from 1 to 25===
 [http://google-maps-icons.googlecode.com/files/brennan.png]
 
@@ -9,7 +15,7 @@ Made by [http://brennan.offwhite.net/blog/2005/07/23/new-google-maps-icons-free/
 
 
 
-===Lettered from A to Z, in 10 colors===
+===Lettered balloons from A to Z, in 10 colors===
 [http://www.benjaminkeen.com/images/googlemaps_markers.jpg]
 
 [http://google-maps-icons.googlecode.com/files/lettered-A-Z-10-colors.zip Zip package] 

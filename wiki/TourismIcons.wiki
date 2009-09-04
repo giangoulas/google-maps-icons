@@ -5,41 +5,24 @@
 <wiki:toc max_depth="3" />
 
 
+===Natural marvels=== 
 
-===Natural marvels (1 - tableless, all on one line)=== 
-
-[http://google-maps-icons.googlecode.com/files/beach.png] Beach
-[http://google-maps-icons.googlecode.com/files/animals.png] Wild animals
-[http://google-maps-icons.googlecode.com/files/beautiful.png] Beautiful place
+|| [http://google-maps-icons.googlecode.com/files/beach.png] <br>*Beach* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/animals.png] <br>*Wild animals* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/beautiful.png] <br>*Beautiful place* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font> ||
 
 
+===Old defensive buildings=== 
 
-===Defensive buildings (2 - tableless, one icon per line)=== 
-
-[http://google-maps-icons.googlecode.com/files/castle.png] Castle
-
-[http://google-maps-icons.googlecode.com/files/fortress.png] Fortress
-
-[http://google-maps-icons.googlecode.com/files/palace.png] Palace 
-
-[http://google-maps-icons.googlecode.com/files/gateswalls.png] City walls & gates
+|| [http://google-maps-icons.googlecode.com/files/castle.png] <br>* Castle* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/fortress.png] <br>*Fortress* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/palace.png] <br>*Palace * <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/gateswalls.png] <br>*City walls & gates* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
 
+===Cult=== 
 
-===Cult (3 - table, 3 columns, no credit)=== 
-
-|| [http://google-maps-icons.googlecode.com/files/church.png] || Church |||| [http://google-maps-icons.googlecode.com/files/cemetary.png] || Cemetary |||| [http://google-maps-icons.googlecode.com/files/mosque.png] || Mosque ||
-|| [http://google-maps-icons.googlecode.com/files/cathedral.png] || Cathedral |||| [http://google-maps-icons.googlecode.com/files/synagogue.png] || Synagogue ||||  ||  ||
+|| [http://google-maps-icons.googlecode.com/files/church.png] <br>*Church* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cemetary.png]  <br>*Cemetary* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/mosque.png]  <br>*Mosque* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cathedral.png]  <br>* Cathedral* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/synagogue.png]  <br>* Synagogue* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
 
+===Agriculture=== 
 
-===Agriculture (4 - table, 1 column, credits)=== 
-
-|| [http://google-maps-icons.googlecode.com/files/farm.png] || Farm || ||
-|| [http://google-maps-icons.googlecode.com/files/agriculture.png] || Agriculture field ||by [http://www.myBCN.es Matthias Stasiak]||
-|| [http://google-maps-icons.googlecode.com/files/windmill.png] || Windmill ||by [http://www.myBCN.es Matthias Stasiak]||
-|| [http://google-maps-icons.googlecode.com/files/wineyard.png] || Wineyard ||by [http://www.myBCN.es Matthias Stasiak]||
-
+|| [http://google-maps-icons.googlecode.com/files/farm.png] <br>*Farm* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/agriculture.png]<br>* Agriculture field* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/windmill.png] <br>*Windmill* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/wineyard.png] <br>*Wineyard* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
 
 ===Misc... (5 - table, 5 columns, icon and description together)===

@@ -1,0 +1,27 @@
+#sidebar tocIcons
+<font color="#e14f9e" size="5">*Friends & Family & Real Estate icons*</font>
+<wiki:toc max_depth="3" />
+
+=<br><font size="4">Inside</font>=
+
+|| [http://google-maps-icons.googlecode.com/files/bowling.png] <br> *bowling*<br><font color="#777777" size="1">house, living</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/party.png] <br>*party*<br><font color="#777777" size="1">house, living</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/billiard.png]<br>*billiard*<br><font color="#777777" size="1">love</font><br><font color="#ffffff" size="1">----------------------------------------</font>||  [http://google-maps-icons.googlecode.com/files/aquarium.png]<br>*aquarium* <br><font color="#777777" size="1">house</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cinema.png] <br>*cinema*<br><font color="#777777" size="1">house</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
+|| [http://google-maps-icons.googlecode.com/files/club.png] <br>*club*<br><font color="#777777" size="1">house</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/theater.png] <br>*theater*<br><font color="#777777" size="1">house</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/casino.png] <br>*casino*<br><font color="#777777" size="1">house</font><br><font color="#ffffff" size="1">----------------------------------------</font>
+|| [http://google-maps-icons.googlecode.com/files/poker.png] <br>*poker*<br><font color="#777777" size="1">house</font><br><font color="#ffffff" size="1">----------------------------------------</font>
+|| [http://google-maps-icons.googlecode.com/files/museum.png] <br>*museum*<br><font color="#777777" size="1">house</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
+
+
+=<br><font size="4">Outside</font>=
+
+|| [http://google-maps-icons.googlecode.com/files/themepark.png] <br>*themepark* <br><font color="#777777" size="1">love</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/bullfight.png] <br>*bullfight*<br><font color="#777777" size="1">house</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/zoo.png] <br>*zoo*<br><font color="#777777" size="1">house, living</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
+
+=<br><font size="4">Requests</font>=
+
+ * Military museum
+ * Historical museum
+ * "Open air" museum
+ * Crafts museum
+ * Dance hall
+
+=<br><font size="4">Credits</font>=
+
+All icons made by Nicolas Mollet, unless specified.

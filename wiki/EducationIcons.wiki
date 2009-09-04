@@ -1,19 +1,19 @@
 #sidebar tocIcons
-
-<font color="#ef9e40" size="5">Education & Kids</font>
+<font color="#ef9e40" size="5">*Education & Kids*</font>
 <wiki:toc max_depth="3" />
-All icons made by Nicolas Mollet, unless specified.
-<br><br>
 
-=Icons=
+=<br><font size="4">Icons</font>=
 
 || [http://google-maps-icons.googlecode.com/files/school.png] <br>*School* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/university.png] <br>*University* <br><font color="#777777" size="1">college, faculty, student</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/library.png] <br>*Library* <br><font color="#777777" size="1">book, litterature</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/playground.png] <br>*Playground* <br><font color="#777777" size="1">kid, play</font><br><font color="#ffffff" size="1">----------------------------------------</font> || [http://google-maps-icons.googlecode.com/files/daycare.png] <br>*Day care* <br><font color="#777777" size="1">kid, baby</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 || [http://google-maps-icons.googlecode.com/files/nanny.png] <br>*Nanny* <br><font color="#777777" size="1">kid, </font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
+=<br><font size="4">Requests</font>=
 
-<br>
-=Requests=
  * Private teacher
  * Adult education
  * Summer camp
  * Dog Park
+
+=<br><font size="4">Credits</font>=
+
+All icons made by Nicolas Mollet, unless specified.

@@ -8,14 +8,9 @@ All icons made by Nicolas Mollet, unless specified.
 <br>
 =City services=
 
-|| [http://google-maps-icons.googlecode.com/files/police.png] || Police  || <font color="#888">citizen protection</font> ||  ||  
-|| [http://google-maps-icons.googlecode.com/files/firemen.png] || Firemen || <font color="#888">citizen protection</font> ||  ||  
-|| [http://google-maps-icons.googlecode.com/files/justice.png] || Justice ||  ||  ||  
-|| [http://google-maps-icons.googlecode.com/files/postal.png] || Postal office ||  ||  ||  
-|| [http://google-maps-icons.googlecode.com/files/military.png] || Military base || <font color="#888">citizen protection</font> ||  ||  
-|| [http://google-maps-icons.googlecode.com/files/administration.png] || Administration ||  ||  ||  
-|| [http://google-maps-icons.googlecode.com/files/prison.png] || Prison || <font color="#888">crime</font> ||  ||  
-|| [http://google-maps-icons.googlecode.com/files/seniorsite.png] || Senior site  || <font color="#888">senior</font> ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/police.png] <br>*Police  * <br><font color="#777" size="1">citizen protection</font>|| [http://google-maps-icons.googlecode.com/files/firemen.png] <br>*Firemen *<br><br><font color="#777" size="1">citizen protection</font> || [http://google-maps-icons.googlecode.com/files/justice.png] <br>*Justice *<br><font color="#777" size="1">sport</font> || [http://google-maps-icons.googlecode.com/files/postal.png] <br>*Postal office* <br><font color="#777" size="1"></font>|| [http://google-maps-icons.googlecode.com/files/military.png] <br>*Military base*<br><font color="#777" size="1">citizen protection</font>||
+|| [http://google-maps-icons.googlecode.com/files/administration.png] <br>*Administration* <br><font color="#777" size="1">papers</font>|| [http://google-maps-icons.googlecode.com/files/prison.png] <br>*Prison *<br><br><font color="#777" size="1">crime</font> || [http://google-maps-icons.googlecode.com/files/seniorsite.png] <br>*Senior site*<br><font color="#777" size="1">senior</font> || || ||
+
 
 <br>
 =Private offices=

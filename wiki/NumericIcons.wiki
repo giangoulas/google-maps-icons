@@ -2,6 +2,7 @@
 
 ===Red Green Blue numeric balloon icons from 1 to 25===
 [http://www.benjaminkeen.com/images/googlemaps_markers.jpg]
+
 [http://google-maps-icons.googlecode.com/files/red-green-blue-numeric-1-25.zip Zip package]
 
 Made by [http://brennan.offwhite.net/blog/2005/07/23/new-google-maps-icons-free/ Brennan]

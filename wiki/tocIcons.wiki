@@ -1,3 +1,4 @@
+<table><tr><td>
 === Icon categories===
 
 [OfficesIcons Offices & Administration]
@@ -27,3 +28,5 @@
 [NumericIcons Numeric icons]
 
 [http://code.google.com/p/google-maps-icons/downloads/list Icon search]
+
+</td></tr></table>

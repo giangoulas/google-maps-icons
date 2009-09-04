@@ -1,0 +1,16 @@
+#sidebar tocIcons
+<font color="#9e7151" size="5">*Miscellaneous*</font>
+<wiki:toc max_depth="3" />
+
+=<br><font size="4">Icons</font>=
+
+|| [http://google-maps-icons.googlecode.com/files/toilets.png] <br>*Toilets* <br><font color="#777777" size="1">wc</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/wifi.png] <br>*Wifi* <br><font color="#777777" size="1">internet, computer</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/info.png] <br>*Info* <br><font color="#777777" size="1">tip, help, desk</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/regroup.png] <br>*Regroup* <br><font color="#777777" size="1">group, gathering</font><br><font color="#ffffff" size="1">----------------------------------------</font> || [http://google-maps-icons.googlecode.com/files/recycle.png] <br>*Recycle* <br><font color="#777777" size="1">ecology, environment</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
+|| [http://google-maps-icons.googlecode.com/files/disability.png] <br>*Disability* <br><font color="#777777" size="1"></font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/construction.png] <br>*Construction* <br><font color="#777777" size="1">building</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
+
+=<br><font size="4">Requests</font>=
+
+ * Smoking area
+
+=<br><font size="4">Credits</font>=
+
+All icons made by Nicolas Mollet, unless specified.

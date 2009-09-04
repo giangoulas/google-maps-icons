@@ -1,6 +1,6 @@
 #labels Featured
-*5rd of September, 2009* ::: 34 new icons : powerplant, resort, nanny, toll station, hot air balloon, vespa, sail boat, traffic directions, manifestation, revolution, bomb, photos direction. See all the directions icons at the bottom of this page.
-There are already more than 200 icons in the project !
+*4th of September, 2009* ::: 34 new icons : powerplant, resort, nanny, toll station, hot air balloon, vespa, sail boat, traffic directions, manifestation, revolution, bomb, photo directions, cocktail bar. All the direction icons are at the bottom of this page.
+There are already more than 200 icons in the project!
 
 [http://google-maps-icons.googlecode.com/files/powerplant.png]
 [http://google-maps-icons.googlecode.com/files/resort.png]
@@ -16,6 +16,7 @@ There are already more than 200 icons in the project !
 [http://google-maps-icons.googlecode.com/files/bomb.png]
 [http://google-maps-icons.googlecode.com/files/photoupright.png]
 [http://google-maps-icons.googlecode.com/files/photodown.png]
+[http://google-maps-icons.googlecode.com/files/cocktail.png]
 
 *3rd of September, 2009* ::: 10 new icons : work office, senior site, prison, vet, hair salon, phone store, family member, day care, construction, customs.
 

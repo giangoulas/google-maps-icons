@@ -20,4 +20,8 @@
 
 [MediaIcons Media]
 
+----
+
 [http://code.google.com/p/google-maps-icons/downloads/list Icon search]
+
+[NumericIcons Numeric icons]

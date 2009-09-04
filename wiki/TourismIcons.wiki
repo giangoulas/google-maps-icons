@@ -16,7 +16,7 @@
 || [http://google-maps-icons.googlecode.com/files/ruins.png] <br>*Ruins* <br><font color="#777777" size="1">middle-age</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/convent.png] <br>*Convent* <br><font color="#777777" size="1">middle-age</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
 <br>
-=Cult=
+=<font size="3">Cult</font>=
 
 || [http://google-maps-icons.googlecode.com/files/church.png] <br>*Church* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cemetary.png]  <br>*Cemetary* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/mosque.png]  <br>*Mosque* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cathedral.png]  <br>* Cathedral* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/synagogue.png]  <br>* Synagogue* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 || [http://google-maps-icons.googlecode.com/files/chapel.png]  <br>* Chapel* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>||

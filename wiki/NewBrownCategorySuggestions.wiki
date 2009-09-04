@@ -3,7 +3,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/all-colors.png]
 
 <table cellspacing="0" cellpadding="12"><tr><td valign="top" align="left" >
-===<font color="#5781fc" >Administration & Offices</font>=== [OfficesIcons Icon descriptions]  
+===<font color="#5781fc" >Administration & Offices</font>=== 
+[OfficesIcons Icon descriptions]  
 [http://google-maps-icons.googlecode.com/files/police.png]
 [http://google-maps-icons.googlecode.com/files/firemen.png]
 [http://google-maps-icons.googlecode.com/files/justice.png]

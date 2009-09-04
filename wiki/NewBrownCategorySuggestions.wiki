@@ -168,7 +168,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/bar.png]
 [http://google-maps-icons.googlecode.com/files/coffee.png]
 [http://google-maps-icons.googlecode.com/files/winery.png]
-[http://google-maps-icons.googlecode.com/files/coktail.png]
+[http://google-maps-icons.googlecode.com/files/cocktail.png]
 
 [http://google-maps-icons.googlecode.com/files/restaurant.png]
 [http://google-maps-icons.googlecode.com/files/pizza.png]

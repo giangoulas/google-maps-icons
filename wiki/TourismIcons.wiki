@@ -5,27 +5,32 @@
 <wiki:toc max_depth="3" />
 
 
+<br>
 =Natural marvels=
 
 || [http://google-maps-icons.googlecode.com/files/beach.png] <br>*Beach* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/animals.png] <br>*Wild animals* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/beautiful.png] <br>*Beautiful place* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font> ||
 
 
+<br>
 =Old defensive buildings=
 
 || [http://google-maps-icons.googlecode.com/files/castle.png] <br>* Castle* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/fortress.png] <br>*Fortress* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/palace.png] <br>*Palace * <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/gateswalls.png] <br>*City walls & gates* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
 
-===Cult=== 
+<br>
+=Cult=
 
 || [http://google-maps-icons.googlecode.com/files/church.png] <br>*Church* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cemetary.png]  <br>*Cemetary* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/mosque.png]  <br>*Mosque* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cathedral.png]  <br>* Cathedral* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/synagogue.png]  <br>* Synagogue* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
 
-===Agriculture=== 
+<br>
+=Agriculture=
 
 || [http://google-maps-icons.googlecode.com/files/farm.png] <br>*Farm* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/agriculture.png]<br>* Agriculture field* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/windmill.png] <br>*Windmill* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/wineyard.png] <br>*Wineyard* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
 
-===Misc... (5 - table, 5 columns, icon and description together)===
+<br>
+=Misc=
 
 *5.1/*
 || [http://google-maps-icons.googlecode.com/files/park.png] Park || [http://google-maps-icons.googlecode.com/files/camping.png] Camping || [http://google-maps-icons.googlecode.com/files/olympicsite.png] Olympic site || [http://google-maps-icons.googlecode.com/files/picnic.png] Picnic || [http://google-maps-icons.googlecode.com/files/bridge.png] Bridge ||

@@ -17,7 +17,7 @@ All icons made by Nicolas Mollet, unless specified.
 
 *Police*
 
-<font color="#777777" size="1">citizen protection</font>
+<br><font color="#777777" size="1">citizen protection</font>
 
 </td><td valign="top" width="120" border="1">
 

@@ -10,7 +10,6 @@
 
 || [http://google-maps-icons.googlecode.com/files/beach.png] <br>*Beach* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/animals.png] <br>*Wild animals* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/beautiful.png] <br>*Beautiful place* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font> ||
 
-
 <br>
 =Old defensive buildings=
 

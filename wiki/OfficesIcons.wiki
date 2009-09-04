@@ -19,8 +19,8 @@ All icons made by Nicolas Mollet, unless specified.
 || [http://google-maps-icons.googlecode.com/files/company.png] || Company || <font color="#888">buziness, money</font> ||  ||  
 || [http://google-maps-icons.googlecode.com/files/factory.png] || Factory || <font color="#888">industrial</font> ||  ||  
 || [http://google-maps-icons.googlecode.com/files/laboratory.png] || Laboratory || <font color="#888">science, experiments</font> ||  ||  
-|| [http://google-maps-icons.googlecode.com/files/conference.png] || Conference || <font color="#888">buziness</font> || by [http://www.myBCN.es Matthias Stasiak] ||  
-|| [http://google-maps-icons.googlecode.com/files/workoffice.png] || Work office || <font color="#888">buziness</font> ||  ||  
+|| [http://google-maps-icons.googlecode.com/files/conference.png] || Conference || <font color="#888">business</font> || by [http://www.myBCN.es Matthias Stasiak] ||  
+|| [http://google-maps-icons.googlecode.com/files/workoffice.png] || Work office || <font color="#888">business</font> ||  ||  
 
 <br>
 =Requests=

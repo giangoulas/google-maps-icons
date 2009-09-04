@@ -3,6 +3,7 @@
 <font color="#fcf357" size="5">Friends & Family & Real Estate icons</font>
 
 <wiki:toc max_depth="3" />
+All icons made by Nicolas Mollet, unless specified.
 <br>
 =Icons=
 || [http://google-maps-icons.googlecode.com/files/friends.png] <br> *Friends*<br><font color="#777777" size="1">house, living</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/home.png] <br>*Home*<br><font color="#777777" size="1">house, living</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/girlfriend.png]<br>*Girlfriend*<br><font color="#777777" size="1">love</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/dates.png] <br>*Dates* <br><font color="#777777" size="1">love</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||  [http://google-maps-icons.googlecode.com/files/realestate.png]<br>*Real estate* <br><font color="#777777" size="1">house</font><br><font color="#ffffff" size="1">----------------------------------------</font>||

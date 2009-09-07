@@ -4,7 +4,9 @@
 
 Theses markers are totally dynamic, and you can create whatever balloon icon you want. 
 
-Just change the URL like : thydzik.com/thydzikGoogleMap/markerlink.php?text=*12*&color=*5680FC*.
+Just change the URL like : thydzik.com/thydzikGoogleMap/markerlink.php?text=*12*&color=*5680FC* where *12* is the text and *5680FC* is the hexadecimal color. 
+
+Please follow the examples :
 
 *Blue (1) example*
 {{{

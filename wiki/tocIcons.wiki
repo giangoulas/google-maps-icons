@@ -5,7 +5,7 @@
 
 [SportsIcons Sports & Health]
 
-[TourismIcons Tourism & Nature]
+[http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Tourism & Nature]
 
 [StoresIcons Stores]
 

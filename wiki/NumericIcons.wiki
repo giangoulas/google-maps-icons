@@ -1,10 +1,15 @@
 =Others ressources=
 
-===Thydzik's "Symbol you want on color you want"===
+===Thydzik's "Symbol you want on color you want" (you need to host files on your server) ===
 
 Theses markers are totally dynamic, and you can create whatever balloon icon you want. 
 
 Just change the URL like : thydzik.com/thydzikGoogleMap/markerlink.php?text=*12*&color=*5680FC* where *12* is the text and *5680FC* is the hexadecimal color. 
+
+You can't hot link from your personnal map (maps.google.com).
+It can be done in 2 ways :
+1/ host the php file generating the icons
+2/ save the icons, and host them your server
 
 Please follow the examples :
 

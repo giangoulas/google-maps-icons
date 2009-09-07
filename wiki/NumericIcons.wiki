@@ -1,30 +1,82 @@
 =Others ressources=
 
-===Symbol you want & color you want balloon=== 
-
-= Blue (1) example=
+*Blue (1) example*
 {{{
 http://thydzik.com/thydzikGoogleMap/markerlink.php?text=1&color=5680FC
 }}}
 <img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=1&color=5680FC&image=.png">
 
-= Red (A) example=
+*Red (A) example*
 {{{
 http://thydzik.com/thydzikGoogleMap/markerlink.php?text=A&color=5680FC
 }}}
 <img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=A&color=FC6355&image=.png">
 
-= Green (9) example=
+*Green (9) example*
 {{{
 http://thydzik.com/thydzikGoogleMap/markerlink.php?text=9&color=5680FC
 }}}
 <img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=9&color=00E146&image=.png">
 
-= Teal (omega) example=
+*Teal (omega) example*
 {{{
 http://thydzik.com/thydzikGoogleMap/markerlink.php?text=%CE%A9&color=55D7D7
 }}}
 <img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=%CE%A9&color=55D7D7&image=.png">
+
+*Yellow ($) example*
+{{{
+http://thydzik.com/thydzikGoogleMap/markerlink.php?text=$&color=FCF356
+}}}
+<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=$&color=FCF356&image=.png">
+
+*Purple (3/4) example*
+{{{
+http://thydzik.com/thydzikGoogleMap/markerlink.php?text=%BE&color=7D54FC
+}}}
+<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=%BE&color=7D54FC&image=.png">
+
+*Pink (51) example*
+{{{
+http://thydzik.com/thydzikGoogleMap/markerlink.php?text=51&color=E14E9D
+}}}
+<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=51&color=E14E9D&image=.png">
+
+*Orange (ZH) example*
+{{{
+http://thydzik.com/thydzikGoogleMap/markerlink.php?text=ZH&color=EF9D3F
+}}}
+<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=ZH&color=EF9D3F&image=.png">
+
+*Orange (ZH) example*
+{{{
+http://thydzik.com/thydzikGoogleMap/markerlink.php?text=ZH&color=EF9D3F
+}}}
+<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=ZH&color=EF9D3F&image=.png">
+
+*Black (10) example*
+{{{
+http://thydzik.com/thydzikGoogleMap/markerlink.php?text=10&color=000000
+}}}
+<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=10&color=000000&image=.png">
+
+*Brown (!) example*
+{{{
+http://thydzik.com/thydzikGoogleMap/markerlink.php?text=!&color=9E7151
+}}}
+<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=!&color=9E7151&image=.png">
+
+*Gray (+) example*
+{{{
+http://thydzik.com/thydzikGoogleMap/markerlink.php?text=+&color=A8A8A8
+}}}
+<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=+&color=A8A8A8&image=.png">
+
+*Dark blue (+) example*
+{{{
+http://thydzik.com/thydzikGoogleMap/markerlink.php?text=n8&color=0336D1
+}}}
+<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=n8&color=0336D1&image=.png">
 
 
 Examples :

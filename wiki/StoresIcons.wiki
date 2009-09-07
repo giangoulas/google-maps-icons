@@ -1,5 +1,5 @@
 #sidebar tocIcons
-<font color="#fcf357" size="5">*Stores*</font>
+<font color="#55d7d7" size="5">*Stores*</font>
 <wiki:toc max_depth="3" />
 
 =<br><font size="4">Icons</font>=

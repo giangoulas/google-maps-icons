@@ -1,6 +1,0 @@
-#labels Featured
-#sidebar tocIcons
-
-Browse the icons by sub-categories, see the descriptions, look up by tags, in the all new pages by category.
-
-Check out the left navigation and click on a category.

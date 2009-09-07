@@ -78,7 +78,7 @@ http://thydzik.com/thydzikGoogleMap/markerlink.php?text=n8&color=0336D1
 Examples :
 [http://google-maps-icons.googlecode.com/files/thydzik.png]
 
-Made by [http://thydzik.com/dynamic-google-maps-markersicons-with-php/ Thydzik]
+Credits : [http://thydzik.com/dynamic-google-maps-markersicons-with-php/ Dynamic Google Maps Markersicons with Php by Thydzik]
 
 ===Brennan's Red Green Blue numeric balloon icons from 1 to 25===
 [http://google-maps-icons.googlecode.com/files/brennan.png]
@@ -88,13 +88,12 @@ Made by [http://thydzik.com/dynamic-google-maps-markersicons-with-php/ Thydzik]
 Made by [http://brennan.offwhite.net/blog/2005/07/23/new-google-maps-icons-free/ Brennan]
 
 
-
 ===Benjamin Keen's Lettered balloons from A to Z, in 10 colors===
 [http://www.benjaminkeen.com/images/googlemaps_markers.jpg]
 
 [http://google-maps-icons.googlecode.com/files/lettered-A-Z-10-colors.zip Zip package] 
 
-Made by [http://www.benjaminkeen.com/?p=105 Benjamin Keen]
+Credits : [http://www.benjaminkeen.com/?p=105 Google Maps: Coloured Markers by Benjamin Keen]
 
 
 ===Google icons===

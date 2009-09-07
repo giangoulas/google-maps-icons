@@ -1,5 +1,7 @@
 =Others ressources=
 
+===Thydzik's Symbol you want on color you want===
+
 *Blue (1) example*
 {{{
 http://thydzik.com/thydzikGoogleMap/markerlink.php?text=1&color=5680FC
@@ -78,7 +80,7 @@ Examples :
 
 Made by [http://thydzik.com/dynamic-google-maps-markersicons-with-php/ Thydzik]
 
-===Red Green Blue numeric balloon icons from 1 to 25===
+===Brennan's Red Green Blue numeric balloon icons from 1 to 25===
 [http://google-maps-icons.googlecode.com/files/brennan.png]
 
 [http://google-maps-icons.googlecode.com/files/red-green-blue-numeric-1-25.zip Zip package]
@@ -87,7 +89,7 @@ Made by [http://brennan.offwhite.net/blog/2005/07/23/new-google-maps-icons-free/
 
 
 
-===Lettered balloons from A to Z, in 10 colors===
+===Benjamin Keen's Lettered balloons from A to Z, in 10 colors===
 [http://www.benjaminkeen.com/images/googlemaps_markers.jpg]
 
 [http://google-maps-icons.googlecode.com/files/lettered-A-Z-10-colors.zip Zip package] 

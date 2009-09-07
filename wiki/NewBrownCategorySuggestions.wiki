@@ -62,8 +62,13 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/vet.png]
 [http://google-maps-icons.googlecode.com/files/hairsalon.png]
- * Yoga
- * Gym
+
+[http://google-maps-icons.googlecode.com/files/yoga.png]
+[http://google-maps-icons.googlecode.com/files/scubadiving.png]
+[http://google-maps-icons.googlecode.com/files/massage.png]
+[http://google-maps-icons.googlecode.com/files/jogging.png]
+[http://google-maps-icons.googlecode.com/files/gym.png]
+[http://google-maps-icons.googlecode.com/files/fitnesscenter.png]
  * Skate Park
  * Bob Sleigh Track
  * Ice Skating

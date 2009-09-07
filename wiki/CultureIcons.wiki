@@ -23,3 +23,5 @@
 =<br><font size="4">Credits</font>=
 
 All icons made by Nicolas Mollet, unless specified.
+
+Made by [http://www.mybcn.es Matthias Stasiak] : aquarium, zoo, bullfight

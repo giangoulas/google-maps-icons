@@ -60,13 +60,13 @@ http://thydzik.com/thydzikGoogleMap/markerlink.php?text=!&color=9E7151
 }}}
 <img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=!&color=9E7151&image=.png">
 
-*Gray (+) example*
+*Gray (U) example*
 {{{
-http://thydzik.com/thydzikGoogleMap/markerlink.php?text=+&color=A8A8A8
+http://thydzik.com/thydzikGoogleMap/markerlink.php?text=U&color=A8A8A8
 }}}
-<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=+&color=A8A8A8&image=.png">
+<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=U&color=A8A8A8&image=.png">
 
-*Dark blue (+) example*
+*Dark blue (n8) example*
 {{{
 http://thydzik.com/thydzikGoogleMap/markerlink.php?text=n8&color=0336D1
 }}}

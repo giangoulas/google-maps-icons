@@ -1,0 +1,26 @@
+#sidebar tocIcons
+<font color="#999999" size="5">*Events & Weather icons*</font>
+<wiki:toc max_depth="3" />
+
+=<br><font size="4">Weather</font>=
+
+|| [http://google-maps-icons.googlecode.com/files/rain.png] <br> *Rain*<br><font color="#777777" size="1">water</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cloudsun.png] <br> *Cloud and sun*<br><font color="#777777" size="1">grey</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/clouds.png] <br> *Clouds*<br><font color="#777777" size="1">grey</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/sun.png] <br> *Sun*<br><font color="#777777" size="1">light, shiny</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/thunder.png] <br> *Thunder*<br><font color="#777777" size="1">storm, lightning</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
+
+=<br><font size="4">Days of week</font>=
+|| [http://google-maps-icons.googlecode.com/files/monday.png] <br> *Monday*<br><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/tuesday.png] <br> *Tuesday*<br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/wednesday.png] <br> *Wednesday*<br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/thursday.png] <br> *Thursday*<br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/friday.png] <br> *Friday*<br><font color="#ffffff" size="1">----------------------------------------</font>||
+|| [http://google-maps-icons.googlecode.com/files/satursday.png] <br> *Satursday*<br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/sunday.png] <br> *Sunday*<br><font color="#ffffff" size="1">----------------------------------------</font>||
+
+=<br><font size="4">Events</font>=
+|| [http://google-maps-icons.googlecode.com/files/gun.png] <br> *Shooting*<br><font color="#777777" size="1">guns, weapons, murder</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/planecrash.png] <br> *Plane crash*<br><font color="#777777" size="1">flight</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/explosion.png] <br> *Explosion*<br><font color="#777777" size="1">boom</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/radiation.png] <br> *Radiation*<br><font color="#777777" size="1">radio-activity, nuclear</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/revolution.png] <br> *Revolution*<br><font color="#777777" size="1">revolt</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
+|| [http://google-maps-icons.googlecode.com/files/bomb.png] <br> *Bomb*<br><font color="#777777" size="1">terrorism</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/strike.png] <br> *Manifestation*<br><font color="#777777" size="1">strike</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
+
+=<br><font size="4">Requests</font>=
+ * Tornado
+ * Wind
+ * Snow
+ * Wedding
+ * War
+
+=<br><font size="4">Credits</font>=
+
+All icons made by Nicolas Mollet, unless specified.

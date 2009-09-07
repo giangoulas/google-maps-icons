@@ -24,7 +24,6 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/workoffice.png]
 
 [http://google-maps-icons.googlecode.com/files/powerplant.png]
- * Community center
 
 [OfficesIcons Icon descriptions]  
 
@@ -69,14 +68,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/jogging.png]
 [http://google-maps-icons.googlecode.com/files/gym.png]
 [http://google-maps-icons.googlecode.com/files/fitnesscenter.png]
- * Skate Park
- * Bob Sleigh Track
- * Ice Skating
- * Hockey Field
- * Rowboat
- * Sailing
- * Ski Jump
- * US Football
+
+[SportsIcons Icon descriptions]  
 </td><td valign="top" align="left">
 ===<font color="#00e13c">Tourism & Nature</font> ===
 [http://google-maps-icons.googlecode.com/files/park.png]
@@ -119,29 +112,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/convent.png]
 [http://google-maps-icons.googlecode.com/files/tower.png]
 [http://google-maps-icons.googlecode.com/files/arch.png]
- * Camping (tents)
- * Coal mine
- * Cross
- * Fjord
- * Flower Fields
- * Glacier
- * Gondolas
- * Hydro-power Dam
- * Historical Building
- * Lake
- * Pyramid
- * Rock
- * Shore
- * Square
- * Tower (Modern)
- * Waterworks
- * Water Mill
- * Well
- * Amphitheatre
- * Waterfall
-(picnic by [http://www.umapper.com UMapper]) 
 
-(last 17 by  [http://www.myBCN.es Matthias Stasiak])
+[TourismIcons Icon descriptions]  
 </td><td valign="top" align="left">
 ===<font color="#55d7d7">Stores</font>===
 [http://google-maps-icons.googlecode.com/files/supermarket.png]
@@ -161,7 +133,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/shoppingmall.png]
 [http://google-maps-icons.googlecode.com/files/bookstore.png]
 [http://google-maps-icons.googlecode.com/files/phones.png]
- * Video rentals
+
+[StoresIcons Icon descriptions]  
 
 </td></tr><tr><td valign="top" align="left">
 ===<font color="#fcf357">Friends & Family & Real Estate</font>===
@@ -173,6 +146,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/apartment.png]
 [http://google-maps-icons.googlecode.com/files/family.png]
+
+[FriendsIcons Icon descriptions]  
 </td><td valign="top" align="left">
 ===<font color="#7e55fc">Restaurants & Hotels</font> ===
 
@@ -206,8 +181,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/hotel.png]
 [http://google-maps-icons.googlecode.com/files/resort.png]
- * Youth Hostel
- * Steakhouse
+
+[RestaurantsIcons Icon descriptions]  
 </td><td valign="top" align="left">
 ===<font color="#e14f9e">Culture & Entertainment</font>===
 [http://google-maps-icons.googlecode.com/files/cinema.png]
@@ -225,13 +200,9 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/aquarium.png]
 [http://google-maps-icons.googlecode.com/files/bullfight.png]
 [http://google-maps-icons.googlecode.com/files/zoo.png]
- * Military museum
- * Historical museum
- * "Open air" museum
- * Crafts museum
- * Dance hall
 
-(last 1 by  [http://www.myBCN.es Matthias Stasiak])
+[CultureIcons Icon descriptions]  
+
 </td><td valign="top" align="left">
 ===<font color="#ef9e40">Education & Kids</font>===
 [http://google-maps-icons.googlecode.com/files/school.png]
@@ -241,10 +212,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/daycare.png]
 
 [http://google-maps-icons.googlecode.com/files/nanny.png]
- * Private teacher
- * Adult education
- * Summer camp
- * Dog Park
+
+[EducationIcons Icon descriptions]  
 </td></tr><tr><td valign="top" align="left">
 ===<font color="#000" >Transportation</font>===
 [http://google-maps-icons.googlecode.com/files/bus.png]
@@ -315,7 +284,8 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/disability.png]
 [http://google-maps-icons.googlecode.com/files/construction.png]
- * Smoking area
+
+[MiscellaneousIcons Icon descriptions]  
 </td><td valign="top" align="left">
 ===<font color="#999999" >Events & Weather</font>===
 [http://google-maps-icons.googlecode.com/files/sun.png]
@@ -343,12 +313,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/bomb.png]
 [http://google-maps-icons.googlecode.com/files/strike.png]
 
-(last 5 by [http://www.umapper.com UMapper])
- * Tornado
- * Wind
- * Snow
- * Wedding
- * War
+[EventsIcons Icon descriptions]  
 </td><td valign="top" align="left">
 ===<font color="#0337D1" >Media</font>===
 [http://google-maps-icons.googlecode.com/files/video.png]
@@ -366,6 +331,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 [http://google-maps-icons.googlecode.com/files/photoleft.png]
 [http://google-maps-icons.googlecode.com/files/photoupleft.png]
 
+[MediaIcons Icon descriptions]  
 </td></tr></table>
 
 Any suggestion is welcome on this subject, I haven't decided anything yet.

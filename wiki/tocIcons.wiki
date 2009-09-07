@@ -1,29 +1,29 @@
 <table width="100%"><tr><td>
 === Icon categories===
 
-[OfficesIcons Offices & Administration]
+[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Offices & Administration]
 
 [http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Sports & Health]
 
 [http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Tourism & Nature]
 
-[StoresIcons Stores]
+[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Stores]
 
-[FriendsIcons Friends & Family]
+[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Friends & Family]
 
-[RestaurantsIcons Restaurants & Hotels]
+[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Restaurants & Hotels]
 
-[CultureIcons Culture & Entertainment]
+[http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Culture & Entertainment]
 
-[EducationIcons Education & Kids]
+[http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Education & Kids]
 
-[TransportationIcons Transportation]
+[http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Transportation]
 
-[MiscellaneousIcons Miscellaneous]
+[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Miscellaneous]
 
-[EventsIcons Events & Weather]
+[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Events & Weather]
 
-[MediaIcons Media]
+[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Media]
 
 ----
 

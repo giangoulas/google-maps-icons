@@ -2,10 +2,29 @@
 
 ===Symbol you want & color you want balloon=== 
 
+= Blue (1) example=
 {{{
 http://thydzik.com/thydzikGoogleMap/markerlink.php?text=1&color=5680FC
 }}}
 <img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=1&color=5680FC&image=.png">
+
+= Red (A) example=
+{{{
+http://thydzik.com/thydzikGoogleMap/markerlink.php?text=A&color=5680FC
+}}}
+<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=A&color=FC6355&image=.png">
+
+= Green (9) example=
+{{{
+http://thydzik.com/thydzikGoogleMap/markerlink.php?text=9&color=5680FC
+}}}
+<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=9&color=00E146&image=.png">
+
+= Teal (omega) example=
+{{{
+http://thydzik.com/thydzikGoogleMap/markerlink.php?text=%CE%A9&color=55D7D7
+}}}
+<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=%CE%A9&color=55D7D7&image=.png">
 
 
 Examples :

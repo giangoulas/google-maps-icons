@@ -5,7 +5,7 @@
 {{{
 http://thydzik.com/thydzikGoogleMap/markerlink.php?text=1&color=5680FC
 }}}
-<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=%B1&color=5680FC">
+<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=%B1&color=5680FC&image=.png">
 
 
 Examples :

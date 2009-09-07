@@ -1,5 +1,5 @@
 #sidebar tocIcons
-<font color="#e14f9e" size="5">*Friends & Family & Real Estate icons*</font>
+<font color="#e14f9e" size="5">*Culture & Entertainment icons*</font>
 <wiki:toc max_depth="3" />
 
 =<br><font size="4">Inside</font>=

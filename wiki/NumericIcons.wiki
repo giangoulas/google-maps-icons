@@ -3,9 +3,9 @@
 ===Symbol you want & color you want balloon=== 
 
 {{{
-http://thydzik.com/thydzikGoogleMap/markerlink.php?text=%B*1*&color=*5680FC*
-}}}
 http://thydzik.com/thydzikGoogleMap/markerlink.php?text=%B1&color=5680FC
+}}}
+[http://thydzik.com/thydzikGoogleMap/markerlink.php?text=%B1&color=5680FC]
 
 
 Examples :

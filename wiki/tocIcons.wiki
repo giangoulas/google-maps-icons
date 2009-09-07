@@ -11,6 +11,8 @@
 
 [FriendsIcons Friends]
 
+[RestaurantsIcons Restaurants]
+
 [CultureIcons Culture & Entertainment]
 
 [EducationIcons Education & Kids]

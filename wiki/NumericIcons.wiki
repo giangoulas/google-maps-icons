@@ -74,6 +74,13 @@ http://thydzik.com/thydzikGoogleMap/markerlink.php?text=n8&color=0336D1
 }}}
 <img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=n8&color=0336D1&image=.png">
 
+*White (99) example*
+{{{
+http://thydzik.com/thydzikGoogleMap/markerlink.php?text=99&color=ffffff
+}}}
+<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=99&color=ffffff&image=.png">
+
+
 
 Examples :
 [http://google-maps-icons.googlecode.com/files/thydzik.png]

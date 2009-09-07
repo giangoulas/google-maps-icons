@@ -1,0 +1,33 @@
+#sidebar tocIcons
+<font color="#7e55fc" size="5">*Restaurants & Hotels map icons*</font>
+<wiki:toc max_depth="3" />
+
+=<br><font size="4">Drinks</font>=
+|| [http://google-maps-icons.googlecode.com/files/bar.png] <br> *Bar*<br><font color="#777777" size="1">beer</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/coffee.png] <br> *Coffee*<br><font color="#777777" size="1">cafe</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/winery.png] <br> *Winery*<br><font color="#777777" size="1">wine, bordeaux</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cocktail.png] <br> *Cocktail*<br><font color="#777777" size="1">rhum, vodka</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
+
+
+=<br><font size="4">Restaurants</font>=
+|| [http://google-maps-icons.googlecode.com/files/restaurant.png] <br> *restaurant*<br><font color="#777777" size="1">food</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/pizza.png] <br> *pizza*<br><font color="#777777" size="1">italia, cheese</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/fastfood.png] <br> *Fast food*<br><font color="#777777" size="1">mc donald's</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/restaurantchinese.png] <br> *Chinese restaurant*<br><font color="#777777" size="1">noodles</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/restaurantjapanese.png] <br> *Japanese restaurant*<br><font color="#777777" size="1">sushi, sashimi</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
+|| [http://google-maps-icons.googlecode.com/files/restaurantafrican.png] <br> *African restaurant*<br><font color="#777777" size="1">tropical, fish</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/restaurantfishchips.png] <br> *Fish & chips*<br><font color="#777777" size="1">fish, chips</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/restaurantgourmet.png] <br> *Gourmet restaurant*<br><font color="#777777" size="1">gastronomic</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/restaurantgreek.png] <br> *Greek restaurant*<br><font color="#777777" size="1">lamb</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/restaurantindian.png] <br> *Indian restaurant*<br><font color="#777777" size="1">curry, spices</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
+|| [http://google-maps-icons.googlecode.com/files/restaurantitalian.png] <br> *Italian restaurant*<br><font color="#777777" size="1">pizza, pastas</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/restaurantkebab.png] <br> *Kebab restaurant*<br><font color="#777777" size="1">sandwich</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/restaurantkorean.png] <br> *Korean restaurant*<br><font color="#777777" size="1">hot pot</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/restaurantmediterranean.png] <br> *Mediterranean restaurant*<br><font color="#777777" size="1">tomatos</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/restaurantmexican.png] <br> *Mexican restaurant*<br><font color="#777777" size="1">tortillas, tapas</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/restaurantthai.png] <br> *Thaï restaurant*<br><font color="#777777" size="1">chicken</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/restaurantturkish.png] <br> *Turkish restaurant*<br><font color="#777777" size="1">rhum</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
+
+
+=<br><font size="4">Hotels & other</font>=
+
+
+[http://google-maps-icons.googlecode.com/files/bread.png]
+[http://google-maps-icons.googlecode.com/files/icecream.png]
+
+[http://google-maps-icons.googlecode.com/files/hotel.png]
+[http://google-maps-icons.googlecode.com/files/resort.png]
+
+
+
+
+=<br><font size="4">Requests</font>=
+
+None at the moment.
+
+=<br><font size="4">Credits</font>=
+
+All icons made by Nicolas Mollet, unless specified.

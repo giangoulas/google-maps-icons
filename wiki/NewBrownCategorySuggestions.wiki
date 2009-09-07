@@ -1,4 +1,4 @@
-#labels Featured
+#labels Featured,Deprecated
 I am actually thinking in introducing new colors, new categories to the already existing ones. 
 [http://google-maps-icons.googlecode.com/files/all-colors.png]
 

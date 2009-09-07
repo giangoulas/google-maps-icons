@@ -2,7 +2,7 @@
 
 ===Thydzik's "Symbol you want on color you want"===
 
-Theses markers are totally dynamic, and you can create whatever balloon icon you want. Just change the URL like : http://thydzik.com/thydzikGoogleMap/markerlink.php?text=*12*&color=*5680FC*.
+Theses markers are totally dynamic, and you can create whatever balloon icon you want. Just change the URL like : http://thydzik.com/ thydzikGoogleMap/ markerlink.php?text=*12*&color=*5680FC*.
 
 *Blue (1) example*
 {{{

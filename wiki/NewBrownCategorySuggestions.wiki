@@ -271,6 +271,7 @@ I am actually thinking in introducing new colors, new categories to the already 
 
 [http://google-maps-icons.googlecode.com/files/downthenleft.png]
 
+[TransportationIcons Icon descriptions]  
 </td><td valign="top" align="left">
 
 ===<font color="#9e7151" >Miscellaneous</font>===

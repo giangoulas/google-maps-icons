@@ -33,3 +33,5 @@
 =<br><font size="4">Credits</font>=
 
 All icons made by Nicolas Mollet, unless specified.
+
+Made by [http://www.myBCN.es Matthias Stasiak] : cable car, and the 16 direction icons

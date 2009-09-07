@@ -48,12 +48,6 @@ http://thydzik.com/thydzikGoogleMap/markerlink.php?text=ZH&color=EF9D3F
 }}}
 <img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=ZH&color=EF9D3F&image=.png">
 
-*Orange (ZH) example*
-{{{
-http://thydzik.com/thydzikGoogleMap/markerlink.php?text=ZH&color=EF9D3F
-}}}
-<img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=ZH&color=EF9D3F&image=.png">
-
 *Black (10) example*
 {{{
 http://thydzik.com/thydzikGoogleMap/markerlink.php?text=10&color=000000

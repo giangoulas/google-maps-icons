@@ -3,7 +3,7 @@
 
 [OfficesIcons Offices & Administration]
 
-[SportsIcons Sports & Health]
+[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Sports & Health]
 
 [http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Tourism & Nature]
 

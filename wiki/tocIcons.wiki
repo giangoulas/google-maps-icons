@@ -9,9 +9,9 @@
 
 [StoresIcons Stores]
 
-[FriendsIcons Friends]
+[FriendsIcons Friends & Family]
 
-[RestaurantsIcons Restaurants]
+[RestaurantsIcons Restaurants & Hotels]
 
 [CultureIcons Culture & Entertainment]
 

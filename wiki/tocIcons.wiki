@@ -1,7 +1,7 @@
 <table width="100%"><tr><td>
 === Icon categories===
 
-[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Offices & Administration]
+<font color="#fffff" size="3"><strong>[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Offices & Administration]
 
 [http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Sports & Health]
 
@@ -11,7 +11,7 @@
 
 [http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Friends & Family]
 
-[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] <font color="#fffff" size="3"><strong>[RestaurantsIcons Restaurants & Hotels]</strong></font>
+[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Restaurants & Hotels]
 
 [http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Culture & Entertainment]
 
@@ -27,8 +27,8 @@
 
 ----
 
-[NumericIcons Numeric icons]
+[NumericIcons - Numeric icons]
 
-[http://code.google.com/p/google-maps-icons/downloads/list Icon search]
-
+[http://code.google.com/p/google-maps-icons/downloads/list - Icon search]
+</strong></font>
 </td></tr></table>

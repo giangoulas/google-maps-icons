@@ -1,5 +1,5 @@
 #sidebar tocIcons
-<font color="#5680FC" size="6">*Administration & Office*</font>
+<font color="#5680FC" size="6">*Administration & Offices & Industry*</font>
 <wiki:toc max_depth="3" />
 <BR>
 =<font size="4">City services</font>=

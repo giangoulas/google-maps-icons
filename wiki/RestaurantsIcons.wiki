@@ -24,6 +24,8 @@
  * Hotel 4 stars
  * Hotel 5 stars
  * Bed & breakfast
+ * Motel
+ * Love motel...
 
 =<br><font size="4">Credits</font>=
 

@@ -18,8 +18,12 @@
 
 
 =<br><font size="4">Requests</font>=
-
-None at the moment.
+ * Hotel 1 star
+ * Hotel 2 stars
+ * Hotel 3 stars
+ * Hotel 4 stars
+ * Hotel 5 stars
+ * Bed & breakfast
 
 =<br><font size="4">Credits</font>=
 

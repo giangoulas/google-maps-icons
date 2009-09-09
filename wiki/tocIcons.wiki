@@ -1,7 +1,7 @@
 <table width="100%"><tr><td>
 === Icon categories===
 
-<font color="#fffff" size="3"><strong>[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Administration & Offices]
+<font color="#fffff" size="2"><strong>[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Administration & Offices]
 
 [http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Sports & Health]
 

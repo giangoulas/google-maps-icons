@@ -29,6 +29,8 @@
  * Rent a car
  * Helicopter base
  * Car wash
+ * Speed Limit signs for 20, 30,40 and 70
+ * Park and Ride
 
 =<br><font size="4">Credits</font>=
 

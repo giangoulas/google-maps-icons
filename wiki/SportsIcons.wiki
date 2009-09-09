@@ -1,5 +1,5 @@
 #sidebar tocIcons
-<font color="#fc6355" size="5">*Health & Sports icons*</font>
+<font color="#fc6355" size="5">*Sports & Health & Beauty icons*</font>
 <wiki:toc max_depth="3" />
 
 =<br><font size="4">Health</font>=
@@ -38,6 +38,8 @@
  * Sailing
  * Ski Jump
  * US Football
+ * Sona
+ * Aesthetics Center
 
 =<br><font size="4">Credits</font>=
 

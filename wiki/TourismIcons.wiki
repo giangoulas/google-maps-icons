@@ -27,12 +27,11 @@
 =<br><font size="4">Misc</font>=
 
 || [http://google-maps-icons.googlecode.com/files/park.png] <br>*Park* <br><font color="#777777" size="1">nature, forest</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/camping.png] <br>*Camping* <br><font color="#777777" size="1">food</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/olympicsite.png] <br>*Olympic site* <br><font color="#777777" size="1">sport</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/picnic.png] <br>*Picnic* <br><font color="#777777" size="1">food</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/panoramic.png] <br>*Panoramic view* <br><font color="#777777" size="1">view, 360</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
-||[http://google-maps-icons.googlecode.com/files/bigcity.png] <br>*Big city* <br><font color="#777777" size="1">capital</font><br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/smallcity.png] <br>*Small city* <br><font color="#777777" size="1">village</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
+||[http://google-maps-icons.googlecode.com/files/bigcity.png] <br>*Big city* <br><font color="#777777" size="1">capital</font><br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/smallcity.png] <br>*Small city* <br><font color="#777777" size="1">village</font><br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/cave.png] <br>*Cave* <br><font color="#777777" size="1">cavern</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
 =<br><font size="4">Requests</font>=
- * Amphitheatre
+ * Amphitheater
  * Camping (tents)
- * Cave
  * Coal mine
  * Cross
  * Fjord
@@ -53,6 +52,6 @@
 
 All icons made by Nicolas Mollet, unless specified.
 
-Made by [http://www.myBCN.es Matthias Stasiak] : castle, fortress, palace, city walls & gates, ruins, convent, mosque, catherdral, synagogue, chapel, windmill, wineyard, bridge, fountain, monument, world heritage site, statue, lighthouse, modern monument, ancient temple, olympic site, panoramic view
+Made by [http://www.myBCN.es Matthias Stasiak] : castle, fortress, palace, city walls & gates, ruins, convent, mosque, catherdral, synagogue, chapel, windmill, wineyard, bridge, fountain, monument, world heritage site, statue, lighthouse, modern monument, ancient temple, olympic site, panoramic view, cave
 
 Made by [http://www.umapper.com UMapper] : picnic

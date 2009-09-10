@@ -47,8 +47,10 @@
  * Waterworks
  * Water Mill
  * Well
-
  * Waterfall
+
+ * Small city (village)
+ * Big city
 
 =<br><font size="4">Credits</font>=
 

@@ -1,5 +1,5 @@
 #sidebar tocIcons
-<font color="#7e55fc" size="5">*Restaurants & Hotels map icons*</font>
+<font color="#7e55fc" size="6">*Restaurants & Hotels*</font>
 <wiki:toc max_depth="3" />
 
 =<br><font size="4">Drinks</font>=
@@ -13,8 +13,9 @@
 || [http://google-maps-icons.googlecode.com/files/restaurantthai.png] <br> *Thaï restaurant*<br><font color="#777777" size="1">chicken</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/restaurantturkish.png] <br> *Turkish*<br><font color="#777777" size="1">rhum</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
 
 
-=<br><font size="4">Hotels & other</font>=
-|| [http://google-maps-icons.googlecode.com/files/hotel.png] <br> *Hotel*<br><font color="#777777" size="1">bed</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/resort.png] <br> *Resort*<br><font color="#777777" size="1">vacation, hotel</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/bread.png] <br> *Bread*<br><font color="#777777" size="1">baguette, croissant</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/icecream.png] <br> *Ice cream*<br><font color="#777777" size="1">ice</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
+=<br><font size="4">Hotels & Other</font>=
+|| [http://google-maps-icons.googlecode.com/files/hotel.png] <br> *Hotel*<br><font color="#777777" size="1">bed</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/hostel.png] <br> *Hostel*<br><font color="#777777" size="1">bed</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/youthhostel.png] <br> *Youth Hostel*<br><font color="#777777" size="1">bed</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/resort.png] <br> *Resort*<br><font color="#777777" size="1">vacation, hotel</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
+|| [http://google-maps-icons.googlecode.com/files/bread.png] <br> *Bread*<br><font color="#777777" size="1">baguette, croissant</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/icecream.png] <br> *Ice cream*<br><font color="#777777" size="1">ice</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
 
 
 =<br><font size="4">Requests</font>=

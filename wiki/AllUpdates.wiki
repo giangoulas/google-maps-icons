@@ -1,4 +1,10 @@
 #labels Featured
+*11th of September, 2009* ::: ?? new icons : cave, hostel, youth hostel. 3 of them are by [http://www.myBCN.es Matthias Stasiak]
+
+[http://google-maps-icons.googlecode.com/files/cave.png]
+[http://google-maps-icons.googlecode.com/files/hostel.png]
+[http://google-maps-icons.googlecode.com/files/youthhostel.png]
+
 *10th of September, 2009* ::: 11 new icons : yoga, scuba diving, massage, jogging, gym, fitness center, big city, small city, textiles, cocktail, helicopter. Nine of them are from [http://www.myBCN.es Matthias Stasiak]
 
 [http://google-maps-icons.googlecode.com/files/yoga.png]

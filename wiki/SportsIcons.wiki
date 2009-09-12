@@ -1,6 +1,6 @@
 #sidebar tocIcons
 
-<font color="#fc6355" size="6">*Sports & Health & Beauty*</font>
+<font color="#fc6355" size="6">*Sports, Health & Beauty*</font>
 
 <wiki:toc max_depth="3" />
 

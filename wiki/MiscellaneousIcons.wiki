@@ -1,5 +1,7 @@
 #sidebar tocIcons
-<font color="#9e7151" size="5">*Miscellaneous map icons*</font>
+
+<font color="#9e7151" size="6">*Miscellaneous*</font>
+
 <wiki:toc max_depth="3" />
 
 =<br><font size="4">Icons</font>=

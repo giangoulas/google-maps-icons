@@ -25,41 +25,26 @@ Lastly you should look at the
 [http://code.google.com/p/google-maps-icons/issues/entry Issues] tab.
 
 ==Designing new icons==
-If you are thinking about designing some icons of your own there are a couple of things to consider. We use Photoshop and the free alternative Paint.NET to create out own icons and we follow the simple design rules listed below.
+If you are thinking about designing some icons of your own there are a couple of things to consider. We use Photoshop and the free alternative Paint.NET to create out own icons and we follow the simple design rules & guide lines listed below.
 
 ===The Templates===
 To make it easier to follow our design rules we provide you with the templates we are using with the official Collection Set Colors, the icon frame and the transparent fading background. You can download the template files from here:
 
  * [http://google-maps-icons.googlecode.com/files/paint-net-template.pdn Paint.net template] (www.getPaint.NET)
- * [http://google-maps-icons.googlecode.com/files/template-empty.psd Photoshop Template (without icons)]
- * [http://google-maps-icons.googlecode.com/files/template.psd Photoshop Template (with layers and icons)]
-
-... to start adding your designs following theses guidelines written by Matthias:
-
+ * [http://google-maps-icons.googlecode.com/files/template-empty.psd Photoshop Template] (without icons)
+ * [http://google-maps-icons.googlecode.com/files/template.psd Photoshop Template] (with layers and icons)
 
 ===About Transparency===
-You also need to understand how to work with semi-transparent pixels, like in the
+You need to understand how to work with semi-transparent pixels, like in the
 pixels surrounding the icon frame. This to be able to create the icons looking a bit
-softer and with more detail then if you paint them with 100% color. An example Layer
-with lots of semi-transparent pixels is provided with the Canoe icon.
+softer and with more detail then if you paint them with 100% color. Try not to use to much transparency, the icons will end up looking to blurry and avoid using less than 50% transparency since you wont be able to see them anyway.
 
 ===About Layers===
-You need to understand the principles of working with Layers, like the Layers you
-find in the templates below. Key to the icons designed by me is the Layer Blending
-Mode found under Layer Properties in Paint.NET.  Icon sybols are never drawn on a
-background color, always in their own layer as in the attached Templates. This for
-many reasons but most importantly to be able to easily be able change the background
-color.
+The principles of working with Layers are also important since it will make your work so much easier. Layers are like transparent papers on top of each other. You find Layers in the in the templates provided above. Key to the icons designed by me is the Layer Blending
+Mode found under Layer Properties in Paint.NET.  Icon symbols are never drawn on a background color, always in their own layer above the background color. This for many reasons one being to be able to easily be able change the background color.
 
-===Some Basic Rules===
-The size of the inner icon symbol should never be bigger then 20x20 pixels. Use
-common sense with size, a midget needs to be smaller than a gigant even if they look
-similar in basic shape. White pixels on the Set standard background is the color for
-all symbols (except for the F&F&R Set where it obviously is Black instead). This
-means that the Layer with the symbol can only contain White (and Black) pixels, with
-0-99% transparency as seen in the example Layer in the attached Templates. Using
-Transparency below 25% almost never makes sense.
+===Basic Design Rules===
+The size of the inner icon symbol should never be bigger then 20x20 pixels unless you really have to. Use common sense with size, a midget needs to be smaller than a giant even if they look similar in basic shape. White pixel color on the Collection Set standard background is the color for all symbols (except for the F,F&R Set where it is Black instead). This means that the Layer with the symbol can only contain White (and Black) pixels, with 0-50% transparency.
 
 ==Share your icons==
-Once you created new icons, you can  [http://code.google.com/p/google-maps-icons/issues/entry propose] and upload it to this project.
-If we accept your design, you need to know that we will publish it under the [http://creativecommons.org/licenses/by-sa/3.0/deed Creations Commons Share-Alike 3.0].
+Once you have created a new icon you always have the option to share it in this project by creating a new [http://code.google.com/p/google-maps-icons/issues/entry Issue] and uploading it.  If we decide to accept your design, you need to know that we will publish it under the [http://creativecommons.org/licenses/by-sa/3.0/deed Creations Commons Share-Alike 3.0].

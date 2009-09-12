@@ -1,15 +1,15 @@
 <table width="100%"><tr><td>
 === Icon categories===
 
-<font color="#fffff" size="2"><strong>[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Administration & Offices & Industry]
+<font color="#fffff" size="2"><strong>[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Administration, Office & Industry]
 
-[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Sports & Health & Beauty]
+[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Sports, Health & Beauty]
 
 [http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Tourism & Nature]
 
 [http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Stores]
 
-[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Friends & Family & Real Estate]
+[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Friends, Family & Real Estate]
 
 [http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Restaurants & Hotels]
 

@@ -1,5 +1,5 @@
 #labels Featured
-You can help contribute on the project in different ways :
+Contribute
 
 <wiki:toc max_depth="3" />
 

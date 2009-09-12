@@ -1,5 +1,7 @@
 #sidebar tocIcons
-<font color="#999999" size="5">*Events & Weather map icons*</font>
+
+<font color="#999999" size="6">*Events & Weather*</font>
+
 <wiki:toc max_depth="3" />
 
 =<br><font size="4">Weather</font>=

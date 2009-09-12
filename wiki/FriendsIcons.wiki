@@ -1,5 +1,7 @@
 #sidebar tocIcons
-<font color="#fcf357" size="5">*Friends & Family & Real Estate icons*</font>
+
+<font color="#fcf357" size="6">*Friends, Family & Real Estate*</font>
+
 <wiki:toc max_depth="3" />
 
 =<br><font size="4">Icons</font>=

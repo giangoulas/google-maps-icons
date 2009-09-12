@@ -24,11 +24,6 @@ Lastly you should look at the
 [http://code.google.com/p/google-maps-icons/issues/list Issues] list to see if someone else already has suggested the icon and that we are already working on it. If you have done all this and still cannot find what you are looking for you are very welcome to make a new suggestion in the 
 [http://code.google.com/p/google-maps-icons/issues/entry Issues] tab.
 
-
-=Organizing the categories=
-The [NewBrownCategorySuggestions working in progress page], shows the future icon organizations, and suggestions. 
-
-
 =Designing new icons=
 
 We use either Photoshop or Paint.NET to create icons.

@@ -1,5 +1,7 @@
 #sidebar tocIcons
-<font color="#000000" size="5">*Transportation map icons*</font>
+
+<font color="#000000" size="6">*Transportation*</font>
+
 <wiki:toc max_depth="3" />
 
 =<br><font size="4">Road transportation</font>=

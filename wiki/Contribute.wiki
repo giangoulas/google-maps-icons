@@ -22,7 +22,7 @@ Suggestions are always very welcome.  Before suggesting a new icon you should fi
 
 *[http://code.google.com/p/google-maps-icons/wiki/RestaurantsIcons#Requests Restaurants & Hotels]
 
-*[http://code.google.com/p/google-maps-icons/wiki/SportsIcons#Requests Sports & Health & Beauty]
+*[http://code.google.com/p/google-maps-icons/wiki/SportsIcons#Requests Sports, Health & Beauty]
 
 *[http://code.google.com/p/google-maps-icons/wiki/StoresIcons#Requests Stores]
 

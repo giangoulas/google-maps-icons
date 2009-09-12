@@ -21,8 +21,7 @@ Suggestions are always very welcome.  Before suggesting a new icon you should fi
 
 This is where our own and others requests are listed. 
 Lastly you should look at the 
-[http://code.google.com/p/google-maps-icons/issues/list others suggestions]
-that have already been made and that we are working on. If you cannot find anything that fits you are very welcome to make a new suggestion in the 
+[http://code.google.com/p/google-maps-icons/issues/list Issues] list to see if someone else already has suggested the icon and that we are already working on it. If you have done all this and still cannot find what you are looking for you are very welcome to make a new suggestion in the 
 [http://code.google.com/p/google-maps-icons/issues/entry Issues] tab.
 
 

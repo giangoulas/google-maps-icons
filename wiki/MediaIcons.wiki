@@ -1,5 +1,7 @@
 #sidebar tocIcons
-<font color="#0337D1" size="5">*Media icons*</font>
+
+<font color="#0337D1" size="6">*Media*</font>
+
 <wiki:toc max_depth="3" />
 
 =<br><font size="4">Photo</font>=

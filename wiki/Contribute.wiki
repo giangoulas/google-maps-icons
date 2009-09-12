@@ -25,7 +25,7 @@ Lastly you should look at the
 [http://code.google.com/p/google-maps-icons/issues/entry Issues] tab.
 
 ==Designing new icons==
-If you are thinking about designing some icons of your own there are a couple of things to consider. We use Photoshop and the free alternative Paint.NET to create out own icons and we follow the simple design rules & guide lines listed below.
+If you are thinking about designing some icons of your own there are a couple of things to consider. We use Photoshop and the free alternative [http://www.getPaint.NET Paint.NET] to create out own icons and we follow the simple design rules & guide lines listed below.
 
 ===The Templates===
 To make it easier to follow our design rules we provide you with the templates we are using with the official Collection Set Colors, the icon frame and the transparent fading background. You can download the template files from here:

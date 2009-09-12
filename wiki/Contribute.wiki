@@ -1,5 +1,5 @@
 #labels Featured
-Contribute
+<font color="#000000" size="6">*Contribute*</font>
 
 <wiki:toc max_depth="3" />
 

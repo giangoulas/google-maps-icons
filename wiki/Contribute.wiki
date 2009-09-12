@@ -3,19 +3,21 @@ You can help contribute on the project in different ways :
 <wiki:toc max_depth="3" />
 
 ==Suggesting new icons==
-Suggestions are always very welcome.  Before suggesting a new icon you should first look through the list of icon we already have in the Project Home tab.  We have many, many icons so maybe we already have one that fits.  Secondly you should look at the Requests part of all categories - 
-[http://code.google.com/p/google-maps-icons/wiki/OfficesIcons#Requests Administration, Office & Industry],
-[http://code.google.com/p/google-maps-icons/wiki/SportsIcons#Requests Sports & Health & Beauty],
-[http://code.google.com/p/google-maps-icons/wiki/TourismIcons#Requests Tourism & Nature],
-[http://code.google.com/p/google-maps-icons/wiki/StoresIcons#Requests Stores],
-[http://code.google.com/p/google-maps-icons/wiki/FriendsIcons#Requests Friends, Family & Real Estate],
-[http://code.google.com/p/google-maps-icons/wiki/RestaurantsIcons#Requests Restaurants & Hotels],
+Suggestions are always very welcome.  Before suggesting a new icon you should first look through the list of icon we already have in the Project Home tab.  We have many, many icons so maybe we already have one that fits.  Secondly you should look at the Requests part of all categories -
+
+*[http://code.google.com/p/google-maps-icons/wiki/OfficesIcons#Requests Administration, Office & Industry]
+
 [http://code.google.com/p/google-maps-icons/wiki/CultureIcons#Requests Culture & Entertainment],
 [http://code.google.com/p/google-maps-icons/wiki/EducationIcons#Requests Education & Kids],
-[http://code.google.com/p/google-maps-icons/wiki/TransportationIcons#Requests Transportation],
-[http://code.google.com/p/google-maps-icons/wiki/MiscellaneousIcons#Requests Miscellaneous],
-[http://code.google.com/p/google-maps-icons/wiki/EventsIcons#Requests Events & Weather] and
+[http://code.google.com/p/google-maps-icons/wiki/EventsIcons#Requests Events & Weather] [http://code.google.com/p/google-maps-icons/wiki/FriendsIcons#Requests Friends, Family & Real Estate],
 [http://code.google.com/p/google-maps-icons/wiki/MediaIcons#Requests Media] 
+[http://code.google.com/p/google-maps-icons/wiki/MiscellaneousIcons#Requests Miscellaneous],
+[http://code.google.com/p/google-maps-icons/wiki/RestaurantsIcons#Requests Restaurants & Hotels],
+[http://code.google.com/p/google-maps-icons/wiki/SportsIcons#Requests Sports & Health & Beauty],
+[http://code.google.com/p/google-maps-icons/wiki/TourismIcons#Requests Tourism & Nature],
+[http://code.google.com/p/google-maps-icons/wiki/StoresIcons#Requests Stores] and
+[http://code.google.com/p/google-maps-icons/wiki/TransportationIcons#Requests Transportation]
+
 where we list our own and others requests which we haven't had the time to do yet. 
 Lastly you should look at the 
 [http://code.google.com/p/google-maps-icons/issues/list others suggestions]

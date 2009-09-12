@@ -1,5 +1,7 @@
 #sidebar tocIcons
-<font color="#ef9e40" size="5">*Education & Kids map icons*</font>
+
+<font color="#ef9e40" size="6">*Education & Kids*</font>
+
 <wiki:toc max_depth="3" />
 
 =<br><font size="4">Icons</font>=

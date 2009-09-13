@@ -6,7 +6,11 @@
 For the purpose of this tutorial on how to add the custom icons found on this project to your own [http://maps.google.com Google Maps] we assume that you are familiar with how to create the maps them selves.
 
 ==Google Maps==
-Log in to your Google account on the [http://maps.google.com Google Maps] page.  Choose the "My Maps" tab and choose either "Create new map" or click on an existing one.
+[http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-01.png]
+
+  # Log in to your Google account on the [http://maps.google.com Google Maps] page.
+  # Choose the "My Maps" tab.
+  # Choose either "Create new map" or click on an existing map "Created by me".
 
 
 You can use any image on the web for your placemarks. Just click on the new 'Add an icon' link in the icon menu, type the URL into the dialog box, and you're good to go.

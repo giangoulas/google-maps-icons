@@ -1,6 +1,6 @@
 #sidebar tocIcons
 
-<font color="#fc6355" size="6">*Sports, Health & Beauty*</font>
+<font color="#fc6355" size="6">*Sports, Health & Beauty map icons*</font>
 
 <wiki:toc max_depth="3" />
 
@@ -41,6 +41,10 @@
  * US Football
  * Sona
  * Aesthetics Center
+ * ATV
+ * SUV
+ * Motorbike
+ * Offroad trailhead
 
 =<br><font size="4">Credits</font>=
 

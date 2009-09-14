@@ -5,7 +5,7 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 
 =Sites=
 
-==[http://www.NatureRocks.org NatureRocks] > Find Nature tool in the USA==
+== [http://www.NatureRocks.org NatureRocks] > Find Nature tool in the USA ==
 
 ==[http://maps.join.cat/index.jsp?lang=en&units=km/mts&kind=road&pagina=1&orderBy=date.desc Enma Maps] > Bike trails in Spain==
 

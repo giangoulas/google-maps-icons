@@ -8,24 +8,24 @@ For the purpose of this tutorial on how to add the custom icons found on this pr
 =Google Maps=
 [http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-01.png]
 
-  # _Log in_ to your Google account on the *[http://maps.google.com Google Maps]* page.
-  # _Click_ on the *"My Maps"* tab.
-  # _Click_ on either *"Create new map"* or on an existing map *"Created by me"*.
+  # _Log in_ to your Google account on the *[http://maps.google.com Google Maps]* page
+  # _Click_ on the *"My Maps"* tab
+  # _Click_ on either *"Create new map"* or on an existing map *"Created by me"*
 
 ==Put _"placemarks"_ on your map==
 [http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-02.png]
 
 Once you have *"Created new map"* or *"Edit"* an existing one you now have the option to add so called _placemarks_ on the map to pinpoint locations on it.
 
-  # _Click_ on the *blue placemark pin icon* in the top left corner of your map window.
-  # _Drag the pin_ and _click_ to place the *small black cross* below it on the place on your map where you want to put your pin icon. You don't have to be exact since you can move it again later.
+  # _Click_ on the *blue placemark pin icon* in the top left corner of your map window
+  # _Drag the pin_ and _click_ to place the *small black cross* below it on the place on your map where you want to put your pin icon. You don't have to be exact since you can move it again later
 
 ==Change the default icon==
 [http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-03.png]
 
 In the moment that you mark where you want your icon placed an icon description dialog will show up.
 
-  # _Click_ on the *blue placemark pin icon* in the top right corner of this dialog.
+  # _Click_ on the *blue placemark pin icon* in the top right corner of this dialog
 
 When you do that the dialog will be filled with the standard Google Maps set of icons.
 
@@ -53,7 +53,7 @@ Now you need to go to the page on this project site where you found the icon tha
 
 Now go back to your Google Map.
 
-  # _Click_ on *Add an icon* in the top right corner of this dialog.
+  # _Click_ on *Add an icon* in the top right corner of this dialog
   #  When you do that an new smaller dialog will show up asking you for a URL to the icon file you wan to use. _Right Click_ in the URL field
   # _Click_ on *Paste*
 
@@ -61,8 +61,17 @@ Now go back to your Google Map.
 
   # Make sure the URL is copied with the .PNG extension and _Click_ on *OK*
 
-You will now be back in the icon description dialog but in your top left corner you should now see the new icon you selected instead of the standard blue pin.  Now all that is left for you is to write the Title of the Icon and the description of the location and you are done with this icon.
+===Add information about the icon===
+[http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-08.png]
 
+You will now be back in the icon description dialog.
+
+  # In your top left corner you should now see the new icon you selected instead of the standard blue pin
+  # _Write_ the *Title* of the icon
+  # _Write_ the *Description* of the location
+  # _Click_ on *OK*
+
+You are now done with this icon.
 
 [http://google-maps-icons.googlecode.com/files/map-example-01.png]
 

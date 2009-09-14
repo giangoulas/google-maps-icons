@@ -16,10 +16,12 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 
 ==Inteli-Tracker > GSM tracking==
 [http://tracker.stuartanderson.eu.com Inteli-Tracker]
+
 [http://google-maps-icons.googlecode.com/files/intelitracker.gif]
 
 ==Hongaarskinderplezier > Tourism in Hungary==
 [http://www.hongaarskinderplezier.eu/ Hongaarskinderplezier]
+
 [http://google-maps-icons.googlecode.com/files/hongaarskinderplezier.png]
 
 =Google Maps=

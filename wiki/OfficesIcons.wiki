@@ -14,7 +14,8 @@
 =<br><font size="4">Requests</font>=
  * Community center
  * Bank euro sign
-
+ * Wind turbine
+ * Dam
 =<br><font size="4">Credits</font>=
 
 All icons made by Nicolas Mollet, unless specified.

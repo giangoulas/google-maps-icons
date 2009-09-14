@@ -15,6 +15,7 @@
  * Community center
  * Bank euro sign
  * Wind turbine
+ * Oil pump
 =<br><font size="4">Credits</font>=
 
 All icons made by Nicolas Mollet, unless specified.

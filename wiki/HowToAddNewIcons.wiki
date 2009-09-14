@@ -78,8 +78,13 @@ You are now done with this icon.
 
 The next placemark you put out will have the same icon as default as the on you just put out before. If this is the one you want just point and click as described in [http://code.google.com/p/google-maps-icons/wiki/HowToAddNewIcons#Put_%22placemarks%22_on_your_map Put "placemarks" on your map] above.
 
-If you want to add another, different custom icon, you just follow all the steps mentioned above. The only difference will be that when you click on the icon in the top right corner of the icon description dialog you will come to the *My Icons* tab instead of the *Default icons* you saw earlier.  In this tab you will always see all the icons you have used on this specific map.
+If you want to add another, different custom icon, you just follow all the steps mentioned above. The only difference will be that when you:
 
-[http://google-maps-icons.googlecode.com/files/map-example-01.png]
+  # _Click_ on the *icon* in the top right corner of the icon description dialog you will come to the *My Icons* tab instead of the *Default icons* you saw earlier. In this tab you will always see all the icons you have used on this specific map.
+  # _Click_ on *Add an icon* in the top right corner of this dialog and follow the steps mentioned above.
 
-If you want to create a map with Google Maps Api 3, follow [http://www.svennerberg.com/2009/07/google-maps-api-3-markers/ this tutorial by Gabriel Svennerberg]
+=Your Google Map could look like this=
+[http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-10.png]
+
+=Create Advanced Google Maps=
+If you want to create a map with Google Maps API 3, follow [http://www.svennerberg.com/2009/07/google-maps-api-3-markers/ this tutorial by Gabriel Svennerberg]

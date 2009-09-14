@@ -21,10 +21,10 @@ steam train, cave, youth hostel, modern bridge, snow, bobsleigh, bank euro, bank
 [http://google-maps-icons.googlecode.com/files/helicopter.png]
 
 
-<font color="#666666" size="1"><b>7th of September, 2009</b></font><br>
+<font color="#666666" size="2"><b>7th of September, 2009</b></font><br>
 I rolled out the [IconDescriptions new icon descriptions wiki pages]. We now have 1 page per category, and it's easier to understand the meaning of an icon, with a description and tags. 
 
-<font color="#666666" size="1"><b>6th of September, 2009</b></font><br>
+<font color="#666666" size="2"><b>6th of September, 2009</b></font><br>
 I added a new page for [NumericIcons numbered-numeric icons]. Lots of people wanted this feature. It's actually made by [http://thydzik.com/dynamic-google-maps-markersicons-with-php/ Thydzik].
 
 <font color="#666666" size="1"><b>5rd of September, 2009</b></font><br>

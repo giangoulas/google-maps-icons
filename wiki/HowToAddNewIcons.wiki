@@ -3,7 +3,9 @@
 
 <wiki:toc max_depth="3" />
 
-For the purpose of this tutorial on how to add the custom icons found on this project to your own [http://maps.google.com Google Maps] we assume that you are familiar with how to create the maps them selves.
+The goal of this tutorial is to help you use the content of this *Google Maps Icons* project to make your own stunning custom Google Maps easier to understand, to navigate and in the process also make them more consistent and professional looking for you and everyone else who looks at them.
+
+For the purpose of this tutorial we assume that you are pretty familiar with how to create the maps them selves.
 
 =Google Maps=
 [http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-01.png]

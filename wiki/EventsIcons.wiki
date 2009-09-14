@@ -21,7 +21,6 @@
 =<br><font size="4">Requests</font>=
  * Tornado
  * Wind
- * Snow
  * Wedding
  * War
  * Flood

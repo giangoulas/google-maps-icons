@@ -5,14 +5,14 @@
 
 For the purpose of this tutorial on how to add the custom icons found on this project to your own [http://maps.google.com Google Maps] we assume that you are familiar with how to create the maps them selves.
 
-==Google Maps==
+=Google Maps=
 [http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-01.png]
 
   # _Log in_ to your Google account on the *[http://maps.google.com Google Maps]* page.
   # _Click_ on the *"My Maps"* tab.
   # _Click_ on either *"Create new map"* or on an existing map *"Created by me"*.
 
-===Put "_placemarks_" on your map===
+==Put _"placemarks"_ on your map==
 [http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-02.png]
 
 Once you have *"Created new map"* or *"Edit"* an existing one you now have the option to add so called _placemarks_ on the map to pinpoint locations on it.
@@ -20,10 +20,43 @@ Once you have *"Created new map"* or *"Edit"* an existing one you now have the o
   # _Click_ on the *blue placemark pin icon* in the top left corner of your map window.
   # _Drag the pin_ and _click_ to place the *small black cross* below it on the place on your map where you want to put your pin icon. You don't have to be exact since you can move it again later.
 
-===Change the default pin===
-You can use any image on the web for your placemarks. Just click on the new 'Add an icon' link in the icon menu, type the URL into the dialog box, and you're good to go.
+==Change the default icon==
+[http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-03.png]
 
-You can host theses files on your own server. Or you can link to theses files directly : you need to "copy the location of the image", then paste into Google Maps.
+In the moment that you mark where you want your icon placed an icon description dialog will show up.
+
+  # _Click_ on the *blue placemark pin icon* in the top right corner of this dialog.
+
+When you do that the dialog will be filled with the standard Google Maps set of icons.
+
+===Copy the URL to the new icon in Firefox===
+[http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-05.png]
+
+Now you need to go back to the page on this project site where you found the icon that you want to use. This because you need to copy it's URL (the address to the location where it is on the project server) so that your Google Map can find it.
+
+  # _Right Click_ on *the icon* you want
+  # _Click_ on *Copy Image Location*
+
+===Copy the URL to the new icon in Internet Explorer===
+[http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-06.png]
+
+Now you need to go to the page on this project site where you found the icon that you want to use. This because you need to copy it's URL (the address to where it is on the project server) so that your Google Map can find it.
+
+  # _Right Click_ on *the icon* you want
+  # _Click_ on *Properties*
+  # _Mark_ the *Address: (URL)* by _triple-clicking_ on the *URL*
+  # _Right Click_ on the now *highlighted URL*
+  # _Click_ on *Copy*
+
+===Add an icon===
+[http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-04.png]
+
+Now go back to your Google Map.
+
+  # _Click_ on *Add an icon* in the top right corner of this dialog.
+  #  When you do that an new smaller dialog will show up asking you for a URL to the icon file you wan to use. _Right Click_ in the URL field
+  # _Click_ on *Paste*
+
 
 [http://google-maps-icons.googlecode.com/files/howto.png]
 

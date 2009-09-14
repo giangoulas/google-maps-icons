@@ -23,7 +23,9 @@
  * Dance hall
  * Love motel...
  * Ropes course (adventure park)
- * Live concert
+ * Live concert (rock)
+ * Live concert (classical)
+ * Live concert (hip-hop)
 
 =<br><font size="4">Credits</font>=
 

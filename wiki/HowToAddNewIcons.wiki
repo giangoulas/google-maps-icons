@@ -8,17 +8,17 @@ For the purpose of this tutorial on how to add the custom icons found on this pr
 ==Google Maps==
 [http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-01.png]
 
-  # Log in to your Google account on the *[http://maps.google.com Google Maps]* page.
-  # Choose the *"My Maps"* tab.
-  # Choose either *"Create new map"* or click on an existing map *"Created by me"*.
+  # _Log in_ to your Google account on the *[http://maps.google.com Google Maps]* page.
+  # _Click_ on the *"My Maps"* tab.
+  # _Click_ on either *"Create new map"* or on an existing map *"Created by me"*.
 
-===Put "_placemaks_" on your map===
+===Put "_placemarks_" on your map===
 [http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-02.png]
 
 Once you have *"Created new map"* or *"Edit"* an existing one you now have the option to add so called _placemarks_ on the map to pinpoint locations on it.
 
-  # Click on blue the placemark pin icon in the top left corner of your map window.
-  # Drag the pin - point and click - to place the small black cross below it on the place on your map where you want to put your pin icon. You don't have to be exact since you can move it again later.
+  # _Click_ on the *blue placemark pin icon* in the top left corner of your map window.
+  # _Drag the pin_ and _click_ to place the *small black cross* below it on the place on your map where you want to put your pin icon. You don't have to be exact since you can move it again later.
 
 ===Change the default pin===
 You can use any image on the web for your placemarks. Just click on the new 'Add an icon' link in the icon menu, type the URL into the dialog box, and you're good to go.

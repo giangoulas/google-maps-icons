@@ -5,8 +5,8 @@
 steam train, cave, youth hostel, modern bridge, snow, bobsleigh, bank euro, bank pound, flood, dam, wind turbine
 </wiki:comment>
 
-<font color="#666666" size="2">10th of September, 2009</font><br>
-<font size="3"><b>11 new icons</b></font><br>
+<font color="#666666" size="1">10th of September, 2009</font><br>
+<font size="2"><b>11 new icons</b></font><br>
 yoga, scuba diving, massage, jogging, gym, fitness center, big city, small city, textiles, cocktail, helicopter. Nine of them are from [http://www.myBCN.es Matthias Stasiak]
 
 [http://google-maps-icons.googlecode.com/files/yoga.png]
@@ -22,16 +22,16 @@ yoga, scuba diving, massage, jogging, gym, fitness center, big city, small city,
 [http://google-maps-icons.googlecode.com/files/helicopter.png]
 
 
-<font color="#666666" size="2">7th of September, 2009</font><br>
-<font size="3"><b>Icon descriptions</b></font><br>
+<font color="#666666" size="1">7th of September, 2009</font><br>
+<font size="2"><b>Icon descriptions</b></font><br>
 I rolled out the [new icon descriptions wiki pages]. We now have 1 page per category, and it's easier to understand the meaning of an icon, with a description and tags. 
 
-<font color="#666666" size="2"><b>6th of September, 2009</b></font><br>
-<font size="3"><b>Numeric icons </b></font><br>
+<font color="#666666" size="1">6th of September, 2009</font><br>
+<font size="2"><b>Numeric icons </b></font><br>
 I added a new page for [NumericIcons numbered-numeric icons]. Lots of people wanted this feature. It's actually made by [http://thydzik.com/dynamic-google-maps-markersicons-with-php/ Thydzik].
 
-<font color="#666666" size="2"><b>5rd of September, 2009</b></font><br>
-<font size="3"><b>34 new icons</b></font><br>
+<font color="#666666" size="1">5rd of September, 2009</font><br>
+<font size="2"><b>34 new icons</b></font><br>
 powerplant, resort, nanny, toll station, hot air balloon, vespa, sail boat, traffic directions, manifestation, revolution, bomb, photos direction. See all the directions icons at the bottom of this page.
 There are already more than 200 icons in the project !
 

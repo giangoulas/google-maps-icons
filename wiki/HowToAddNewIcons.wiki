@@ -73,6 +73,20 @@ You will now be back in the icon description dialog.
 
 You are now done with this icon.
 
+==Add more custom icons==
+[http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-09.png]
+
+The next placemark you put out will have the same icon as default as the on you just put out before. If this is the one you want just point and click as in 
+
+  # In your top left corner you should now see the new icon you selected instead of the standard blue pin
+  # _Write_ the *Title* of the icon
+  # _Write_ the *Description* of the location
+  # _Click_ on *OK*
+
+You are now done with this icon.
+
+
+
 [http://google-maps-icons.googlecode.com/files/map-example-01.png]
 
 If you want to create a map with Google Maps Api 3, follow [http://www.svennerberg.com/2009/07/google-maps-api-3-markers/ this tutorial by Gabriel Svennerberg]

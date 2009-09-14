@@ -1,6 +1,7 @@
 #labels Featured
 Some sites and maps using this icon collection. If you are using the icons, please send the link to your public URL, to share your project.
 
+<wiki:toc max_depth="3" />
 
 =Sites=
 

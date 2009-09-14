@@ -87,4 +87,4 @@ If you want to add another, different custom icon, you just follow all the steps
 [http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-10.png]
 
 =Create Advanced Google Maps=
-If you want to create a map with Google Maps API 3, follow [http://www.svennerberg.com/2009/07/google-maps-api-3-markers/ this tutorial by Gabriel Svennerberg]
+If you want to create a map and place markers with Google Maps API 3 then follow this [http://www.svennerberg.com/2009/07/im-writing-a-book-about-google-maps/ tutorial] by Gabriel Svennerberg.

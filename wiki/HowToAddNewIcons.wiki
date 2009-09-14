@@ -78,14 +78,7 @@ You are now done with this icon.
 
 The next placemark you put out will have the same icon as default as the on you just put out before. If this is the one you want just point and click as described in [http://code.google.com/p/google-maps-icons/wiki/HowToAddNewIcons#Put_%22placemarks%22_on_your_map Put "placemarks" on your map] above.
 
-  # In your top left corner you should now see the new icon you selected instead of the standard blue pin
-  # _Write_ the *Title* of the icon
-  # _Write_ the *Description* of the location
-  # _Click_ on *OK*
-
-You are now done with this icon.
-
-
+If you want to add another, different custom icon you follow all the steps mentioned above. The only difference will be that when you click on the icon in the top right corner of the dialog you will come to the My Icons tab instead of the Default icons you saw earlier.  In this tab you will always see all the icons you have used in this map.
 
 [http://google-maps-icons.googlecode.com/files/map-example-01.png]
 

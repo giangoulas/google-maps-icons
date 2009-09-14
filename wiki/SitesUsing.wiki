@@ -4,7 +4,7 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 <wiki:toc max_depth="3" />
 
 =Sites=
-
+<font size="2">
 == Naturerocks > Find Nature tool in the USA ==
 [http://www.NatureRocks.org NatureRocks]
 
@@ -14,18 +14,22 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 == Mellowfish > Find restaurants and menus in England==
 [http://www.mellowfish.com Mellowfish]
 
-==[http://tracker.stuartanderson.eu.com Inteli-Tracker] > GSM tracking==
-
+==Inteli-Tracker > GSM tracking==
+[http://tracker.stuartanderson.eu.com Inteli-Tracker]
 [http://google-maps-icons.googlecode.com/files/intelitracker.gif]
 
-==[http://www.hongaarskinderplezier.eu/ Hongaarskinderplezier] > Tourism in Hungary==
-
+==Hongaarskinderplezier > Tourism in Hungary==
+[http://www.hongaarskinderplezier.eu/ Hongaarskinderplezier]
 [http://google-maps-icons.googlecode.com/files/hongaarskinderplezier.png]
 
 =Google Maps=
-==[http://maps.google.es/maps/ms?gl=es&ie=UTF8&msa=0&msid=100992618111608626378.00046c0f90262c463109d&ll=37.981991,-0.672698&spn=0.025978,0.057421&t=h&z=15 myBNC.es map of Torrevieja (Spain)]==
+==myBNC.es map of Torrevieja (Spain)==
+[http://maps.google.es/maps/ms?gl=es&ie=UTF8&msa=0&msid=100992618111608626378.00046c0f90262c463109d&ll=37.981991,-0.672698&spn=0.025978,0.057421&t=h&z=15 myBNC.es map of Torrevieja (Spain)]
 
-==[http://bit.ly/3gtfX Conakry map (Republic of Guinea)]==
+==Conakry map (Republic of Guinea)==
+[http://bit.ly/3gtfX Conakry map (Republic of Guinea)]
 
 =Custom Icons=
-==[http://www.umapper.com/blog/?p=1278 UMapper]==
+==UMapper==
+[http://www.umapper.com/blog/?p=1278 UMapper]
+</font>

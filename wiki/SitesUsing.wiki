@@ -2,10 +2,11 @@
 Some sites and maps using this icon collection. If you are using the icons, please send the link to your public URL, to share your project.
 
 
-===Sites===
-[http://www.NatureRocks.org NatureRocks] > Find Nature tool in the USA
+=Sites=
 
-[http://maps.join.cat/index.jsp?lang=en&units=km/mts&kind=road&pagina=1&orderBy=date.desc Enma Maps] > Bike trails in Spain
+==[http://www.NatureRocks.org NatureRocks] > Find Nature tool in the USA==
+
+==[http://maps.join.cat/index.jsp?lang=en&units=km/mts&kind=road&pagina=1&orderBy=date.desc Enma Maps] > Bike trails in Spain==
 
 [http://www.mellowfish.com Mellowfish] > Find restaurants and menus in England
 
@@ -19,7 +20,7 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 
 
 
-===Google Maps===
+=Google Maps=
 [http://maps.google.es/maps/ms?gl=es&ie=UTF8&msa=0&msid=100992618111608626378.00046c0f90262c463109d&ll=37.981991,-0.672698&spn=0.025978,0.057421&t=h&z=15 myBNC.es map of Torrevieja (Spain)]
 
 [http://bit.ly/3gtfX Conakry map (Republic of Guinea)]

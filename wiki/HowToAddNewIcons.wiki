@@ -57,10 +57,12 @@ Now go back to your Google Map.
   #  When you do that an new smaller dialog will show up asking you for a URL to the icon file you wan to use. _Right Click_ in the URL field
   # _Click_ on *Paste*
 
+[http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-07.png]
 
-[http://google-maps-icons.googlecode.com/files/howto.png]
+  # Make sure the URL is copied with the .PNG extension and _Click_ on *OK*
 
-A working example, with my maps :
+You will now be back in the icon description dialog but in your top left corner you should now see the new icon you selected instead of the standard blue pin.  Now all that is left for you is to write the Title of the Icon and the description of the location and you are done with this icon.
+
 
 [http://google-maps-icons.googlecode.com/files/map-example-01.png]
 

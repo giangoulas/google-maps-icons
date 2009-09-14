@@ -51,5 +51,5 @@ There are already more than 200 icons in the project !
 [http://google-maps-icons.googlecode.com/files/photoupright.png]
 [http://google-maps-icons.googlecode.com/files/photodown.png]
 
-[AllUpdates show all updates...]
+[AllUpdates show all updates...].
 </td></tr></table>

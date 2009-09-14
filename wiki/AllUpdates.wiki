@@ -1,47 +1,12 @@
 #labels Featured
-*11th of September, 2009* ::: 4 new icons: cave, hostel, youth hostel, modern bridge. 1 updated icon: bridge icon. 4 of them are by [http://www.myBCN.es Matthias Stasiak]
+==Updates==
 
-[http://google-maps-icons.googlecode.com/files/cave.png]
-[http://google-maps-icons.googlecode.com/files/hostel.png]
-[http://google-maps-icons.googlecode.com/files/youthhostel.png]
-[http://google-maps-icons.googlecode.com/files/bridgemodern.png]
-[http://google-maps-icons.googlecode.com/files/bridge.png]
-
-*10th of September, 2009* ::: 11 new icons : yoga, scuba diving, massage, jogging, gym, fitness center, big city, small city, textiles, cocktail, helicopter. Nine of them are from [http://www.myBCN.es Matthias Stasiak]
-
-[http://google-maps-icons.googlecode.com/files/yoga.png]
-[http://google-maps-icons.googlecode.com/files/scubadiving.png]
-[http://google-maps-icons.googlecode.com/files/massage.png]
-[http://google-maps-icons.googlecode.com/files/jogging.png]
-[http://google-maps-icons.googlecode.com/files/gym.png]
-[http://google-maps-icons.googlecode.com/files/fitnesscenter.png]
-[http://google-maps-icons.googlecode.com/files/bigcity.png]
-[http://google-maps-icons.googlecode.com/files/smallcity.png]
-[http://google-maps-icons.googlecode.com/files/textiles.png]
-[http://google-maps-icons.googlecode.com/files/cocktail.png]
-[http://google-maps-icons.googlecode.com/files/helicopter.png]
-
-*7th of September, 2009* ::: I rolled out the [IconDescriptions new icon descriptions wiki pages]. We now have 1 page per category, and it's easier to understand the meaning of an icon, with a description and tags. 
-
-*6th of September, 2009* ::: added a new page for [NumericIcons numbered-numeric icons]. Lots of people wanted this feature. It's actually made by [http://thydzik.com/dynamic-google-maps-markersicons-with-php/ Thydzik].
-
-*5rd of September, 2009* ::: 34 new icons : powerplant, resort, nanny, toll station, hot air balloon, vespa, sail boat, traffic directions, manifestation, revolution, bomb, photos direction. See all the directions icons at the bottom of this page.
-There are already more than 200 icons in the project !
-
-[http://google-maps-icons.googlecode.com/files/powerplant.png]
-[http://google-maps-icons.googlecode.com/files/resort.png]
-[http://google-maps-icons.googlecode.com/files/nanny.png]
-[http://google-maps-icons.googlecode.com/files/tollstation.png]
-[http://google-maps-icons.googlecode.com/files/hotairballoon.png]
-[http://google-maps-icons.googlecode.com/files/vespa.png]
-[http://google-maps-icons.googlecode.com/files/sailboat.png]
-[http://google-maps-icons.googlecode.com/files/upleft.png]
-[http://google-maps-icons.googlecode.com/files/rightthendown.png]
-[http://google-maps-icons.googlecode.com/files/strike.png]
-[http://google-maps-icons.googlecode.com/files/revolution.png]
-[http://google-maps-icons.googlecode.com/files/bomb.png]
-[http://google-maps-icons.googlecode.com/files/photoupright.png]
-[http://google-maps-icons.googlecode.com/files/photodown.png]
+||<font color="#666666" size="1">14th of September, 2009</font><br><font size="2"><b>11 new icons</b></font><br>wind turbine, dam, bank euro, bank pound, bobsleigh, modern bridge, cave, youth hostel, steam train, snow, flood. Three of them are from [http://www.myBCN.es Matthias Stasiak]<br> [http://google-maps-icons.googlecode.com/files/windturbine.png] [http://google-maps-icons.googlecode.com/files/dam.png] [http://google-maps-icons.googlecode.com/files/bankeuro.png] [http://google-maps-icons.googlecode.com/files/bankpound.png] [http://google-maps-icons.googlecode.com/files/bobsleigh.png] [http://google-maps-icons.googlecode.com/files/bridgemodern.png] [http://google-maps-icons.googlecode.com/files/cave.png] [http://google-maps-icons.googlecode.com/files/youthhostel.png] [http://google-maps-icons.googlecode.com/files/steamtrain.png] [http://google-maps-icons.googlecode.com/files/snow.png] [http://google-maps-icons.googlecode.com/files/flood.png] ||
+||<font color="#666666" size="1">10th of September, 2009</font><br><font size="2"><b>11 new icons</b></font><br>yoga, scuba diving, massage, jogging, gym, fitness center, big city, small city, textiles, cocktail, helicopter. Nine of them are from [http://www.myBCN.es Matthias Stasiak]<br> [http://google-maps-icons.googlecode.com/files/yoga.png] [http://google-maps-icons.googlecode.com/files/scubadiving.png] [http://google-maps-icons.googlecode.com/files/massage.png] [http://google-maps-icons.googlecode.com/files/jogging.png] [http://google-maps-icons.googlecode.com/files/gym.png] [http://google-maps-icons.googlecode.com/files/fitnesscenter.png] [http://google-maps-icons.googlecode.com/files/bigcity.png] [http://google-maps-icons.googlecode.com/files/smallcity.png] [http://google-maps-icons.googlecode.com/files/textiles.png] http://google-maps-icons.googlecode.com/files/cocktail.png] [http://google-maps-icons.googlecode.com/files/helicopter.png] ||
+||<font color="#666666" size="1">7th of September, 2009</font><br><font size="2"><b>Icon descriptions</b></font><br>I rolled out the [IconDescriptions new icon descriptions wiki pages]. We now have 1 page per category, and it's easier to understand the meaning of an icon, with a description and tags.||
+||<font color="#666666" size="1">6th of September, 2009</font><br><font size="2"><b>Numeric icons </b></font><br>I added a new page for [NumericIcons numbered-numeric icons]. Lots of people wanted this feature. It's actually made by [http://thydzik.com/dynamic-google-maps-markersicons-with-php/ Thydzik].||
+||<font color="#666666" size="1">5rd of September, 2009</font><br><font size="2"><b>34 new icons</b></font><br>powerplant, resort, nanny, toll station, hot air balloon, vespa, sail boat, traffic directions, manifestation, revolution, bomb, photos direction. <br>See all the directions icons at the bottom of this page. <br>There are already more than 200 icons in the project !<br> [http://google-maps-icons.googlecode.com/files/powerplant.png] [http://google-maps-icons.googlecode.com/files/resort.png] [http://google-maps-icons.googlecode.com/files/nanny.png] [http://google-maps-icons.googlecode.com/files/tollstation.png] [http://google-maps-icons.googlecode.com/files/hotairballoon.png] [http://google-maps-icons.googlecode.com/files/vespa.png] [http://google-maps-icons.googlecode.com/files/sailboat.png] [http://google-maps-icons.googlecode.com/files/upleft.png] [http://google-maps-icons.googlecode.com/files/rightthendown.png] [http://google-maps-icons.googlecode.com/files/strike.png] [http://google-maps-icons.googlecode.com/files/revolution.png] [http://google-maps-icons.googlecode.com/files/bomb.png] [http://google-maps-icons.googlecode.com/files/photoupright.png] [http://google-maps-icons.googlecode.com/files/photodown.png] ||
+||[AllUpdates show all updates »»]||
 
 *3rd of September, 2009* ::: 10 new icons : work office, senior site, prison, vet, hair salon, phone store, family member, day care, construction, customs.
 

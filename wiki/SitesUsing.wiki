@@ -23,15 +23,17 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 [http://www.hongaarskinderplezier.eu/ Hongaarskinderplezier]
 
 [http://google-maps-icons.googlecode.com/files/hongaarskinderplezier.png]
-
+</font>
 =Google Maps=
+<font size="2">
 ==myBNC.es map of Torrevieja (Spain)==
 [http://maps.google.es/maps/ms?gl=es&ie=UTF8&msa=0&msid=100992618111608626378.00046c0f90262c463109d&ll=37.981991,-0.672698&spn=0.025978,0.057421&t=h&z=15 myBNC.es map of Torrevieja (Spain)]
 
 ==Conakry map (Republic of Guinea)==
 [http://bit.ly/3gtfX Conakry map (Republic of Guinea)]
-
+</font>
 =Custom Icons=
+<font size="2">
 ==UMapper==
 [http://www.umapper.com/blog/?p=1278 UMapper]
 </font>

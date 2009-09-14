@@ -5,6 +5,7 @@
 steam train, cave, youth hostel, modern bridge, snow, bobsleigh, bank euro, bank pound, flood, dam, wind turbine
 </wiki:comment>
 
+<table width="500"><tr><td>
 <font color="#666666" size="1">10th of September, 2009</font><br>
 <font size="2"><b>11 new icons</b></font><br>
 yoga, scuba diving, massage, jogging, gym, fitness center, big city, small city, textiles, cocktail, helicopter. Nine of them are from [http://www.myBCN.es Matthias Stasiak]
@@ -24,7 +25,7 @@ yoga, scuba diving, massage, jogging, gym, fitness center, big city, small city,
 
 <font color="#666666" size="1">7th of September, 2009</font><br>
 <font size="2"><b>Icon descriptions</b></font><br>
-I rolled out the [Icon descriptions new icon descriptions wiki pages]. We now have 1 page per category, and it's easier to understand the meaning of an icon, with a description and tags. 
+I rolled out the [Icondescriptions new icon descriptions wiki pages]. We now have 1 page per category, and it's easier to understand the meaning of an icon, with a description and tags. 
 
 <font color="#666666" size="1">6th of September, 2009</font><br>
 <font size="2"><b>Numeric icons </b></font><br>
@@ -51,3 +52,4 @@ There are already more than 200 icons in the project !
 [http://google-maps-icons.googlecode.com/files/photodown.png]
 
 [AllUpdates show all updates...]
+</td></tr></table>

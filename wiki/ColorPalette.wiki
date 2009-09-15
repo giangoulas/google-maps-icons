@@ -1,4 +1,4 @@
-===Original Color Palette (1)===
+===Color Palette===
 [http://google-maps-icons.googlecode.com/files/factory.png]
 [http://google-maps-icons.googlecode.com/files/drugs.png]
 [http://google-maps-icons.googlecode.com/files/bridgemodern.png]
@@ -9,25 +9,8 @@
 [http://google-maps-icons.googlecode.com/files/university.png]
 [http://google-maps-icons.googlecode.com/files/subway.png]
 [http://google-maps-icons.googlecode.com/files/wifi.png]
-[http://google-maps-icons.googlecode.com/files/events-nico.png]
+[http://google-maps-icons.googlecode.com/files/clouds.png]
 
 [http://google-maps-icons.googlecode.com/files/audio.png]
-[http://google-maps-icons.googlecode.com/files/darkred.png]
-[http://google-maps-icons.googlecode.com/files/darkgreen.png]
-
-===New Color Palette (2)===
-[http://google-maps-icons.googlecode.com/files/office-nico.png]
-[http://google-maps-icons.googlecode.com/files/sport-nico.png]
-[http://google-maps-icons.googlecode.com/files/tourism-nico.png]
-[http://google-maps-icons.googlecode.com/files/stores-nico.png]
-[http://google-maps-icons.googlecode.com/files/friends-nico.png]
-[http://google-maps-icons.googlecode.com/files/restaurants-nico.png]
-[http://google-maps-icons.googlecode.com/files/culture-nico.png]
-[http://google-maps-icons.googlecode.com/files/education-nico.png]
-[http://google-maps-icons.googlecode.com/files/transports-nico.png]
-[http://google-maps-icons.googlecode.com/files/misc-nico.png]
-[http://google-maps-icons.googlecode.com/files/events-nico.png]
-
-[http://google-maps-icons.googlecode.com/files/media-nico.png]
 [http://google-maps-icons.googlecode.com/files/darkred.png]
 [http://google-maps-icons.googlecode.com/files/darkgreen.png]

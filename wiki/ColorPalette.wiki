@@ -7,7 +7,7 @@
 [http://google-maps-icons.googlecode.com/files/winery.png]
 [http://google-maps-icons.googlecode.com/files/museum.png]
 [http://google-maps-icons.googlecode.com/files/university.png]
-[http://google-maps-icons.googlecode.com/files/underground.png]
+[http://google-maps-icons.googlecode.com/files/subway.png]
 [http://google-maps-icons.googlecode.com/files/wifi.png]
 [http://google-maps-icons.googlecode.com/files/events-nico.png]
 

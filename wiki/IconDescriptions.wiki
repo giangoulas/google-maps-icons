@@ -1,3 +1,4 @@
+#labels Featured
 #sidebar tocIcons
 
 Browse the icons by sub-categories, see the descriptions, look up by tags, in the all new pages by category.

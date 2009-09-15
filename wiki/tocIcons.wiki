@@ -1,4 +1,4 @@
-<table width="100%"><tr><td>
+<table width="100%" bgcolor="#f2f2f2"><tr><td>
 === Icon categories===
 
 <font color="#fffff" size="2"><strong>[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Administration, Office & Industry]

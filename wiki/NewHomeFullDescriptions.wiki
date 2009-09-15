@@ -1,4 +1,4 @@
-#labels Phase-QA
+#labels Phase-QA,Deprecated
 ===<font color="#5781fc" >Administration & Offices</font>===  
 || Conference center || [http://google-maps-icons.googlecode.com/files/conference.png] |||| Laboratory || [http://google-maps-icons.googlecode.com/files/laboratory.png] |||| Factory || [http://google-maps-icons.googlecode.com/files/factory.png] |||| Company || [http://google-maps-icons.googlecode.com/files/company.png] |||| Find a job || [http://google-maps-icons.googlecode.com/files/findajob.png] ||
 || Bank || [http://google-maps-icons.googlecode.com/files/bank.png] |||| Administration || [http://google-maps-icons.googlecode.com/files/administration.png] |||| Military || [http://google-maps-icons.googlecode.com/files/military.png] |||| Postal office || [http://google-maps-icons.googlecode.com/files/postal.png] |||| Justice || [http://google-maps-icons.googlecode.com/files/justice.png] ||

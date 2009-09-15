@@ -32,22 +32,25 @@
 =<br><font size="4">Requests</font>=
  * Amphitheater
  * Camping (tents)
+ * Cabin or Shelter
  * Coal mine
  * Cross
  * Fjord
  * Flower Fields
  * Glacier
  * Gondolas
- * Hydro-power Dam
  * Lake
+ * Petroglyph : rock engravings
  * Rock
  * Shore
+ * Spring : a source of water
  * Square
  * Tower (Modern)
  * Waterworks
  * Water Mill
  * Well
  * Waterfall
+
 =<br><font size="4">Credits</font>=
 
 All icons made by Nicolas Mollet, unless specified.

@@ -31,15 +31,16 @@
 
 =<br><font size="4">Requests</font>=
  * Amphitheater
- * Camping (tents)
+ * Camp site or Tents
  * Cabin or Shelter
- * Coal mine
  * Cross
  * Fjord
  * Flower Fields
  * Glacier
+ * Ghost town
  * Gondolas
  * Lake
+ * Mine
  * Petroglyph : rock engravings
  * Rock
  * Shore

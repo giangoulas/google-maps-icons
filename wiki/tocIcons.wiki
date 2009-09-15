@@ -1,3 +1,4 @@
+#labels Phase-Design,Deprecated
 <table width="100%" bgcolor="#f2f2f2"><tr><td>
 === Icon categories===
 

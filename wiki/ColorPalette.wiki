@@ -1,3 +1,4 @@
+#labels Phase-Design,Deprecated
 ===Color Palette===
 [http://google-maps-icons.googlecode.com/files/factory.png]
 [http://google-maps-icons.googlecode.com/files/drugs.png]

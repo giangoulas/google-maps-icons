@@ -1,10 +1,9 @@
-
 ===Original Color Palette (1)===
-[http://google-maps-icons.googlecode.com/files/office-google.png]
-[http://google-maps-icons.googlecode.com/files/sport-google.png]
-[http://google-maps-icons.googlecode.com/files/tourism-google.png]
-[http://google-maps-icons.googlecode.com/files/stores-google.png]
-[http://google-maps-icons.googlecode.com/files/friends-google.png]
+[http://google-maps-icons.googlecode.com/files/factory.png]
+[http://google-maps-icons.googlecode.com/files/ski.png]
+[http://google-maps-icons.googlecode.com/files/bridgemodern.png]
+[http://google-maps-icons.googlecode.com/files/toys.png]
+[http://google-maps-icons.googlecode.com/files/family.png]
 [http://google-maps-icons.googlecode.com/files/restaurants-google.png]
 [http://google-maps-icons.googlecode.com/files/culture-google.png]
 [http://google-maps-icons.googlecode.com/files/education-nico.png]

@@ -11,7 +11,7 @@
 [http://google-maps-icons.googlecode.com/files/wifi.png]
 [http://google-maps-icons.googlecode.com/files/events-nico.png]
 
-[http://google-maps-icons.googlecode.com/files/media-nico.png]
+[http://google-maps-icons.googlecode.com/files/sound.png]
 [http://google-maps-icons.googlecode.com/files/darkred.png]
 [http://google-maps-icons.googlecode.com/files/darkgreen.png]
 

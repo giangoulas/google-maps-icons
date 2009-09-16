@@ -24,6 +24,17 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 
 [http://google-maps-icons.googlecode.com/files/hongaarskinderplezier.png]
 </font>
+
+=Applications=
+<font size="2">
+==Location Scout > Discover filming locations==
+Application that helps you discover filming locations for thousands of movies via information compiled by the Internet Movie Database.
+
+[http://www.getlocationscout.com/img/phone.jpg]
+</font>
+
+
+
 =Google Maps=
 <font size="2">
 ==myBNC.es map of Torrevieja (Spain)==

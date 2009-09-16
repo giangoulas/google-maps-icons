@@ -1,4 +1,3 @@
-
 <wiki:toc max_depth="3" />
 
 =Others ressources=
@@ -26,18 +25,29 @@ http://thydzik.com/thydzikGoogleMap/markerlink.php?text=1&color=5680FC
 <img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=1&color=5680FC&image=.png">
 
 Red : FC6355
+
 Teal : 55D7D7
+
 Yellow : FCF356
+
 Purple : 7D54FC
+
 Pink : E14E9D
+
 Orange : EF9D3F
+
 Black : 000000
+
 Brown : 9E7151
+
 Gray : A8A8A8
+
 Dark blue : 0336D1
+
 White : ffffff
 
 Examples :
+
 [http://google-maps-icons.googlecode.com/files/thydzik.png]
 
 Credits : [http://thydzik.com/dynamic-google-maps-markersicons-with-php/ Dynamic Google Maps Markersicons with Php by Thydzik]

@@ -6,21 +6,21 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 =Sites=
 <font size="2">
 == Naturerocks > Find Nature tool in the USA ==
-[http://www.NatureRocks.org NatureRocks]
+[http://www.NatureRocks.org Visit NatureRocks.org]
 
 == Enma Maps > Bike trails in Spain==
 [http://maps.join.cat/index.jsp?lang=en&units=km/mts&kind=road&pagina=1&orderBy=date.desc Enma Maps]
 
 == Mellowfish > Find restaurants and menus in England==
-[http://www.mellowfish.com Mellowfish]
+[http://www.mellowfish.com Visit Mellowfish.com]
 
 ==Inteli-Tracker > GSM tracking==
-[http://tracker.stuartanderson.eu.com Inteli-Tracker]
+[http://tracker.stuartanderson.eu.com Visit Inteli-Tracker]
 
 [http://google-maps-icons.googlecode.com/files/intelitracker.gif]
 
 ==Hongaarskinderplezier > Tourism in Hungary==
-[http://www.hongaarskinderplezier.eu/ Hongaarskinderplezier]
+[http://www.hongaarskinderplezier.eu/ Visit Hongaarskinderplezier.eu]
 
 [http://google-maps-icons.googlecode.com/files/hongaarskinderplezier.png]
 </font>
@@ -31,6 +31,8 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 Application that helps you discover filming locations for thousands of movies via information compiled by the Internet Movie Database.
 
 [http://www.getlocationscout.com/img/phone.jpg]
+
+[http://www.getlocationscout.com Visit Locationscout.com]
 </font>
 
 

@@ -25,6 +25,8 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 [http://google-maps-icons.googlecode.com/files/hongaarskinderplezier.png]
 </font>
 
+----
+
 =Applications=
 <font size="2">
 ==Location Scout > Discover filming locations==
@@ -35,7 +37,7 @@ Application that helps you discover filming locations for thousands of movies vi
 [http://www.getlocationscout.com Visit Locationscout.com]
 </font>
 
-
+----
 
 =Google Maps=
 <font size="2">
@@ -45,6 +47,9 @@ Application that helps you discover filming locations for thousands of movies vi
 ==Conakry map (Republic of Guinea)==
 [http://bit.ly/3gtfX Conakry map (Republic of Guinea)]
 </font>
+
+----
+
 =Custom Icons=
 <font size="2">
 ==UMapper==

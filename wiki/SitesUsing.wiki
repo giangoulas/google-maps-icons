@@ -25,9 +25,11 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 [http://google-maps-icons.googlecode.com/files/hongaarskinderplezier.png]
 </font>
 
-==Mellor Brook Community Website > Community center in England)
+==Mellor Brook Community Website > Community center in England]
 
 [http://www.mellorbrook.org/index.php/local-map-new Visit Mellor Brook Community]
+
+[http://google-maps-icons.googlecode.com/files/mellorbrook.png]
 
 ----
 

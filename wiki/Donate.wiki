@@ -11,9 +11,13 @@ The easiest way to donate to the project is by sending money with *Paypal*.  You
 ===How to donate by using Paypal===
 Donating with Paypal is as quick and easy as 4 clicks and one amount away!
 
-[https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Nico%2eMollet%40gmail%2ecom&lc=US&item_name=Nicolas%20Mollet%20%28Google%20Maps%20Icons%29&item_number=GoogleMapsIcons&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
+[https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Nico%2eMollet%40gmail%2ecom&lc=US&item_name=Nicolas%20Mollet%20%28Google%20Maps%20Icons%29&item_number=Google%20Maps%20Icons&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
+
+to *Nico Mollet* (Project Creator & Contributor)
 
 [https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Matthias%2eStasiak%40gmail%2ecom&lc=US&item_name=Matthias%20Stasiak%20%28Google%20Maps%20Icons%29&item_number=Google%20Maps%20Icons&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
+
+to *Matthias* "myBCN.es" (Project Contributor)
 
 Click or Right-click and choose "Open Link in New Tab" on Paypal Donate icon above to be transferred to the Paypal site. There you start by entering your donation amount and click "Update Total" on the top of the page.  After that you either log in to your existing Paypal account or create a new one.  Once you have done this you have the option to "Add special instructions to seller", for instance that you want to remain anonymous, before you click the yellow "Donate €(your amount) Now"-button down to the right and you are done and we are very grateful.
 

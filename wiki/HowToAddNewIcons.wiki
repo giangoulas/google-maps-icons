@@ -90,3 +90,20 @@ If you want to add another, different custom icon, you just follow all the steps
 
 =Create Advanced Google Maps=
 If you want to create a map and place markers with Google Maps API 3 then follow this [http://www.svennerberg.com/2009/07/google-maps-api-3-markers/ tutorial] by Gabriel Svennerberg.
+
+=Donate=
+This project is created by Nicolas Mollet and is by no means affiliated with Google. Free time is used by all contributors to create and share icons for the Google Maps community. If you feel this project is useful to you and want to support it and its future development please consider donating money.  We only ask for a small donation, but of course we appreciate any amount. 
+
+[https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Nico%2eMollet%40gmail%2ecom&lc=US&item_name=Nicolas%20Mollet%20%28Google%20Maps%20Icons%29&item_number=Google%20Maps%20Icons&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
+
+to *Nico Mollet* (Project Creator & Contributor)
+
+[https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Matthias%2eStasiak%40gmail%2ecom&lc=US&item_name=Matthias%20Stasiak%20%28Google%20Maps%20Icons%29&item_number=Google%20Maps%20Icons&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
+
+to *Matthias* "myBCN.es" (Project Contributor)
+
+We are very grateful for your gift!
+
+=Contribute=
+Suggestions are always very welcome. First look at the Project Home tab, then the Requests part of all categories, then look at the 
+[http://code.google.com/p/google-maps-icons/issues/list Issues] list to see if someone else already has suggested the icon and that we are already working on it. If you have done all this and still cannot find what you are looking for you are very welcome to *make a new suggestion in the [http://code.google.com/p/google-maps-icons/issues/entry Issues] tab*.

@@ -1,24 +1,38 @@
 #sidebar tocIcons
 
-<font color="#0337D1" size="6">*Media*</font>
+<FONT color="#0337D1" size="6">*Media*</FONT>
 
 <wiki:toc max_depth="3" />
 
-=<br><font size="4">Photo</font>=
+=Icons=
+===Type: Photo===
+|| [http://google-maps-icons.googlecode.com/files/photo.png] <BR>*Photography*<BR><FONT color="#777777" size="1">shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photoup.png] <BR>*Photography Up*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photoupright.png] <BR>*Photography Up Right*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photoright.png] <BR>*Photography Right*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photodownright.png] <BR> *Photography Down Right*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+|| [http://google-maps-icons.googlecode.com/files/photodown.png] <BR>*Photography Down*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photodownleft.png] <BR>*Photography Down Left*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photoleft.png] <BR>*Photography Left*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photoupleft.png] <BR>*Photography Up Left*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
-|| [http://google-maps-icons.googlecode.com/files/photo.png] <br> *Photo*<br><font color="#777777" size="1">photo, picture</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/photoup.png] <br> *Photoup*<br><font color="#777777" size="1">direction, picture</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/photoupright.png] <br> *Photoupright*<br><font color="#777777" size="1">direction, picture</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/photoright.png] <br> *Photoright*<br><font color="#777777" size="1">direction, picture</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/photodownright.png] <br> *Photodownright*<br><font color="#777777" size="1">direction, picture</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
-|| [http://google-maps-icons.googlecode.com/files/photodown.png] <br> *Photodown*<br><font color="#777777" size="1">direction, picture</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/photodownleft.png] <br> *Photodownleft*<br><font color="#777777" size="1">direction, picture</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/photoleft.png] <br> *Photoleft*<br><font color="#777777" size="1">direction, picture</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/photoupleft.png] <br> *Photoupleft*<br><font color="#777777" size="1">direction, picture</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
+===<BR>Type: Other===
+|| [http://google-maps-icons.googlecode.com/files/video.png] <BR>*Video*<BR><FONT color="#777777" size="1">clip, movie, film</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/audio.png] <BR>*Audio*<BR><FONT color="#777777" size="1">sound, noice</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/text.png] <BR>*Text*<BR><FONT color="#777777" size="1">write, article, book, note, letter</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
+==Requests==
+None at the moment
 
-=<br><font size="4">Other</font>=
-
-|| [http://google-maps-icons.googlecode.com/files/video.png] <br> *Video*<br><font color="#777777" size="1">clip, movie</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/audio.png] <br> *Audio*<br><font color="#777777" size="1">sound</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/text.png] <br> *Text*<br><font color="#777777" size="1">write, article</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
-
-
-=<br><font size="4">Requests</font>=
-
-None at the moment.
-
-=<br><font size="4">Credits</font>=
-
+==Credits==
 All icons made by Nicolas Mollet, unless specified.
+
+<BR>
+=Donations=
+This project is created by Nicolas Mollet and is by no means affiliated with Google. Free time is used by all contributors to create and share icons for the Google Maps community. If you feel this project is useful to you and want to support it and its future development please consider donating money.  We only ask for a small donation, but of course we appreciate any amount. 
+
+[https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Nico%2eMollet%40gmail%2ecom&lc=US&item_name=Nicolas%20Mollet%20%28Google%20Maps%20Icons%29&item_number=Google%20Maps%20Icons&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
+
+to *Nico Mollet* (Project Creator & Contributor)
+
+[https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Matthias%2eStasiak%40gmail%2ecom&lc=US&item_name=Matthias%20Stasiak%20%28Google%20Maps%20Icons%29&item_number=Google%20Maps%20Icons&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
+
+to *Matthias* "myBCN.es" (Project Contributor)
+
+We are very grateful for your gift!
+
+<BR>
+=Contributions=
+Suggestions are always very welcome. First look at the Project Home tab, then the Requests part of all categories, then look at the 
+[http://code.google.com/p/google-maps-icons/issues/list Issues] list to see if someone else already has suggested the icon and that we are already working on it. If you have done all this and still cannot find what you are looking for you are very welcome to *make a new suggestion in the [http://code.google.com/p/google-maps-icons/issues/entry Issues] tab*.

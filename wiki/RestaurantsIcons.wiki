@@ -25,7 +25,7 @@
  * Motel
  * Apartment hotel
  * Tapas restaurant (spanish)
-
+ * Concessionaire
 =<br><font size="4">Credits</font>=
 All icons made by Nicolas Mollet, unless specified.
 

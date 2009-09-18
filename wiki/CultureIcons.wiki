@@ -4,36 +4,33 @@
 
 <wiki:toc max_depth="3" />
 
-=<br><font size="4">Inside</font>=
+=Icons=
+===Type: Indoor Activities===
+|| [http://google-maps-icons.googlecode.com/files/bowling.png] <br>*Bowling*<br><font color="#777777" size="1">skittles, skee ball, ten-pin</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/party.png] <br>*Celebration*<br><font color="#777777" size="1">birthday, party, anniversary</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/billiard.png]<br>*Billiard*<br><font color="#777777" size="1">pool, snooker</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/aquarium.png]<br>*Aquarium* <br><font color="#777777" size="1">fishes, marine life</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cinema.png] <br>*Cinema*<br><font color="#777777" size="1">movie, film, projection</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
+|| [http://google-maps-icons.googlecode.com/files/club.png] <br>*Club*<br><font color="#777777" size="1">music, dancing, disco</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/theater.png] <br>*Theater*<br><font color="#777777" size="1">play, performance, drama</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/casino.png] <br>*Casino*<br><font color="#777777" size="1">gambling</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/poker.png] <br>*Card Games*<br><font color="#777777" size="1">poker, blackjack, bridge</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/museum.png] <br>*Museum*<br><font color="#777777" size="1">history, art, legacy</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
-|| [http://google-maps-icons.googlecode.com/files/bowling.png] <br> *Bowling*<br><font color="#777777" size="1">sport</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/party.png] <br>*Party*<br><font color="#777777" size="1">birthday</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/billiard.png]<br>*Billiard*<br><font color="#777777" size="1">pool, snooker</font><br><font color="#ffffff" size="1">----------------------------------------</font>||  [http://google-maps-icons.googlecode.com/files/aquarium.png]<br>*Aquarium* <br><font color="#777777" size="1">fishes</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cinema.png] <br>*Cinema*<br><font color="#777777" size="1">movie</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
-|| [http://google-maps-icons.googlecode.com/files/club.png] <br>*Club*<br><font color="#777777" size="1">music, dancing</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/theater.png] <br>*Theater*<br><font color="#777777" size="1">play</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/casino.png] <br>*Casino*<br><font color="#777777" size="1">gambling</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/poker.png] <br>*Poker*<br><font color="#777777" size="1">gambling</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/museum.png] <br>*Museum*<br><font color="#777777" size="1">history, art</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
+===<br>Type: Outdoor Activities===
+|| [http://google-maps-icons.googlecode.com/files/themepark.png] <br>*Theme Park*<br><font color="#777777" size="1">amusement, funfair, rides</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/bullfight.png] <br>*Bull Fight Arena*<br><font color="#777777" size="1">bullfighting, corrida, tauromachy</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/zoo.png] <br>*Zoological Garden*<br><font color="#777777" size="1">zoo, animal park</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
+==Requests==
+ * Military Museum
+ * Historical Museum
+ * "Open air" Museum
+ * Crafts Museum
+ * Dance Hall
+ * Love Motel...
+ * Ropes Course (in an Adventure Park)
+ * Live Concert (Pop/Rock style)
+ * Live Concert (Classical style)
+ * Live Concert (Rap/Hip-Hop style)
 
-=<br><font size="4">Outside</font>=
-
-|| [http://google-maps-icons.googlecode.com/files/themepark.png] <br>*Theme park* <br><font color="#777777" size="1">park</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/bullfight.png] <br>*Bull fight*<br><font color="#777777" size="1">animals</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/zoo.png] <br>*Zoo*<br><font color="#777777" size="1">animals</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
-
-=<br><font size="4">Requests</font>=
-
- * Military museum
- * Historical museum
- * "Open air" museum
- * Crafts museum
- * Dance hall
- * Love motel...
- * Ropes course (adventure park)
- * Live concert (rock)
- * Live concert (classical)
- * Live concert (hip-hop)
-
-=<br><font size="4">Credits</font>=
-
+==Credits==
 All icons made by Nicolas Mollet, unless specified.
 
-Made by [http://www.mybcn.es Matthias Stasiak] : aquarium, zoo, bullfight
+Icons made by [http://www.mybcn.es Matthias Stasiak] : aquarium, zoo, bull fight arena
 
-=Donate=
+<BR>
+=Donations=
 This project is created by Nicolas Mollet and is by no means affiliated with Google. Free time is used by all contributors to create and share icons for the Google Maps community. If you feel this project is useful to you and want to support it and its future development please consider donating money.  We only ask for a small donation, but of course we appreciate any amount. 
 
 [https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Nico%2eMollet%40gmail%2ecom&lc=US&item_name=Nicolas%20Mollet%20%28Google%20Maps%20Icons%29&item_number=Google%20Maps%20Icons&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
@@ -46,6 +43,7 @@ to *Matthias* "myBCN.es" (Project Contributor)
 
 We are very grateful for your gift!
 
-=Contribute=
+<BR>
+=Contributions=
 Suggestions are always very welcome. First look at the Project Home tab, then the Requests part of all categories, then look at the 
 [http://code.google.com/p/google-maps-icons/issues/list Issues] list to see if someone else already has suggested the icon and that we are already working on it. If you have done all this and still cannot find what you are looking for you are very welcome to *make a new suggestion in the [http://code.google.com/p/google-maps-icons/issues/entry Issues] tab*.

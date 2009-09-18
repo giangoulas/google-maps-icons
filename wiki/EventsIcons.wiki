@@ -1,30 +1,48 @@
 #sidebar tocIcons
 
-<font color="#999999" size="6">*Events & Weather icons*</font>
+<FONT color="#999999" size="6">*Events & Weather*</FONT>
 
 <wiki:toc max_depth="3" />
 
-=<br><font size="4">Weather</font>=
+=Icons=
+===Weather===
+|| [http://google-maps-icons.googlecode.com/files/rain.png] <BR>*Rainy*<BR><FONT color="#777777" size="1">showers, monsoon</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/cloudsun.png] <BR>*Cloudy and Sunny*<BR><FONT color="#777777" size="1">partly cloudy, mixed</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/clouds.png] <BR>*Cloudy*<BR><FONT color="#777777" size="1">gray, beclouded</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/sun.png] <BR>*Sunny*<BR><FONT color="#777777" size="1">beaming, bright, hot</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/thunder.png] <BR>*Thunderstorm*<BR><FONT color="#777777" size="1">lightning, thunder, squall</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+|| [http://google-maps-icons.googlecode.com/files/snow.png] <BR>*Snowy*<BR><FONT color="#777777" size="1">ice, cold, frost</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
-|| [http://google-maps-icons.googlecode.com/files/rain.png] <br> *Rain*<br><font color="#777777" size="1">water</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cloudsun.png] <br> *Cloud and sun*<br><font color="#777777" size="1">grey</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/clouds.png] <br> *Clouds*<br><font color="#777777" size="1">grey</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/sun.png] <br> *Sun*<br><font color="#777777" size="1">light, shiny</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/thunder.png] <br> *Thunder*<br><font color="#777777" size="1">storm, lightning</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
-|| [http://google-maps-icons.googlecode.com/files/snow.png] <br> *Snow*<br><font color="#777777" size="1">ice, cold</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
+===<BR>Days of the Week===
+|| [http://google-maps-icons.googlecode.com/files/monday.png] <BR>*Monday*<BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/tuesday.png] <BR>*Tuesday*<BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/wednesday.png] <BR>*Wednesday*<BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/thursday.png] <BR>*Thursday*<BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/friday.png] <BR>*Friday*<BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+|| [http://google-maps-icons.googlecode.com/files/satursday.png] <BR>*Saturday*<BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/sunday.png] <BR>*Sunday*<BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
-=<br><font size="4">Days of week</font>=
-|| [http://google-maps-icons.googlecode.com/files/monday.png] <br> *Monday*<br><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/tuesday.png] <br> *Tuesday*<br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/wednesday.png] <br> *Wednesday*<br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/thursday.png] <br> *Thursday*<br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/friday.png] <br> *Friday*<br><font color="#ffffff" size="1">----------------------------------------</font>||
-|| [http://google-maps-icons.googlecode.com/files/satursday.png] <br> *Satursday*<br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/sunday.png] <br> *Sunday*<br><font color="#ffffff" size="1">----------------------------------------</font>||
+===<BR>Events===
+|| [http://google-maps-icons.googlecode.com/files/fire.png] <BR>*Fire*<BR><FONT color="#777777" size="1">blaze, burn, flames</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/gun.png] <BR>*Shooting*<BR><FONT color="#777777" size="1">guns, weapons, combat/FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/planecrash.png] <BR>*Plane Crash*<BR><FONT color="#777777" size="1">aviation accident, airplane</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/explosion.png] <BR>*Explosion*<BR><FONT color="#777777" size="1">bomb, blast, boom</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/radiation.png] <BR>*Radiation*<BR><FONT color="#777777" size="1">radioactivity, decontamination</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+|| [http://google-maps-icons.googlecode.com/files/revolution.png] <BR>*Revolution*<BR><FONT color="#777777" size="1">revolt, overthrow, overturn</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/bomb.png] <BR>*Bomb*<BR><FONT color="#777777" size="1">dynamite, warhead, missile</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/strike.png] <BR>*Manifestation*<BR><FONT color="#777777" size="1">strike, demonstration, protest</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/flood.png] <BR>*Flooding*<BR><FONT color="#777777" size="1">water, overflow</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
-=<br><font size="4">Events</font>=
-|| [http://google-maps-icons.googlecode.com/files/fire.png] <br> *Fire*<br><font color="#777777" size="1">hot</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/gun.png] <br> *Shooting*<br><font color="#777777" size="1">guns, weapons, murder</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/planecrash.png] <br> *Plane crash*<br><font color="#777777" size="1">flight</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/explosion.png] <br> *Explosion*<br><font color="#777777" size="1">boom</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/radiation.png] <br> *Radiation*<br><font color="#777777" size="1">radio-activity, nuclear</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
-|| [http://google-maps-icons.googlecode.com/files/revolution.png] <br> *Revolution*<br><font color="#777777" size="1">revolt</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/bomb.png] <br> *Bomb*<br><font color="#777777" size="1">terrorism</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/strike.png] <br> *Manifestation*<br><font color="#777777" size="1">strike</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/flood.png] <br> *Flood*<br><font color="#777777" size="1">water, disaster</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
-
-=<br><font size="4">Requests</font>=
+==Requests==
  * Tornado
  * Wind
  * Wedding
  * War
 
-=<br><font size="4">Credits</font>=
-
+==Credits==
 All icons made by Nicolas Mollet, unless specified.
 
-Made by [http://www.umapper.com UMapper] : fire, shooting, place crash, explosion, radiation
+Icons made by [http://www.umapper.com UMapper]: fire, shooting, place crash, explosion, radiation
+
+<BR>
+=Donations=
+This project is created by Nicolas Mollet and is by no means affiliated with Google. Free time is used by all contributors to create and share icons for the Google Maps community. If you feel this project is useful to you and want to support it and its future development please consider donating money.  We only ask for a small donation, but of course we appreciate any amount. 
+
+[https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Nico%2eMollet%40gmail%2ecom&lc=US&item_name=Nicolas%20Mollet%20%28Google%20Maps%20Icons%29&item_number=Google%20Maps%20Icons&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
+
+to *Nico Mollet* (Project Creator & Contributor)
+
+[https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Matthias%2eStasiak%40gmail%2ecom&lc=US&item_name=Matthias%20Stasiak%20%28Google%20Maps%20Icons%29&item_number=Google%20Maps%20Icons&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
+
+to *Matthias* "myBCN.es" (Project Contributor)
+
+We are very grateful for your gift!
+
+<BR>
+=Contributions=
+Suggestions are always very welcome. First look at the Project Home tab, then the Requests part of all categories, then look at the 
+[http://code.google.com/p/google-maps-icons/issues/list Issues] list to see if someone else already has suggested the icon and that we are already working on it. If you have done all this and still cannot find what you are looking for you are very welcome to *make a new suggestion in the [http://code.google.com/p/google-maps-icons/issues/entry Issues] tab*.

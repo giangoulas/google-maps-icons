@@ -1,18 +1,34 @@
 #sidebar tocIcons
 
-<font color="#fcf357" size="6">*Friends, Family & Real Estate*</font>
+<FONT color="#fcf357" size="6">*Friends, Family & Real Estate*</FONT>
 
 <wiki:toc max_depth="3" />
 
-=<br><font size="4">Icons</font>=
+=Icons=
+|| [http://google-maps-icons.googlecode.com/files/friends.png] <BR>*Friends*<BR><FONT color="#777777" size="1">associate, colleague</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/home.png] <BR>*Home*<BR><FONT color="#777777" size="1">living</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/girlfriend.png] <BR>*Love Interest*<BR><FONT color="#777777" size="1">lover, fiancé, fiancé</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/dates.png] <BR>*Date*<BR><FONT color="#777777" size="1">appointment, meeting</FONT> <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||  [http://google-maps-icons.googlecode.com/files/realestate.png]<BR>*Real Estate* <BR><FONT color="#777777" size="1">house, building</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+|| [http://google-maps-icons.googlecode.com/files/apartment.png] <BR>*Apartment*<BR><FONT color="#777777" size="1">flat, studio</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/family.png] <BR>*Family*<BR><FONT color="#777777" size="1">mother, father, sister, brother</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
-|| [http://google-maps-icons.googlecode.com/files/friends.png] <br> *Friends*<br><font color="#777777" size="1">house, living</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/home.png] <br>*Home*<br><font color="#777777" size="1">house, living</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/girlfriend.png]<br>*Girlfriend*<br><font color="#777777" size="1">love</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/dates.png] <br>*Dates* <br><font color="#777777" size="1">love</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||  [http://google-maps-icons.googlecode.com/files/realestate.png]<br>*Real estate* <br><font color="#777777" size="1">house</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
-|| [http://google-maps-icons.googlecode.com/files/apartment.png] <br>*Apartement*<br><font color="#777777" size="1">house</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/family.png] <br>*Family*<br><font color="#777777" size="1">house, living</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
+==Requests==
+None at the moment
 
-=<br><font size="4">Requests</font>=
-
-None at the moment.
-
-=<br><font size="4">Credits</font>=
-
+==Credits==
 All icons made by Nicolas Mollet, unless specified.
+
+<BR>
+=Donations=
+This project is created by Nicolas Mollet and is by no means affiliated with Google. Free time is used by all contributors to create and share icons for the Google Maps community. If you feel this project is useful to you and want to support it and its future development please consider donating money.  We only ask for a small donation, but of course we appreciate any amount. 
+
+[https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Nico%2eMollet%40gmail%2ecom&lc=US&item_name=Nicolas%20Mollet%20%28Google%20Maps%20Icons%29&item_number=Google%20Maps%20Icons&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
+
+to *Nico Mollet* (Project Creator & Contributor)
+
+[https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Matthias%2eStasiak%40gmail%2ecom&lc=US&item_name=Matthias%20Stasiak%20%28Google%20Maps%20Icons%29&item_number=Google%20Maps%20Icons&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
+
+to *Matthias* "myBCN.es" (Project Contributor)
+
+We are very grateful for your gift!
+
+<BR>
+=Contributions=
+Suggestions are always very welcome. First look at the Project Home tab, then the Requests part of all categories, then look at the 
+[http://code.google.com/p/google-maps-icons/issues/list Issues] list to see if someone else already has suggested the icon and that we are already working on it. If you have done all this and still cannot find what you are looking for you are very welcome to *make a new suggestion in the [http://code.google.com/p/google-maps-icons/issues/entry Issues] tab*.

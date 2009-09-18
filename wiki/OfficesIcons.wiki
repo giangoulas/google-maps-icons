@@ -4,7 +4,6 @@
 
 <wiki:toc max_depth="3" />
 
-----
 =Icons=
 ===Type: City Services===
 || [http://google-maps-icons.googlecode.com/files/police.png] <BR>*Police*<BR><FONT color="#777777" size="1">citizen protection, guard</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/firemen.png] <BR>*Firemen*<BR><FONT color="#777777" size="1">citizen protection</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/justice.png] <BR>*Justice*<BR><FONT color="#777777" size="1">law, lawyer, court</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT> || [http://google-maps-icons.googlecode.com/files/postal.png] <BR>*Post Office*<BR><FONT color="#777777" size="1">letter, post card, mail</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT> || [http://google-maps-icons.googlecode.com/files/military.png] <BR>*Military Base*<BR><FONT color="#777777" size="1">army, civil guard</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT> ||
@@ -41,4 +40,3 @@ We are very grateful for your gift!
 =Contributions=
 Suggestions are always very welcome. First look at the Project Home tab, then the Requests part of all categories, then look at the 
 [http://code.google.com/p/google-maps-icons/issues/list Issues] list to see if someone else already has suggested the icon and that we are already working on it. If you have done all this and still cannot find what you are looking for you are very welcome to *make a new suggestion in the [http://code.google.com/p/google-maps-icons/issues/entry Issues] tab*.
-----

@@ -4,23 +4,24 @@
 
 <wiki:toc max_depth="3" />
 
-=<br><font size="4">Icons</font>=
+=Icons=
+===Type: Education===
+|| [http://google-maps-icons.googlecode.com/files/school.png] <br>*School*<br><font color="#777777" size="1">learning, education, classes</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/university.png] <br>*University*<br><font color="#777777" size="1">college, faculty, student, exam</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/library.png] <br>*Library*<br><font color="#777777" size="1">books, literature, reading</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
-|| [http://google-maps-icons.googlecode.com/files/school.png] <br>*School* <br><font color="#777777" size="1">learning</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/university.png] <br>*University* <br><font color="#777777" size="1">college, faculty, student</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/library.png] <br>*Library* <br><font color="#777777" size="1">book, litterature</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/playground.png] <br>*Playground* <br><font color="#777777" size="1">kid, play</font><br><font color="#ffffff" size="1">----------------------------------------</font> || [http://google-maps-icons.googlecode.com/files/daycare.png] <br>*Day care* <br><font color="#777777" size="1">kid, baby</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
-|| [http://google-maps-icons.googlecode.com/files/nanny.png] <br>*Nanny* <br><font color="#777777" size="1">kid, </font><br><font color="#ffffff" size="1">----------------------------------------</font>||
+===<BR>Type: Kids===
+|| [http://google-maps-icons.googlecode.com/files/nanny.png] <br>*Nanny*<br><font color="#777777" size="1">babysitter, governess, au pair</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/playground.png] <br>*Playground*<br><font color="#777777" size="1">play area, sandbox, playscape</font><br><font color="#ffffff" size="1">----------------------------------------</font> || [http://google-maps-icons.googlecode.com/files/daycare.png] <br>*Day Care*<br><font color="#777777" size="1">child care, kindergarten</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
-=<br><font size="4">Requests</font>=
-
- * Private teacher
- * Adult education
- * Summer camp
+==Requests==
+ * Private Teacher
+ * Adult Education
+ * Summer Camp
  * Dog Park
 
-=<br><font size="4">Credits</font>=
-
+==Credits==
 All icons made by Nicolas Mollet, unless specified.
 
-=Donate=
+<BR>
+=Donations=
 This project is created by Nicolas Mollet and is by no means affiliated with Google. Free time is used by all contributors to create and share icons for the Google Maps community. If you feel this project is useful to you and want to support it and its future development please consider donating money.  We only ask for a small donation, but of course we appreciate any amount. 
 
 [https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Nico%2eMollet%40gmail%2ecom&lc=US&item_name=Nicolas%20Mollet%20%28Google%20Maps%20Icons%29&item_number=Google%20Maps%20Icons&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
@@ -33,6 +34,7 @@ to *Matthias* "myBCN.es" (Project Contributor)
 
 We are very grateful for your gift!
 
-=Contribute=
+<BR>
+=Contributions=
 Suggestions are always very welcome. First look at the Project Home tab, then the Requests part of all categories, then look at the 
 [http://code.google.com/p/google-maps-icons/issues/list Issues] list to see if someone else already has suggested the icon and that we are already working on it. If you have done all this and still cannot find what you are looking for you are very welcome to *make a new suggestion in the [http://code.google.com/p/google-maps-icons/issues/entry Issues] tab*.

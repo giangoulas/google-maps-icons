@@ -4,15 +4,32 @@
 
 <wiki:toc max_depth="3" />
 
-=<br><font size="4">Icons</font>=
+=Icons=
+|| [http://google-maps-icons.googlecode.com/files/toilets.png] <BR>*Toilets*<BR><FONT color="#777777" size="1">WC, lavatories, latrine, bathroom</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/wifi.png] <BR>*Wi-Fi* <BR><FONT color="#777777" size="1">internet, wireless, access point</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/info.png] <BR>*Information*<BR><FONT color="#777777" size="1">tip, help, support</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/regroup.png] <BR>*Regroup*<BR><FONT color="#777777" size="1">group, gathering, meeting point</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT> || [http://google-maps-icons.googlecode.com/files/recycle.png] <BR>*Recycle*<BR><FONT color="#777777" size="1">reuse, garbage, recover</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+|| [http://google-maps-icons.googlecode.com/files/disability.png] <BR>*Disability*<BR><FONT color="#777777" size="1">handicap, incapable</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/construction.png] <BR>*Construction*<BR><FONT color="#777777" size="1">building site, dig</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
-|| [http://google-maps-icons.googlecode.com/files/toilets.png] <br>*Toilets* <br><font color="#777777" size="1">wc</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/wifi.png] <br>*Wifi* <br><font color="#777777" size="1">internet, computer</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/info.png] <br>*Info* <br><font color="#777777" size="1">tip, help, desk</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/regroup.png] <br>*Regroup* <br><font color="#777777" size="1">group, gathering</font><br><font color="#ffffff" size="1">----------------------------------------</font> || [http://google-maps-icons.googlecode.com/files/recycle.png] <br>*Recycle* <br><font color="#777777" size="1">ecology, environment</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
-|| [http://google-maps-icons.googlecode.com/files/disability.png] <br>*Disability* <br><font color="#777777" size="1"></font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/construction.png] <br>*Construction* <br><font color="#777777" size="1">building</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
-
-=<br><font size="4">Requests</font>=
+==Requests==
 
  * Smoking area
 
-=<br><font size="4">Credits</font>=
+==Credits==
 
 All icons made by Nicolas Mollet, unless specified.
+
+=Donate=
+This project is created by Nicolas Mollet and is by no means affiliated with Google. Free time is used by all contributors to create and share icons for the Google Maps community. If you feel this project is useful to you and want to support it and its future development please consider donating money.  We only ask for a small donation, but of course we appreciate any amount. 
+
+[https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Nico%2eMollet%40gmail%2ecom&lc=US&item_name=Nicolas%20Mollet%20%28Google%20Maps%20Icons%29&item_number=Google%20Maps%20Icons&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
+
+to *Nico Mollet* (Project Creator & Contributor)
+
+[https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Matthias%2eStasiak%40gmail%2ecom&lc=US&item_name=Matthias%20Stasiak%20%28Google%20Maps%20Icons%29&item_number=Google%20Maps%20Icons&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
+
+to *Matthias* "myBCN.es" (Project Contributor)
+
+We are very grateful for your gift!
+
+
+=Contribute=
+Suggestions are always very welcome. First look at the Project Home tab, then the Requests part of all categories, then look at the 
+[http://code.google.com/p/google-maps-icons/issues/list Issues] list to see if someone else already has suggested the icon and that we are already working on it. If you have done all this and still cannot find what you are looking for you are very welcome to *make a new suggestion in the [http://code.google.com/p/google-maps-icons/issues/entry Issues] tab*.

@@ -1,52 +1,46 @@
 #sidebar tocIcons
 
-<font color="#fc6355" size="6">*Sports, Health & Beauty map icons*</font>
+<font color="#fc6355" size="6">*Sports, Health & Beauty*</font>
 
-<wiki:toc max_depth="3" />
+<wiki:toc max_depth="4" />
 
-=<br><font size="4">Health</font>=
+=Icons=
+===Health===
+|| [http://google-maps-icons.googlecode.com/files/doctor.png] <BR>*Doctor*<BR><FONT color="#777777" size="1">nurse, medic, MD</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/drugs.png] <BR>*Pharmacy*<BR><FONT color="#777777" size="1">chemist, drugstore</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/hospital.png] <BR>*Hospital*<BR><FONT color="#777777" size="1">clinic, emergency</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/schrink.png] <BR>*Therapy*<BR><FONT color="#777777" size="1">psychologist, shrink, counseling</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/vet.png] <BR>*Veterinary*<BR><FONT color="#777777" size="1">vet, animal hospital</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+|| [http://google-maps-icons.googlecode.com/files/hairsalon.png] <BR>*Hair/Beauty Salon*<BR><FONT color="#777777" size="1">barber, hairdresser, parlor</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
-|| [http://google-maps-icons.googlecode.com/files/doctor.png] <br> *Doctor*<br><font color="#777777" size="1">nurse, medic</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/drugs.png] <br> *Drug store*<br><font color="#777777" size="1">medication, medicine</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/hospital.png] <br> *Hospital*<br><font color="#777777" size="1">emergency</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/schrink.png] <br> *Therapy*<br><font color="#777777" size="1">psychologist, shrink, counseling</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/vet.png] <br> *Veterinary*<br><font color="#777777" size="1">animals, pet</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
-|| [http://google-maps-icons.googlecode.com/files/hairsalon.png] <br> *Hair/Beauty salon*<br><font color="#777777" size="1">cut, barber, beauty</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
+===<BR>Sports===
+====Cycling/Racing====
+|| [http://google-maps-icons.googlecode.com/files/cyclingsport.png] <BR>*Cycling*<BR><FONT color="#777777" size="1">biking</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/cyclingfeedarea.png] <BR>*Feed Area*<BR><FONT color="#777777" size="1">food drink stop</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/cyclingsprint.png] <BR>*Sprint*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/cyclingmountain1.png] <BR>*Mountain 1*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT> || [http://google-maps-icons.googlecode.com/files/cyclingmountain2.png] <BR>*Mountain 2*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+|| [http://google-maps-icons.googlecode.com/files/cyclingmountain3.png] <BR>*Mountain 3*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/cyclingmountain4.png] <BR>*Mountain 4*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/cyclinguncategorized.png] <BR>*Uncategorized Mnt*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/racing.png] <BR>*Racing*<BR><FONT color="#777777" size="1">track, circuit, speedway</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/karting.png] <BR>*Kart Racing*<BR><FONT color="#777777" size="1">go-kart, karting</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
+====<BR>Nature Sports====
+||[http://google-maps-icons.googlecode.com/files/skiing.png] <BR>*Skiing*<BR><FONT color="#777777" size="1">alpine, slalom, downhill</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/kayak.png] <BR>*Kayaking*<BR><FONT color="#777777" size="1">kayak, paddling</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/scubadiving.png] <BR>*Scuba Diving*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/fishing.png] <BR>*Fishing*<BR><FONT color="#777777" size="1">angling, fly fishing</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/horseriding.png] <BR>*Horse Riding*<BR><FONT color="#777777" size="1">equestrianism</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+||[http://google-maps-icons.googlecode.com/files/hiking.png] <BR>*Hiking*<BR><FONT color="#777777" size="1">run</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/bobsleigh.png] <BR>*Bob sleigh*<BR><FONT color="#777777" size="1">slide</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
-=<br><font size="4">Sports</font>=
+====<BR>Relaxing Sports====
+||[http://google-maps-icons.googlecode.com/files/pool.png] <BR>*Pool*<BR><FONT color="#777777" size="1">water, swim</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/yoga.png] <BR>*Yoga*<BR><FONT color="#777777" size="1">spirit</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/massage.png] <BR>*Massage*<BR><FONT color="#777777" size="1">relax</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/jogging.png] <BR>*Jogging*<BR><FONT color="#777777" size="1">run, walk</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/gym.png] <BR>*Gym*<BR><FONT color="#777777" size="1">relax</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+||[http://google-maps-icons.googlecode.com/files/fitnesscenter.png] <BR>*Fitness center*<BR><FONT color="#777777" size="1">form, gym</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
-==<br><font size="3">Cycling / Racing</font>==
+====<BR>Ball Sports====
+||[http://google-maps-icons.googlecode.com/files/basketball.png] <BR>*Basketball*<BR><FONT color="#777777" size="1">streetball</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/rugby.png] <BR>*Rugby*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/soccer.png] <BR>*Soccer*<BR><FONT color="#777777" size="1">football</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/golf.png] <BR>*Golf*<BR><FONT color="#777777" size="1">18</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+||[http://google-maps-icons.googlecode.com/files/tennis.png] <BR>*Tennis*<BR><FONT color="#777777" size="1">racket</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/usfootball.png] <BR>*US football*<BR><FONT color="#777777" size="1">australian</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
-|| [http://google-maps-icons.googlecode.com/files/cyclingsport.png] <br> *Cycling*<br><font color="#777777" size="1">bike</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cyclingfeedarea.png] <br> *Feed area*<br><font color="#777777" size="1">food</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cyclingsprint.png] <br> *Sprint*<br><font color="#777777" size="1">speed</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cyclingmountain1.png] <br> *Mountain 1*<br><font color="#777777" size="1">mountain</font> <br><font color="#ffffff" size="1">----------------------------------------</font> || [http://google-maps-icons.googlecode.com/files/cyclingmountain2.png] <br> *Mountain 2*<br><font color="#777777" size="1">mountain</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
-|| [http://google-maps-icons.googlecode.com/files/cyclingmountain3.png] <br> *Mountain 3*<br><font color="#777777" size="1">mountain</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cyclingmountain4.png] <br> *Mountain 4*<br><font color="#777777" size="1">mountain</font> <br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/cyclinguncategorized.png] <br> *Uncategorized Mnt*<br><font color="#777777" size="1">mountain</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/racing.png] <br> *Racing*<br><font color="#777777" size="1">mountain</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/karting.png] <br> *Karting*<br><font color="#777777" size="1">mountain</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
-
-
-==<br><font size="3">Nature sports</font>==
-||[http://google-maps-icons.googlecode.com/files/skiing.png] <br> *Skiing*<br><font color="#777777" size="1">mountain</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/kayak.png] <br> *Kayak*<br><font color="#777777" size="1">water, river</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/scubadiving.png] <br> *Scuba diving*<br><font color="#777777" size="1">dive, water</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/fishing.png] <br> *Fishing*<br><font color="#777777" size="1">lake</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/horseriding.png] <br> *Horse riding*<br><font color="#777777" size="1">ride</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
-||[http://google-maps-icons.googlecode.com/files/hiking.png] <br> *Hiking*<br><font color="#777777" size="1">run</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/bobsleigh.png] <br> *Bob sleigh*<br><font color="#777777" size="1">slide</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
-
-==<br><font size="3">Relaxing sports</font>==
-||[http://google-maps-icons.googlecode.com/files/pool.png] <br> *Pool*<br><font color="#777777" size="1">water, swim</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/yoga.png] <br> *Yoga*<br><font color="#777777" size="1">spirit</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/massage.png] <br> *Massage*<br><font color="#777777" size="1">relax</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/jogging.png] <br> *Jogging*<br><font color="#777777" size="1">run, walk</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/gym.png] <br> *Gym*<br><font color="#777777" size="1">relax</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
-||[http://google-maps-icons.googlecode.com/files/fitnesscenter.png] <br> *Fitness center*<br><font color="#777777" size="1">form, gym</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
-
-==<br><font size="3">Ball sports</font>==
-||[http://google-maps-icons.googlecode.com/files/basketball.png] <br> *Basketball*<br><font color="#777777" size="1">streetball</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/rugby.png] <br> *Rugby*<br><font color="#777777" size="1"></font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/soccer.png] <br> *Soccer*<br><font color="#777777" size="1">football</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/golf.png] <br> *Golf*<br><font color="#777777" size="1">18</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
-||[http://google-maps-icons.googlecode.com/files/tennis.png] <br> *Tennis*<br><font color="#777777" size="1">racket</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/usfootball.png] <br> *US football*<br><font color="#777777" size="1">australian</font> <br><font color="#ffffff" size="1">----------------------------------------</font>||
-
-
-=<br><font size="4">Requests</font>=
+==Requests==
  * Skate Park
  * Ice Skating
  * Hockey Field
  * Rowboat
  * Sailing
  * Ski Jump
- * Sona
+ * Sauna
  * Aesthetics Center
  * ATV
  * SUV
  * Motorbike
- * Offroad trailhead
+ * Offroad Trailhead
 
-=<br><font size="4">Credits</font>=
-
+==Credits==
 All icons made by Nicolas Mollet, unless specified.
 
 Made by [http://www.myBCN.es Matthias Stasiak] : racing, karting, kayak, scuba diving, yoga, massage, jogging, gym, fitness center.
@@ -63,7 +57,6 @@ to *Nico Mollet* (Project Creator & Contributor)
 to *Matthias* "myBCN.es" (Project Contributor)
 
 We are very grateful for your gift!
-
 
 =Contribute=
 Suggestions are always very welcome. First look at the Project Home tab, then the Requests part of all categories, then look at the 

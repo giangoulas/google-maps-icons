@@ -21,6 +21,8 @@
 
 All icons made by Nicolas Mollet, unless specified.
 
+Icons made by [http://www.mybcn.es Matthias Stasiak] : textiles
+
 <BR>
 =Donations=
 This project is created by Nicolas Mollet and is by no means affiliated with Google. Free time is used by all contributors to create and share icons for the Google Maps community. If you feel this project is useful to you and want to support it and its future development please consider donating money.  We only ask for a small donation, but of course we appreciate any amount. 

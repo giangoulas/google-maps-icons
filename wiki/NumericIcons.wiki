@@ -1,74 +1,52 @@
 <wiki:toc max_depth="3" />
 
-=Others ressources=
+=Others Resources=
 
-===Thydzik's "Symbol you want on color you want" (you need to host files on your server) ===
+==Symbol You Want on Color You Want==
 
-Theses markers are totally dynamic, and you can create whatever balloon icon you want. 
-
-Just change the URL like : thydzik.com/thydzikGoogleMap/markerlink.php?text=*12*&color=*5680FC* where *12* is the text and *5680FC* is the hexadecimal color. 
-
-You can't hot link from your personnal "My maps" (maps.google.com).
+Theses markers are totally dynamic and you can create whatever balloon icon you want but you need to host some files on your server to make it work. Just change the URL like: thydzik.com/thydzikGoogleMap/markerlink.php?text=*12*&color=*5680FC* where *12* is the text and *5680fc* is the hexadecimal color code. Please note that you can't hotlink from your personal "My Maps" (maps.google.com).
 
 It can be done in 2 ways :
+  # Use Google Maps API so that dynamic icon generation can work
+  # Save static icons, and host them your server
 
-1/ Use Google Maps API so that dynamic icon generation can work
-
-2/ Save static icons, and host them your server
-
-Please follow the examples :
-
+Please follow the examples:
 *Blue (1) example*
-{{{
-http://thydzik.com/thydzikGoogleMap/markerlink.php?text=1&color=5680FC
-}}}
+{{{http://thydzik.com/thydzikGoogleMap/markerlink.php?text=1&color=5680FC}}}
 <img src="http://thydzik.com/thydzikGoogleMap/markerlink.php?text=1&color=5680FC&image=.png">
 
-Red : FC6355
+Red: FC6355
+Teal: 55D7D7
+Yellow: FCF356
+Purple: 7D54FC
+Pink: E14E9D
+Orange: EF9D3F
+Black: 000000
+Brown: 9E7151
+Gray: A8A8A8
+Dark blue: 0336D1
+White: ffffff
 
-Teal : 55D7D7
-
-Yellow : FCF356
-
-Purple : 7D54FC
-
-Pink : E14E9D
-
-Orange : EF9D3F
-
-Black : 000000
-
-Brown : 9E7151
-
-Gray : A8A8A8
-
-Dark blue : 0336D1
-
-White : ffffff
-
-Examples :
-
+===Examples===
 [http://google-maps-icons.googlecode.com/files/thydzik.png]
 
-Credits : [http://thydzik.com/dynamic-google-maps-markersicons-with-php/ Dynamic Google Maps Markersicons with Php by Thydzik]
+===Credits===
+Made by [http://thydzik.com/dynamic-google-maps-markersicons-with-php/ Thydzik]
 
-===Brennan's Red Green Blue numeric balloon icons from 1 to 25===
+==<BR>Red Green Blue Numeric Balloon Icons from 1 to 25==
 [http://google-maps-icons.googlecode.com/files/brennan.png]
-
 [http://google-maps-icons.googlecode.com/files/red-green-blue-numeric-1-25.zip Zip package]
 
+===Credits===
 Made by [http://brennan.offwhite.net/blog/2005/07/23/new-google-maps-icons-free/ Brennan]
 
-
-===Benjamin Keen's Lettered balloons from A to Z, in 10 colors===
+==<BR>Lettered Balloons from A to Z, in 10 Colors==
 [http://www.benjaminkeen.com/images/googlemaps_markers.jpg]
-
 [http://google-maps-icons.googlecode.com/files/lettered-A-Z-10-colors.zip Zip package] 
 
-Credits : [http://www.benjaminkeen.com/?p=105 Google Maps: Coloured Markers by Benjamin Keen]
+===Credits===
+Made by [http://www.benjaminkeen.com/?p=105 Benjamin Keen]
 
-
-===Google icons===
-
+==Google Maps Icons==
 http://www.google.com/mapfiles/markerA.png
 http://www.google.com/mapfiles/markerZ.png

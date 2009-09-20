@@ -28,7 +28,7 @@
 
 ----
 
-[NumericIcons - Numeric icons]
+[NumericIcons □ Numbers, Letters & Symbols]
 
 [http://code.google.com/p/google-maps-icons/downloads/list - Icon search]
 </strong></font>

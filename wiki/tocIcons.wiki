@@ -1,7 +1,7 @@
 #labels Phase-Design,Deprecated
 <table width="100%" bgcolor="#f2f2f2"><tr><td>
-=== Icon categories===
 
+=== Icon Categories===
 <font color="#fffff" size="2"><strong>[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Administration, Office & Industry]
 
 [http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Culture & Entertainment]
@@ -26,10 +26,10 @@
 
 [http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Transportation]
 
-----
-
 [NumericIcons □ Numbers, Letters & Symbols]
 
-[http://code.google.com/p/google-maps-icons/downloads/list - Icon search]
+----
+
+[http://code.google.com/p/google-maps-icons/downloads/list ► ICON SEARCH]
 </strong></font>
 </td></tr></table>

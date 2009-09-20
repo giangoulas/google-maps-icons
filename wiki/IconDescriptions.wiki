@@ -1,4 +1,6 @@
 #labels Featured
 #sidebar tocIcons
 
-To the left you see the icon categories you can choose between. _Click_ on the one you believe the icon you are looking for is in. The you can browse the icons sorted further into sub-categories, you can read the full descriptions and also search icon based on the tag.  Another way to find icons is by going to the ICON SEARCH page.
+<FONT color="#000000" size="6">*Icon Categories*</FONT>
+
+To the left you see the icon categories you can choose between. _Click_ on the one you believe the icon you are looking for is in. You can then browse the icons sorted further into sub-categories, you can read the full descriptions and also search for icons based on tags.  Another way to find icons is by going to the [http://code.google.com/p/google-maps-icons/downloads/list ICON SEARCH] page.

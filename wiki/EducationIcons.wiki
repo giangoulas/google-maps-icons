@@ -5,10 +5,10 @@
 <wiki:toc max_depth="3" />
 
 =Icons=
-===Type: Education===
+===Education===
 || [http://google-maps-icons.googlecode.com/files/school.png] <br>*School*<br><font color="#777777" size="1">learning, education, classes</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/university.png] <br>*University*<br><font color="#777777" size="1">college, faculty, student, exam</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/library.png] <br>*Library*<br><font color="#777777" size="1">books, literature, reading</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
-===<BR>Type: Kids===
+===<BR>Kids===
 || [http://google-maps-icons.googlecode.com/files/nanny.png] <br>*Nanny*<br><font color="#777777" size="1">babysitter, governess, au pair</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/playground.png] <br>*Playground*<br><font color="#777777" size="1">play area, sandbox, playscape</font><br><font color="#ffffff" size="1">----------------------------------------</font> || [http://google-maps-icons.googlecode.com/files/daycare.png] <br>*Day Care*<br><font color="#777777" size="1">child care, kindergarten</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
 ==Requests==

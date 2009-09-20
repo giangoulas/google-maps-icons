@@ -16,6 +16,8 @@
 
 [http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Miscellaneous]
 
+[NumericIcons □ Numbers, Letters & Symbols]
+
 [http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Restaurants & Hotels]
 
 [http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Sports, Health & Beauty]
@@ -25,11 +27,7 @@
 [http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Tourism & Nature]
 
 [http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Transportation]
-
-[NumericIcons □ Numbers, Letters & Symbols]
-
 ----
-
 [http://code.google.com/p/google-maps-icons/downloads/list ► ICON SEARCH]
 </strong></font>
 </td></tr></table>

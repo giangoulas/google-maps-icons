@@ -22,8 +22,8 @@
  * Wind
  * Wedding
  * War
- * Spanish days : Lun, Mar, Mie, Jue, Vie, Sab, Dom
- * French days : Lun, Mar, Mer, Jeu, Ven, Sam, Dim <font size="1">by robapollo</font>
+ * Spanish days : Lun, Mar, Mie, Jue, Vie, Sab, Dom <font size="1">by robapollo</font>
+ * French days : Lun, Mar, Mer, Jeu, Ven, Sam, Dim 
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

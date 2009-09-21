@@ -40,7 +40,6 @@ Made by [http://www.myBCN.es Matthias Stasiak] : cable car, and the 16 direction
 =Donations=
 If you feel this project is useful to you and want to support it and its future development please consider [Donate donating money]. 
 
-<BR>
 =Contributions=
 You designed icons and want to share and publish in this project, please read how to 
 [Contribute contribute].

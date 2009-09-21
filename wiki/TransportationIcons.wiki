@@ -30,6 +30,8 @@
  * Speed Limit Signs for 20, 30, 40, 70 and 120
  * Park & Ride
 
+----
+
 =Credits=
 
 All icons made by Nicolas Mollet, unless specified.

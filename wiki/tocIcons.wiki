@@ -28,6 +28,6 @@
 
 [http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Transportation]
 ----
-[http://code.google.com/p/google-maps-icons/downloads/list ► ICON SEARCH]
+[http://code.google.com/p/google-maps-icons/downloads/list ► Icon search]
 </strong></font>
 </td></tr></table>

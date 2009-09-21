@@ -20,7 +20,7 @@
 
 [http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Restaurants & Hotels]
 
-[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Sports, Health & Beauty]
+[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Sports & Health & Beauty]
 
 [http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Stores]
 

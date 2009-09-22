@@ -29,9 +29,9 @@
  * Car Wash
  * Speed Limit Signs for 20, 30, 40, 70 and 120
  * Park & Ride
- * Crosswalk <font size"1">by shanerhode</font>
- * Crossing Guard <font size"1">by shanerhode</font>
- * Bike Parking <font size"1">by shanerhode</font>
+ * Crosswalk <font size="1">by shanerhode</font>
+ * Crossing Guard <font size="1">by shanerhode</font>
+ * Bike Parking <font size="1">by shanerhode</font>
 <BR>
 ----
 <BR>

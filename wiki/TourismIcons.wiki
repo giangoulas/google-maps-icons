@@ -1,3 +1,4 @@
+#labels IconWikiPage
 #sidebar tocIcons
 
 <font color="#00e13c" size="6">*Tourism & Nature*</font>

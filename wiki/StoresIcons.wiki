@@ -1,3 +1,4 @@
+#labels IconWikiPage
 #sidebar tocIcons
 
 <font color="#55d7d7" size="6">*Stores*</font>

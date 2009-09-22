@@ -1,3 +1,4 @@
+#labels IconWikiPage
 #sidebar tocIcons
 
 <FONT color="#5680fc" size="6">*Administration, Office & Industry*</FONT>

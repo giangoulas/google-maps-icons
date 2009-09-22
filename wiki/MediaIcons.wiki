@@ -1,3 +1,4 @@
+#labels IconWikiPage
 #sidebar tocIcons
 
 <FONT color="#0337D1" size="6">*Media*</FONT>

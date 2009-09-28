@@ -19,15 +19,14 @@
 
 ===Icon general shape===
 
-Original
-
-[http://google-maps-icons.googlecode.com/files/factory.png]
-
-Tests
+Original [http://google-maps-icons.googlecode.com/files/factory.png]
 
 "No border" [http://google-maps-icons.googlecode.com/files/factory-test1.png]
-"iPhone" [http://google-maps-icons.googlecode.com/files/factory-test2.png]
-"50%" [http://google-maps-icons.googlecode.com/files/factory-test3.png]
-"50% no border" [http://google-maps-icons.googlecode.com/files/factory-test4.png]
-"Gradient" [http://google-maps-icons.googlecode.com/files/factory-test5.png]
 
+"iPhone" [http://google-maps-icons.googlecode.com/files/factory-test2.png]
+
+"50%" [http://google-maps-icons.googlecode.com/files/factory-test3.png]
+
+"50% no border" [http://google-maps-icons.googlecode.com/files/factory-test4.png]
+
+"Gradient" [http://google-maps-icons.googlecode.com/files/factory-test5.png]

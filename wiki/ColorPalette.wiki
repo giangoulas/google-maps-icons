@@ -15,3 +15,21 @@
 [http://google-maps-icons.googlecode.com/files/audio.png]
 [http://google-maps-icons.googlecode.com/files/darkred.png]
 [http://google-maps-icons.googlecode.com/files/darkgreen.png]
+
+
+===Icon general shape===
+
+Original
+
+[http://google-maps-icons.googlecode.com/files/factory.png]
+
+Tests
+
+[http://google-maps-icons.googlecode.com/files/factory-test1.png]
+[http://google-maps-icons.googlecode.com/files/factory-test2.png]
+[http://google-maps-icons.googlecode.com/files/factory-test3.png]
+[http://google-maps-icons.googlecode.com/files/factory-test4.png]
+[http://google-maps-icons.googlecode.com/files/factory-test5.png]
+
+
+

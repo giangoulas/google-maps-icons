@@ -18,6 +18,7 @@
 ==Requests==
  * Community Center
  * Oil Pump
+ * Expert
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

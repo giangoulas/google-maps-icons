@@ -24,6 +24,7 @@
  * Live Concert (Pop/Rock style)
  * Live Concert (Classical style)
  * Live Concert (Rap/Hip-Hop style)
+ * Public art <font size="1">by Racheletto</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

@@ -5,6 +5,12 @@
 
 <wiki:toc max_depth="4" />
 
+=Shadow=
+
+[http://google-maps-icons.googlecode.com/files/shadow.png]
+
+[http://www.cycloloco.com/shadowmaker/shadowmaker.htm How to use the shadow with Google maps API]
+
 =Our Numeric Icons=
 [http://google-maps-icons.googlecode.com/files/darkblue01.png][http://google-maps-icons.googlecode.com/files/darkblue02.png][http://google-maps-icons.googlecode.com/files/darkblue03.png][http://google-maps-icons.googlecode.com/files/darkblue04.png][http://google-maps-icons.googlecode.com/files/darkblue05.png][http://google-maps-icons.googlecode.com/files/darkblue06.png][http://google-maps-icons.googlecode.com/files/darkblue07.png][http://google-maps-icons.googlecode.com/files/darkblue08.png][http://google-maps-icons.googlecode.com/files/darkblue09.png][http://google-maps-icons.googlecode.com/files/darkblue10.png][http://google-maps-icons.googlecode.com/files/darkblue11.png][http://google-maps-icons.googlecode.com/files/darkblue12.png][http://google-maps-icons.googlecode.com/files/darkblue13.png][http://google-maps-icons.googlecode.com/files/darkblue14.png][http://google-maps-icons.googlecode.com/files/darkblue15.png][http://google-maps-icons.googlecode.com/files/darkblue16.png][http://google-maps-icons.googlecode.com/files/darkblue17.png][http://google-maps-icons.googlecode.com/files/darkblue18.png][http://google-maps-icons.googlecode.com/files/darkblue19.png][http://google-maps-icons.googlecode.com/files/darkblue20.png] 
 

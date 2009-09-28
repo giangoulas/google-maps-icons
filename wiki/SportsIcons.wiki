@@ -36,14 +36,11 @@
 ==Requests==
 
  * Skate Park
- * Ice Skating
  * Hockey Field
  * Rowboat
  * Sailing
- * Ski Jump
  * Sauna
  * Aesthetics Center
- * ATV
  * SUV
  * Motorbike
  * Offroad Trailhead

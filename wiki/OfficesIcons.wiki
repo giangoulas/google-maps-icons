@@ -17,7 +17,6 @@
 
 ==Requests==
  * Community Center
- * Bank (euro)
  * Oil Pump
 
 ==Credits==

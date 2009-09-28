@@ -5,9 +5,14 @@
 
 <wiki:toc max_depth="4" />
 
-=Icons=
-==Others Resources==
-===Symbol You Want on Color You Want===
+=Our Numeric Icons=
+[http://google-maps-icons.googlecode.com/files/darkblue01.png][http://google-maps-icons.googlecode.com/files/darkblue02.png][http://google-maps-icons.googlecode.com/files/darkblue03.png][http://google-maps-icons.googlecode.com/files/darkblue04.png][http://google-maps-icons.googlecode.com/files/darkblue05.png][http://google-maps-icons.googlecode.com/files/darkblue06.png][http://google-maps-icons.googlecode.com/files/darkblue07.png][http://google-maps-icons.googlecode.com/files/darkblue08.png][http://google-maps-icons.googlecode.com/files/darkblue09.png][http://google-maps-icons.googlecode.com/files/darkblue10.png][http://google-maps-icons.googlecode.com/files/darkblue11.png][http://google-maps-icons.googlecode.com/files/darkblue12.png][http://google-maps-icons.googlecode.com/files/darkblue13.png][http://google-maps-icons.googlecode.com/files/darkblue14.png][http://google-maps-icons.googlecode.com/files/darkblue15.png][http://google-maps-icons.googlecode.com/files/darkblue16.png][http://google-maps-icons.googlecode.com/files/darkblue17.png][http://google-maps-icons.googlecode.com/files/darkblue18.png][http://google-maps-icons.googlecode.com/files/darkblue19.png][http://google-maps-icons.googlecode.com/files/darkblue19.png][http://google-maps-icons.googlecode.com/files/darkblue20.png] 
+
+[http://google-maps-icons.googlecode.com/files/black01.png][http://google-maps-icons.googlecode.com/files/black02.png][http://google-maps-icons.googlecode.com/files/black03.png][http://google-maps-icons.googlecode.com/files/black04.png][http://google-maps-icons.googlecode.com/files/black05.png][http://google-maps-icons.googlecode.com/files/black06.png][http://google-maps-icons.googlecode.com/files/black07.png][http://google-maps-icons.googlecode.com/files/black08.png][http://google-maps-icons.googlecode.com/files/black09.png][http://google-maps-icons.googlecode.com/files/black10.png][http://google-maps-icons.googlecode.com/files/black11.png][http://google-maps-icons.googlecode.com/files/black12.png][http://google-maps-icons.googlecode.com/files/black13.png][http://google-maps-icons.googlecode.com/files/black14.png][http://google-maps-icons.googlecode.com/files/black15.png][http://google-maps-icons.googlecode.com/files/black16.png] [http://google-maps-icons.googlecode.com/files/black17.png][http://google-maps-icons.googlecode.com/files/black18.png][http://google-maps-icons.googlecode.com/files/black19.png][http://google-maps-icons.googlecode.com/files/black20.png] 
+
+
+=Others Resources=
+==Symbol You Want on Color You Want==
 Theses markers are totally dynamic and you can create whatever balloon icon you want but you need to host some files on your server to make it work. Just change the URL like: thydzik.com/thydzikGoogleMap/markerlink.php?text=*12*&color=*5680FC* where *12* is the text and *5680fc* is the hexadecimal color code. Please note that you can't hotlink from your personal "My Maps" (maps.google.com).
 
 It can be done in 2 ways :
@@ -31,26 +36,26 @@ Gray: A8A8A8
 Dark blue: 0336D1
 White: ffffff
 
-====Examples====
+===Examples===
 [http://google-maps-icons.googlecode.com/files/thydzik.png]
 
-====Credits====
+===Credits===
 Made by [http://thydzik.com/dynamic-google-maps-markersicons-with-php/ Thydzik]
 
-===<BR>Red Green Blue Numeric Balloon Icons from 1 to 25===
+==<BR>Red Green Blue Numeric Balloon Icons from 1 to 25==
 [http://google-maps-icons.googlecode.com/files/brennan.png]
 [http://google-maps-icons.googlecode.com/files/red-green-blue-numeric-1-25.zip Zip package]
 
-====Credits====
+===Credits===
 Made by [http://brennan.offwhite.net/blog/2005/07/23/new-google-maps-icons-free/ Brennan]
 
-===<BR>Lettered Balloons from A to Z, in 10 Colors===
+==<BR>Lettered Balloons from A to Z, in 10 Colors==
 [http://www.benjaminkeen.com/images/googlemaps_markers.jpg]
 [http://google-maps-icons.googlecode.com/files/lettered-A-Z-10-colors.zip Zip package] 
 
-====Credits====
+===Credits===
 Made by [http://www.benjaminkeen.com/?p=105 Benjamin Keen]
 
-==="Google Official" Maps Icons===
+=="Google Official" Maps Icons==
 http://www.google.com/mapfiles/markerA.png
 http://www.google.com/mapfiles/markerZ.png

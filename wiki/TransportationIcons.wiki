@@ -29,7 +29,6 @@
 
 ==Requests==
  * Speed Limit Signs for 20, 30, 40, 70 and 120
- * Crossing Guard <font size="1">by shanerhode</font>
 <BR>
 ----
 <BR>

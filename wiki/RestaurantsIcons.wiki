@@ -54,5 +54,4 @@ We are very grateful for your gift!
 
 <BR>
 =Contributions=
-Suggestions are always very welcome. First look at the Project Home tab, then the Requests part of all categories, then look at the 
-[http://code.google.com/p/google-maps-icons/issues/list Issues] list to see if someone else already has suggested the icon and that we are already working on it. If you have done all this and still cannot find what you are looking for you are very welcome to *make a new suggestion in the [http://code.google.com/p/google-maps-icons/issues/entry Issues] tab*.
+Suggestions are always very welcome. First look at the Project Home tab, then the Requests part of all categories, then [http://code.google.com/p/google-maps-icons/issues/list look at the Issues list] to see if someone else already has suggested the icon and that we are already working on it. If you have done all this and still cannot find what you are looking for you are very welcome to [http://code.google.com/p/google-maps-icons/issues/entry make a new suggestion in the Issues tab].

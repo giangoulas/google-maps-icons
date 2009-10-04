@@ -17,6 +17,7 @@
 
 All icons made by Nicolas Mollet, unless specified.
 
+<BR>
 =Donate=
 This project is created by Nicolas Mollet and is by no means affiliated with Google. Free time is used by all contributors to create and share icons for the Google Maps community. If you feel this project is useful to you and want to support it and its future development please consider donating money.  We only ask for a small donation, but of course we appreciate any amount. 
 
@@ -30,7 +31,6 @@ to *Matthias* "myBCN.es" (Project Contributor)
 
 We are very grateful for your gift!
 
-
-=Contribute=
-Suggestions are always very welcome. First look at the Project Home tab, then the Requests part of all categories, then look at the 
-[http://code.google.com/p/google-maps-icons/issues/list Issues] list to see if someone else already has suggested the icon and that we are already working on it. If you have done all this and still cannot find what you are looking for you are very welcome to *make a new suggestion in the [http://code.google.com/p/google-maps-icons/issues/entry Issues] tab*.
+<BR>
+=Contributions=
+Suggestions are always very welcome. First look at the Project Home tab, then the Requests part of all categories, then [http://code.google.com/p/google-maps-icons/issues/list look at the Issues list] to see if someone else already has suggested the icon and that we are already working on it. If you have done all this and still cannot find what you are looking for you are very welcome to [http://code.google.com/p/google-maps-icons/issues/entry make a new suggestion in the Issues tab].

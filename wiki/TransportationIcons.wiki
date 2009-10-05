@@ -39,7 +39,7 @@ All icons made by Nicolas Mollet, unless specified.
 Made by [http://www.myBCN.es Matthias Stasiak] : cable car, car renting, car wash, park and ride, pedestrian crossing, bicycle parking and the 16 direction icons.
 
 =Donations=
-If you feel this project is useful to you and want to support it and its future development [Donate please consider donating money]. 
+If you feel this project is useful to you and want to support it and it's future development [Donate please consider donating money]. 
 
 =Contribute or Make a Request=
 If you designed your own icons and want to share and publish them in this project, please read about on [Contribute how to contribute]. If you have an idea and/or a suggestion for a new icon in this category, leave a comment at the bottom of this page or [http://code.google.com/p/google-maps-icons/issues/entry create a new Issue in the Issues tab].

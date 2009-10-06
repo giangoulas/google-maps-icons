@@ -1,4 +1,6 @@
 #labels Featured
+#sidebar tocIcons
+
 <font color="#000000" size="6">*Donate*</font>
 
 <wiki:toc max_depth="3" />

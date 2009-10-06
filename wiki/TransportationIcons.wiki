@@ -30,8 +30,7 @@
 ==Requests==
  * Speed Limit Signs for 20, 30, 40, 70 and 120
 
-<BR>
-=Credits=
+==Credits==
 All icons made by Nicolas Mollet, unless specified.
 
 Made by [http://www.myBCN.es Matthias Stasiak] : cable car, car renting, car wash, park and ride, pedestrian crossing, bicycle parking and the 16 direction icons.

@@ -1,5 +1,12 @@
 #labels Phase-Design
-===Color Palette===
+#sidebar tocIcons
+
+<FONT color="#000000" size="6">*Our Colors*</FONT>
+
+<wiki:toc max_depth="2" />
+
+=Color Palette=
+==Current Palette==
 [http://google-maps-icons.googlecode.com/files/factory.png]
 [http://google-maps-icons.googlecode.com/files/drugs.png]
 [http://google-maps-icons.googlecode.com/files/bridgemodern.png]
@@ -11,22 +18,15 @@
 [http://google-maps-icons.googlecode.com/files/subway.png]
 [http://google-maps-icons.googlecode.com/files/wifi.png]
 [http://google-maps-icons.googlecode.com/files/clouds.png]
-
+==Possible Future Additions==
 [http://google-maps-icons.googlecode.com/files/audio.png]
 [http://google-maps-icons.googlecode.com/files/darkred.png]
 [http://google-maps-icons.googlecode.com/files/darkgreen.png]
 
+<BR>
+=Future Icon Color Development Suggestions=
+==With Border==
+|| [http://google-maps-icons.googlecode.com/files/factory.png] Original||[http://google-maps-icons.googlecode.com/files/factory-test2.png] "iPhone"||[http://google-maps-icons.googlecode.com/files/factory-test3.png] "50%"||
 
-===Icon general shape===
-
-[http://google-maps-icons.googlecode.com/files/factory.png] Original 
-
-[http://google-maps-icons.googlecode.com/files/factory-test1.png] "No border" 
-
-[http://google-maps-icons.googlecode.com/files/factory-test2.png] "iPhone"
-
-[http://google-maps-icons.googlecode.com/files/factory-test3.png] "50%"
-
-[http://google-maps-icons.googlecode.com/files/factory-test4.png] "50% no border"
-
-[http://google-maps-icons.googlecode.com/files/factory-test5.png] "Gradient" 
+==Without Border==
+|| [http://google-maps-icons.googlecode.com/files/factory-test4.png] "50%"|| [http://google-maps-icons.googlecode.com/files/factory-test5.png] "Gradient"|| [http://google-maps-icons.googlecode.com/files/factory-test1.png] "Clean"|| 

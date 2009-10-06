@@ -4,3 +4,18 @@
 <FONT color="#000000" size="6">*Icon Categories*</FONT>
 
 To the left you see the icon categories you can choose between. _Click_ on the one you believe the icon you are looking for is in. You can then browse the icons sorted further into sub-categories, you can read the full descriptions and also search for icons based on tags.  Another way to find icons is by [http://code.google.com/p/google-maps-icons/downloads/list going to the Icon search page].
+
+==Other Pages On This Site==
+<FONT color="#000000" size="2">*[AllUpdates All Updates]*</FONT> - on the updates of the site.<BR>
+
+<FONT color="#000000" size="2">*[Contact]*</FONT> - on how to contact us.<BR>
+
+<FONT color="#000000" size="2">*[Contribute]*</FONT> - on how to add your icons or site.<BR>
+
+<FONT color="#000000" size="2">*[Donate]*</FONT> - on how to support the project.<BR>
+
+<FONT color="#000000" size="2">*[HowToAddNewIcons How To Add Icons]*</FONT> - on how to add our icons to your site.<BR>
+
+<FONT color="#000000" size="2">*[ColorPalette Icon Colors]*</FONT> - on the icon colors we use.<BR>
+
+<FONT color="#000000" size="2">*[SitesUsing Sites Using]*</FONT> - on sites that are using our icons.<BR>

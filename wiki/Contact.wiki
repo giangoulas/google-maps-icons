@@ -1,13 +1,29 @@
 #labels Featured
-===Suggestions===
+#sidebar tocIcons
 
-Let me know if you want new kind of icons, or any other idea is welcome. You can use the issues page to make any suggestion.
+<font color="#000000" size="6">*Contact*</font>
 
-===Contact me===
+<wiki:toc max_depth="3" />
 
-
-My name is Nicolas Mollet. I am a web developer living in France.
+==Contact us==
+===Nico===
+My name is Nicolas Mollet. I am a web developer living in Paris, France. I started this project and I made most of the icons.
 
 You can follow me on [http://www.twitter.com/nicomollet Twitter] and [http://friendfeed.com/nicomollet Friendfeed] 
 
-Email me nico.mollet @ gmail.com
+E-mail me at _nico.mollet (at) gmail.com_
+
+===Matthias===
+My name is Matthias Stasiak aka. _(myBCN.es)_ on this project. I am a half Swedish, half German tourist guide (among other) living in Barcelona, Spain. I joined Nico on this project after some months and am responsible many of the icons.
+
+You can see the use of our icons on my [http://maps.google.se/maps/ms?ie=UTF8&hl=en&msa=0&msid=100992618111608626378.00046473953c4fdfed1c7&t=h&z=14 Google Barcelona Map], my [http://maps.google.se/maps/ms?ie=UTF8&hl=en&msa=0&t=h&z=10 Google Torrevieja Map] and later on my [http://maps.google.se/maps/ms?ie=UTF8&hl=en&msa=0&msid=100992618111608626378.00046e575cb28a0271e3f&t=h&z=13 Google Berlin Map]
+
+E-mail me at _myBCN.es (at) gmail.com_
+
+<BR>
+=Donations=
+If you feel this project is useful to you and want to support it and it's future development [Donate please consider donating money]. [http://code.google.com/p/google-maps-icons/wiki/Donate https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif]
+
+<BR>
+=Contribute or Make a Request=
+If you designed your own icons and want to share and publish them in this project, please read about on [Contribute how to contribute]. If you have an idea and/or a suggestion for a new icon feel free to [http://code.google.com/p/google-maps-icons/issues/entry create a new Issue in the Issues tab].

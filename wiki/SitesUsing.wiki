@@ -1,63 +1,72 @@
 #labels Featured
-Some sites and maps using this icon collection. If you are using the icons, please send the link to your public URL, to share your project.
+#sidebar tocIcons
+
+<FONT color="#000000" size="6">*Sites Using Our Icons*</FONT>
 
 <wiki:toc max_depth="3" />
+Some sites and maps using this icon collection. If you are using the icons, please send the link to your public URL, to share your project.
 
+<BR>
 =Sites=
-<font size="2">
-== Naturerocks > Find Nature tool in the USA ==
+==Naturerocks -> Find Nature tool in the USA==
 [http://www.NatureRocks.org Visit NatureRocks.org]
 
-== Enma Maps > Bike trails in Spain==
+<BR>
+==Enma Maps -> Bike trails in Spain==
 [http://maps.join.cat/index.jsp?lang=en&units=km/mts&kind=road&pagina=1&orderBy=date.desc Enma Maps]
 
-== Mellowfish > Find restaurants and menus in England==
+<BR>
+==Mellowfish -> Find restaurants and menus in England==
 [http://www.mellowfish.com Visit Mellowfish.com]
 
-==Inteli-Tracker > GSM tracking==
+<BR>
+==Inteli-Tracker -> GSM tracking==
 [http://tracker.stuartanderson.eu.com Visit Inteli-Tracker]
 
 [http://google-maps-icons.googlecode.com/files/intelitracker.gif]
 
-==Hongaarskinderplezier > Tourism in Hungary==
+<BR>
+==Hongaarskinderplezier -> Tourism in Hungary==
 [http://www.hongaarskinderplezier.eu/ Visit Hongaarskinderplezier.eu]
 
 [http://google-maps-icons.googlecode.com/files/hongaarskinderplezier.png]
-</font>
 
-==Mellor Brook Community Website > Community center in England==
-
+<BR>
+==Mellor Brook Community Website -> Community center in England==
 [http://www.mellorbrook.org/index.php/local-map-new Visit Mellor Brook Community]
 
 [http://google-maps-icons.googlecode.com/files/mellorbrook.png]
 
-----
-
+<BR>
 =Applications=
-<font size="2">
 ==Location Scout > Discover filming locations==
 Application that helps you discover filming locations for thousands of movies via information compiled by the Internet Movie Database.
-
 [http://www.getlocationscout.com/img/phone.jpg]
-
 [http://www.getlocationscout.com Visit Locationscout.com]
-</font>
 
-----
-
+<BR>
 =Google Maps=
-<font size="2">
+==myBNC.es map of Barcelona (Spain)==
+[http://maps.google.se/maps/ms?ie=UTF8&hl=en&msa=0&msid=100992618111608626378.00046473953c4fdfed1c7&ll=41.377194,2.168412&spn=0.049206,0.077248&t=h&z=14 myBCN.es map of Barcelona (Spain)]
 ==myBNC.es map of Torrevieja (Spain)==
-[http://maps.google.es/maps/ms?gl=es&ie=UTF8&msa=0&msid=100992618111608626378.00046c0f90262c463109d&ll=37.981991,-0.672698&spn=0.025978,0.057421&t=h&z=15 myBNC.es map of Torrevieja (Spain)]
+[http://maps.google.es/maps/ms?gl=es&ie=UTF8&msa=0&msid=100992618111608626378.00046c0f90262c463109d&ll=37.981991,-0.672698&spn=0.025978,0.057421&t=h&z=15 myBCN.es map of Torrevieja (Spain)]
+==myBNC.es map of Berlin (Germany)==
+[http://maps.google.se/maps/ms?ie=UTF8&hl=en&msa=0&msid=100992618111608626378.00046e575cb28a0271e3f&t=h&z=13 myBCN.es map of Berlin (Germany)]
+==myBNC.es map of Maravillas Medievales de España (Spain)==
+[http://maps.google.se/maps/ms?ie=UTF8&hl=en&msa=0&msid=100992618111608626378.00046cf2c3684050c4bf7&t=h&z=6 myBCN.es map of Maravillas Medievales de España (Spain)]
 
 ==Conakry map (Republic of Guinea)==
 [http://bit.ly/3gtfX Conakry map (Republic of Guinea)]
-</font>
 
-----
-
+<BR>
 =Custom Icons=
-<font size="2">
 ==UMapper==
 [http://www.umapper.com/blog/?p=1278 UMapper]
-</font>
+
+<BR>
+=Donations=
+If you feel this project is useful to you and want to support it and it's future development [Donate please consider donating money]. [http://code.google.com/p/google-maps-icons/wiki/Donate https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif]
+
+<BR>
+=Contribute or Make a Request=
+If you designed your own icons and want to share and publish them in this project, please read about on [Contribute how to contribute]. If you have an idea and/or a suggestion for a new icon in this category, leave a comment at the bottom of this page or [http://code.google.com/p/google-maps-icons/issues/entry create a new Issue in the Issues tab].

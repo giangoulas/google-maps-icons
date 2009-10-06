@@ -1,4 +1,6 @@
 #labels Featured
+#sidebar tocIcons
+
 <font color="#000000" size="6">*Contribute or Make a Request*</font>
 
 <wiki:toc max_depth="3" />
@@ -48,3 +50,7 @@ The size of the inner icon symbol should never be bigger then 20x20 pixels unles
 
 ==Share your icons==
 Once you have created a new icon you always have the option to share it in this project.  Save the icon as an .PNG (or Optimized PNG) file, remember that you will loose the layer structure by doing this, and create a new [http://code.google.com/p/google-maps-icons/issues/entry Issue] and upload it.  If we decide to accept your design, you need to know that we will publish it under the [http://creativecommons.org/licenses/by-sa/3.0/deed Creations Commons Share-Alike 3.0].
+
+<BR>
+=Donations=
+If you feel this project is useful to you and want to support it and it's future development [Donate please consider donating money]. [http://code.google.com/p/google-maps-icons/wiki/Donate https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif]

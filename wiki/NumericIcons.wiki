@@ -63,7 +63,14 @@ http://www.google.com/mapfiles/markerA.png
 http://www.google.com/mapfiles/markerZ.png
 
 ===Shadow===
-
 [http://google-maps-icons.googlecode.com/files/shadow.png]
 
 How to use [http://www.cycloloco.com/shadowmaker/shadowmaker.htm the shadow with Google maps API]
+
+<BR>
+=Donations=
+If you feel this project is useful to you and want to support it and it's future development [Donate please consider donating money]. [http://code.google.com/p/google-maps-icons/wiki/Donate https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif]
+
+<BR>
+=Contribute or Make a Request=
+If you designed your own icons and want to share and publish them in this project, please read about on [Contribute how to contribute]. If you have an idea and/or a suggestion for a new icon in this category, leave a comment at the bottom of this page or [http://code.google.com/p/google-maps-icons/issues/entry create a new Issue in the Issues tab].

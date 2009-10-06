@@ -1,3 +1,10 @@
+#sidebar tocIcons
+
+<FONT color="#000000" size="6">*All Updates*</FONT>
+
+<wiki:toc max_depth="2" />
+
+=The Updates=
 ||<font color="#666666" size="1">14th of September, 2009</font><br><font size="2"><b>12 new icons</b></font><br>wind turbine, dam, bank euro, bank pound, bobsleigh, modern bridge, cave, jewelry, youth hostel, steam train, snow, flood. Three of them are from [http://www.myBCN.es Matthias Stasiak]<br> [http://google-maps-icons.googlecode.com/files/windturbine.png] [http://google-maps-icons.googlecode.com/files/dam.png] [http://google-maps-icons.googlecode.com/files/bankeuro.png] [http://google-maps-icons.googlecode.com/files/bankpound.png] [http://google-maps-icons.googlecode.com/files/bobsleigh.png] [http://google-maps-icons.googlecode.com/files/bridgemodern.png] [http://google-maps-icons.googlecode.com/files/cave.png] [http://google-maps-icons.googlecode.com/files/jewelry.png] [http://google-maps-icons.googlecode.com/files/youthhostel.png] [http://google-maps-icons.googlecode.com/files/steamtrain.png] [http://google-maps-icons.googlecode.com/files/snow.png] [http://google-maps-icons.googlecode.com/files/flood.png] ||
 ||<font color="#666666" size="1">10th of September, 2009</font><br><font size="2"><b>11 new icons</b></font><br>yoga, scuba diving, massage, jogging, gym, fitness center, big city, small city, textiles, cocktail, helicopter. Nine of them are from [http://www.myBCN.es Matthias Stasiak]<br> [http://google-maps-icons.googlecode.com/files/yoga.png] [http://google-maps-icons.googlecode.com/files/scubadiving.png] [http://google-maps-icons.googlecode.com/files/massage.png] [http://google-maps-icons.googlecode.com/files/jogging.png] [http://google-maps-icons.googlecode.com/files/gym.png] [http://google-maps-icons.googlecode.com/files/fitnesscenter.png] [http://google-maps-icons.googlecode.com/files/bigcity.png] [http://google-maps-icons.googlecode.com/files/smallcity.png] [http://google-maps-icons.googlecode.com/files/textiles.png] [http://google-maps-icons.googlecode.com/files/cocktail.png] [http://google-maps-icons.googlecode.com/files/helicopter.png] ||
 ||<font color="#666666" size="1">7th of September, 2009</font><br><font size="2"><b>Icon descriptions</b></font><br>I rolled out the [IconDescriptions new icon descriptions wiki pages]. We now have 1 page per category, and it's easier to understand the meaning of an icon, with a description and tags.||
@@ -161,3 +168,11 @@
 *8th of June, 2009* ::: Doing [SizeTests some size tests], 1 new icon : military base
 
 *29th of May, 2009* ::: 3 new icons : pizza, firemen, stoplight
+
+<BR>
+=Donations=
+If you feel this project is useful to you and want to support it and it's future development [Donate please consider donating money]. [http://code.google.com/p/google-maps-icons/wiki/Donate https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif]
+
+<BR>
+=Contribute or Make a Request=
+If you designed your own icons and want to share and publish them in this project, please read about on [Contribute how to contribute]. If you have an idea and/or a suggestion for a new icon in this category, leave a comment at the bottom of this page or [http://code.google.com/p/google-maps-icons/issues/entry create a new Issue in the Issues tab].

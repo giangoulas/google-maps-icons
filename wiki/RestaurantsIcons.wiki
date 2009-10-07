@@ -19,7 +19,7 @@
 || [http://google-maps-icons.googlecode.com/files/hotel.png] <BR>*Hotel*<BR><FONT color="#777777" size="1">accommodation, lodging</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/hostel.png] <BR>*Hostel*<BR><FONT color="#777777" size="1">B&B, gîte, pousada, hostal</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/youthhostel.png] <BR>*Youth Hostel*<BR><FONT color="#777777" size="1">dorm, YMCA, auberge</FONT> <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/resort.png] <BR>*Resort*<BR><FONT color="#777777" size="1">all-inclusive</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 ===<BR>Other===
-|| [http://google-maps-icons.googlecode.com/files/bread.png] <BR>*Bakery*<BR><FONT color="#777777" size="1">bread, pastry</FONT> <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/icecream.png] <BR>*Ice Cream Parlor*<BR><FONT color="#777777" size="1">gelateria</FONT> <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+|| [http://google-maps-icons.googlecode.com/files/icecream.png] <BR>*Ice Cream Parlor*<BR><FONT color="#777777" size="1">gelateria</FONT> <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 ==Requests==
  * Steakhouse 

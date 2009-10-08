@@ -1,0 +1,21 @@
+#labels Deprecated
+
+[http://google-maps-icons.googlecode.com/files/google-code-icon.png]
+
+[http://google-maps-icons.googlecode.com/files/google-code-icon2.png]
+
+[http://google-maps-icons.googlecode.com/files/google-code-icon3.png]
+
+[http://google-maps-icons.googlecode.com/files/google-code-icon4.png]
+
+[http://google-maps-icons.googlecode.com/files/google-code-icon5.png]
+
+[http://google-maps-icons.googlecode.com/files/google-code-icon6.png]
+
+[http://google-maps-icons.googlecode.com/files/google-code-icon7.png]
+
+[http://google-maps-icons.googlecode.com/files/google-code-icon8.png]
+
+[http://google-maps-icons.googlecode.com/files/google-code-icon9.gif]
+
+

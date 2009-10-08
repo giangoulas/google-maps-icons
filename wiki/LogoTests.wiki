@@ -1,5 +1,4 @@
 #labels Deprecated
-
 [http://google-maps-icons.googlecode.com/files/google-code-icon.png]
 
 [http://google-maps-icons.googlecode.com/files/google-code-icon2.png]
@@ -18,4 +17,4 @@
 
 [http://google-maps-icons.googlecode.com/files/google-code-icon9.gif]
 
-
+[http://google-maps-icons.googlecode.com/files/google-code-icon10.gif]

@@ -29,7 +29,7 @@
 || [http://google-maps-icons.googlecode.com/files/downthenleft.png] <BR>*Down then Left*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 ==Requests==
- * Speed Limit Signs for 20, 30, 40, 70 and 120
+None at the moment
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

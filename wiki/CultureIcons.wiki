@@ -12,7 +12,7 @@
 || [http://google-maps-icons.googlecode.com/files/magicshow.png] <BR>*Magic show*<BR><FONT color="#777777" size="1">illusion</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/anniversary.png] <BR>*Anniversary*<BR><FONT color="#777777" size="1">birthday</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/dancinghall.png] <BR>*Dance hall*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 ===<BR>Outdoor Activities===
-|| [http://google-maps-icons.googlecode.com/files/themepark.png] <BR>*Theme Park*<BR><FONT color="#777777" size="1">amusement, funfair, rides</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/bullfight.png] <BR>*Bull Fight Arena*<BR><FONT color="#777777" size="1">bullfighting, corrida, tauromachy</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/zoo.png] <BR>*Zoological Garden*<BR><FONT color="#777777" size="1">zoo, animal park</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+|| [http://google-maps-icons.googlecode.com/files/themepark.png] <BR>*Theme Park*<BR><FONT color="#777777" size="1">amusement, funfair, rides</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/bullfight.png] <BR>*Bull Fight Arena*<BR><FONT color="#777777" size="1">bullfighting, corrida, tauromachy</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/zoo.png] <BR>*Zoological Garden*<BR><FONT color="#777777" size="1">zoo, animal park</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/publicart.png] <BR>*Public art*<BR><FONT color="#777777" size="1">sculture, architecture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 ==Requests==
  * Military Museum
@@ -24,7 +24,6 @@
  * Live Concert (Pop/Rock style)
  * Live Concert (Classical style)
  * Live Concert (Rap/Hip-Hop style)
- * Public art <font size="1">by Racheletto</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

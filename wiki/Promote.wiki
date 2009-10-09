@@ -20,4 +20,4 @@ See the resto of the icons here : http://code.google.com/p/google-maps-icons/
 
 =Share on social nextworks=
 
-<a href="http://twitter.com/home?status=Currently reading http://code.google.com/p/google-maps-icons/" title="Click to share this post on Twitter"><img src="http://google-maps-icons.googlecode.com/files/twitter.png" alt="Share Map icons collection on Twitter"/></a> 
+Click on an icon to share : <a href="http://twitter.com/home?status=Found a great pack of 300 free icons/placemarks for my maps http://code.google.com/p/google-maps-icons/" title="Click to share this post on Twitter"><img src="http://google-maps-icons.googlecode.com/files/twitter.png" alt="Share Map icons collection on Twitter"/></a> 

@@ -16,3 +16,8 @@ See the resto of the icons here : http://code.google.com/p/google-maps-icons/
 
 
 [http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/presentation2.jpg]
+
+
+=Share on social nextworks=
+
+<a href="http://twitter.com/home?status=Currently reading http://code.google.com/p/google-maps-icons/" title="Click to share this post on Twitter"><img src="http://google-maps-icons.googlecode.com/files/twitter.png" alt="Share Map icons collection on Twitter"/></a> 

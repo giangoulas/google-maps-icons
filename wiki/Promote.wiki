@@ -20,4 +20,8 @@ See the resto of the icons here : http://code.google.com/p/google-maps-icons/
 
 =Share on social nextworks=
 
-Click on an icon to share : <a href="http://twitter.com/home?status=Found a great pack of 300 free icons / placemarks for my maps http://code.google.com/p/google-maps-icons/" title="Click to share on Twitter"><img src="http://google-maps-icons.googlecode.com/files/twitter.png" alt="Share Map icons collection on Twitter"/></a> <a href="http://friendfeed.com/?url=http://code.google.com/p/google-maps-icons/&amp;title=Found a great pack of 300 free icons / placemarks for my maps" title="Click to share on Friendfeed"><img src="http://friendfeed.com/static/images/icons/internal.png" alt="Share Map icons collection on Friendfeed"/></a> 
+Click on an icon to share : <a href="http://twitter.com/home?status=Found a great pack of 300 free icons / placemarks for my maps http://code.google.com/p/google-maps-icons/" title="Click to share on Twitter"><img src="http://google-maps-icons.googlecode.com/files/twitter16x16.gif" alt="Share Map icons collection on Twitter"/></a> <a href="http://friendfeed.com/?url=http://code.google.com/p/google-maps-icons/&amp;title=Found a great pack of 300 free icons / placemarks for my maps" title="Click to share on Friendfeed"><img src="http://google-maps-icons.googlecode.com/files/friendfeed16x16.jpg" alt="Share Map icons collection on Friendfeed"/></a> 
+
+
+<a href="http://www.facebook.com/share.php?u=http://code.google.com/p/google-maps-icons/&amp;t=Found a great pack of 300 free icons / placemarks for my maps" title="Click to share on Facebook"><img src="http://google-maps-icons.googlecode.com/files/friendfeed16x16.jpg" alt="Share Map icons collection on Facebook"/></a> 
+

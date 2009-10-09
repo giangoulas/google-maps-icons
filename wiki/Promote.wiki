@@ -6,7 +6,7 @@ Help us *promote this project*, or simply *share it with your friends*.<br/>Feel
 
 =Short text presentation=
 
-*Map icons collection* is a pack of 300 free icons for your placemarks. You can put them manually in your Google Maps with the "My maps" feature, or automaticly with the Google Maps API.
+*Map icons collection* is a pack of 300 free icons for your placemarks. You can put them manually in your Google Maps with the "My maps" feature, or automaticly with the Google Maps API.<br>
 Organized in color categories, you will get a complete collection of icons, such as cinema, school, bank, japanese restaurant and clothes store.
 
 See the rest of the icons here : http://code.google.com/p/google-maps-icons/

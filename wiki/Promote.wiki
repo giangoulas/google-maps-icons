@@ -1,9 +1,7 @@
 #labels Deprecated,Phase-QA
 <wiki:toc max_depth="3" />
 
-Help us *promote this project*, or simply *share it with your friends*.
-
-Feel free to use the text and images below :
+Help us *promote this project*, or simply *share it with your friends*.<br/>Feel free to use the text and images below :
 
 
 =Short text presentation=

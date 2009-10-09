@@ -20,3 +20,5 @@
 [http://google-maps-icons.googlecode.com/files/google-code-icon10.gif]
 
 [http://google-maps-icons.googlecode.com/files/google-code-icon11.gif]
+
+[http://google-maps-icons.googlecode.com/files/google-code-icon12.gif]

@@ -11,3 +11,4 @@
 ||10||[http://google-maps-icons.googlecode.com/files/google-code-icon10.gif]||
 ||11||[http://google-maps-icons.googlecode.com/files/google-code-icon11.gif]||
 ||12||[http://google-maps-icons.googlecode.com/files/google-code-icon12.gif]||
+||12||[http://google-maps-icons.googlecode.com/files/google-code-icon13.gif]||

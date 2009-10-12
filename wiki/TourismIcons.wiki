@@ -46,6 +46,7 @@
  * Spring: a source of water
  * Square
  * Swamp - Wetland <font size="1">by vnunna</font>
+ * Riparian Habitat <font size="1">by vnunna</font>
  * Tower (modern)
  * Waterworks
  * Water Mill

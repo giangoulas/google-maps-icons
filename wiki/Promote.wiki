@@ -16,6 +16,10 @@ See the rest of the icons here : http://code.google.com/p/google-maps-icons/
 
 [http://google-maps-icons.googlecode.com/files/banner88x31.gif]
 
+[http://google-maps-icons.googlecode.com/files/banner88x31b.gif]
+
+[http://google-maps-icons.googlecode.com/files/banner88x31c.gif]
+
 [http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/presentation2.jpg]
 
 

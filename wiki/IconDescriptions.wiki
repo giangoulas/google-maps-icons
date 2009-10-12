@@ -18,4 +18,6 @@ To the left you see the icon categories you can choose between. _Click_ on the o
 
 <FONT color="#000000" size="2">*[ColorPalette Icon Colors]*</FONT> - on the icon colors we use.<BR>
 
+<FONT color="#000000" size="2">*[Promote Promote]*</FONT> - banners to put on your site.<BR>
+
 <FONT color="#000000" size="2">*[SitesUsing Sites Using]*</FONT> - on sites that are using our icons.<BR>

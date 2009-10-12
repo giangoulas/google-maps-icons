@@ -5,7 +5,7 @@
 
 <wiki:toc max_depth="3" />
 
-This project is created by Nicolas Mollet and is by no means affiliated with Google. Free time is used by all contributors to create and share icons for the Google Maps community. If you feel this project is useful to you and want to support it and it's future development please consider donating money.  We only ask for a small donation, but of course we appreciate any amount. 
+This project is created by Nicolas Mollet and is by no means affiliated with Google. Free time is used by all contributors to create and share icons for the Maps community. If you feel this project is useful to you and want to support it and it's future development please consider donating money.  We only ask for a small donation, but of course we appreciate any amount. 
 
 ==How to donate==
 The easiest way to donate to the project is by sending money with *Paypal*.  You can donate with Paypal by using your credit card but note that Paypal will take a small processing fee if you don't already have a free Paypal account and don't feel like setting one up. If you prefer you can also transfer money by bank, send an [mailto:nico.mollet(at)gmail.com e-mail] to get the correct banking details.  If you want to remain anonymous and not have your name appear in the list below, please let us know. 

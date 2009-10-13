@@ -17,6 +17,7 @@
  * Adult Education
  * Summer Camp
  * Dog Park
+ * Cram school <font size="1">by Andrew Errington</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

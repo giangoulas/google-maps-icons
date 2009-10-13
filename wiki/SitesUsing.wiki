@@ -51,13 +51,13 @@ Application that helps you discover filming locations for thousands of movies vi
 
 <BR>
 =Google Maps=
-==myBNC.es map of Barcelona (Spain)==
+==myBCN.es map of Barcelona (Spain)==
 [http://maps.google.se/maps/ms?ie=UTF8&hl=en&msa=0&msid=100992618111608626378.00046473953c4fdfed1c7&ll=41.377194,2.168412&spn=0.049206,0.077248&t=h&z=14 myBCN.es map of Barcelona (Spain)]
-==myBNC.es map of Torrevieja (Spain)==
+==myBCN.es map of Torrevieja (Spain)==
 [http://maps.google.es/maps/ms?gl=es&ie=UTF8&msa=0&msid=100992618111608626378.00046c0f90262c463109d&ll=37.981991,-0.672698&spn=0.025978,0.057421&t=h&z=15 myBCN.es map of Torrevieja (Spain)]
-==myBNC.es map of Berlin (Germany)==
+==myBCN.es map of Berlin (Germany)==
 [http://maps.google.se/maps/ms?ie=UTF8&hl=en&msa=0&msid=100992618111608626378.00046e575cb28a0271e3f&t=h&z=13 myBCN.es map of Berlin (Germany)]
-==myBNC.es map of Maravillas Medievales de España (Spain)==
+==myBCN.es map of Maravillas Medievales de España (Spain)==
 [http://maps.google.se/maps/ms?ie=UTF8&hl=en&msa=0&msid=100992618111608626378.00046cf2c3684050c4bf7&t=h&z=6 myBCN.es map of Maravillas Medievales de España (Spain)]
 
 ==Conakry map (Republic of Guinea)==

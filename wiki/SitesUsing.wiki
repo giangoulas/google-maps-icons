@@ -38,6 +38,11 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 [http://google-maps-icons.googlecode.com/files/mellorbrook.png]
 
 <BR>
+==Dearmap -> Share maps with friends==
+
+[http://www.dearmap.com/ Visit dearmap.com]
+
+<BR>
 =Applications=
 ==Location Scout > Discover filming locations==
 Application that helps you discover filming locations for thousands of movies via information compiled by the Internet Movie Database.

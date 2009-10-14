@@ -35,8 +35,8 @@ Click on an icon to share : <a href="http://twitter.com/home?status=Found a grea
 
  * http://www.mcwetboy.net (Blog)
  * http://makingmaps.net/2007/10/18/custom-map-symbols-in-google-maps/ (Blog comment)
- * http://www.etourisme.info (Blog) answered, will promote soon
- * http://www.touristic.fr/blog-etourisme/ (Blog)
+ * http://www.etourisme.info (Blog - french)) answered, will promote soon
+ * http://www.touristic.fr/blog-etourisme/ (Blog - french)
  * http://www.freedownloadscenter.com/ (Directory)
  * http://www.iconarchive.com/ (Directory)
  * http://jeffreybarke.net/2006/08/free-google-maps-icons/ (Blog comment)
@@ -44,3 +44,4 @@ Click on an icon to share : <a href="http://twitter.com/home?status=Found a grea
  * http://georgetownmetropolitan.com/2009/07/27/new-google-maps-icons-odd-inaccurate/ (Blog comment)
  * http://slowtalk.com/groupee/forums/a/tpc/f/280109402/m/9721021944 (Forum post)
  * http://mapscripting.com/create-dynamic-numbered-markers-for-google-maps (Blog)
+ * http://blog.opengeo.org/2009/05/01/geosilk/ (Blog comment)

@@ -44,4 +44,7 @@ Click on an icon to share : <a href="http://twitter.com/home?status=Found a grea
  * http://georgetownmetropolitan.com/2009/07/27/new-google-maps-icons-odd-inaccurate/ (Blog comment)
  * http://slowtalk.com/groupee/forums/a/tpc/f/280109402/m/9721021944 (Forum post)
  * http://mapscripting.com/create-dynamic-numbered-markers-for-google-maps (Blog)
+
+14/10/2009
+
  * http://blog.opengeo.org/2009/05/01/geosilk/ (Blog comment)

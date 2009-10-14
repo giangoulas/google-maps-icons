@@ -30,7 +30,8 @@
 || [http://google-maps-icons.googlecode.com/files/downthenleft.png] <BR>*Down then Left*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 ==Requests==
-None at the moment
+
+ * Level crossing <font size="1">by nico.mollet</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

@@ -30,7 +30,6 @@
 
 ==Requests==
  * Amphitheater
- * Camp Site
  * Cabin or Shelter
  * Cross
  * Fjord

@@ -49,3 +49,4 @@ Click on an icon to share : <a href="http://twitter.com/home?status=Found a grea
 
  * http://blog.opengeo.org/2009/05/01/geosilk/ (Blog comment)
  * http://forum.manifold.net/forum/t86661 (Forum post)
+ * http://www.asklater.com/matt/wordpress/2008/11/icons-04/ (Blog comment)

@@ -24,7 +24,7 @@
  * Live Concert (Classical style)
  * Live Concert (Rap/Hip-Hop style)
  * Festival <font size="1">by derek.crimmins</font>
-
+ * Theme waterpark <font size="1">by nico.mollet</font>
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.
 

@@ -39,7 +39,6 @@
  * Ghost town
  * Gondolas
  * Lake
- * Mine
  * Petroglyph: rock engravings
  * Rock
  * Shore

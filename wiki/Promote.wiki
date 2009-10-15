@@ -31,7 +31,7 @@ Click on an icon to share : <a href="http://twitter.com/home?status=Found a grea
 
 =Contacted=
 
-13/10/2009
+*13/10/2009*
 
  * http://www.mcwetboy.net (Blog)
  * http://makingmaps.net/2007/10/18/custom-map-symbols-in-google-maps/ (Blog comment)
@@ -45,7 +45,7 @@ Click on an icon to share : <a href="http://twitter.com/home?status=Found a grea
  * http://slowtalk.com/groupee/forums/a/tpc/f/280109402/m/9721021944 (Forum post) _answered_
  * http://mapscripting.com/create-dynamic-numbered-markers-for-google-maps (Blog)
 
-14/10/2009
+*14/10/2009*
 
  * http://blog.opengeo.org/2009/05/01/geosilk/ (Blog comment) _tweeted_
  * http://forum.manifold.net/forum/t86661 (Forum post) _answered_

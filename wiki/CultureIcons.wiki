@@ -14,6 +14,7 @@
 
 ===<BR>Outdoor Activities===
 || [http://google-maps-icons.googlecode.com/files/themepark.png] <BR>*Theme Park*<BR><FONT color="#777777" size="1">amusement, funfair, rides</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/bullfight.png] <BR>*Bull Fight Arena*<BR><FONT color="#777777" size="1">bullfighting, corrida</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/zoo.png] <BR>*Zoological Garden*<BR><FONT color="#777777" size="1">zoo, animal park</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/publicart.png] <BR>*Public Art*<BR><FONT color="#777777" size="1">sculpture, architecture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/fireworks.png] <BR>*Fireworks*<BR><FONT color="#777777" size="1">pyrotechnic</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+[http://google-maps-icons.googlecode.com/files/circus.png] <BR>*Circus*<BR><FONT color="#777777" size="1">pyrotechnic</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 ==Requests==
  * "Open air" Museum

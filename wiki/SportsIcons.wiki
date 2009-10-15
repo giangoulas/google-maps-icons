@@ -37,7 +37,6 @@
 
 ==Requests==
 
- * Sailing
  * Sauna
  * Aesthetics Center
  * SUV

@@ -30,13 +30,12 @@
  * Hotel 5 stars
  * Motel
  * Apartment Hotel
- * Tapas Restaurant (spanish)
  * Concessionaire
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.
 
-Made by [http://www.myBCN.es Matthias Stasiak] : hostel, youth hostel, gourmet 2
+Made by [http://www.myBCN.es Matthias Stasiak] : hostel, youth hostel, gourmet 2, tapas
 
 <BR>
 =Donations=

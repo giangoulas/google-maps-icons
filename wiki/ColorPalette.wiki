@@ -30,14 +30,13 @@
 
 =Possible future categorization=
 
-|| [http://google-maps-icons.googlecode.com/files/factory.png] || * Administration * Office * Industry ||
-||||
-[http://google-maps-icons.googlecode.com/files/drugs.png]
-[http://google-maps-icons.googlecode.com/files/bridgemodern.png]
-[http://google-maps-icons.googlecode.com/files/toys.png]
-[http://google-maps-icons.googlecode.com/files/family.png]
-[http://google-maps-icons.googlecode.com/files/winery.png]
-[http://google-maps-icons.googlecode.com/files/museum.png]
+|| [http://google-maps-icons.googlecode.com/files/factory.png] || [http://google-maps-icons.googlecode.com/files/drugs.png] || [http://google-maps-icons.googlecode.com/files/bridgemodern.png] || [http://google-maps-icons.googlecode.com/files/toys.png] || 
+[http://google-maps-icons.googlecode.com/files/family.png] || [http://google-maps-icons.googlecode.com/files/winery.png] || [http://google-maps-icons.googlecode.com/files/museum.png] || 
+|| Administration <br> Offices <br> Industry ||  ||  ||  ||  ||  || 
+
+
+
+
 [http://google-maps-icons.googlecode.com/files/university.png]
 [http://google-maps-icons.googlecode.com/files/subway.png]
 [http://google-maps-icons.googlecode.com/files/wifi.png]

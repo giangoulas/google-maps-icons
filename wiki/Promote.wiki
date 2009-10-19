@@ -31,7 +31,7 @@ See the rest of the icons here : http://code.google.com/p/google-maps-icons/
 [http://lac-conakry.blogspot.com/2009/10/google-maps-icons-mis-jour-o.html Google maps icons mis à jour]
  * *[http://6link.blogspot.com 6link]* (icons and professional web design) > [http://6link.blogspot.com/2009/09/update-nuove-icone-nella-galleria-per.html Update nuove icone nella galleria per Google maps]
  * *[http://www.umapper.com UMapper]* (Create embeddable Flash maps) > [http://www.umapper.com/blog/?p=1278 Help Design UMapper Map Icons]
- * [http://gemtice.blogspot.com Gemtice]* (Maps forecasting) > [http://gemtice.blogspot.com/2009/03/des-icones-de-reperes-pour-google-maps.html Des icones de reperes pour google maps]
+ * *[http://gemtice.blogspot.com Gemtice]* (Maps forecasting) > [http://gemtice.blogspot.com/2009/03/des-icones-de-reperes-pour-google-maps.html Des icones de reperes pour google maps]
  * http://abava.blogspot.com/2009/03/google-maps-icons.html
  * http://www.geo2web.com/2009/03/08/some-google-maps-tools-tips/
  * http://nayk.sphere-software.org/index.php/2009/07/24/icons-for-google-maps/

@@ -28,6 +28,15 @@
 ==With Border==
 || [http://google-maps-icons.googlecode.com/files/factory.png] Original||[http://google-maps-icons.googlecode.com/files/factory-test2.png] "iPhone"||[http://google-maps-icons.googlecode.com/files/factory-test3.png] "50%"||
 
+==Possible Future Additions==
+
+
+==Without Border==
+|| [http://google-maps-icons.googlecode.com/files/factory-test4.png] "50%"|| [http://google-maps-icons.googlecode.com/files/factory-test5.png] "Gradient"|| [http://google-maps-icons.googlecode.com/files/factory-test1.png] "Clean"|| 
+
+
+
+
 <br>
 =Categorization=
 
@@ -48,14 +57,3 @@
 
 || [http://google-maps-icons.googlecode.com/files/university.png] || [http://google-maps-icons.googlecode.com/files/subway.png] || [http://google-maps-icons.googlecode.com/files/wifi.png] || [http://google-maps-icons.googlecode.com/files/clouds.png] || [http://google-maps-icons.googlecode.com/files/audio.png] || [http://google-maps-icons.googlecode.com/files/darkred.png] || [http://google-maps-icons.googlecode.com/files/darkgreen.png] || 
 || Education (3) <br> Kids (4) <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| Transportation <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| Misc <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| Events <br> Weather <br> Days of week <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| Media <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| ... <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| ... <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| 
-
-
-
-
-
-
-==Possible Future Additions==
-
-
-==Without Border==
-|| [http://google-maps-icons.googlecode.com/files/factory-test4.png] "50%"|| [http://google-maps-icons.googlecode.com/files/factory-test5.png] "Gradient"|| [http://google-maps-icons.googlecode.com/files/factory-test1.png] "Clean"|| 

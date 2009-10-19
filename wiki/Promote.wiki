@@ -24,9 +24,8 @@ See the rest of the icons here : http://code.google.com/p/google-maps-icons/
 
 =They talk about us / In the Press=
 
-[http://www.etourisme.info Etourisme] (institutional tourism french blog) > [http://www.etourisme.info/article/970/du-renouveau-pour-vos-icones-de-localisation-google-maps Du renouveau pour vos icônes de localisation Google Maps]
-
-[http://googlemapsmania.blogspot.com Googlemapsmania] (unofficial Google Maps blog tracking the websites, mashups and tools being influenced by Google Maps) > [http://googlemapsmania.blogspot.com/2009/09/mapping-dubai-metro.html "Mapping dubai metro"]
+ * *[http://www.etourisme.info Etourisme]* (institutional tourism french blog) > [http://www.etourisme.info/article/970/du-renouveau-pour-vos-icones-de-localisation-google-maps Du renouveau pour vos icônes de localisation Google Maps]
+ * *[http://googlemapsmania.blogspot.com Googlemapsmania]* (unofficial Google Maps blog tracking the websites, mashups and tools being influenced by Google Maps) > [http://googlemapsmania.blogspot.com/2009/09/mapping-dubai-metro.html "Mapping dubai metro"]
 
 [http://www.svennerberg.com Gabriel Svennerberg] (In usability we trust) > [http://www.svennerberg.com/2009/07/google-maps-api-3-markers/ Google maps API 3 markers]
 

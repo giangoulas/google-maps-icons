@@ -28,5 +28,25 @@
 ==With Border==
 || [http://google-maps-icons.googlecode.com/files/factory.png] Original||[http://google-maps-icons.googlecode.com/files/factory-test2.png] "iPhone"||[http://google-maps-icons.googlecode.com/files/factory-test3.png] "50%"||
 
+=Possible future categorization=
+
+|| [http://google-maps-icons.googlecode.com/files/factory.png] || * Administration * Office * Industry ||
+||||
+[http://google-maps-icons.googlecode.com/files/drugs.png]
+[http://google-maps-icons.googlecode.com/files/bridgemodern.png]
+[http://google-maps-icons.googlecode.com/files/toys.png]
+[http://google-maps-icons.googlecode.com/files/family.png]
+[http://google-maps-icons.googlecode.com/files/winery.png]
+[http://google-maps-icons.googlecode.com/files/museum.png]
+[http://google-maps-icons.googlecode.com/files/university.png]
+[http://google-maps-icons.googlecode.com/files/subway.png]
+[http://google-maps-icons.googlecode.com/files/wifi.png]
+[http://google-maps-icons.googlecode.com/files/clouds.png]
+==Possible Future Additions==
+[http://google-maps-icons.googlecode.com/files/audio.png]
+[http://google-maps-icons.googlecode.com/files/darkred.png]
+[http://google-maps-icons.googlecode.com/files/darkgreen.png]
+
+
 ==Without Border==
 || [http://google-maps-icons.googlecode.com/files/factory-test4.png] "50%"|| [http://google-maps-icons.googlecode.com/files/factory-test5.png] "Gradient"|| [http://google-maps-icons.googlecode.com/files/factory-test1.png] "Clean"|| 

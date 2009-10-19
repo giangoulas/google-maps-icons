@@ -48,11 +48,11 @@ Click on an icon to share : <a href="http://twitter.com/home?status=Found a grea
  * http://www.cyberhobo.net/hobolinks/2007/09/21/google-maps-icons/ (Blog comment) _will add link to documentation_
  * http://georgetownmetropolitan.com/2009/07/27/new-google-maps-icons-odd-inaccurate/ (Blog comment)
  * http://slowtalk.com/groupee/forums/a/tpc/f/280109402/m/9721021944 (Forum post) _answered_
- * http://mapscripting.com/create-dynamic-numbered-markers-for-google-maps (Blog)
+ * http://mapscripting.com/create-dynamic-numbered-markers-for-google-maps (Blog) _will write a post_
 
 *14/10/2009*
 
- * http://blog.opengeo.org/2009/05/01/geosilk/ (Blog comment) _tweeted_
+ * http://blog.opengeo.org/2009/05/01/geosilk/ (Blog comment) _tweeted and backlinked from http://projects.opengeo.org/geosilk_
  * http://forum.manifold.net/forum/t86661 (Forum post) _answered_
  * http://www.asklater.com/matt/wordpress/2008/11/icons-04/ (Blog comment)
  * http://spatialnews.blogspot.com/2007/11/new-google-maps-icons-free.html (Blog comment)

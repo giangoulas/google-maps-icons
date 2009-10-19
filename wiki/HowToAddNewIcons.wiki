@@ -87,6 +87,14 @@ If you want to add another, different custom icon, you just follow all the steps
   # _Click_ on the *icon* in the top right corner of the icon description dialog you will come to the *My Icons* tab instead of the *Default icons* you saw earlier. In this tab you will always see all the icons you have used on this specific map.
   # _Click_ on *Add an icon* in the top right corner of this dialog and follow the steps mentioned above.
 
+==Screencast tutorial==
+
+Screencast made by [http://www.etourisme.info instutitional tourism french blog].
+
+[http://www.screencast.com/users/touristic/folders/Jing/media/db8526a3-f060-4522-8155-3925a29b786c Watch the screencast ] explaining how to add icons to your Google "My maps" (in french) 
+
+Thank you guys : [http://www.etourisme.info/about/745/pierre-eloy Pierre Eloy] and [http://www.etourisme.info/about/4/benjamin-bastien Benjamin Bastien]
+
 =Your Google Map could look like this=
 [http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-10.png]
 

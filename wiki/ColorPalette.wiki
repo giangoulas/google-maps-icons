@@ -28,6 +28,7 @@
 ==With Border==
 || [http://google-maps-icons.googlecode.com/files/factory.png] Original||[http://google-maps-icons.googlecode.com/files/factory-test2.png] "iPhone"||[http://google-maps-icons.googlecode.com/files/factory-test3.png] "50%"||
 
+<br>
 =Categorization=
 
 ==Current categorization==

@@ -91,7 +91,7 @@ If you want to add another, different custom icon, you just follow all the steps
 
 Screencast made by [http://www.etourisme.info instutitional tourism french blog].
 
-[http://www.screencast.com/users/touristic/folders/Jing/media/db8526a3-f060-4522-8155-3925a29b786c Watch the screencast ] explaining how to add icons to your Google "My maps" (in french) 
+[http://www.screencast.com/users/touristic/folders/Jing/media/db8526a3-f060-4522-8155-3925a29b786c Watch the screencast] explaining how to add icons to your Google "My maps" (in french) 
 
 Thank you guys : [http://www.etourisme.info/about/745/pierre-eloy Pierre Eloy] and [http://www.etourisme.info/about/4/benjamin-bastien Benjamin Bastien]
 

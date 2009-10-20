@@ -12,7 +12,7 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
  * Suivez ce projet sur [http://www.twitter.com/nicomollet Twitter] et [http://friendfeed.com/nicomollet Friendfeed] ou [Contact contactez nous].
  * [Donate Faites un don pour montrer que vous appréciez ce projet] et permettre son développement ou simplement [Promote promouvez le projet].
 
-=Rubriques=
+=Rubriques d'icônes de cartes=
 
 [http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Icônes Administration, Bureaux & Industrie]
 

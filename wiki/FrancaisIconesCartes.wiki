@@ -16,25 +16,25 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 
 [http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Icônes Administration, Bureaux & Industrie]
 
+[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Icônes Amis, Famille & Immobilier]
+
 [http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Icônes Culture & Divertissement]
+
+[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Icônes  Divers]
 
 [http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Icônes Education & Enfance]
 
 [http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Icônes Evènements & Temps]
 
-[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Icônes Amis, Famille & Immobilier]
+[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Icônes Magasins]
 
 [http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Icônes Media]
-
-[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Icônes  Divers]
 
 □ [NumericIcons Icônes Nombres, Lettres & Symboles]
 
 [http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Icônes Restaurants & Hôtels]
 
 [http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Icônes Sports, Santé & Beauté]
-
-[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Icônes Magasins]
 
 [http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Icônes Tourisme & Nature]
 

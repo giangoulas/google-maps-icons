@@ -7,7 +7,7 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 [http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/presentation2.jpg]
 
 =Sommaire=
- * [HowToAddNewIcons Ajouter les icônes à vos cartes].
- * [http://code.google.com/p/google-maps-icons/issues/entry Faire une suggestion] s'il vous manque une icône ou [Contribute si vous voulez contribuer au projet].
+ * [HowToAddNewIcons Ajoutez les icônes à vos cartes].
+ * [http://code.google.com/p/google-maps-icons/issues/entry Faites une suggestion] s'il vous manque une icône ou [Contribute si vous voulez contribuer au projet].
  * Suivez ce projet sur [http://www.twitter.com/nicomollet Twitter] et [http://friendfeed.com/nicomollet Friendfeed] ou [Contact contactez nous].
  * [Donate Faites un don pour montrer que vous appréciez ce projet] et permettre son développement ou simplement [Promote promouvez le projet].

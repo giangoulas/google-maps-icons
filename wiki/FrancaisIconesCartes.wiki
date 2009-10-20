@@ -4,7 +4,7 @@ Vous pouvez les placer manuellement avec la fonction "Mes cartes" de Google Maps
 
 Organisées par couleur et par rubrique, vous avez une collection complète de marqueurs tels que : cinéma, école, banque, restaurant japonais, ou encore magasin de vêtements.
 
-[http://code.google.com/p/google-maps-icons/ Voir toutes les icônes de cartes]
+[http://map-icons-collection.org/ Voir toutes les icônes de cartes]
 
 [http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/presentation-fr.jpg]
 

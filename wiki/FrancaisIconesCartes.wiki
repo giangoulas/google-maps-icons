@@ -4,10 +4,38 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 
 [http://code.google.com/p/google-maps-icons/ Voir toutes les icônes]
 
-[http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/presentation2.jpg]
+[http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/presentation-fr.jpg]
 
 =Sommaire=
  * [HowToAddNewIcons Ajoutez les icônes à vos cartes].
  * [http://code.google.com/p/google-maps-icons/issues/entry Faites une suggestion] s'il vous manque une icône ou [Contribute si vous voulez contribuer au projet].
  * Suivez ce projet sur [http://www.twitter.com/nicomollet Twitter] et [http://friendfeed.com/nicomollet Friendfeed] ou [Contact contactez nous].
  * [Donate Faites un don pour montrer que vous appréciez ce projet] et permettre son développement ou simplement [Promote promouvez le projet].
+
+=Rubriques=
+
+[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Icônes Administration, Bureaux & Industrie]
+
+[http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Icônes Culture & Divertissement]
+
+[http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Icônes Education & Enfance]
+
+[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Icônes Evènements & Temps]
+
+[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Icônes Amis, Famille & Immobilier]
+
+[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Icônes Media]
+
+[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Icônes  Divers]
+
+□ [NumericIcons Icônes Nombres, Lettres & Symboles]
+
+[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Restaurants & Hotels]
+
+[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Icônes Sports, Santé & Beauté]
+
+[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Icônes Magasins]
+
+[http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Icônes Tourisme & Nature]
+
+[http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Icônes Transports]

@@ -30,7 +30,7 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 
 □ [NumericIcons Icônes Nombres, Lettres & Symboles]
 
-[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Restaurants & Hotels]
+[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Icônes Restaurants & Hôtels]
 
 [http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Icônes Sports, Santé & Beauté]
 

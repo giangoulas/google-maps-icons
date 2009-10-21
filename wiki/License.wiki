@@ -1,11 +1,13 @@
 #labels Featured
-The project "Map icons collection" was created by Nicolas Mollet under the license Creative Commons Attribution-Share Alike 3.0 Unported (CC SA 3.0).
+The project "Map icons collection" was created by Nicolas Mollet under the license Creative Commons Attribution-Share Alike 3.0 Unported (CC BY SA 3.0).
 
-Project name : "Maps icons collection"
+This license lets you remix, tweak, and build upon our work even for commercial reasons, as long as you credit the project and license your new creations under the identical terms. 
 
-Location : http://www.map-icons-collection.org    
+Please credit : *Maps icons collection http://www.map-icons-collection.org*
 
 Logo : http://google-maps-icons.googlecode.com/files/banner88x31.gif
+
+
 
 
 ----

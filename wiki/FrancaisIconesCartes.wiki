@@ -44,4 +44,4 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 
 
 =Mots clés=
-<font size="2">==Points d'intérêt, POI, cartographie, icônes, cartes, plans, GPS, GIS==</font>
+==<font size="2">Points d'intérêt, POI, cartographie, icônes, cartes, plans, GPS, GIS</font>==

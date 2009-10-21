@@ -3,7 +3,7 @@ The project "Map icons collection" was created by Nicolas Mollet under the licen
 
 This license lets you remix, tweak, and build upon our work even for commercial reasons, as long as you credit the project and license your new creations under the identical terms. 
 
-Please credit : *Maps icons collection http://www.map-icons-collection.org*
+Please credit : *Maps icons collection http://www.map-icons-collection.org *
 
 Logo : http://google-maps-icons.googlecode.com/files/banner88x31.gif
 

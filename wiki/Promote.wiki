@@ -58,7 +58,7 @@ Click on an icon to share : <a href="http://twitter.com/home?status=Found a grea
  * http://www.cyberhobo.net/hobolinks/2007/09/21/google-maps-icons/ (Blog comment) _will add link to documentation_
  * http://georgetownmetropolitan.com/2009/07/27/new-google-maps-icons-odd-inaccurate/ (Blog comment)
  * http://slowtalk.com/groupee/forums/a/tpc/f/280109402/m/9721021944 (Forum post) _answered_
- * http://mapscripting.com/create-dynamic-numbered-markers-for-google-maps (Blog) _will write a post_
+ * http://mapscripting.com/create-dynamic-numbered-markers-for-google-maps (Blog) _answered, will write a post_
 
 *14/10/2009*
 
@@ -71,5 +71,7 @@ Click on an icon to share : <a href="http://twitter.com/home?status=Found a grea
 *19/10/2009*
 
  * http://francais.directionsmag.com/blogue/index.php?blog_id=6271 (Blog comment) _answered, and posted an article_
+ * http://www.thegisforum.com/forums/ (Forum)
+ * http://mapperz.blogspot.com (Blog)
 
 </wiki:comment>

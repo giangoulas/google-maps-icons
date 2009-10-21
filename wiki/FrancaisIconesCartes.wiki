@@ -41,3 +41,7 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 [http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Icônes Tourisme & Nature]
 
 [http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Icônes Transports]
+
+
+=Mots clés=
+Points d'intérêt, POI, cartographie, icônes, cartes, plans, GPS, GIS

@@ -13,17 +13,17 @@ Logo : http://google-maps-icons.googlecode.com/files/banner88x31.gif
 ----
 
 
-You are free:
+==You are free:==
 
  * to Share — to copy, distribute and transmit the work
  * to Remix — to adapt the work
 
-Under the following conditions:
+===Under the following conditions:===
 
  * Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
  * Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same, similar or a compatible license.
 
-With the understanding that:
+===With the understanding that:===
 
  * Waiver — Any of the above conditions can be waived if you get permission from the copyright holder.
  * Other Rights — In no way are any of the following rights affected by the license:
@@ -38,7 +38,7 @@ With the understanding that:
 
 ----
 
-License
+==License==
 
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
 

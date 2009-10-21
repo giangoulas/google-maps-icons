@@ -24,8 +24,8 @@ See the rest of the icons here : http://code.google.com/p/google-maps-icons/
 
 =They talk about us / In the Press=
 
- * [http://www.bieicons.com/2009/10/google-maps-icon.html] (Provide free icon download) > [http://www.bieicons.com/2009/10/google-maps-icon.html Google Maps Icon]
- * [http://francais.directionsmag.com/ DirectionsMag]* (La référence de l'industrie du géospatial) > [http://francais.directionsmag.com/blogue/index.php?blog_id=6675 Map Icons Collection : plus de 600 repères originaux pour Google Maps]
+ * *[http://www.bieicons.com/2009/10/google-maps-icon.html]* (Provide free icon download) > [http://www.bieicons.com/2009/10/google-maps-icon.html Google Maps Icon]
+ * *[http://francais.directionsmag.com/ DirectionsMag]* (La référence de l'industrie du géospatial) > [http://francais.directionsmag.com/blogue/index.php?blog_id=6675 Map Icons Collection : plus de 600 repères originaux pour Google Maps]
  * *[http://cssgallery.info/ CSS Gallery]* (code we write every day) > [http://cssgallery.info/the-coolest-google-map-icons/ The coolest google map icons]
  * *[http://www.etourisme.info Etourisme]* (institutional tourism french blog) > [http://www.etourisme.info/article/970/du-renouveau-pour-vos-icones-de-localisation-google-maps Du renouveau pour vos icônes de localisation Google Maps]
  * *[http://googlemapsmania.blogspot.com Googlemapsmania]* (unofficial Google Maps blog tracking the websites, mashups and tools being influenced by Google Maps) > [http://googlemapsmania.blogspot.com/2009/09/mapping-dubai-metro.html Mapping dubai metro]

@@ -29,5 +29,16 @@
 [http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Transportation]
 ----
 [http://code.google.com/p/google-maps-icons/downloads/list ► Icon search]
+
+[Contribute ► Contribute]
+
+[Contact ► Contact]
+
+[Donate ► Donate]
+
+[HowToAddNewIcons ► HowToAddNewIcons]
+
+[Promote ► Promote]
+
 </strong></font>
 </td></tr></table>

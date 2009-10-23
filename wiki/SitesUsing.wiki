@@ -54,6 +54,7 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 
 [http://fridgemate.creativepossums.net Fridgemate ]
 
+[http://google-maps-icons.googlecode.com/files/fridgemate.jpg]
 
 <BR>
 =Applications=

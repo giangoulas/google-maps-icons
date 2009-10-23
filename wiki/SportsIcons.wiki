@@ -43,7 +43,6 @@
 ==Requests==
 
  * Offroad Trailhead
- * Stadium or Arena <font size="1">by webmaster@patuxentproductions.com</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

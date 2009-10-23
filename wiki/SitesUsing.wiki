@@ -48,6 +48,13 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 
 [http://www.rakowice.eu/ Rakowice]
 
+
+<BR>
+==Fridgemate -> Australian service that finds all the nearest public services to any address==
+
+[http://fridgemate.creativepossums.net Fridgemate ]
+
+
 <BR>
 =Applications=
 ==Location Scout > Discover filming locations==

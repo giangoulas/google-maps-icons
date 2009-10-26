@@ -5,7 +5,7 @@ Organizados pela cor e por categoria, você tem uma coleção completa de marcad
 
 [http://map-icons-collection.org/ Ver os icones de mapas]
 
-[http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/presentation-fr.jpg]
+[http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/presentation-pt.jpg]
 
 =Resumo=
  * [HowToAddNewIcons Addiciona icones aos seus mapas].

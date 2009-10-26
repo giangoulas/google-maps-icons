@@ -1,11 +1,11 @@
 #labels IconWikiPage
 #sidebar tocIcons
 
-<FONT color="#e14f9e" size="6">*Culture & Entertainment*</FONT>
+<FONT color="#e14f9e" size="6">*Culture & Entertainment map icons*</FONT>
 
 <wiki:toc max_depth="3" />
 
-=Icons=
+=POI Icons=
 ===Indoor Activities===
 || [http://google-maps-icons.googlecode.com/files/bowling.png] <BR>*Bowling*<BR><FONT color="#777777" size="1">skittles, skee ball, ten-pin</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/party.png] <BR>*Celebration*<BR><FONT color="#777777" size="1">birthday, party, anniversary</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/billiard.png]<BR>*Billiard*<BR><FONT color="#777777" size="1">pool, snooker</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/aquarium.png]<BR>*Aquarium* <BR><FONT color="#777777" size="1">fishes, marine life</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/cinema.png] <BR>*Cinema*<BR><FONT color="#777777" size="1">movie, film, projection</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 || [http://google-maps-icons.googlecode.com/files/club.png] <BR>*Club*<BR><FONT color="#777777" size="1">music, dancing, disco</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/theater.png] <BR>*Theater*<BR><FONT color="#777777" size="1">play, performance, drama</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/casino.png] <BR>*Casino*<BR><FONT color="#777777" size="1">gambling</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/poker.png] <BR>*Card Games*<BR><FONT color="#777777" size="1">poker, blackjack, bridge</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/dancinghall.png] <BR>*Dance Hall*<BR><FONT color="#777777" size="1">music, dancing, disco</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||

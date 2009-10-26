@@ -1,11 +1,11 @@
 #labels IconWikiPage
 #sidebar tocIcons
 
-<font color="#7e55fc" size="6">*Restaurants & Hotels*</font>
+<font color="#7e55fc" size="6">*Restaurants & Hotels map icons*</font>
 
 <wiki:toc max_depth="3" />
 
-=Icons=
+=POI Icons=
 ===Drinks===
 || [http://google-maps-icons.googlecode.com/files/bar.png] <BR>*Bar*<BR><FONT color="#777777" size="1">pub, dive, saloon, cantina</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/winery.png] <BR>*Wine Bar*<BR><FONT color="#777777" size="1">winery, bodega</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/cocktail.png] <BR>*Cocktail Bar*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/coffee.png] <BR>*Cafe*<BR><FONT color="#777777" size="1">cafeteria, coffee shop, coffee-house</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 

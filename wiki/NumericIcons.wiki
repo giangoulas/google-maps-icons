@@ -1,7 +1,7 @@
 #labels IconWikiPage
 #sidebar tocIcons
 
-<FONT color="#000000" size="6">*Numbers, Letters & Symbols*</FONT>
+<FONT color="#000000" size="6">*Numbers, Letters & Symbols map icons*</FONT>
 
 <wiki:toc max_depth="4" />
 

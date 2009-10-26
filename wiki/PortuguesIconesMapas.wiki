@@ -1,0 +1,46 @@
+#labels Featured
+Map icons collection é um pacote de mais de 600 ícones para Pontos de Interesse dos seus mapas. Você pode colocá-los manualmente com "Meus mapas" do Google Maps, ou automaticamente com Google Maps API.
+
+Organizados pela cor e por categoria, você tem uma coleção completa de marcadores, tais como: cinema, escola, banco, restaurante japonês ou loja de roupas. 
+
+[http://map-icons-collection.org/ Ver os icones de mapas]
+
+[http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/presentation-fr.jpg]
+
+=Resumo=
+ * [HowToAddNewIcons Addiciona icones aos seus mapas].
+ * [http://code.google.com/p/google-maps-icons/issues/entry Faça uma sugestão] se você estiver faltando um ícone ou [Contribute se você quiser contribuir para o projeto].
+ * Siga o projeto no [http://www.twitter.com/nicomollet Twitter] e [http://friendfeed.com/nicomollet Friendfeed] ou [Contact contactar-nos].
+ * [Donate Doações para mostrar que você aproveite este projecto] e permitir o desenvolvimento ou simplesmente [Promote promover o projeto].
+
+=Rubriques d'icônes de cartes=
+
+[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Icônes Administration, Bureaux & Industrie]
+
+[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Icônes Amis, Famille & Immobilier]
+
+[http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Icônes Culture & Divertissement]
+
+[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Icônes  Divers]
+
+[http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Icônes Education & Enfance]
+
+[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Icônes Evènements & Temps]
+
+[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Icônes Magasins]
+
+[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Icônes Media]
+
+□ [NumericIcons Icônes Nombres, Lettres & Symboles]
+
+[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Icônes Restaurants & Hôtels]
+
+[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Icônes Sports, Santé & Beauté]
+
+[http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Icônes Tourisme & Nature]
+
+[http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Icônes Transports]
+
+
+=Mots clés=
+==<font size="2">Points d'intérêt, POI, cartographie, icônes, cartes, plans, GPS, GIS</font>==Portugues

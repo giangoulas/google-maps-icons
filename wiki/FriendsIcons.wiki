@@ -1,11 +1,11 @@
 #labels IconWikiPage
 #sidebar tocIcons
 
-<FONT color="#fcf357" size="6">*Friends, Family & Real Estate*</FONT>
+<FONT color="#fcf357" size="6">*Friends, Family & Real Estate map icons*</FONT>
 
 <wiki:toc max_depth="3" />
 
-=Icons=
+=POI Icons=
 || [http://google-maps-icons.googlecode.com/files/friends.png] <BR>*Friends*<BR><FONT color="#777777" size="1">associate, colleague</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/home.png] <BR>*Home*<BR><FONT color="#777777" size="1">living</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/girlfriend.png] <BR>*Love Interest*<BR><FONT color="#777777" size="1">lover, fiancé, fiancé</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/dates.png] <BR>*Date*<BR><FONT color="#777777" size="1">appointment, meeting</FONT> <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||  [http://google-maps-icons.googlecode.com/files/realestate.png]<BR>*Real Estate* <BR><FONT color="#777777" size="1">house, building</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 || [http://google-maps-icons.googlecode.com/files/apartment.png] <BR>*Apartment*<BR><FONT color="#777777" size="1">flat, studio</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/family.png] <BR>*Family*<BR><FONT color="#777777" size="1">mother, father, sister, brother</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 

@@ -17,30 +17,30 @@ Organizados pela cor e por categoria, você tem uma coleção completa de marcad
 
 [http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Ícones de Administração, Órgãos e Indústria]
 
-[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Icônes Amigos, Familia & Immovel]
+[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Ícones de Amigos, Familia & Immovel]
 
-[http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Icônes Cultura & Entretenimento]
+[http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Ícones de Cultura & Entretenimento]
 
-[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Icones Vários]
+[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Ícones Vários]
 
-[http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Icônes Crianças e Educação]
+[http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Ícones de Crianças e Educação]
 
-[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Icônes de Eventos & Tempo]
+[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Ícones de Eventos & Tempo]
 
-[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Icônes de Lojas]
+[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Ícones de Lojas]
 
-[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Icônes Media]
+[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Ícones de Media]
 
 □ [NumericIcons Icônes números, letras e símbolos]
 
-[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Icônes Restaurantes e Hotéis]
+[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Ícones de Restaurantes e Hotéis]
 
-[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Icônes Esportes, Saúde e Beleza]
+[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Ícones de Esportes, Saúde e Beleza]
 
-[http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Icônes Tourisme & Nature]
+[http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Ícones de Natureza & Turismo]
 
-[http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Icônes Transports]
+[http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Ícones de Transportes]
 
 
 =Mots clés=
-==<font size="2">Points d'intérêt, POI, cartographie, icônes, cartes, plans, GPS, GIS</font>==Portugues
+==<font size="2">Points d'intérêt, POI, cartographie, icônes, cartes, plans, GPS, GIS Pontos de interesse, POI, mapas, ícones, mapas, mapas, GPS, GIS</font>==

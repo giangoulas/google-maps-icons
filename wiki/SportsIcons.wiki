@@ -1,5 +1,5 @@
 #labels IconWikiPage
- #sidebar tocIcons
+#sidebar tocIcons
 
 <font color="#fc6355" size="6">*Sports, Health & Beauty map icons*</font>
 

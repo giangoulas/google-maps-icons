@@ -21,3 +21,8 @@ To the left you see the icon categories you can choose between. _Click_ on the o
 <FONT color="#000000" size="2">*[Promote Promote]*</FONT> - banners to put on your site.<BR>
 
 <FONT color="#000000" size="2">*[SitesUsing Sites Using]*</FONT> - on sites that are using our icons.<BR>
+
+=[OfficesIcons Offices markers]=
+=[TourismIcons Tourism POI icons]=
+=[SportsIcons Sports placemarks]=
+=[TransportsIcons Transports free markers]=

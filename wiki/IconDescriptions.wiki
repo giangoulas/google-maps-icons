@@ -26,5 +26,6 @@ To the left you see the icon categories you can choose between. _Click_ on the o
 =[OfficesIcons Offices markers]=
 =[TourismIcons Tourism POI icons]=
 =[SportsIcons Sports placemarks]=
-=[TransportationIcons Transportation free markers]=
+=[NumericIcons Numeric free markers]=
+=[RestaurantsIcons Restaurants map pins]=
 </font>

@@ -1,11 +1,11 @@
 #labels IconWikiPage
 #sidebar tocIcons
 
-<FONT color="#999999" size="6">*Events & Weather*</FONT>
+<FONT color="#999999" size="6">*Events & Weather map icons*</FONT>
 
 <wiki:toc max_depth="3" />
 
-=Icons=
+=POI Icons=
 ===Weather===
 || [http://google-maps-icons.googlecode.com/files/rain.png] <BR>*Rainy*<BR><FONT color="#777777" size="1">showers, monsoon</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/cloudsun.png] <BR>*Cloudy and Sunny*<BR><FONT color="#777777" size="1">partly cloudy, mixed</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/clouds.png] <BR>*Cloudy*<BR><FONT color="#777777" size="1">gray, beclouded</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/sun.png] <BR>*Sunny*<BR><FONT color="#777777" size="1">beaming, bright, hot</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/thunder.png] <BR>*Thunderstorm*<BR><FONT color="#777777" size="1">lightning, thunder, squall</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 || [http://google-maps-icons.googlecode.com/files/snow.png] <BR>*Snowy*<BR><FONT color="#777777" size="1">ice, cold, frost</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||

@@ -16,7 +16,7 @@
 
 [http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Miscellaneous]
 
-□ [NumericIcons Numbers, Letters & Symbols]
+[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Numbers, Letters & Symbols]
 
 [http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Restaurants & Hotels]
 

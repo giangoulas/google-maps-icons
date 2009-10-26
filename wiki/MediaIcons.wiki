@@ -1,11 +1,11 @@
 #labels IconWikiPage
 #sidebar tocIcons
 
-<FONT color="#0337D1" size="6">*Media*</FONT>
+<FONT color="#0337D1" size="6">*Media map icons*</FONT>
 
 <wiki:toc max_depth="3" />
 
-=Icons=
+=POI Icons=
 ===Photo===
 || [http://google-maps-icons.googlecode.com/files/photo.png] <BR>*Photography*<BR><FONT color="#777777" size="1">shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photoup.png] <BR>*Photography Up*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photoupright.png] <BR>*Photography Up Right*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photoright.png] <BR>*Photography Right*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photodownright.png] <BR> *Photography Down Right*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 || [http://google-maps-icons.googlecode.com/files/photodown.png] <BR>*Photography Down*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photodownleft.png] <BR>*Photography Down Left*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photoleft.png] <BR>*Photography Left*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photoupleft.png] <BR>*Photography Up Left*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||

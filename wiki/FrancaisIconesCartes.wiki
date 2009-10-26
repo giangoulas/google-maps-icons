@@ -32,7 +32,7 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 
 [http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Icônes Media]
 
-□ [NumericIcons Icônes Nombres, Lettres & Symboles]
+[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Icônes Nombres, Lettres & Symboles]
 
 [http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Icônes Restaurants & Hôtels]
 

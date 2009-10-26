@@ -24,6 +24,8 @@ See the rest of the icons here : http://code.google.com/p/google-maps-icons/
 
 =They talk about us / In the Press=
 
+26/10/2009 [http://www.mcwetboy.net/maproom/2009/10/free_google_map.php] by *The Map Room* ([http://www.mcwetboy.net/maproom/ A Weblog About Maps])
+
 21/10/2009 [http://francais.directionsmag.com/blogue/index.php?blog_id=6675 Map Icons Collection : plus de 600 repères originaux] <font size="1">(french)</font> by *Directions Magazine* ([http://francais.directionsmag.com/ La référence de l'industrie du géospatial])
 
 20/10/2009 [http://www.bieicons.com/2009/10/google-maps-icon.html Google Maps Icon] by *Bieicons* ([http://www.bieicons.com/ Provide free icon download])
@@ -58,7 +60,7 @@ Click on an icon to share : <a href="http://twitter.com/home?status=Found a grea
 
 *13/10/2009*
 
- * http://www.mcwetboy.net (Blog)
+ * http://www.mcwetboy.net (Blog) _wrote post_
  * http://makingmaps.net/2007/10/18/custom-map-symbols-in-google-maps/ (Blog comment)
  * http://www.etourisme.info (Blog - french) _answered, will promote soon_
  * http://www.touristic.fr/blog-etourisme/ (Blog - french)

@@ -31,7 +31,7 @@ Organizados pela cor e por categoria, você tem uma coleção completa de marcad
 
 [http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Ícones de Media]
 
-□ [NumericIcons Icônes números, letras e símbolos]
+[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Icônes números, letras e símbolos]
 
 [http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Ícones de Restaurantes e Hotéis]
 

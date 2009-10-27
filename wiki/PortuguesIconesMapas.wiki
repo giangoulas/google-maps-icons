@@ -1,5 +1,5 @@
 #labels Featured
-Map icons collection é um pacote com mais de 600 ícones para destacar Pontos de Interesse nos seus mapas.
+Map icons collection é um pacote com mais de 600 ícones gratuitos para destacar Pontos de Interesse nos seus mapas.
 
 Você pode colocá-los manualmente com "Meus mapas" do Google Maps, ou automaticamente com Google Maps API.
 
@@ -45,4 +45,4 @@ Organizados por categoria e cor, dispomos de uma coleção completa de marcadore
 
 
 =Mots clés=
-==<font size="2">Pontos de interesse, POI, mapas, ícones, mapa, GPS, GIS</font>==
+==<font size="2">Pontos de interesse, POI, mapas, livre, ícones, gratis, mapa, GPS, GIS</font>==

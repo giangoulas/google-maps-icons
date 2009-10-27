@@ -24,13 +24,13 @@ Organizados por categoria e cor, dispomos de uma coleção completa de marcadore
 
 [http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Ícones de Crianças e Educação]
 
-[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Ícones de Eventos & Tempo]
+[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Ícones de Eventos & Meteorologia]
 
 [http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Ícones de Lojas]
 
 [http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Ícones de Media]
 
-[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Ícones números, letras e símbolos]
+[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Ícones Números, letras e símbolos]
 
 [http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Ícones de Restaurantes e Hotéis]
 

@@ -45,4 +45,4 @@ Organizados por categoria e cor, dispomos de uma coleção completa de marcadore
 
 
 =Mots clés=
-==<font size="2">Pontos de interesse, POI, mapas, ícones, mapas, mapas, GPS, GIS</font>==
+==<font size="2">Pontos de interesse, POI, mapas, ícones, GPS, GIS</font>==

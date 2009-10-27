@@ -14,7 +14,7 @@ Organizados por categoria e cor, dispomos de uma coleção completa de marcadore
 
 =Topicos de ícones de mapas=
 
-[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Ícones de Administração, Órgãos e Indústria]
+[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Ícones de Administração, Escritorios e Indústria]
 
 [http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Ícones de Amigos, Familia & Immovel]
 
@@ -30,7 +30,7 @@ Organizados por categoria e cor, dispomos de uma coleção completa de marcadore
 
 [http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Ícones de Media]
 
-[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Icônes números, letras e símbolos]
+[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Ícones números, letras e símbolos]
 
 [http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Ícones de Restaurantes e Hotéis]
 

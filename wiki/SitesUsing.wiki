@@ -4,6 +4,7 @@
 <FONT color="#000000" size="6">*Sites Using Our Icons*</FONT>
 
 <wiki:toc max_depth="3" />
+
 Some sites and maps using this icon collection. If you are using the icons, please send the link to your public URL, to share your project.
 
 <BR>
@@ -55,6 +56,14 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 [http://fridgemate.creativepossums.net Fridgemate ]
 
 [http://google-maps-icons.googlecode.com/files/fridgemate.jpg]
+
+<BR>
+==Barrow Borough Council -> City in England==
+
+[http://webgis1.barrowbc.gov.uk/webgis/bingis.html Barrow Borough Council]
+
+[http://google-maps-icons.googlecode.com/files/barrowboroughcouncil.jpg]
+
 
 <BR>
 =Applications=

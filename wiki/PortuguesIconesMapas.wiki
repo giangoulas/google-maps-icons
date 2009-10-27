@@ -14,7 +14,7 @@ Organizados por categoria e cor, dispomos de uma coleção completa de marcadore
 
 =Topicos de ícones de mapas=
 
-[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Ícones de Administração, Escritorios e Indústria]
+[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Ícones de Administração, Escritorios & Indústria]
 
 [http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Ícones de Amigos, Familia & Immovel]
 
@@ -22,19 +22,19 @@ Organizados por categoria e cor, dispomos de uma coleção completa de marcadore
 
 [http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Ícones Vários]
 
-[http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Ícones de Crianças e Educação]
+[http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Ícones de Crianças & Educação]
 
 [http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Ícones de Eventos & Meteorologia]
 
 [http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Ícones de Lojas]
 
-[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Ícones de Media]
+[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Ícones de Midia]
 
-[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Ícones Números, letras e símbolos]
+[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Ícones Números, Letras & Símbolos]
 
-[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Ícones de Restaurantes e Hotéis]
+[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Ícones de Restaurantes & Hotéis]
 
-[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Ícones de Esportes, Saúde e Beleza]
+[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Ícones de Esportes, Saúde & Beleza]
 
 [http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Ícones de Natureza & Turismo]
 

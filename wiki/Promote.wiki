@@ -24,8 +24,10 @@ See the rest of the icons here : http://code.google.com/p/google-maps-icons/
 
 =They talk about us / In the Press=
 
-27/10/2009 [http://www.tagdocs.de/2009/10/27/google-maps-icons-marker-icons-fur-karten/ Google Maps Icons - Marker-Icons für Karten] <font size="1">(german)</font> by *Tagdocs* ([http://www.tagdocs.de Deine tägliche Dosis Web])
 
+27/10/2009 [http://www.webcssdesign.com/graphisme/icones-rss-map-gratuits/ +800 icônes RSS et Map gratuites] <font size="1">(french)</font> by *Webcssdesign* ([http://www.webcssdesign.com/])
+
+27/10/2009 [http://www.tagdocs.de/2009/10/27/google-maps-icons-marker-icons-fur-karten/ Google Maps Icons - Marker-Icons für Karten] <font size="1">(german)</font> by *Tagdocs* ([http://www.tagdocs.de Deine tägliche Dosis Web])
 
 27/10/2009 [http://www.blog.todocartografia.es/?p=790 Iconos gratuitos para Google Maps] <font size="1">(spanish)</font> by *Todocartografia* ([http://www.blog.todocartografia.es Recursos, noticias y documentos sobre Cartografía])
 

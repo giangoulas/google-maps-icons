@@ -1,17 +1,19 @@
 #labels Featured
-Map icons collection é um pacote de mais de 600 ícones para Pontos de Interesse dos seus mapas. Você pode colocá-los manualmente com "Meus mapas" do Google Maps, ou automaticamente com Google Maps API.
+Map icons collection é um pacote com mais de 600 ícones para destacar Pontos de Interesse nos seus mapas.
 
-Organizados pela cor e por categoria, você tem uma coleção completa de marcadores, tais como: cinema, escola, banco, restaurante japonês ou loja de roupas. 
+Você pode colocá-los manualmente com "Meus mapas" do Google Maps, ou automaticamente com Google Maps API.
+
+Organizados por categoria e cor, dispomos de uma coleção completa de marcadores, tais como: cinema, escola, banco, restaurante japonês ou loja de roupas. 
 
 [http://map-icons-collection.org/ Ver os icones de mapas]
 
 [http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/presentation-pt.jpg]
 
 =Resumo=
- * [HowToAddNewIcons Addiciona icones aos seus mapas].
- * [http://code.google.com/p/google-maps-icons/issues/entry Faça uma sugestão] se você estiver faltando um ícone ou [Contribute se você quiser contribuir para o projeto].
- * Siga o projeto no [http://www.twitter.com/nicomollet Twitter] e [http://friendfeed.com/nicomollet Friendfeed] ou [Contact contactar-nos].
- * [Donate Doações para mostrar que você aproveite este projecto] e permitir o desenvolvimento ou simplesmente [Promote promover o projeto].
+ * [HowToAddNewIcons Addicione os icones aos seus mapas].
+ * [http://code.google.com/p/google-maps-icons/issues/entry Faça uma sugestão] se notar que falta um ícone ou [Contribute se quiser contribuir para o projeto].
+ * Siga o projeto no [http://www.twitter.com/nicomollet Twitter] e [http://friendfeed.com/nicomollet Friendfeed] ou [Contact contacte-nos].
+ * [Donate Aceitamos doações pelo reconhecimento e utilidade dos icones] para permitir o desenvolvimento ou simplesmente [Promote promover este projeto].
 
 =Topicos de icones de mapas=
 

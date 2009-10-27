@@ -10,7 +10,7 @@ Organizados por categoria e cor, dispomos de uma coleção completa de marcadore
  * [HowToAddNewIcons Addicione os ícones aos seus mapas].
  * [http://code.google.com/p/google-maps-icons/issues/entry Faça uma sugestão] se notar que falta um ícone ou [Contribute se quiser contribuir para o projeto].
  * Siga o projeto no [http://www.twitter.com/nicomollet Twitter] e [http://friendfeed.com/nicomollet Friendfeed] ou [Contact contacte-nos].
- * [Donate Aceitamos doações pelo reconhecimento e utilidade dos ícones] para permitir o desenvolvimento ou simplesmente [Promote promover este projeto].
+ * [Donate Aceitamos doações pelo reconhecimento e utilidade dos ícones] para desenvolver ou simplesmente [Promote promover este projeto].
 
 =Topicos de ícones de mapas=
 

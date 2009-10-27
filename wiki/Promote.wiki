@@ -24,7 +24,10 @@ See the rest of the icons here : http://code.google.com/p/google-maps-icons/
 
 =They talk about us / In the Press=
 
-27/10/2009 [http://www.blog.todocartografia.es/?p=790 Iconos gratuitos para Google Maps] by *Todocartografia* ([http://www.blog.todocartografia.es Recursos, noticias y documentos sobre Cartografía])
+27/10/2009 [http://www.tagdocs.de/2009/10/27/google-maps-icons-marker-icons-fur-karten/ Google Maps Icons - Marker-Icons für Karten] <font size="1">(german)</font> by *Tagdocs* ([http://www.tagdocs.de Deine tägliche Dosis Web])
+
+
+27/10/2009 [http://www.blog.todocartografia.es/?p=790 Iconos gratuitos para Google Maps] <font size="1">(spanish)</font> by *Todocartografia* ([http://www.blog.todocartografia.es Recursos, noticias y documentos sobre Cartografía])
 
 27/10/2009 [http://gisdk.blogspot.com/2009/10/free-map-icons-beautiful-and.html Free map icons, beautiful and descriptive markers ] by *The GIScovery Channel* ([http://gisdk.blogspot.com A little about everything and a lot about GIS])
 
@@ -32,7 +35,7 @@ See the rest of the icons here : http://code.google.com/p/google-maps-icons/
 
 27/10/2009 [http://webresourcesdepot.com/600-free-placemark-icons-for-maps/ 600+ Free Placemark Icons For Maps] by *Webresourcesdepot* ([http://webresourcesdepot.com Free web resources everyday])
 
-27/10/2009 [http://www.ideaxidea.com/archives/2009/10/google_map_icon_set.html Google Mapsで使えるスタイリッシュなアイコンいろいろ] by *IDEAxIDEA* ([http://www.ideaxidea.com/ japanese blog])
+27/10/2009 [http://www.ideaxidea.com/archives/2009/10/google_map_icon_set.html Google Mapsで使えるスタイリッシュなアイコンいろいろ] <font size="1">(japanese)</font> by *IDEAxIDEA* ([http://www.ideaxidea.com/ japanese blog])
 
 26/10/2009 [http://twitter.com/smashingmag/status/5180649557 Google Maps Icons For Free Download] by *Smashing Magazine* ([http://www.smashingmagazine.com/ we smash you with the information that will make your life easier.])
 

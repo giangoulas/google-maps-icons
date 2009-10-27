@@ -5,7 +5,7 @@ Você pode colocá-los manualmente com "Meus mapas" do Google Maps, ou automatic
 
 Organizados por categoria e cor, dispomos de uma coleção completa de marcadores, tais como: cinema, escola, banco, restaurante japonês ou loja de roupas. 
 
-[http://map-icons-collection.org/ Ver os ícones de mapas]
+[http://map-icons-collection.org/ Ver os ícones para mapas]
 
 [http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/presentation-pt.jpg]
 

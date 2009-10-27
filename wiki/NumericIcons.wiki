@@ -1,4 +1,4 @@
-#labels IconWikiPage
+#labels IconWikiPage,Featured
 #sidebar tocIcons
 
 <FONT color="#000000" size="6">*Numbers, Letters & Symbols map icons*</FONT>
@@ -36,6 +36,9 @@ They are static files, and you can use them in your Google "My maps" or with Goo
 [http://google-maps-icons.googlecode.com/files/gray00.png][http://google-maps-icons.googlecode.com/files/gray01.png][http://google-maps-icons.googlecode.com/files/gray02.png][http://google-maps-icons.googlecode.com/files/gray03.png][http://google-maps-icons.googlecode.com/files/gray04.png][http://google-maps-icons.googlecode.com/files/gray05.png][http://google-maps-icons.googlecode.com/files/gray06.png][http://google-maps-icons.googlecode.com/files/gray07.png][http://google-maps-icons.googlecode.com/files/gray08.png][http://google-maps-icons.googlecode.com/files/gray09.png][http://google-maps-icons.googlecode.com/files/gray10.png][http://google-maps-icons.googlecode.com/files/gray11.png][http://google-maps-icons.googlecode.com/files/gray12.png][http://google-maps-icons.googlecode.com/files/gray13.png][http://google-maps-icons.googlecode.com/files/gray14.png][http://google-maps-icons.googlecode.com/files/gray15.png][http://google-maps-icons.googlecode.com/files/gray16.png][http://google-maps-icons.googlecode.com/files/gray17.png][http://google-maps-icons.googlecode.com/files/gray18.png][http://google-maps-icons.googlecode.com/files/gray19.png][http://google-maps-icons.googlecode.com/files/gray20.png] 
 
 [http://google-maps-icons.googlecode.com/files/white00.png][http://google-maps-icons.googlecode.com/files/white01.png][http://google-maps-icons.googlecode.com/files/white02.png][http://google-maps-icons.googlecode.com/files/white03.png][http://google-maps-icons.googlecode.com/files/white04.png][http://google-maps-icons.googlecode.com/files/white05.png][http://google-maps-icons.googlecode.com/files/white06.png][http://google-maps-icons.googlecode.com/files/white07.png][http://google-maps-icons.googlecode.com/files/white08.png][http://google-maps-icons.googlecode.com/files/white09.png][http://google-maps-icons.googlecode.com/files/white10.png][http://google-maps-icons.googlecode.com/files/white11.png][http://google-maps-icons.googlecode.com/files/white12.png][http://google-maps-icons.googlecode.com/files/white13.png][http://google-maps-icons.googlecode.com/files/white14.png][http://google-maps-icons.googlecode.com/files/white15.png][http://google-maps-icons.googlecode.com/files/white16.png][http://google-maps-icons.googlecode.com/files/white17.png][http://google-maps-icons.googlecode.com/files/white18.png][http://google-maps-icons.googlecode.com/files/white19.png][http://google-maps-icons.googlecode.com/files/white20.png] 
+
+Thanks to Barrow GIS for his contribution. He made the icons number zero.
+
 
 <BR>
 =Others Resources=

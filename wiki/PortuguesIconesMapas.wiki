@@ -5,17 +5,17 @@ Você pode colocá-los manualmente com "Meus mapas" do Google Maps, ou automatic
 
 Organizados por categoria e cor, dispomos de uma coleção completa de marcadores, tais como: cinema, escola, banco, restaurante japonês ou loja de roupas. 
 
-[http://map-icons-collection.org/ Ver os icones de mapas]
+[http://map-icons-collection.org/ Ver os ícones de mapas]
 
 [http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/presentation-pt.jpg]
 
 =Resumo=
- * [HowToAddNewIcons Addicione os icones aos seus mapas].
+ * [HowToAddNewIcons Addicione os ícones aos seus mapas].
  * [http://code.google.com/p/google-maps-icons/issues/entry Faça uma sugestão] se notar que falta um ícone ou [Contribute se quiser contribuir para o projeto].
  * Siga o projeto no [http://www.twitter.com/nicomollet Twitter] e [http://friendfeed.com/nicomollet Friendfeed] ou [Contact contacte-nos].
- * [Donate Aceitamos doações pelo reconhecimento e utilidade dos icones] para permitir o desenvolvimento ou simplesmente [Promote promover este projeto].
+ * [Donate Aceitamos doações pelo reconhecimento e utilidade dos ícones] para permitir o desenvolvimento ou simplesmente [Promote promover este projeto].
 
-=Topicos de icones de mapas=
+=Topicos de ícones de mapas=
 
 [http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Ícones de Administração, Órgãos e Indústria]
 

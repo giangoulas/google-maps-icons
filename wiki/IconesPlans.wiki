@@ -47,9 +47,9 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 <font size="2">
 ==[OfficesIcons Points d'intérêt]==
 ==[TourismIcons POI cartes]==
-
-<h2><a href="http://code.google.com/p/google-maps-icons/wiki//"><font size="2"></font></a></h2> 
-<h2><a href="http://code.google.com/p/google-maps-icons/wiki/SportsIcons/"><font size="2">Symboles cartographie</font></a></h2> 
-<h2><a href="http://code.google.com/p/google-maps-icons/wiki/NumericIcons/"><font size="2">Icônes gratuites</font></a></h2> 
-<h2><a href="http://code.google.com/p/google-maps-icons/wiki/RestaurantsIcons/"><font size="2">Plans GIS</font></a></h2> 
-<h2><a href="http://code.google.com/p/google-maps-icons/wiki/StoresIcons/"><font size="2">Marqueurs de carte</font></a></h2>
+==[SportsIcons Symboles cartographie]==
+==[NumericIcons Icônes gratuites]==
+==[RestaurantsIcons POI cartes]==
+==[TourismIcons Plans GIS]==
+==[StoresIcons Marqueurs de carte]==
+</font>

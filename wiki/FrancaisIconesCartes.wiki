@@ -44,5 +44,5 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 
 =Mots clés=
 <font size="2" color="#f2f2f2>
-=[OfficesIcons Points d'intérêt]= =[TourismIcons POI cartes]= =[SportsIcons symboles cartographie]= =[NumericIcons Numeric icônes gratuites]= =[RestaurantsIcons plans GIS]= =[StoresIcons marqueurs de carte]=
+=[OfficesIcons Points d'intérêt]= =[TourismIcons POI cartes]= =[SportsIcons Symboles cartographie]= =[NumericIcons Icônes gratuites]= =[RestaurantsIcons Plans GIS]= =[StoresIcons Marqueurs de carte]=
 </font>

@@ -43,8 +43,8 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 
 
 =Mots clés=
-<font size="2" color="#f2f2f2>
-=[OfficesIcons Points d'intérêt]= 
+
+<h2><a href="http://code.google.com/p/google-maps-icons/wiki/OfficesIcons/"><font size="2" color="#f2f2f2>Points d'intérêt</font></a></h2>
 =[TourismIcons POI cartes]=
 =[SportsIcons Symboles cartographie]=
 =[NumericIcons Icônes gratuites]=

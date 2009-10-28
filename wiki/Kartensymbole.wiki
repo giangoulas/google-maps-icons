@@ -44,6 +44,11 @@ Organisiert von Farbe und die Kategorie, haben Sie eine komplette Sammlung von M
 
 
 =Stichwort=
-<font size="2" color="#f2f2f2>
-=[OfficesIcons Points of interest]= =[TourismIcons POI Karten]= =[SportsIcons Mapping Symbole]= =[NumericIcons Free Icons]= =[RestaurantsIcons GIS-Karten]= =[StoresIcons Marker-Karte]=
+<font size="2">
+==[OfficesIcons Points of interest]==
+==[TourismIcons POI Karten]==
+==[SportsIcons Mapping Symbole]==
+==[NumericIcons Free Icons]==
+==[RestaurantsIcons GIS-Karten]==
+==[StoresIcons Marker-Karte]==
 </font>

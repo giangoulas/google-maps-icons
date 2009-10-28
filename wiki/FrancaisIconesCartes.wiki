@@ -43,4 +43,6 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 
 
 =Mots clés=
-==<font size="2" color="#cccccc">[http://code.google.com/p/google-maps-icons/ Points d'intérêt, POI, cartographie, icônes, gratuites, cartes, plans, GPS, GIS, GPL, open source, symboles]</font>==
+<font size="2" color="#f2f2f2>
+=[OfficesIcons Points d'intérêt]= =[TourismIcons POI cartes]= =[SportsIcons symboles cartographie]= =[NumericIcons Numeric icônes gratuites]= =[RestaurantsIcons plans GIS]= =[StoresIcons marqueurs de carte]=
+</font>

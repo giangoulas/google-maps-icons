@@ -12,7 +12,7 @@
 
 ==Requests==
 
-None at the moment
+ * Waiting Room <font size="1">by nico.mollet</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

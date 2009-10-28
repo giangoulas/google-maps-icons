@@ -44,18 +44,4 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 
 =Mots clés=
 
-<font size="2">
-
-<h2><a href="http://code.google.com/p/google-maps-icons/wiki/OfficesIcons/">Points d'intérêt</a></h2>
-
-<h2><a href="http://code.google.com/p/google-maps-icons/wiki/TourismIcons/">POI cartes</a></h2>
-
-<h2><a href="http://code.google.com/p/google-maps-icons/wiki/SportsIcons/">Symboles cartographie</a></h2>
-
-<h2><a href="http://code.google.com/p/google-maps-icons/wiki/NumericIcons/">Icônes gratuites</a></h2>
-
-<h2><a href="http://code.google.com/p/google-maps-icons/wiki/RestaurantsIcons/">Plans GIS</a></h2>
-
-<h2><a href="http://code.google.com/p/google-maps-icons/wiki/StoresIcons/">Marqueurs de carte</a></h2>
-
-</font>
+<font size="2"><h2><a href="http://code.google.com/p/google-maps-icons/wiki/OfficesIcons/">Points d'intérêt</a></h2> <h2><a href="http://code.google.com/p/google-maps-icons/wiki/TourismIcons/">POI cartes</a></h2> <h2><a href="http://code.google.com/p/google-maps-icons/wiki/SportsIcons/">Symboles cartographie</a></h2> <h2><a href="http://code.google.com/p/google-maps-icons/wiki/NumericIcons/">Icônes gratuites</a></h2> <h2><a href="http://code.google.com/p/google-maps-icons/wiki/RestaurantsIcons/">Plans GIS</a></h2> <h2><a href="http://code.google.com/p/google-maps-icons/wiki/StoresIcons/">Marqueurs de carte</a></h2></font>

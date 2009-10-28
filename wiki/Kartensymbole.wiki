@@ -18,25 +18,25 @@ Organisiert von Farbe und die Kategorie, haben Sie eine komplette Sammlung von M
 
 [http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Symbole Verwaltung, Büros und Industrie]
 
-[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Symbole Friends, Family & Real Estate]
+[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Symbole Freunde, Familie & Real Estate]
 
 [http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Symbole Kultur & Unterhaltung]
 
-[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Symbole Sonstiges]
+[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Symbole Verschiedene]
 
 [http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Symbole Kinder & Bildung]
 
-[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Symbole Events & Time]
+[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Symbole Veranstaltungen & Time]
 
 [http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Symbole Stores]
 
 [http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Symbole Media]
 
-[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Symbole Zahlen, Buchstaben und Symbole]
+[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Symbole Zahlen, Buchstaben]
 
 [http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Symbole Restaurants & Hotels]
 
-[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Symbole Sport, Gesundheit & Beauty]
+[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Symbole Sport, Gesundheit & Schönheit]
 
 [http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Symbole Tourismus & Natur]
 
@@ -45,5 +45,5 @@ Organisiert von Farbe und die Kategorie, haben Sie eine komplette Sammlung von M
 
 =Stichwort=
 <font size="2" color="#f2f2f2>
-= [OfficesIcons Points of interest] = = [TourismIcons POI Karten] = = [Mapping Symbole SportsIcons] = = [NumericIcons Free Icons] = = [RestaurantsIcons GIS-Karten] = = [StoresIcons Marker anzeigen] =
+=[OfficesIcons Points of interest]= =[TourismIcons POI Karten]= =[SportsIcons Mapping Symbole]= =[NumericIcons Free Icons]= =[RestaurantsIcons GIS-Karten]= =[StoresIcons Marker-Karte]=
 </font>

@@ -13,6 +13,8 @@
 ==Requests==
 
  * Waiting Room <font size="1">by nico.mollet</font>
+ * Exit <font size="1">by nico.mollet</font>
+ * Entrance <font size="1">by nico.mollet</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

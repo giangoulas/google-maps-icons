@@ -2,7 +2,7 @@ Map icons collection é um pacote com mais de 600 ícones gratuitos para destaca
 
 Organizados por categoria e cor, dispomos de uma coleção completa de marcadores, tais como: cinema, escola, banco, restaurante japonês ou loja de roupas. 
 
-[http://code.google.com/p/google-maps-icons/ Ver os ícones para mapas]
+[http://code.google.com/p/google-maps-icons/#All_the_markers Ver os ícones para mapas]
 
 [http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/presentation-pt.jpg]
 
@@ -42,4 +42,6 @@ Organizados por categoria e cor, dispomos de uma coleção completa de marcadore
 
 
 =Palavra-chaves=
-==<font size="2">Pontos de interesse, POI, mapas, livre, ícones, gratis, mapa, GPS, GIS</font>==
+<font size="2" color="#f2f2f2>
+=[OfficesIcons Pontos de interesse]= =[TourismIcons POI mapas]= =[SportsIcons Symbolos cartographia]= =[NumericIcons ícones gratuitos]= =[RestaurantsIcons Mapas GIS]= =[StoresIcons Marcadores para mapas]=
+</font>

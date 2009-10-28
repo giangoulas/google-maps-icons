@@ -42,6 +42,11 @@ Organizados por categoria e cor, dispomos de uma coleção completa de marcadore
 
 
 =Palavra-chaves=
-<font size="2" color="#f2f2f2>
-=[OfficesIcons Pontos de interesse]= =[TourismIcons POI mapas]= =[SportsIcons Symbolos cartographia]= =[NumericIcons ícones gratuitos]= =[RestaurantsIcons Mapas GIS]= =[StoresIcons Marcadores para mapas]=
+<font size="2">
+==[OfficesIcons Pontos de interesse]==
+==[TourismIcons POI mapas]== 
+==[SportsIcons Symbolos cartographia]== 
+==[NumericIcons ícones gratuitos]== 
+==[RestaurantsIcons Mapas GIS]== 
+==[StoresIcons Marcadores para mapas]==
 </font>

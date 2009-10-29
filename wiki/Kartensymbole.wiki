@@ -1,4 +1,4 @@
-
+#labels Translation
 =Symbole, Karten, Marker, POI=
 	
 *Map icons collection* ist ein Paket von mehr als 600 kostenlose Icons für Points of Interest auf Ihre Karten.

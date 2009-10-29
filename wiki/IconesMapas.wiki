@@ -1,4 +1,4 @@
-
+#labels Translation
 =Icones, Mapas, Symbolos, POI, Gratuitos, Marcadores=
 
 *Map icons collection* é um pacote com mais de 600 ícones gratuitos para destacar Pontos de Interesse nos seus mapas. Você pode colocá-los manualmente com "Meus mapas" do Google Maps, ou automaticamente com Google Maps API.

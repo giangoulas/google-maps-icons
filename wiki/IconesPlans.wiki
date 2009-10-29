@@ -49,7 +49,7 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 ==[TourismIcons POI cartes]==
 ==[SportsIcons Symboles cartographie]==
 ==[NumericIcons Icônes gratuites]==
-==[RestaurantsIcons POI cartes]==
+==[RestaurantsIcons POI icones]==
 ==[TourismIcons Plans GIS]==
 ==[StoresIcons Marqueurs de carte]==
 </font>

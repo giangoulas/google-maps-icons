@@ -55,7 +55,7 @@ See the rest of the icons here : http://code.google.com/p/google-maps-icons/
 
 16/10/2009 [http://www.etourisme.info/article/970/du-renouveau-pour-vos-icones-de-localisation-google-maps Du renouveau pour vos icônes de localisation Google Maps] [http://google-maps-icons.googlecode.com/files/fr.gif] by *Etourisme* ([http://www.etourisme.info institutional tourism french blog])
 
-10/10/2009 [http://lac-conakry.blogspot.com/2009/10/google-maps-icons-mis-jour-o.html Google maps icons mis à jour] by *Lac-conakry* ([http://lac-conakry.blogspot.com Blog de Technologie du Lycée français Albert Camus de Conakry])
+10/10/2009 [http://lac-conakry.blogspot.com/2009/10/google-maps-icons-mis-jour-o.html Google maps icons mis à jour] [http://google-maps-icons.googlecode.com/files/fr.gif] by *Lac-conakry* ([http://lac-conakry.blogspot.com Blog de Technologie du Lycée français Albert Camus de Conakry])
 
 20/09/2009 [http://6link.blogspot.com/2009/09/update-nuove-icone-nella-galleria-per.html Update nuove icone nella galleria per Google maps] [http://google-maps-icons.googlecode.com/files/it.gif] by *6link* ([http://6link.blogspot.com icons and professional web design])
 
@@ -65,7 +65,7 @@ See the rest of the icons here : http://code.google.com/p/google-maps-icons/
 
 25/07/2009 [http://www.svennerberg.com/2009/07/google-maps-api-3-markers/ Google maps API 3 markers] by *Gabriel Svennerberg* ([http://www.svennerberg.com In usability we trust])
 
-14/03/2009 [http://gemtice.blogspot.com/2009/03/des-icones-de-reperes-pour-google-maps.html Des icones de reperes pour google maps] by *Gemtice* ([http://gemtice.blogspot.com Maps forecasting])
+14/03/2009 [http://gemtice.blogspot.com/2009/03/des-icones-de-reperes-pour-google-maps.html Des icones de reperes pour google maps] [http://google-maps-icons.googlecode.com/files/fr.gif] by *Gemtice* ([http://gemtice.blogspot.com Maps forecasting])
 
  * http://abava.blogspot.com/2009/03/google-maps-icons.html
  * http://www.geo2web.com/2009/03/08/some-google-maps-tools-tips/

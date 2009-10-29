@@ -45,11 +45,11 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 =Mots clés=
 
 <font size="2">
-==[OfficesIcons Points d'intérêt]==
-==[TourismIcons POI cartes]==
-==[SportsIcons Symboles cartographie]==
+==[OfficesIcons Marqueurs de carte]==
+==[TourismIcons POI icônes]==
+==[SportsIcons Icônes de lieux]==
 ==[NumericIcons Icônes gratuites]==
-==[RestaurantsIcons POI icones]==
-==[TourismIcons Plans GIS]==
-==[StoresIcons Marqueurs de carte]==
+==[RestaurantsIcons Symboles cartographie]==
+==[StoresIcons Symboles de plans]==
+==[TransportationIcons Points d'intérêt]==
 </font>

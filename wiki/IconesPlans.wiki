@@ -50,6 +50,6 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 ==[SportsIcons Icônes de lieux]==
 ==[NumericIcons Icônes gratuites]==
 ==[RestaurantsIcons Symboles cartographie]==
-==[StoresIcons Symboles de plans]==
-==[TransportationIcons Points d'intérêt]==
+==[StoresIcons Points d'intérêt]==
+==[TransportationIcons Symboles de plans]==
 </font>

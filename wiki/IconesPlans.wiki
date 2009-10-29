@@ -1,3 +1,6 @@
+
+=Icones, Plans, Symboles, Carte, Cartographie, GIS, POI=
+
 *Map icons collection* est un pack de plus de 600 icônes gratuites pour les points d'intérêt de vos cartes.
 Vous pouvez les placer manuellement avec la fonction "Mes cartes" de Google Maps, ou automatiquement avec Google Maps API.
 

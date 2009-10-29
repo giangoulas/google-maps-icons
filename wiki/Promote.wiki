@@ -28,6 +28,9 @@ See the rest of the icons here : http://code.google.com/p/google-maps-icons/
 
 28/10/2009 [http://mtnconcept.com/free-tools/design/mapicons-icones-pour-googlemaps-1257 MapIcons, Icônes pour GoogleMaps] [http://google-maps-icons.googlecode.com/files/fr.gif]  by *Free Tools* ([http://mtnconcept.com/free-tools/design/ Les meilleurs outils gratuis pour webmaster])
 
+28/10/2009 [http://www.nosolocodigo.com/mas-de-600-iconos-para-usar-en-mapas Más de 600 iconos perfectos para usar en mapas] [http://google-maps-icons.googlecode.com/files/es.gif] by *Nosolocodigo*
+
+27/10/2009 [http://www.designkamikaze.com.br/600-icones-para-mapas/ Mais de 600 ícones para Mapas ] [http://google-maps-icons.googlecode.com/files/br.gif] by *Design Kamikaze*
 
 27/10/2009 [http://www.webcssdesign.com/graphisme/icones-rss-map-gratuits/ +800 icônes RSS et Map gratuites] [http://google-maps-icons.googlecode.com/files/fr.gif] by *Webcssdesign* ([http://www.webcssdesign.com/])
 

@@ -14,7 +14,7 @@ Organizzato dal colore e di categoria, si dispone di una collezione completa di 
  * [HowToAddNewIcons Aggiungere le icone per le tue mappe].
  * [http://code.google.com/p/google-maps-icons/issues/entry Fai un suggerimento] se ti manca un'icona o [Contribute se si desidera contribuire al progetto].
  * Seguite questo progetto [http://www.twitter.com/nicomollet Twitter] e [http://friendfeed.com/nicomollet Friendfeed] o [Contact contattaci].
- * [Donate Fai una donazione a dimostrare che ti piace questo progetto] e consentire lo sviluppo o semplicemente [Promote Fai la promozione del progetto].
+ * [Donate Fai una donazione a dimostrare che ti piace questo progetto] e consentire lo sviluppo o semplicemente [Promote fai la promozione del progetto].
 
 =Temi icone=
 

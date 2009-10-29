@@ -44,10 +44,11 @@ Organizado por categoría y el color, tenemos una colección completa de marcado
 
 =Palavra-chaves=
 <font size="2">
-==[OfficesIcons Puntos de interés]==
+==[OfficesIcons Marcadores para mapas]==
 ==[TourismIcons POI mapas]==
-==[SportsIcons Signos cartografía]==
+==[SportsIcons Iconos mapas]==
 ==[NumericIcons Iconos gratis]==
-==[RestaurantsIcons Mapas SIG]==
-==[StoresIcons Marcadores para mapas]==
+==[RestaurantsIcons Signos cartografía]==
+==[StoresIcons Puntos de interés]==
+==[TransportationIcons Mapas SIG]==
 </font>

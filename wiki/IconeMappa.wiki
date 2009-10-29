@@ -54,5 +54,5 @@ Organizzato dal colore e di categoria, si dispone di una collezione completa di 
 == [NumericIcons Icone gratis] ==
 == [RestaurantsIcons Mapping simboli] ==
 == [StoresIcons Punti di interesse] ==
-== [TransportationIcons simboli piani] == 
+== [TransportationIcons Simboli piani] == 
 </font>

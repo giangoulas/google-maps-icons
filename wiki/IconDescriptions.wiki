@@ -27,6 +27,6 @@ To the left you see the icon categories you can choose between. _Click_ on the o
 ==[IconesPlans Français]==
 ==[IconesMapas Português]==
 ==[IconeMappa Italiano]==
-==[KartenSymbole Deutsch]==
+==[Kartensymbole Deutsch]==
 ==[IconosMapas Español]==
 </font>

@@ -22,10 +22,11 @@ To the left you see the icon categories you can choose between. _Click_ on the o
 
 <FONT color="#000000" size="2">*[SitesUsing Sites Using]*</FONT> - on sites that are using our icons.<BR>
 
+<hr>
 <font size="2" color="#f2f2f2>
-=[OfficesIcons Offices markers]=
-=[TourismIcons Tourism POI icons]=
-=[SportsIcons Sports placemarks]=
-=[NumericIcons Numeric free markers]=
-=[RestaurantsIcons Restaurants map pins]=
+==[IconesPlans Français]==
+==[IconesMapas Português]==
+==[IconeMappa Italiano]==
+==[KartenSymbole Deutsch]==
+==[IconosMapas Español]==
 </font>

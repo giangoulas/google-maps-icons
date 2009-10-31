@@ -8,7 +8,7 @@ Organisiert von Farbe und die Kategorie, haben Sie eine komplette Sammlung von M
 
 [http://code.google.com/p/google-maps-icons/#All_the_markers Alle Symbole Card]
 
-[http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/presentation-de.jpg]
+[http://google-maps-icons.googlecode.com/files/presentation-de.jpg]
 
 =Zusammenfassung=
   * [HowToAddNewIcons Hinzufügen Symbole, um Ihre Karten].

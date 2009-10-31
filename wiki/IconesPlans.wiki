@@ -8,7 +8,7 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 
 [http://code.google.com/p/google-maps-icons/#All_the_markers Voir toutes les icônes de cartes]
 
-[http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/presentation-fr.jpg]
+[http://google-maps-icons.googlecode.com/files/presentation-fr.jpg]
 
 =Sommaire=
  * [HowToAddNewIcons Ajoutez les icônes à vos cartes].

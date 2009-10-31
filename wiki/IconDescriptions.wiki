@@ -24,9 +24,9 @@ To the left you see the icon categories you can choose between. _Click_ on the o
 
 <hr>
 <font size="2" color="#f2f2f2>
-==[http://google-maps-icons.googlecode.com/files/fr.gif][IconesPlans Français]==
-==[http://google-maps-icons.googlecode.com/files/br.gif][IconesMapas Português]==
-==[IconeMappa Italiano]==
-==[Kartensymbole Deutsch]==
-==[IconosMapas Español]==
+==[http://google-maps-icons.googlecode.com/files/fr.gif] [IconesPlans Français]==
+==[http://google-maps-icons.googlecode.com/files/br.gif] [IconesMapas Português]==
+==[http://google-maps-icons.googlecode.com/files/it.gif] [IconeMappa Italiano]==
+==[http://google-maps-icons.googlecode.com/files/de.gif] [Kartensymbole Deutsch]==
+==[http://google-maps-icons.googlecode.com/files/es.gif] [IconosMapas Español]==
 </font>

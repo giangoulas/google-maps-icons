@@ -1,3 +1,4 @@
+#labels Translation
 =Iconen, Kaarten, Markers, POI=
 
 *Map icons collection* is een pakket met meer dan 600 gratis iconen voor
@@ -14,10 +15,10 @@ Transformeer uw oude plaatsmarkeringen in mooie en betekenisvolle iconen
 
 =Samenvatting=
 
- * Voeg onze zelf gemaakte iconen toe aan uw eigen pagina,
- * Geef zelf een suggestie voor een icoon als deze mist of werk mee aan het project.
- * Volg dit project op Twitter of Friendfeed of neem contact met ons op
- * Doneer om uw waardering te tonen en om toekomstige ontwikkelingen te ondersteunen of promoot juist dit project.
+ * [HowToAddNewIcons Voeg onze zelf gemaakte iconen toe aan uw eigen pagina].
+ * [http://code.google.com/p/google-maps-icons/issues/entry Geef zelf een suggestie voor een icoon] als [Contribute deze mist of werk mee aan het project].
+ * Volg dit project op [http://www.twitter.com/nicomollet Twitter] of [http://friendfeed.com/nicomollet Friendfeed] of [Contact neem contact met ons op]
+ * [Donate Doneer om uw waardering te tonen] en om toekomstige ontwikkelingen te ondersteunen of [Promote promoot juist dit project].
 
 =Thema's iconen=
 

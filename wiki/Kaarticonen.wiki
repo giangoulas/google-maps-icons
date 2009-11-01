@@ -1,0 +1,48 @@
+=Iconen, Kaarten, Markers, POI=
+
+*Map icons collection* is een pakket met meer dan 600 gratis iconen voor
+Points of Interest (Nuttige plaatsen) op uw eigen kaart. U kunt ze zelf handmatig
+toevoegen in uw "Google Maps" met de "Mijn kaarten" optie of automatisch met de
+Google Maps Api.
+
+Georganiseerd in gekleurde categorieen, heeft u een complete verzameling van iconen
+zoals bioscoop, school, bank, japans restaurant of kledingswinkel.
+
+[http://code.google.com/p/google-maps-icons/#All_the_markers Overzicht van alle iconen]
+
+Transformeer uw oude plaatsmarkeringen in mooie en betekenisvolle iconen
+
+=Samenvatting=
+
+ * Voeg onze zelf gemaakte iconen toe aan uw eigen pagina,
+ * Geef zelf een suggestie voor een icoon als deze mist of werk mee aan het project.
+ * Volg dit project op Twitter of Friendfeed of neem contact met ons op
+ * Doneer om uw waardering te tonen en om toekomstige ontwikkelingen te ondersteunen of promoot juist dit project.
+
+=Thema's iconen=
+
+[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Iconen Administratie, kantoor en industrie]
+
+[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Iconen Vrienden, familie en onroerend goed]
+
+[http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Iconen Cultuur en ontspanning]
+
+[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Iconen Allerlei]
+
+[http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Iconen Kinderen en opleiding]
+
+[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Iconen Gebeurtenissen en weer]
+
+[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Iconen Winkels]
+
+[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Iconen Media]
+
+[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Iconen Getallen en letters]
+
+[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Iconen Restaurants en hotels]
+
+[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Iconen Sport, gezondheid en schoonheid]
+
+[http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Iconen Tourisme en natuur]
+
+[http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Iconen Transport]

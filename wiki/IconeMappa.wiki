@@ -1,5 +1,5 @@
 #labels Translation
-=Icone, Mappe, Simboli, Mapping, GIS, POI=
+=Icone, Mappa, Simboli, Carta, GIS, POI=
 
 *Map icons collection* è un pacchetto di oltre 600 icone gratuite per i punti di interesse sulla carta.
 È possibile inserire manualmente con le "mie mappe" di Google Maps, o automaticamente con Google Maps API. 

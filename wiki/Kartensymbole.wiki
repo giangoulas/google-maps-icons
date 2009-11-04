@@ -1,12 +1,16 @@
 #labels Translation
 =Symbole, Karten, Marker, POI=
 	
-*Map icons collection* ist ein Paket von mehr als 600 kostenlose Icons für Points of Interest auf Ihre Karten.
-Sie können sie manuell mit dem Ort "Meine Karten" Google Maps oder automatisch mit Google Maps API.
+*Map icons collection* ist ein Paket mit über 600 kostenlose Symbole für Points of
+Interest (interessanter Ort) auf Ihre Karten. 
+Sie können sie manuell mit der Option
+"Meine Karten" zufügen in Google Maps oder automatisch mit Google Maps API.
 
-Organisiert von Farbe und die Kategorie, haben Sie eine komplette Sammlung von Marken wie: Filme, Schule, Bank, Restaurant oder Japanisch Bekleidungsgeschäft.
+Organisiert in farbige Kategorien, haben Sie eine komplette Sammlung von Symbole wie:
+Kino, Schule, Bank, Restaurant oder Japanisches Kleidergeschäft.
 
-[http://code.google.com/p/google-maps-icons/#All_the_markers Alle Symbole Card]
+
+[IconDescriptions Übersicht Aller Symbole]
 
 [http://google-maps-icons.googlecode.com/files/presentation-de.jpg]
 

@@ -10,21 +10,24 @@ Organisiert in farbige Kategorien, haben Sie eine komplette Sammlung von Symbole
 Kino, Schule, Bank, Restaurant oder Japanisches Kleidergeschäft.
 
 
-[IconDescriptions Übersicht Aller Symbole]
+[http://code.google.com/p/google-maps-icons/#All_the_markers Übersicht Aller Symbole]
 
 [http://google-maps-icons.googlecode.com/files/presentation-de.jpg]
 
 =Zusammenfassung=
-  * [HowToAddNewIcons Hinzufügen Symbole, um Ihre Karten].
-  * [http://code.google.com/p/google-maps-icons/issues/entry Eine Anregung], wenn Sie ein Symbol oder das Fehlen [Contribute wenn Sie wollen dazu beitragen, das Projekt].
-  * Folgen Sie diesem Projekt [http://www.twitter.com/nicomollet Twitter] und [http://friendfeed.com/nicomollet Friendfeed] oder [Contact kontaktieren Sie uns].
-  * [Donate Spenden zu zeigen, dass Sie dieses Projekt] und ermöglichen die Entwicklung oder die einfach [Promote Förderung des Projekts genießen].
+  * [HowToAddNewIcons Fügen Sie unser selbst gemachte Symbole zu in Ihre eigene Karten].
+  * [http://code.google.com/p/google-maps-icons/issues/entry 
+Machen Sie selbst eine Vorschlag] für ein Symbol wenn dies fehlt [Contribute helfen Sie
+mit an diesem Projekt].
+  * Folgen Sie diesem Projekt über [http://www.twitter.com/nicomollet Twitter] oder [http://friendfeed.com/nicomollet Friendfeed] oder [Contact kontaktieren Sie uns].
+  * [Donate Spenden Sie als Zeichen der Anerkennungzu zeigen] um die Entwicklung dieses
+Projekt zu ermöglichen oder [Promote machen Sie einfach Werbung für das Projekt].
 
 =Themen Symbole map=
 
 [http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Symbole Verwaltung, Büros und Industrie]
 
-[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Symbole Freunde, Familie & Real Estate]
+[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Symbole Freunde, Familie und Immobilien]
 
 [http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Symbole Kultur & Unterhaltung]
 
@@ -32,9 +35,9 @@ Kino, Schule, Bank, Restaurant oder Japanisches Kleidergeschäft.
 
 [http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Symbole Kinder & Bildung]
 
-[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Symbole Veranstaltungen & Time]
+[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Symbole Veranstaltungen & Wetter]
 
-[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Symbole Stores]
+[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Symbole Geschäfte]
 
 [http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Symbole Media]
 
@@ -54,7 +57,7 @@ Kino, Schule, Bank, Restaurant oder Japanisches Kleidergeschäft.
 ==[OfficesIcons Marker-Karte]==
 ==[TourismIcons POI Karten]==
 ==[SportsIcons Icons placemarks]==
-==[NumericIcons Free Icons]==
+==[NumericIcons Free Symbole]==
 ==[RestaurantsIcons GIS-Karten]==
 ==[StoresIcons Points of interest]==
 ==[TransportationIcons Mapping Symbole]==

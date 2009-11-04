@@ -1,5 +1,5 @@
 #labels Translation
-=Iconen, Kaarten, Markers, POI=
+=Iconen, Kaarten, Markers, POI, Kaart=
 
 *Map icons collection* is een pakket met meer dan 600 gratis iconen voor
 Points of Interest (Nuttige plaatsen) op uw eigen kaart. U kunt ze zelf handmatig

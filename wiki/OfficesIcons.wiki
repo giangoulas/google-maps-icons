@@ -19,7 +19,6 @@
 ==Requests==
  * Community Center
  * Oil Pump
- * Expert
  * Electricity substation and power lines/poles <font>by sscheck</font> 
 
 ==Credits==

@@ -32,7 +32,7 @@
 
 ==Requests==
 
-None at the moment
+ * Bus stop <font size ="1">by morphonius821</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

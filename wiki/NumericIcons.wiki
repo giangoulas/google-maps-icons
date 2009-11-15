@@ -39,6 +39,7 @@ They are static files, and you can use them in your Google "My maps" or with Goo
 [http://google-maps-icons.googlecode.com/files/white00.png][http://google-maps-icons.googlecode.com/files/white01.png][http://google-maps-icons.googlecode.com/files/white02.png][http://google-maps-icons.googlecode.com/files/white03.png][http://google-maps-icons.googlecode.com/files/white04.png][http://google-maps-icons.googlecode.com/files/white05.png][http://google-maps-icons.googlecode.com/files/white06.png][http://google-maps-icons.googlecode.com/files/white07.png][http://google-maps-icons.googlecode.com/files/white08.png][http://google-maps-icons.googlecode.com/files/white09.png][http://google-maps-icons.googlecode.com/files/white10.png][http://google-maps-icons.googlecode.com/files/white11.png][http://google-maps-icons.googlecode.com/files/white12.png][http://google-maps-icons.googlecode.com/files/white13.png][http://google-maps-icons.googlecode.com/files/white14.png][http://google-maps-icons.googlecode.com/files/white15.png][http://google-maps-icons.googlecode.com/files/white16.png][http://google-maps-icons.googlecode.com/files/white17.png][http://google-maps-icons.googlecode.com/files/white18.png][http://google-maps-icons.googlecode.com/files/white19.png][http://google-maps-icons.googlecode.com/files/white20.png] 
 
 Thanks to Barrow GIS for his contribution. He made the icons number zero.
+
 Thanks to Andrew Francies for his contribution. He made the red and black 21-100.
 
 <BR>

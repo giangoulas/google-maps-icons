@@ -40,7 +40,7 @@ They are static files, and you can use them in your Google "My maps" or with Goo
 
 Thanks to Barrow GIS for his contribution. He made the icons number zero.
 
-Thanks to Andrew Francies for his contribution. He made the red and black 21-100.
+Thanks to Andrew Francis for his contribution. He made the red and black 21-100.
 
 <BR>
 =Others Resources=

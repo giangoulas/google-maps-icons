@@ -34,6 +34,10 @@
 
  * Bus stop <font size ="1">by morphonius821</font>
  * Disabled people parking  <font size ="1">by wardelst</font>
+ * Runways (airport) <font size ="1">by sl1ng5h0t5</font>
+ * Taxiways (airport) <font size ="1">by sl1ng5h0t5</font>
+ * Apron (airport) <font size ="1">by sl1ng5h0t5</font>
+ * Terminal Buildings (airport) <font size ="1">by sl1ng5h0t5</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

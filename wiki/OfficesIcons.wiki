@@ -20,6 +20,8 @@
  * Community Center
  * Oil Pump
  * Electricity substation and power lines/poles <font>by sscheck</font> 
+ * Cell tower <font>by morphonius821</font> 
+
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

@@ -33,6 +33,7 @@
 ==Requests==
 
  * Bus stop <font size ="1">by morphonius821</font>
+ * Disabled people parking  <font size ="1">by wardelst</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

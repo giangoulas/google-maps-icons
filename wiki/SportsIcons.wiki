@@ -44,6 +44,7 @@
 ==Requests==
 
  * Offroad Trailhead
+ * Cricket Ground <font size="1">by paul.clifford415</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

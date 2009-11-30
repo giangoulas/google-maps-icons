@@ -53,8 +53,9 @@
  * Waterfall
  * Place I would like to visit <font size="1">by nico.mollet</font>
  * Place visited <font size="1">by nico.mollet</font>
- * Barbecue <font>by morphonius821</font> 
-
+ * Barbecue <font size="1">by morphonius821</font> 
+ * Indian temple <font size="1">by J.basaj</font>
+ * Pagoda <font size="1">by J.basaj</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

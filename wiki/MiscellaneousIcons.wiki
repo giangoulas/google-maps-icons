@@ -15,15 +15,14 @@
 ==Requests==
 
  * Waiting Room <font size="1">by nico.mollet</font>
- * Exit <font size="1">by nico.mollet</font>
- * Entrance <font size="1">by nico.mollet</font>
+
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.
 
 Icons made by [http://www.mybcn.es Matthias Stasiak] : escalator (up & down), elevator
 
-Icons made by Barrow GIS : bench, lock
+Icons made by Barrow GIS : bench, lock, exit, entrance, door
 
 <BR>
 =Donations=

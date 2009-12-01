@@ -46,7 +46,7 @@ All icons made by Nicolas Mollet, unless specified.
 
 Made by [http://www.myBCN.es Matthias Stasiak] : cable car, car renting, car wash, park and ride, pedestrian crossing, bicycle parking and the 16 direction icons.
 
-Made by Barrow GIS : levelcrossing
+Made by Barrow GIS : levelcrossing, taxiway
 
 <BR>
 =Donations=

@@ -22,7 +22,7 @@ All icons made by Nicolas Mollet, unless specified.
 
 Icons made by [http://www.mybcn.es Matthias Stasiak] : escalator (up & down), elevator
 
-Icons made by Barrow GIS : bench, lock, exit, entrance, door
+Icons made by Robin Gawlik : bench, lock, exit, entrance, door
 
 <BR>
 =Donations=

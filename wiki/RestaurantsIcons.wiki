@@ -32,7 +32,7 @@
  * Apartment Hotel
  * Concessionaire
  * Villa <font size="1">by igor.beslic</font>
- * Food truck <font size="1">prozacsociety</font>
+ * Food truck <font size="1">by prozacsociety</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

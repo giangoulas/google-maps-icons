@@ -39,6 +39,7 @@
  * Light aircraft <font size ="1">by morphonius821</font>
  * Speed Hump (ie those things that slow cars down) <font size ="1">by morphonius821</font>
  * Fixed Speed and/or redlight camera <font size ="1">by morphonius821</font>
+ * Motorcycle <font size ="1">by RobRoyAus</font>
 
 
 ==Credits==

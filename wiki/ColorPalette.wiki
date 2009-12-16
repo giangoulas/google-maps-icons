@@ -32,7 +32,7 @@
 
 
 ==Without Border==
-|| [http://google-maps-icons.googlecode.com/files/factory-test4.png] "50%"|| [http://google-maps-icons.googlecode.com/files/factory-test5.png] "Gradient"|| [http://google-maps-icons.googlecode.com/files/factory-test1.png] "Clean"|| 
+|| [http://google-maps-icons.googlecode.com/files/factory-test4.png] "50%"|| [http://google-maps-icons.googlecode.com/files/factory-test5.png] "Gradient"|| [http://google-maps-icons.googlecode.com/files/factory-test1.png] "Clean"|| [http://google-maps-icons.googlecode.com/files/factory-test8.png] "Nextgen"|| 
 
 ==Others==
 [http://www.ipinkvisualpass.com/fapmap/images/icons/pv-marker.png]

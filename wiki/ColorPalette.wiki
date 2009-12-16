@@ -26,7 +26,7 @@
 <BR>
 =Future Icon Color Development Suggestions=
 ==With Border==
-|| [http://google-maps-icons.googlecode.com/files/factory.png] Original||[http://google-maps-icons.googlecode.com/files/factory-test2.png] "iPhone"||[http://google-maps-icons.googlecode.com/files/factory-test3.png] "50%"||[http://google-maps-icons.googlecode.com/files/factory-test6.png] "Dark border"||[http://google-maps-icons.googlecode.com/files/factory-test7.png] "Inside light"||[http://google-maps-icons.googlecode.com/files/factory-test9.png] "Smooth"||
+|| [http://google-maps-icons.googlecode.com/files/factory.png] Original||[http://google-maps-icons.googlecode.com/files/factory-test2.png] "iPhone"||[http://google-maps-icons.googlecode.com/files/factory-test3.png] "50%"||[http://google-maps-icons.googlecode.com/files/factory-test6.png] "Dark border"||[http://google-maps-icons.googlecode.com/files/factory-test7.png] "Inside light"||[http://google-maps-icons.googlecode.com/files/factory-test9.png] "Colored border + gradient"||
 
 ==Possible Future Additions==
 

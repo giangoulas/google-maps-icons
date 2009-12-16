@@ -31,7 +31,6 @@
  * Motel
  * Apartment Hotel
  * Concessionaire
- * Villa <font size="1">by igor.beslic</font>
  * Food truck <font size="1">by prozacsociety</font>
 
 ==Credits==

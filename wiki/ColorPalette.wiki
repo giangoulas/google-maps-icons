@@ -26,13 +26,13 @@
 <BR>
 =Future Icon Color Development Suggestions=
 ==With Border==
-|| [http://google-maps-icons.googlecode.com/files/factory.png] Original||[http://google-maps-icons.googlecode.com/files/factory-test2.png] "iPhone"||[http://google-maps-icons.googlecode.com/files/factory-test3.png] "50%"||[http://google-maps-icons.googlecode.com/files/factory-test6.png] "Dark border"||[http://google-maps-icons.googlecode.com/files/factory-test7.png] "Inside light"||[http://google-maps-icons.googlecode.com/files/factory-test9.png] "Colored border + gradient"||
+|| [http://google-maps-icons.googlecode.com/files/factory.png] Original||[http://google-maps-icons.googlecode.com/files/factory-test2.png] "iPhone"||[http://google-maps-icons.googlecode.com/files/factory-test3.png] "50%"||[http://google-maps-icons.googlecode.com/files/factory-test6.png] "Dark border"||[http://google-maps-icons.googlecode.com/files/factory-test7.png] "Inside light"||[http://google-maps-icons.googlecode.com/files/factory-test9.png] "Smaller + Colored border + gradient"||
 
 ==Possible Future Additions==
 
 
 ==Without Border==
-|| [http://google-maps-icons.googlecode.com/files/factory-test4.png] "50%"|| [http://google-maps-icons.googlecode.com/files/factory-test5.png] "Gradient"|| [http://google-maps-icons.googlecode.com/files/factory-test1.png] "Clean"|| [http://google-maps-icons.googlecode.com/files/factory-test8.png] "Nextgen"|| 
+|| [http://google-maps-icons.googlecode.com/files/factory-test4.png] "50%"|| [http://google-maps-icons.googlecode.com/files/factory-test5.png] "Gradient"|| [http://google-maps-icons.googlecode.com/files/factory-test1.png] "Clean"|| [http://google-maps-icons.googlecode.com/files/factory-test8.png] "Smaller"|| 
 
 ==Others==
 [http://www.ipinkvisualpass.com/fapmap/images/icons/pv-marker.png]

@@ -23,6 +23,16 @@
 [http://google-maps-icons.googlecode.com/files/darkred.png]
 [http://google-maps-icons.googlecode.com/files/darkgreen.png]
 
+==Palette comparison==
+
+Old then new
+
+[http://google-maps-icons.googlecode.com/files/colorpalette-old.png]
+
+[http://google-maps-icons.googlecode.com/files/colorpalette-new.png]
+
+
+
 <BR>
 =Future Icon Color Development Suggestions=
 ==With Border==

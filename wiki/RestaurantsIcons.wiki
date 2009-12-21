@@ -19,7 +19,7 @@
 || [http://google-maps-icons.googlecode.com/files/hotel.png] <BR>*Hotel*<BR><FONT color="#777777" size="1">accommodation, lodging</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/hostel.png] <BR>*Hostel*<BR><FONT color="#777777" size="1">B&B, gîte, pousada, hostal</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/youthhostel.png] <BR>*Youth Hostel*<BR><FONT color="#777777" size="1">dorm, YMCA, auberge</FONT> <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/resort.png] <BR>*Resort*<BR><FONT color="#777777" size="1">all-inclusive</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/villa.png] <BR>*Villa*<BR><FONT color="#777777" size="1">house</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 ===<BR>Other===
-|| [http://google-maps-icons.googlecode.com/files/icecream.png] <BR>*Ice Cream Parlor*<BR><FONT color="#777777" size="1">gelateria</FONT> <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+|| [http://google-maps-icons.googlecode.com/files/icecream.png] <BR>*Ice Cream Parlor*<BR><FONT color="#777777" size="1">gelateria</FONT> <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/foodtruck.png] <BR>*Food truck*<BR><FONT color="#777777" size="1"></FONT> <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 ==Requests==
  * Steakhouse 
@@ -31,12 +31,11 @@
  * Motel
  * Apartment Hotel
  * Concessionaire
- * Food truck <font size="1">by prozacsociety</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.
 
-Made by [http://www.myBCN.es Matthias Stasiak] : hostel, youth hostel, gourmet 2, tapas, villa
+Made by [http://www.myBCN.es Matthias Stasiak] : hostel, youth hostel, gourmet 2, tapas, villa, food truck
 
 <BR>
 =Donations=

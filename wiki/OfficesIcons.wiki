@@ -27,7 +27,6 @@ All icons made by Nicolas Mollet, unless specified.
 Icons made by [http://www.mybcn.es Matthias Stasiak] : conference center, observatory, spaceport, police2, power line pole, power substation, embassy
 
 Icons made by Robin Gawlik : mobilephonetower
-
 <BR>
 =Donations=
 If you feel this project is useful to you and want to support it and it's future development [Donate please consider donating money]. [http://code.google.com/p/google-maps-icons/wiki/Donate https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif]

@@ -47,6 +47,8 @@ Thanks to Robin Gawlik for his contribution. He made the icons number zero and t
 
 Thanks to Andrew Francis for his contribution. He made the red and black 21-100.
 
+Use the [http://google-maps-icons.googlecode.com/files/numeric.psd numeric template] to contribute.
+
 <BR>
 =Others Resources=
 ==Symbol You Want on Color You Want==

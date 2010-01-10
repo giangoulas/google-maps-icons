@@ -72,6 +72,13 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 
 [http://google-maps-icons.googlecode.com/files/packagetrackr.png]
 
+<BR>
+==Mia NY -> New York guide in polish==
+
+[http://www.mia-ny.com Mia NY]
+
+[http://google-maps-icons.googlecode.com/files/miany.gif]
+
 
 <BR>
 =Applications=

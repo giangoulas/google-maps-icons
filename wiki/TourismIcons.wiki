@@ -59,11 +59,11 @@
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.
 
-Made by [http://www.myBCN.es Matthias Stasiak] : castle, fortress, palace, city walls & gates, ruins, convent, mosque, cathedral, synagogue, chapel, windmill, wine yard, bridge, fountain, monument, world heritage site, statue, lighthouse, modern monument, ancient temple, olympic site, panoramic view, cave, modern bridge, tent, camping site, church2, cathedral2, monastery, villa, waterfall, garden, pagoda, temple hindu, water
+Made by [http://www.myBCN.es Matthias Stasiak] : castle, fortress, palace, city walls & gates, ruins, convent, mosque, cathedral, synagogue, chapel, windmill, wine yard, bridge, fountain, monument, world heritage site, statue, lighthouse, modern monument, ancient temple, olympic site, panoramic view, cave, modern bridge, tent, camping site, church2, cathedral2, monastery, villa, waterfall, garden, pagoda, temple hindu, water, water well
 
 Made by [http://www.umapper.com UMapper] : picnic
 
-Made by James Briano : leash, off-leash, water well, cabin
+Made by James Briano : leash, off-leash, cabin
 
 <BR>
 =Donations=

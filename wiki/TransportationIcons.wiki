@@ -35,9 +35,6 @@
 
 ==Requests==
 
- * Runways (airport) <font size ="1">by sl1ng5h0t5</font>
- * Apron (airport) <font size ="1">by sl1ng5h0t5</font>
- * Terminal Buildings (airport) <font size ="1">by sl1ng5h0t5</font>
  * Landfill <font size ="1">by susanhoop</font>
 
 ==Credits==

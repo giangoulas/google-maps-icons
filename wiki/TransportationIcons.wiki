@@ -38,11 +38,7 @@
  * Runways (airport) <font size ="1">by sl1ng5h0t5</font>
  * Apron (airport) <font size ="1">by sl1ng5h0t5</font>
  * Terminal Buildings (airport) <font size ="1">by sl1ng5h0t5</font>
- * Light aircraft <font size ="1">by morphonius821</font>
- * Speed Hump (ie those things that slow cars down) <font size ="1">by morphonius821</font>
- * Fixed Speed and/or redlight camera <font size ="1">by morphonius821</font>
- * Motorcycle <font size ="1">by RobRoyAus</font>
-
+ * Landfill <font size ="1">by susanhoop</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

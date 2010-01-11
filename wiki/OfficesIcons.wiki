@@ -18,8 +18,8 @@
 ||[http://google-maps-icons.googlecode.com/files/lockerrental.png] <BR>*Locker rental*<BR><FONT color="#777777" size="1">key</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT> ||[http://google-maps-icons.googlecode.com/files/expert.png] <BR>*Expert*<BR><FONT color="#777777" size="1">engineering</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT> ||[http://google-maps-icons.googlecode.com/files/atm.png] <BR>*Automatic teller machine*<BR><FONT color="#777777" size="1">bank</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT> ||[http://google-maps-icons.googlecode.com/files/mobilephonetower.png] <BR>*Mobile phone tower*<BR><FONT color="#777777" size="1">cell</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT> ||[http://google-maps-icons.googlecode.com/files/oilpumpjack.png] <BR>*Oil pump jack*<BR><FONT color="#777777" size="1">cell</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT> ||
 
 ==Requests==
- * Community Center
- * Oil Pump
+
+None at the moment.
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

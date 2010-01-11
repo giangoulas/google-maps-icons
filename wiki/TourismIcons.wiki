@@ -38,25 +38,13 @@
 
 
 ==Requests==
- * Amphitheater
- * Cross
- * Fjord
  * Flower Fields
- * Glacier
  * Ghost town
- * Gondolas
- * Lake
- * Petroglyph: rock engravings
  * Rock
- * Shore
  * Spring: a source of water
  * Square
  * Waterworks
- * Well
- * Place I would like to visit <font size="1">by nico.mollet</font>
- * Place visited <font size="1">by nico.mollet</font>
  * Barbecue <font size="1">by morphonius821</font> 
- * Geyser <font size="1">by notagirl</font> 
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

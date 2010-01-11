@@ -31,10 +31,10 @@
  * Motel
  * Apartment Hotel
  * Concessionaire
- * Erotic restaurant
- * Student restaurant
- * Lunch restaurant
- * Dance restaurant
+ * Erotic restaurant <font size="1">by antti.hoysniemi</font>
+ * Student restaurant <font size="1">by antti.hoysniemi</font>
+ * Lunch restaurant <font size="1">by antti.hoysniemi</font>
+ * Dance restaurant <font size="1">by antti.hoysniemi</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

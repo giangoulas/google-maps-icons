@@ -25,9 +25,11 @@
 
 ==Palette comparison==
 
-Old then new
+Old 
 
 [http://google-maps-icons.googlecode.com/files/colorpalette-old.png]
+
+New
 
 [http://google-maps-icons.googlecode.com/files/colorpalette-new.png]
 

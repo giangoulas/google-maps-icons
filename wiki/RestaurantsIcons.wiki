@@ -35,6 +35,7 @@
  * Student restaurant <font size="1">by antti.hoysniemi</font>
  * Lunch restaurant <font size="1">by antti.hoysniemi</font>
  * Dance restaurant <font size="1">by antti.hoysniemi</font>
+ * Hotel restaurant <font size="1">by lindenservices</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

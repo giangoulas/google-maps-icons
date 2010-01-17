@@ -45,6 +45,7 @@
  * Spring: a source of water
  * Square
  * Waterworks
+ * Dolphins
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

@@ -1,7 +1,7 @@
 #labels IconWikiPage
 #sidebar tocIcons
 
-<font color="#7e55fc" size="6">*Restaurants & Hotels map pins*</font>
+<font color="#7e55fc" size="6">*Restaurants & Hotels map icons*</font>
 
 <wiki:toc max_depth="3" />
 

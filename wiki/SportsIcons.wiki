@@ -56,9 +56,9 @@ All icons made by Nicolas Mollet, unless specified.
 
 Made by [http://www.myBCN.es Matthias Stasiak] : racing, karting, kayak, scuba diving, yoga, massage, jogging, gym, fitness center, cricket, soccer2, basketball2, handball, tennis2, mountain bike
 
-Made by Linden Services : swimming-sport, swimming out
+Made by Linden Services : boules, swimming-sport, swimming out
 
-Made by milherou.thierry : boules, surface lift
+Made by milherou.thierry : surface lift
 
 <BR>
 =Donations=

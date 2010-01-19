@@ -1,8 +1,6 @@
 #labels Phase-Design
 #sidebar tocIcons
 
-<FONT color="#000000" size="6">*Our Colors*</FONT>
-
 <wiki:toc max_depth="2" />
 
 =Color Palette=

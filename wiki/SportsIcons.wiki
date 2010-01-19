@@ -51,6 +51,7 @@
 ==Requests==
 
  * Offroad Trailhead
+ * Fencing <font size="1">by flora.bayeaux</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

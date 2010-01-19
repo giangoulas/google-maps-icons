@@ -17,7 +17,7 @@
 
 ==Requests==
 
-None at the moment.
+ * Dive store (scuba stuff) <font size="1">by vkocher@weltmeer.ch</font>
 
 ==Credits==
 

@@ -86,6 +86,14 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 
 [http://google-maps-icons.googlecode.com/files/bergensbanen.jpg]
 
+<BR>
+==Brottsplatskartan -> Accidents in Sweden==
+
+[http://brottsplatskartan.se/ Brottsplatskartan]
+
+
+
+
 
 <BR>
 =Applications=

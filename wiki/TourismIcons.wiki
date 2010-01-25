@@ -7,7 +7,7 @@
 
 =POI Icons=
 ===Animals===
-|| [http://google-maps-icons.googlecode.com/files/animals.png] <BR>*Wildlife*<BR><FONT color="#777777" size="1">animals</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/rattlesnake.png] <BR>*Rattlesnakes*<BR><FONT color="#777777" size="1">vipers</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/seals.png] <BR>*Seals*<BR><FONT color="#777777" size="1">animals</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/dolphins.png] <BR>*Dolphins*<BR><FONT color="#777777" size="1">animals</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+|| [http://google-maps-icons.googlecode.com/files/animals.png] <BR>*Wildlife*<BR><FONT color="#777777" size="1">animals</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/rattlesnake.png] <BR>*Rattlesnakes*<BR><FONT color="#777777" size="1">vipers</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/seals.png] <BR>*Seals*<BR><FONT color="#777777" size="1">animals</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/dolphins.png] <BR>*Dolphins*<BR><FONT color="#777777" size="1">animals</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/chicken.png] <BR>*Chicken*<BR><FONT color="#777777" size="1">animals</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 
 ===<BR>Natural Marvels===
@@ -55,6 +55,8 @@ All icons made by Nicolas Mollet, unless specified.
 Made by [http://www.myBCN.es Matthias Stasiak] : castle, fortress, palace, city walls & gates, ruins, convent, mosque, cathedral, synagogue, chapel, windmill, wine yard, bridge, fountain, monument, world heritage site, statue, lighthouse, modern monument, ancient temple, olympic site, panoramic view, cave, modern bridge, tent, camping site, church2, cathedral2, monastery, villa, waterfall, garden, pagoda, temple hindu, water, water well, shelter-picnic, shelter-sleeping, sight, park-urban, picnic, amphitheater, cross, fjord, glacier, gondola, lake, petroglyphs, shore, city square, places-unvisited, places-visited, geyser, dog park, city hall
 
 Made by James Briano : leash, off-leash, cabin
+
+Made by Thierry Milherou : chicken
 
 <BR>
 =Donations=

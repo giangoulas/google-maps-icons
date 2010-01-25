@@ -40,5 +40,9 @@
 
 [Promote ► Promote]
 
+[SitesUsing ► Sites using]
+
+[License ► License]
+
 </strong></font>
 </td></tr></table>

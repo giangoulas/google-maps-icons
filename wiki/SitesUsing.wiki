@@ -79,6 +79,13 @@ Some sites and maps using this icon collection. If you are using the icons, plea
 
 [http://google-maps-icons.googlecode.com/files/miany.gif]
 
+<BR>
+==Bergensbanen -> Train trip in Norway==
+
+[http://bergensbanen.quai.no/ Bergensbanen]
+
+[http://google-maps-icons.googlecode.com/files/bergensbanen.jpg]
+
 
 <BR>
 =Applications=

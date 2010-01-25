@@ -23,24 +23,36 @@
 
 ==Palette comparison==
 
-Old 
+===Old===
 
 [http://google-maps-icons.googlecode.com/files/colorpalette-old.png]
 
 
 Blue (Offices) : 5680fc
+
 Teal (Stores) : 55d7d7
+
 Purple (Restaurants) : 7e55fc
+
 Green (Tourism) : 00e13c
+
 Orange (Education) : ef9e40
+
 Brown (Misc) : 9e7151
+
 Red (Sports) : fc6355
+
 Pink (Culture) : e14f9e
+
 Gray (Events) : a9a9a9
+
 Black (Transportation ) : 000000
+
 Dark blue (Media) : 0337d1
+
 Yellow (Friends) : fcf357
 
+===New===
 
 [http://google-maps-icons.googlecode.com/files/colorpalette-new.png]
 

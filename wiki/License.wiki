@@ -1,5 +1,5 @@
 #labels Featured
-The project "Map icons collection" was created by Nicolas Mollet under the license [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-Share Alike 3.0 Unported] (CC BY SA 3.0).
+The project "Map icons collection" was created by Nicolas Mollet under the [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-Share Alike 3.0 Unported] license (CC BY SA 3.0).
 
 This license lets you remix, tweak, and build upon our work even for commercial reasons, as long as you credit the project and license your new creations under the identical terms. 
 
@@ -7,7 +7,7 @@ Please credit : *Maps icons collection http://code.google.com/p/google-maps-icon
 
 Logo : http://google-maps-icons.googlecode.com/files/banner88x31.gif
 
-Many icons are derived from the project [http://www.sjjb.co.uk/mapicons/SJJBMapIconsv0.03/recoloured/ SJJBMapIcons] by [http://www.sjjb.co.uk/ SJJB Management], released under [http://creativecommons.org/licenses/publicdomain/ Creative Commons Public Domain Dedication].
+Many icons are derived from the project [http://www.sjjb.co.uk/mapicons/SJJBMapIconsv0.03/recoloured/ SJJBMapIcons] by [http://www.sjjb.co.uk/ SJJB Management], licensed under [http://creativecommons.org/licenses/publicdomain/ Creative Commons Public Domain Dedication].
 
 ----
 

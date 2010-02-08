@@ -16,7 +16,7 @@ Note: although this tutorial was written for the Windows version of Google Earth
 
 [http://google-maps-icons.googlecode.com/files/googlearthtutorial01.png]
 
-   1. After starting Google Earth locate the area where you wish to place a placemark. Go to the upper toolbar and click on the Add Placemark Your browser may not support display of this image. button
+   1. After starting Google Earth _locate_ the area where you wish to place a placemark. Go to the upper toolbar and _click_ on the *Add Placemark button*
 
 [http://google-maps-icons.googlecode.com/files/googlearthtutorial02.png]
 

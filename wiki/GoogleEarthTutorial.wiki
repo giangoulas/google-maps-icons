@@ -96,7 +96,7 @@ Now you need to go to the page on this project site where you found the icon tha
 
 Now switch back to Google Earth where the Icon Location dialog box is still open:
 
-[http://google-maps-icons.googlecode.com/files/googlearthtutorial08.png]
+[http://google-maps-icons.googlecode.com/files/googlearthtutorial07.png]
 
  # Right Click in the Icon Location field
  # Click on Paste (or type CTRL-C in the Icon Location Field)
@@ -106,7 +106,7 @@ Now switch back to Google Earth where the Icon Location dialog box is still open
 
 The placemark now has a custom icon in both the Places panel and 3D viewer:
 
-[http://google-maps-icons.googlecode.com/files/googlearthtutorial09.png]
+[http://google-maps-icons.googlecode.com/files/googlearthtutorial08.png]
  
 =Recommended links=
 

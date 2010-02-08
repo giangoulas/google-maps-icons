@@ -116,3 +116,5 @@ Download the latest version of Google Earth from http://earth.google.com so you 
  * [http://www.youtube.com/user/GoogleEarthVideoHelp Google Earth videos]
  * [http://earth.google.com/outreach/index.html Google Earth Outreach] 
  * [http://www2.geog.soton.ac.uk/users/TrevesR/ge_tut/index.html Producing Maps with Google Earth] (University of Southampton)
+
+Tutorial made by Arjan Veen, inspired from Google Maps tutorial by Matthias Stasiak.

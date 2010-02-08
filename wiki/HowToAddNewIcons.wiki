@@ -100,6 +100,8 @@ Thank you guys : [http://www.etourisme.info/about/745/pierre-eloy Pierre Eloy] a
 =Your Google Map could look like this=
 [http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-10.png]
 
+Tutorial made by Matthias Stasiak.
+
 =Create Advanced Google Maps=
 If you want to create a map and place markers with Google Maps API 3 then follow this [http://www.svennerberg.com/2009/07/google-maps-api-3-markers/ tutorial] by Gabriel Svennerberg.
 

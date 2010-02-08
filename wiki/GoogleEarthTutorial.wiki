@@ -54,7 +54,7 @@ To change the icon to a custom icon from this project site:
 
 ==Copy the URL to the new icon in Firefox==
 
-[http://google-maps-icons.googlecode.com/files/googlearthtutorial07.png]
+http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-05.png
 
 Now you need to go back to the page on this project site where you found the icon that you want to use. This because you need to copy its URL (the address to the location where it is on the project server) so that your Google Map can find it. 
 
@@ -63,7 +63,7 @@ Now you need to go back to the page on this project site where you found the ico
 
 ==Copy the URL to the new icon in Safari==
 
-[http://google-maps-icons.googlecode.com/files/googlearthtutorial08.png]
+[http://google-maps-icons.googlecode.com/files/googlearthtutorial10.png]
 
 Now you need to go back to the page on this project site where you found the icon that you want to use. This because you need to copy its URL (the address to the location where it is on the project server) so that your Google Map can find it. 
 
@@ -72,7 +72,7 @@ Now you need to go back to the page on this project site where you found the ico
 
 ==Copy the URL to the new icon in Google Chrome==
 
-[http://google-maps-icons.googlecode.com/files/googlearthtutorial09.png]
+[http://google-maps-icons.googlecode.com/files/googlearthtutorial11.png]
 
 Now you need to go back to the page on this project site where you found the icon that you want to use. This because you need to copy its URL (the address to the location where it is on the project server) so that your Google Map can find it. 
 
@@ -82,7 +82,7 @@ Now you need to go back to the page on this project site where you found the ico
 
 ==Copy the URL to the new icon in Internet Explorer==
 
-Your browser may not support display of this image. 
+[http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-06.png]
 
 Now you need to go to the page on this project site where you found the icon that you want to use. This because you need to copy its URL (the address to where it is on the project server) so that your Google Map can find it. 
 

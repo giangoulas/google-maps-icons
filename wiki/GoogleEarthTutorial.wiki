@@ -4,7 +4,7 @@
 
 <wiki:toc max_depth="3" />
 
-The goal of this tutorial is to help you use the content of this Google Map Icons project to make your own custom made Google Earth maps easier to understand, to navigate and in the process also make them more consistent and professional looking.
+The goal of this tutorial is to help you use the content of this *Map Icons Collection* project to make your own custom made Google Earth maps easier to understand, to navigate and in the process also make them more consistent and professional looking.
 
 See also [http://earth.google.com/userguide/v4/ug_placemarks.html Google Earth User Guide].
 

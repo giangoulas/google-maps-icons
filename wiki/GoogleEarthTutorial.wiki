@@ -30,7 +30,7 @@ A New Placemark dialog box appears and a New Placemark icon is centered in the v
 
 [http://google-maps-icons.googlecode.com/files/googlearthtutorial03.png]
 
-You can edit, move or delete any placemark that appears in the My Places or Temporary Places folder. To edit and move a placemark right-click a “placemark” in the 3D viewer or in the Places panel and choose Properties.
+You can *edit, move or delete* any placemark that appears in the *My Places* or *Temporary Places folder*. To edit and move a placemark *right-click a “placemark”* in the 3D viewer or in the Places panel and choose *Properties*.
 
 =Change the placemark icon=
 
@@ -38,15 +38,15 @@ You can edit, move or delete any placemark that appears in the My Places or Temp
 
 Select the placemark which icon has to be changed and:
 
- # Right-click the placemark in the Places panel and select properties 
+ # Right-click the placemark in the Places panel and select *properties*
  # OR right-click the placemark in the 3D viewer and select properties
- # Click the icon for the placemark Your browser may not support display of this image. , the icon palette dialog box appears. Here you can choose another icon from the default Google Earth icon palette and change properties like color, scale and opacity:
+ # Click the icon for the placemark, the icon palette dialog box appears. Here you can choose another icon from the default Google Earth icon palette and change properties like color, scale and opacity:
 
 [http://google-maps-icons.googlecode.com/files/googlearthtutorial05.png]
 
 To change the icon to a custom icon from this project site:
 
- # Click Add Custom Icon… from the icon palette. The Icon Location dialog box opens:
+ # Click Add Custom Icon... from the icon palette. The Icon Location dialog box opens:
 
 [http://google-maps-icons.googlecode.com/files/googlearthtutorial06.png]
 
@@ -59,7 +59,7 @@ http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-05.png
 Now you need to go back to the page on this project site where you found the icon that you want to use. This because you need to copy its URL (the address to the location where it is on the project server) so that your Google Map can find it. 
 
  # Right Click on the icon you want
- # Click on Copy Image Location
+ # Click on *Copy Image Location*
 
 ==Copy the URL to the new icon in Safari==
 
@@ -68,7 +68,7 @@ Now you need to go back to the page on this project site where you found the ico
 Now you need to go back to the page on this project site where you found the icon that you want to use. This because you need to copy its URL (the address to the location where it is on the project server) so that your Google Map can find it. 
 
  # Right Click on the icon you want
- # Click on Copy Image Address
+ # Click on *Copy Image Address*
 
 ==Copy the URL to the new icon in Google Chrome==
 
@@ -77,7 +77,7 @@ Now you need to go back to the page on this project site where you found the ico
 Now you need to go back to the page on this project site where you found the icon that you want to use. This because you need to copy its URL (the address to the location where it is on the project server) so that your Google Map can find it. 
 
  # Right Click on the icon you want
- # Click on Copy Image URL
+ # Click on *Copy Image URL*
 
 
 ==Copy the URL to the new icon in Internet Explorer==
@@ -89,8 +89,8 @@ Now you need to go to the page on this project site where you found the icon tha
  # Right Click on the icon you want
  # Click on Properties
  # Mark the Address: (URL) by triple-clicking on the URL
- # Right Click on the now highlighted URL
- # Click on Copy
+ # Right Click on the now *highlighted URL*
+ # Click on *Copy*
 
 =Add the selected custom icon to the placemark=
 
@@ -98,11 +98,11 @@ Now switch back to Google Earth where the Icon Location dialog box is still open
 
 [http://google-maps-icons.googlecode.com/files/googlearthtutorial07.png]
 
- # Right Click in the Icon Location field
- # Click on Paste (or type CTRL-C in the Icon Location Field)
+ # *Right Click* in the Icon Location field
+ # Click on *Paste* (or type CTRL-C in the Icon Location Field)
  # Edit size, color and opacity if needed
- # Click OK to close the Icon palette dialog box
- # Click OK again to close the Edit Placemark dialog box
+ # Click *OK* to close the Icon palette dialog box
+ # Click *OK* again to close the Edit Placemark dialog box
 
 The placemark now has a custom icon in both the Places panel and 3D viewer:
 

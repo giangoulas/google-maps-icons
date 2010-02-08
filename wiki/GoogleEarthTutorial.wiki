@@ -8,6 +8,8 @@ The goal of this tutorial is to help you use the content of this Google Map Icon
 
 See also Google Earth User Guide: http://earth.google.com/userguide/v4/ug_placemarks.html
 
+See the tutorial for [HowToAddNewIcons Google Maps].
+
 Note: although this tutorial was written for the Windows version of Google Earth the same actions also apply for the Mac version of Google Earth and the Mac OS X versions of Firefox, Safari and Chrome browsers.
 
 =Create a new "placemark"=

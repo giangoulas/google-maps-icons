@@ -22,11 +22,11 @@ Note: although this tutorial was written for the Windows version of Google Earth
 
 A New Placemark dialog box appears and a New Placemark icon is centered in the viewer inside a flashing yellow square.
 
- # Give the placemark a name
- # Enter information in the description field if you like
- # Drag the New Placemark icon to the desired location. You don't have to be exact since you can move it later again
- # Click the icon for the placemark Your browser may not support display of this image. to choose an alternate icon, this is covered in the next section of this tutorial
- # Click OK when finished. Your placemark appears in the 3D viewer and as an entry in the selected folder:
+ # Give the placemark a *name*
+ # Enter information in the *description* field if you like
+ # Drag the New Placemark icon to the *desired location*. You don't have to be exact since you can move it later again
+ # Click the *icon for the placemark* to choose an alternate icon, this is covered in the next section of this tutorial
+ # Click *OK* when finished. Your placemark appears in the 3D viewer and as an entry in the selected folder:
 
 [http://google-maps-icons.googlecode.com/files/googlearthtutorial03.png]
 

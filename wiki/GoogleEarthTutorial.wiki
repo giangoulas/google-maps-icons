@@ -14,11 +14,11 @@ Note: although this tutorial was written for the Windows version of Google Earth
 
 =Create a new "placemark"=
 
-Your browser may not support display of this image.
+[http://google-maps-icons.googlecode.com/files/googlearthtutorial01.png]
 
    1. After starting Google Earth locate the area where you wish to place a placemark. Go to the upper toolbar and click on the Add Placemark Your browser may not support display of this image. button
 
-Your browser may not support display of this image.
+[http://google-maps-icons.googlecode.com/files/googlearthtutorial02.png]
 
 A New Placemark dialog box appears and a New Placemark icon is centered in the viewer inside a flashing yellow square.
 
@@ -28,13 +28,13 @@ A New Placemark dialog box appears and a New Placemark icon is centered in the v
  # Click the icon for the placemark Your browser may not support display of this image. to choose an alternate icon, this is covered in the next section of this tutorial
  # Click OK when finished. Your placemark appears in the 3D viewer and as an entry in the selected folder:
 
-Your browser may not support display of this image.
+[http://google-maps-icons.googlecode.com/files/googlearthtutorial03.png]
 
 You can edit, move or delete any placemark that appears in the My Places or Temporary Places folder. To edit and move a placemark right-click a “placemark” in the 3D viewer or in the Places panel and choose Properties.
 
 =Change the placemark icon=
 
-Your browser may not support display of this image.
+[http://google-maps-icons.googlecode.com/files/googlearthtutorial04.png]
 
 Select the placemark which icon has to be changed and:
 
@@ -42,55 +42,43 @@ Select the placemark which icon has to be changed and:
  # OR right-click the placemark in the 3D viewer and select properties
  # Click the icon for the placemark Your browser may not support display of this image. , the icon palette dialog box appears. Here you can choose another icon from the default Google Earth icon palette and change properties like color, scale and opacity:
 
-Your browser may not support display of this image.
+[http://google-maps-icons.googlecode.com/files/googlearthtutorial05.png]
 
 To change the icon to a custom icon from this project site:
 
  # Click Add Custom Icon… from the icon palette. The Icon Location dialog box opens:
 
- 
-
-Your browser may not support display of this image.
+[http://google-maps-icons.googlecode.com/files/googlearthtutorial06.png]
 
  # Put a valid path or Web URL in the field next to Icon location label or click Browse to specify the file on your computer or network. If you refer to an image on the web, be sure you have entered the path to the image itself, not the web page containing the image.
 
- 
-
 ==Copy the URL to the new icon in Firefox==
 
-Your browser may not support display of this image. 
+[http://google-maps-icons.googlecode.com/files/googlearthtutorial07.png]
 
 Now you need to go back to the page on this project site where you found the icon that you want to use. This because you need to copy its URL (the address to the location where it is on the project server) so that your Google Map can find it. 
 
  # Right Click on the icon you want
  # Click on Copy Image Location
 
- 
-
 ==Copy the URL to the new icon in Safari==
 
-Your browser may not support display of this image. 
+[http://google-maps-icons.googlecode.com/files/googlearthtutorial08.png]
 
 Now you need to go back to the page on this project site where you found the icon that you want to use. This because you need to copy its URL (the address to the location where it is on the project server) so that your Google Map can find it. 
 
  # Right Click on the icon you want
  # Click on Copy Image Address
 
- 
- 
- 
- 
-
 ==Copy the URL to the new icon in Google Chrome==
 
-browser may not support display of this image. 
+[http://google-maps-icons.googlecode.com/files/googlearthtutorial09.png]
 
 Now you need to go back to the page on this project site where you found the icon that you want to use. This because you need to copy its URL (the address to the location where it is on the project server) so that your Google Map can find it. 
 
  # Right Click on the icon you want
  # Click on Copy Image URL
 
-             
 
 ==Copy the URL to the new icon in Internet Explorer==
 

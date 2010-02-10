@@ -37,6 +37,7 @@
  * Lunch restaurant <font size="1">by antti.hoysniemi</font>
  * Dance restaurant <font size="1">by antti.hoysniemi</font>
  * Hotel restaurant <font size="1">by lindenservices</font>
+ * Vegetarian restaurant <font size="1">by michelle.calabretta</font>
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

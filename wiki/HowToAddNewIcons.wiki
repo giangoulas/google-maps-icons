@@ -54,6 +54,27 @@ Now you need to go to the page on this project site where you found the icon tha
   # _Right Click_ on the now *highlighted URL*
   # _Click_ on *Copy*
 
+
+==Copy the URL to the new icon in Safari==
+
+[http://google-maps-icons.googlecode.com/files/googlearthtutorial10.png]
+
+Now you need to go back to the page on this project site where you found the icon that you want to use. This because you need to copy its URL (the address to the location where it is on the project server) so that your Google Map can find it. 
+
+ # Right Click on the icon you want
+ # Click on *Copy Image Address*
+
+==Copy the URL to the new icon in Google Chrome==
+
+[http://google-maps-icons.googlecode.com/files/googlearthtutorial11.png]
+
+Now you need to go back to the page on this project site where you found the icon that you want to use. This because you need to copy its URL (the address to the location where it is on the project server) so that your Google Map can find it. 
+
+ # Right Click on the icon you want
+ # Click on *Copy Image URL*
+
+
+
 ===Add an icon===
 [http://google-maps-icons.googlecode.com/files/GMI-HowToCreate-04.png]
 

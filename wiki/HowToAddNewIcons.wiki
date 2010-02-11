@@ -55,7 +55,7 @@ Now you need to go to the page on this project site where you found the icon tha
   # _Click_ on *Copy*
 
 
-==Copy the URL to the new icon in Safari==
+===Copy the URL to the new icon in Safari===
 
 [http://google-maps-icons.googlecode.com/files/googlearthtutorial10.png]
 
@@ -64,7 +64,7 @@ Now you need to go back to the page on this project site where you found the ico
  # Right Click on the icon you want
  # Click on *Copy Image Address*
 
-==Copy the URL to the new icon in Google Chrome==
+===Copy the URL to the new icon in Google Chrome===
 
 [http://google-maps-icons.googlecode.com/files/googlearthtutorial11.png]
 

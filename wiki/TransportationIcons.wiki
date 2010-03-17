@@ -36,7 +36,7 @@
 
 ==Requests==
 
- * Landfill <font size ="1">by susanhoop</font>
+ * Landfill <font size ="1">by susanhoop</font>: done in Administration
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

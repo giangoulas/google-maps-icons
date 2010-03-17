@@ -8,6 +8,7 @@
 =POI Icons=
 ===Animals===
 || [http://google-maps-icons.googlecode.com/files/animals.png] <BR>*Wildlife*<BR><FONT color="#777777" size="1">animals</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/rattlesnake.png] <BR>*Rattlesnakes*<BR><FONT color="#777777" size="1">vipers</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/seals.png] <BR>*Seals*<BR><FONT color="#777777" size="1">animals</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/dolphins.png] <BR>*Dolphins*<BR><FONT color="#777777" size="1">animals</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/chicken.png] <BR>*Chicken*<BR><FONT color="#777777" size="1">animals</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+||[http://google-maps-icons.googlecode.com/files/wildlifecrossing.png] <BR>*Wildlife crossing*<BR><FONT color="#777777" size="1">animals</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 
 ===<BR>Natural Marvels===
@@ -57,7 +58,7 @@ Made by [http://www.myBCN.es Matthias Stasiak] : castle, fortress, palace, city 
 
 Made by James Briano : leash, off-leash, cabin
 
-Made by Thierry Milherou : chicken, haybale, camper area, canyon
+Made by Thierry Milherou : chicken, haybale, camper area, canyon, wildlife crossing
 
 <BR>
 =Donations=

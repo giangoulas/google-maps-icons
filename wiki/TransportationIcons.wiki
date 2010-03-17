@@ -45,7 +45,7 @@ Made by [http://www.myBCN.es Matthias Stasiak] : cable car, car renting, car was
 
 Made by Robin Gawlik : levelcrossing, taxiway
 
-Made by Thierry Milherou : icy road, closed road, camper, tire chaining zone
+Made by Thierry Milherou : icy road, closed road, camper, tire chaining zone, road types
 
 <BR>
 =Donations=

@@ -16,19 +16,18 @@
 ===<BR>Outdoor Activities===
 || [http://google-maps-icons.googlecode.com/files/themepark.png] <BR>*Theme Park*<BR><FONT color="#777777" size="1">amusement, funfair, rides</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/bullfight.png] <BR>*Bull Fight Arena*<BR><FONT color="#777777" size="1">bullfighting, corrida</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/zoo.png] <BR>*Zoological Garden*<BR><FONT color="#777777" size="1">zoo, animal park</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/publicart.png] <BR>*Public Art*<BR><FONT color="#777777" size="1">sculpture, architecture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/fireworks.png] <BR>*Fireworks*<BR><FONT color="#777777" size="1">pyrotechnic</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 || [http://google-maps-icons.googlecode.com/files/circus.png] <BR>*Circus*<BR><FONT color="#777777" size="1">pyrotechnic</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/ropescourse.png] <BR>*Ropes course*<BR><FONT color="#777777" size="1">trees, adventure</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/festival.png] <BR>*Festival*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/waterpark.png] <BR>*Waterpark*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/ferriswheel.png] <BR>*Ferris wheel*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
-||[http://google-maps-icons.googlecode.com/files/sledgearea.png] <BR>*Sledge area*<BR><FONT color="#777777" size="1">winter</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/openairmuseum.png] <BR>*Open air museum*<BR><FONT color="#777777" size="1">folk, skansen, living museum</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/paintball.png] <BR>*Paintball*<BR><FONT color="#777777" size="1">marker</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+||[http://google-maps-icons.googlecode.com/files/sledgearea.png] <BR>*Sledge area*<BR><FONT color="#777777" size="1">winter</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/openairmuseum.png] <BR>*Open air museum*<BR><FONT color="#777777" size="1">folk, skansen, living museum</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/paintball.png] <BR>*Paintball*<BR><FONT color="#777777" size="1">marker</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/aviary.png] <BR>*Aviary*<BR><FONT color="#777777" size="1">birds, flight cage</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 ==Requests==
  * Love Motel...
  * Music (choral) <font size="1">by flora.bayeaux</font>
- * Aviary
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.
 
 Icons made by [http://www.mybcn.es Matthias Stasiak] : aquarium, zoo, bull fight arena, music (live, rock, hiphop), museum (art, archeological, historical, naval, science, crafts & war), ropes course, festival, waterpark
 
-Icons made by Thierry Milherou : sledge area, open air museum, paintball
+Icons made by Thierry Milherou : sledge area, open air museum, paintball, aviary
 
 <BR>
 =Donations=

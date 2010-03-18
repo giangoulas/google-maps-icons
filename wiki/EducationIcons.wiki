@@ -7,7 +7,7 @@
 
 =POI Icons=
 ===Education===
-|| [http://google-maps-icons.googlecode.com/files/school.png] <br>*School*<br><font color="#777777" size="1">learning, education, classes</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/university.png] <br>*University*<br><font color="#777777" size="1">college, faculty, student, exam</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/library.png] [http://google-maps-icons.googlecode.com/files/library-uni.png]<br>*Library*<br><font color="#777777" size="1">books, literature, reading</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
+|| [http://google-maps-icons.googlecode.com/files/school.png] <br>*School*<br><font color="#777777" size="1">learning, education, classes</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/university.png] <br>*University*<br><font color="#777777" size="1">college, faculty, student, exam</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/library.png] [http://google-maps-icons.googlecode.com/files/library-uni.png]<br>*Library*<br><font color="#777777" size="1">books, literature, reading</font><br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/summercamp.png] <br>*Summer camp*<br><font color="#777777" size="1">summertime program</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
 
 ===<BR>Kids===
 || [http://google-maps-icons.googlecode.com/files/nanny.png] <br>*Nanny*<br><font color="#777777" size="1">babysitter, governess, au pair</font><br><font color="#ffffff" size="1">----------------------------------------</font>|| [http://google-maps-icons.googlecode.com/files/playground.png] <br>*Playground*<br><font color="#777777" size="1">play area, sandbox, playscape</font><br><font color="#ffffff" size="1">----------------------------------------</font> || [http://google-maps-icons.googlecode.com/files/daycare.png][http://google-maps-icons.googlecode.com/files/kindergarten.png] <br>*Day Care*<br><font color="#777777" size="1">child care, kindergarten</font><br><font color="#ffffff" size="1">----------------------------------------</font>||[http://google-maps-icons.googlecode.com/files/nursery.png] <br>*Nursery*<br><font color="#777777" size="1">babies</font><br><font color="#ffffff" size="1">----------------------------------------</font>||
@@ -25,6 +25,8 @@ All icons made by Nicolas Mollet, unless specified.
 Made by [http://www.sjjb.co.uk/ SJJB Management] : nursery
 
 Made by [http://www.myBCN.es Matthias Stasiak] : library (university), kindergarten
+
+Made by Thierry Milherou : summer camp
 
 <BR>
 =Donations=

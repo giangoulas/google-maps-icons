@@ -41,11 +41,11 @@
 ||[http://google-maps-icons.googlecode.com/files/country.png] <BR>*Country*<BR><FONT color="#777777" size="1">location</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/world.png] <BR>*World*<BR><FONT color="#777777" size="1">location</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/cruise.png] <BR>*Cruise Ship*<BR><FONT color="#777777" size="1">boat, ship, ocean</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/sailboat-tourism.png] <BR>*Sailboat*<BR><FONT color="#777777" size="1">boat</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/hiking-tourism.png] <BR>*Hiking*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 ||[http://google-maps-icons.googlecode.com/files/dogpark.png][http://google-maps-icons.googlecode.com/files/dog-leash.png][http://google-maps-icons.googlecode.com/files/dog-offleash.png] <BR>*Dogs*<BR><FONT color="#777777" size="1">leash, un-leash, park</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/gondola.png] <BR>*Gondola*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/cabin.png] <BR>*Cabin*<BR><FONT color="#777777" size="1">shelter</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/shelter-picnic.png] [http://google-maps-icons.googlecode.com/files/shelter-sleeping.png] <BR>*Shelter*<BR><FONT color="#777777" size="1">sleeping, picnic</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/sight.png] <BR>*Sight*<BR><FONT color="#777777" size="1">point of interest</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 ||[http://google-maps-icons.googlecode.com/files/petroglyphs.png] <BR>*Petroglyphs*<BR><FONT color="#777777" size="1">rock engravings</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/citysquare.png] <BR>*City Square*<BR><FONT color="#777777" size="1">plaça</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/places-unvisited.png] [http://google-maps-icons.googlecode.com/files/places-visited.png] <BR>*Places*<BR><FONT color="#777777" size="1">visited, un-visited</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/camperarea.png] <BR>*Camper area*<BR><FONT color="#777777" size="1">emptying, drain off</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/ford.png] <BR>*Ford*<BR><FONT color="#777777" size="1">water crossing, watersplash</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+||[http://google-maps-icons.googlecode.com/files/ghosttown.png] <BR>*Ghost town*<BR><FONT color="#777777" size="1">abandoned city</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>
 
 
 ==Requests==
  * Flower Fields
- * Ghost town
  * Rock
  * Spring: a source of water
  * Square
@@ -58,7 +58,7 @@ Made by [http://www.myBCN.es Matthias Stasiak] : castle, fortress, palace, city 
 
 Made by James Briano : leash, off-leash, cabin
 
-Made by Thierry Milherou : chicken, haybale, camper area, canyon, wildlife crossing, ford
+Made by Thierry Milherou : chicken, haybale, camper area, canyon, wildlife crossing, ford, ghost town
 
 <BR>
 =Donations=

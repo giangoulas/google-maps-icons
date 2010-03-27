@@ -31,7 +31,7 @@ All icons made by Nicolas Mollet, unless specified.
 
 Icons made by [http://www.umapper.com UMapper]: fire, shooting, place crash, explosion, radiation
 
-Icons made by Thierry Milherou: rape, crime scene, theft, cow abduction, abduction, torture, power lines down, power outage, tree down, tornado
+Icons made by Thierry Milherou: rape, crime scene, theft, cow abduction, abduction, torture, power lines down, power outage, tree down, tornado, wind
 
 <BR>
 =Donations=

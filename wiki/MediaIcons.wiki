@@ -11,13 +11,15 @@
 || [http://google-maps-icons.googlecode.com/files/photodown.png] <BR>*Photography Down*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photodownleft.png] <BR>*Photography Down Left*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photoleft.png] <BR>*Photography Left*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/photoupleft.png] <BR>*Photography Up Left*<BR><FONT color="#777777" size="1">direction, shot, picture</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 ===<BR>Other===
-|| [http://google-maps-icons.googlecode.com/files/video.png] <BR>*Video*<BR><FONT color="#777777" size="1">clip, movie, film</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/audio.png] <BR>*Audio*<BR><FONT color="#777777" size="1">sound, noise</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/text.png] <BR>*Text*<BR><FONT color="#777777" size="1">write, article, book, note, letter</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+|| [http://google-maps-icons.googlecode.com/files/video.png] <BR>*Video*<BR><FONT color="#777777" size="1">clip, movie, film</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/audio.png] <BR>*Audio*<BR><FONT color="#777777" size="1">sound, noise</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>|| [http://google-maps-icons.googlecode.com/files/text.png] <BR>*Text*<BR><FONT color="#777777" size="1">write, article, book, note, letter</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/webcam.png] <BR>*Webcam*<BR><FONT color="#777777" size="1">instant messaging, videophone</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>
 
 ==Requests==
 None at the moment
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.
+
+cons made by Thierry Milherou : webcam
 
 <BR>
 =Donations=

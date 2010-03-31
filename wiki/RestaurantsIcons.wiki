@@ -33,7 +33,6 @@
  * Apartment Hotel
  * Concessionaire
  * Erotic restaurant <font size="1">by antti.hoysniemi</font>
- * Student restaurant <font size="1">by antti.hoysniemi</font>
  * Lunch restaurant <font size="1">by antti.hoysniemi</font>
  * Dance restaurant <font size="1">by antti.hoysniemi</font>
  * Hotel restaurant <font size="1">by lindenservices</font>
@@ -43,6 +42,8 @@
 All icons made by Nicolas Mollet, unless specified.
 
 Made by [http://www.myBCN.es Matthias Stasiak] : hostel, youth hostel, gourmet 2, tapas, villa, food truck, terrace, romantic, buffet, barbecue, fish, steakhouse, wine testing, food delivery service and take-away.
+
+Made by Thierry Milherou : cafeteria/student restaurant.
 
 <BR>
 =Donations=

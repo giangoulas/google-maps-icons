@@ -39,7 +39,7 @@ To make it easier to follow our design rules we provide you with the templates w
 ===About Transparency===
 You need to understand how to work with semi-transparent pixels, like in the
 pixels surrounding the icon frame. This to be able to create the icons looking a bit
-softer and with more detail then if you paint them with 100% color. Try not to use to much transparency, the icons will end up looking to blurry and avoid using less than 50% transparency since you wont be able to see them anyway.
+softer and with more detail then if you paint them with 100% color. Try not to use to much transparency, the icons will end up looking to blurry and avoid using less than 50% transparency since you wont be able to see them anyway.  If you manage to make the icon with only 4 levels of transparency 0%, 25%, 50% and 75% you rock!
 
 ===About Layers===
 The principles of working with Layers are also important since it will make your work so much easier. Layers are like transparent papers on top of each other. You find Layers in the in the templates provided above. Key to the icons designed by me is the Layer Blending
@@ -53,4 +53,4 @@ Once you have created a new icon you always have the option to share it in this 
 
 <BR>
 =Donations=
-If you feel this project is useful to you and want to support it and it's future development [Donate please consider donating money]. [http://code.google.com/p/google-maps-icons/wiki/Donate https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif]
+[http://code.google.com/p/google-maps-icons/wiki/Donate https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif] If you feel this project is useful to you and want to support it and it's future development [Donate please consider donating money].

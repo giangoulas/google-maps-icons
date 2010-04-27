@@ -14,15 +14,17 @@ You can follow me on [http://www.twitter.com/nicomollet Twitter] and [http://fri
 E-mail me at _nico.mollet (at) gmail.com_
 
 ===Matthias===
-My name is Matthias Stasiak aka. _(myBCN.es)_ on this project. I am a half Swedish, half German tourist guide (among other) living in Barcelona, Spain. I joined Nico on this project after some months and am responsible many of the icons.
+My name is Matthias Stasiak aka. _(myBCN.es)_ on parts of this project. I am a half Swedish, half German tourist guide (among other) living in Barcelona, Spain. I joined Nico on this project after some months and am responsible many of the icons.
 
 You can see the use of our icons on my [http://maps.google.se/maps/ms?ie=UTF8&hl=en&msa=0&msid=100992618111608626378.00046473953c4fdfed1c7&t=h&z=14 Google Barcelona Map], my [http://maps.google.se/maps/ms?ie=UTF8&hl=en&msa=0&t=h&z=10 Google Torrevieja Map] and later on my [http://maps.google.se/maps/ms?ie=UTF8&hl=en&msa=0&msid=100992618111608626378.00046e575cb28a0271e3f&t=h&z=13 Google Berlin Map]
 
-E-mail me at _myBCN.es (at) gmail.com_
+You can also find another project of mine that has lot's of these icons on [http://www.myBCN.es/ www.myBCN.es], [http://www.myBCN.se/ www.myBCN.se] and [http://www.myBCN.co.uk/ www.myBCN.co.uk]
+
+E-mail me at _matthias.stasiak (at) gmail.com_
 
 <BR>
 =Donations=
-If you feel this project is useful to you and want to support it and it's future development [Donate please consider donating money]. [http://code.google.com/p/google-maps-icons/wiki/Donate https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif]
+[http://code.google.com/p/google-maps-icons/wiki/Donate https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif] If you feel this project is useful to you and want to support it and it's future development [Donate please consider donating money].
 
 <BR>
 =Contribute or Make a Request=

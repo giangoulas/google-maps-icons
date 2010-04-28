@@ -14,7 +14,7 @@
 
 ===<BR>Sports===
 ====Air Sports====
-||[http://google-maps-icons.googlecode.com/files/hanggliding.png] <BR>*Hang Gliding*<BR><FONT color="#777777" size="1">aircraft</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/paragliding.png] <BR>*Paragliding*<BR><FONT color="#777777" size="1">free-flying</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
+||[http://google-maps-icons.googlecode.com/files/hanggliding.png] <BR>*Hang Gliding*<BR><FONT color="#777777" size="1">aircraft</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/paragliding.png] <BR>*Paragliding*<BR><FONT color="#777777" size="1">free-flying</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/speedriding.png] <BR>*Speedriding*<BR><FONT color="#777777" size="1">speed flying</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 ====<BR>Ball Sports====
 ||[http://google-maps-icons.googlecode.com/files/usfootball.png] <BR>*American Football*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/australianfootball.png] <BR>*Australian Football*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/baseball.png] <BR>*Baseball*<BR><FONT color="#777777" size="1"></FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/basketball.png] [http://google-maps-icons.googlecode.com/files/basketball2.png] <BR>*Basketball*<BR><FONT color="#777777" size="1">basket, streetball, slamball</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/boules.png] <BR>*Boules*<BR><FONT color="#777777" size="1">petanque, boccia</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
@@ -62,7 +62,7 @@ Made by [http://www.myBCN.es Matthias Stasiak] : racing, karting, kayak, scuba d
 
 Made by Linden Services : boules, swimming (sport), swimming (out)
 
-Made by Milherou Thierry : surface lift, deap sea fishing, paragliding, avalanches, paret, snorkeling
+Made by Milherou Thierry : surface lift, deap sea fishing, paragliding, avalanches, paret, snorkeling, speed riding
 
 <BR>
 =Donations=

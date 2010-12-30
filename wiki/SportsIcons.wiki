@@ -55,6 +55,8 @@
 
  * Offroad Trailhead
  * Fencing <font size="1">by flora.bayeaux</font>
+ * Fieldhockey
+ * Trail signs
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

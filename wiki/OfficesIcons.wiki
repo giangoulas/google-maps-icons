@@ -20,8 +20,7 @@
 ||[http://google-maps-icons.googlecode.com/files/fishingboat.png] <BR>*Fishing Boat*<BR><FONT color="#777777" size="1">trawler, seiner</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT> ||
 
 ==Requests==
-
-None at the moment.
+Parliament/Congress
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

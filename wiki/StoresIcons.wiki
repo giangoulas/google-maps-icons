@@ -16,8 +16,10 @@
 ||[http://google-maps-icons.googlecode.com/files/patisserie.png] <BR>*Patisserie*<BR><FONT color="#777777" size="1"></FONT> <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/eggs.png] <BR>*Eggs*<BR><FONT color="#777777" size="1"></FONT> <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/market.png] <BR>*Market*<BR><FONT color="#777777" size="1"></FONT> <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||[http://google-maps-icons.googlecode.com/files/sledgerental.png] <BR>*Sledge rental*<BR><FONT color="#777777" size="1">winter</FONT> <BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 ==Requests==
-
  * Dive store (scuba stuff) <font size="1">by vkocher@weltmeer.ch</font>
+ * Handicraft store
+ * Esoteric store
+ * Ticket office
 
 ==Credits==
 

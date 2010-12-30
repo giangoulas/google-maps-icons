@@ -48,8 +48,9 @@
  * Flower Fields
  * Rock
  * Spring: a source of water
- * Square
  * Waterworks
+ * Whale
+ * Penguin
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

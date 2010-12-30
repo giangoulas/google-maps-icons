@@ -58,6 +58,13 @@
  * Feedlot
  * Sheep
  * Wool
+ * Mountain
+ * Mountain Peak
+ * Mountain Range
+ * Volcano Active
+ * Volcano Sleeping
+ * Hill
+
 
 ==Credits==
 

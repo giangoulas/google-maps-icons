@@ -20,9 +20,12 @@
 ||[http://google-maps-icons.googlecode.com/files/fishingboat.png] <BR>*Fishing Boat*<BR><FONT color="#777777" size="1">trawler, seiner</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT> ||
 
 ==Requests==
-Parliament/Congress
+
+ * Parliament/Congress
+ * Fire Hydrant
 
 ==Credits==
+
 All icons made by Nicolas Mollet, unless specified.
 
 Icons made by [http://www.mybcn.es Matthias Stasiak] : conference center, observatory, spaceport, police2, power line pole, power substation, embassy, community center, oil pump jack, library (public), cell site, city hall

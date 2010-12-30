@@ -25,7 +25,7 @@
 ||[http://google-maps-icons.googlecode.com/files/war.png] <BR>*War*<BR><FONT color="#777777" size="1">conflict, battle, combat</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 ==Requests==
-No request for now
+Earthquake
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

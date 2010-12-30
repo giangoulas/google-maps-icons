@@ -25,7 +25,10 @@
 ||[http://google-maps-icons.googlecode.com/files/war.png] <BR>*War*<BR><FONT color="#777777" size="1">conflict, battle, combat</FONT><BR><FONT color="#ffffff" size="1">----------------------------------------</FONT>||
 
 ==Requests==
-Earthquake
+ * Earthquake
+ * Wildland fire (burning bush)
+ * Structure fire (burning house)
+ * Fire Hydrant (Blue, Red, Green, Orange) This helps the operator know how many gallons per minute they can get from the hydrant.
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

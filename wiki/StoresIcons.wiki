@@ -23,6 +23,7 @@
  * Ticket office
  * Travel Agent
  * Souvenir shop
+ * Cheese shop
 
 ==Credits==
 

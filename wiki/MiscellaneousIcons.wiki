@@ -21,7 +21,7 @@
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.
 
-Icons made by [http://www.mybcn.es Matthias Stasiak] : escalator (up & down), elevator, drinking fountain
+Icons made by [http://www.mybcn.se Matthias Stasiak] : escalator (up & down), elevator, drinking fountain, wi-fi logo and protected
 
 Icons made by Robin Gawlik : bench, lock, exit, entrance, door
 

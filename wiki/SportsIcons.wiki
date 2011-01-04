@@ -55,9 +55,13 @@
 
  * Offroad Trailhead
  * Fencing <font size="1">by flora.bayeaux</font>
- * Fieldhockey
+ * Field hockey
  * Trail signs
  * Spa
+ * Kitesurf
+ * Volleyball
+ * Rollerskating
+ * Telemarking
 
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.

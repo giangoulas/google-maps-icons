@@ -24,7 +24,7 @@ to *Nico Mollet* (Project Creator & Contributor)
 <td valign="top" align="center">
 [https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Matthias%2eStasiak%40gmail%2ecom&lc=US&item_name=Matthias%20Stasiak%20%28Map%20Icons%20Collection%29&item_number=Map%20Icons%20Collection&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
 
-to *Matthias Stasiak* _"myBCN.es"_ (Project Contributor)
+to *Matthias Stasiak* _"myBCN"_ (Project Contributor)
 
 </td>
 

@@ -57,9 +57,6 @@
  * Fencing <font size="1">by flora.bayeaux</font>
  * Field hockey
  * Trail signs
- * Spa
- * Kitesurf
- * Volleyball
  * Rollerskating
  * Telemarking
  * Gymnastics
@@ -67,11 +64,11 @@
 ==Credits==
 All icons made by Nicolas Mollet, unless specified.
 
-Made by [http://www.myBCN.es Matthias Stasiak] : racing, karting, kayak, scuba diving, yoga, massage, jogging, gym, fitness center, cricket, soccer2, basketball2, handball, tennis2, mountain bike, chiropractor, acupuncture
+Made by [http://www.myBCN.se Matthias Stasiak] : racing, karting, kayak, scuba diving, yoga, massage, jogging, gym, fitness center, cricket, soccer2, basketball2, handball, tennis2, mountain bike, chiropractor, acupuncture, spa, sauna, jacuzzi, volleybal, beach volleyball, kitesurfing
 
 Made by Linden Services : boules, swimming (sport), swimming (out)
 
-Made by Milherou Thierry : surface lift, deap sea fishing, paragliding, avalanches, paret, snorkeling, speed riding, boardercross, snowpark structures
+Made by Milherou Thierry : surface lift, deep sea fishing, paragliding, avalanches, paret, snorkeling, speed riding, bordercross, snowpark structures
 
 <BR>
 =Donations=

@@ -3,7 +3,8 @@
 
 _Icones, Plans, Symboles, Cartes, Gratuites, Marqueurs, Cartographie, GIS, Carte, POI_
 
-[http://google-maps-icons.googlecode.com/files/presentation-fr.jpg]
+=Transformez vos marqueurs en icônes jolies et explicities=
+[http://google-maps-icons.googlecode.com/files/GMI-HomeBanner-20110110.jpg]
 <br>
 <table >
 <tr><td colspan="2">Presentation language:</td>
@@ -14,46 +15,45 @@ _Icones, Plans, Symboles, Cartes, Gratuites, Marqueurs, Cartographie, GIS, Carte
 </table>
 <br>
 
-=A propos de=
+=Sommaire=
 *Map Icons Collection* est un pack de plus de 1000 icônes gratuites pour les points d'intérêt de vos cartes. Vous pouvez les placer manuellement avec la fonction "Mes cartes" de Google Maps, ou automatiquement avec Google Maps API.
 
 Organisées par couleur et par rubrique, vous avez une collection complète de marqueurs tels que : cinéma, école, banque, restaurant japonais, ou encore magasin de vêtements.
 <wiki:comment>
 [http://code.google.com/p/google-maps-icons/#All_the_markers Voir toutes les icônes de cartes]
 </wiki:comment>
-=Sommaire=
  * <font size="4">*[IconDescriptions All our ICONS described, tagged and organized into categories]*</font>
-<wiki:comment>
+
  * [HowToAddNewIcons Ajoutez les icônes à vos cartes].
-</wiki:comment>
  * [http://code.google.com/p/google-maps-icons/issues/entry Faites une suggestion] s'il vous manque une icône ou [Contribute si vous voulez contribuer au projet].
  * Suivez ce projet sur [http://www.twitter.com/nicomollet Twitter] et [http://friendfeed.com/nicomollet Friendfeed] ou [Contact contactez nous].
  * [Donate Faites un don pour montrer que vous appréciez ce projet] et permettre son développement ou simplement [Promote promouvez le projet].
 
-=Rubriques d'icônes de cartes=
+<br>
+=Rubriques d'Icônes de Cartes=
 
-[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Icônes Administration, Bureaux & Industrie]
+*[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Icônes Administration, Bureaux & Industrie]*
 
-[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Icônes Amis, Famille & Immobilier]
+*[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Icônes Amis, Famille & Immobilier]*
 
-[http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Icônes Culture & Divertissement]
+*[http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Icônes Culture & Divertissement]*
 
-[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Icônes  Divers]
+*[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Icônes  Divers]*
 
-[http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Icônes Education & Enfance]
+*[http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Icônes Education & Enfance]*
 
-[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Icônes Evènements & Temps]
+*[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Icônes Evènements & Temps]*
 
-[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Icônes Magasins]
+*[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Icônes Magasins]*
 
-[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Icônes Media]
+*[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Icônes Media]*
 
-[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Icônes Nombres, Lettres & Symboles]
+*[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Icônes Nombres, Lettres & Symboles]*
 
-[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Icônes Restaurants & Hôtels]
+*[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Icônes Restaurants & Hôtels]*
 
-[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Icônes Sports, Santé & Beauté]
+*[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Icônes Sports, Santé & Beauté]*
 
-[http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Icônes Tourisme & Nature]
+*[http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Icônes Tourisme & Nature]*
 
-[http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Icônes Transports]
+*[http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Icônes Transports]*

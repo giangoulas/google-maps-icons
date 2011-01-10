@@ -1,18 +1,31 @@
 #labels Translation
 #sidebar tocIcons
 
-=Icones, Plans, Symboles, Cartes, Gratuites, Marqueurs, Cartographie, GIS, Carte, POI=
+_Icones, Plans, Symboles, Cartes, Gratuites, Marqueurs, Cartographie, GIS, Carte, POI_
 
+[http://google-maps-icons.googlecode.com/files/presentation-fr.jpg]
+<br>
+<table >
+<tr><td colspan="2">Presentation language:</td>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/fr.gif]</td> <td align="left"><font size="1" color="#727272">[IconesPlans français]</font></td>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/br.gif]</td> <td align="left"><font size="1" color="#727272">[IconesMapas português]</font></td>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/es.gif]</td> <td align="left"><font size="1" color="#727272">[IconosMapas español]</font></td>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/de.gif]</td> <td align="left"><font size="1" color="#727272">[Kartensymbole deutsch]</font></td> <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/it.gif]</td><td align="left"><font size="1" color="#727272">[IconeMappa italiano]</font></td> <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/nl.gif]</td><td align="left"><font size="1" color="#727272">[Kaarticonen nederlands]</font></td></tr>
+</table>
+<br>
+
+=A propos de=
 *Map Icons Collection* est un pack de plus de 1000 icônes gratuites pour les points d'intérêt de vos cartes. Vous pouvez les placer manuellement avec la fonction "Mes cartes" de Google Maps, ou automatiquement avec Google Maps API.
 
 Organisées par couleur et par rubrique, vous avez une collection complète de marqueurs tels que : cinéma, école, banque, restaurant japonais, ou encore magasin de vêtements.
-
+<wiki:comment>
 [http://code.google.com/p/google-maps-icons/#All_the_markers Voir toutes les icônes de cartes]
-
-[http://google-maps-icons.googlecode.com/files/presentation-fr.jpg]
-
+</wiki:comment>
 =Sommaire=
+ * <font size="4">*[IconDescriptions All our ICONS described, tagged and organized into categories]*</font>
+<wiki:comment>
  * [HowToAddNewIcons Ajoutez les icônes à vos cartes].
+</wiki:comment>
  * [http://code.google.com/p/google-maps-icons/issues/entry Faites une suggestion] s'il vous manque une icône ou [Contribute si vous voulez contribuer au projet].
  * Suivez ce projet sur [http://www.twitter.com/nicomollet Twitter] et [http://friendfeed.com/nicomollet Friendfeed] ou [Contact contactez nous].
  * [Donate Faites un don pour montrer que vous appréciez ce projet] et permettre son développement ou simplement [Promote promouvez le projet].

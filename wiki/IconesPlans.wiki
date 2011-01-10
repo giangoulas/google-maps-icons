@@ -3,7 +3,6 @@
 
 _Icones, Plans, Symboles, Cartes, Gratuites, Marqueurs, Cartographie, GIS, Carte, POI_
 
-=Transformez vos marqueurs en icônes jolies et explicities=
 [http://google-maps-icons.googlecode.com/files/GMI-HomeBanner-20110110.jpg]
 <br>
 <table >

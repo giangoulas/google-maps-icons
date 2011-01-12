@@ -1,5 +1,7 @@
 #labels Phase-Design,Deprecated
-<table width="100%" bgcolor="#f2f2f2"><tr><td>
+<table width="100%" bgcolor="#f2f2f2">
+<tr>
+<td>
 
 === Icon Categories===
 <font color="#fffff" size="2"><strong>[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Administration, Office & Industry]
@@ -16,7 +18,7 @@
 
 [http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Miscellaneous]
 
-[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Numbers, Letters & Symbols]
+[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Numbers & Letters]
 
 [http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Restaurants & Hotels]
 

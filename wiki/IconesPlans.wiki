@@ -12,7 +12,6 @@ _Icones, Plans, Symboles, Cartes, Gratuites, Marqueurs, Cartographie, GIS, Carte
 <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/es.gif]</td> <td align="left"><font size="1" color="#727272">[IconosMapas español]</font></td>
 <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/de.gif]</td> <td align="left"><font size="1" color="#727272">[Kartensymbole deutsch]</font></td> <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/it.gif]</td><td align="left"><font size="1" color="#727272">[IconeMappa italiano]</font></td> <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/nl.gif]</td><td align="left"><font size="1" color="#727272">[Kaarticonen nederlands]</font></td></tr>
 </table>
-<br>
 
 *Map Icons Collection* est un pack de plus de 1000 icônes gratuites pour les points d'intérêt de vos cartes. Vous pouvez les placer manuellement avec la fonction "Mes cartes" de Google Maps, ou automatiquement avec Google Maps API.
 

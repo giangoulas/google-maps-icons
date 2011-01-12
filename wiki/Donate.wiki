@@ -8,10 +8,10 @@
 This project is created by Nicolas Mollet and is by no means affiliated with Google. Free time is used by all contributors to create and share icons for the Maps community. If you feel this project is useful to you and want to support it and it's future development please consider donating money.  We only ask for a small donation, but of course we appreciate any amount. 
 
 ==How to donate==
-The easiest way to donate to the project is by sending money with *Paypal*.  You can donate with Paypal by using your credit card but note that Paypal will take a small processing fee if you don't already have a free Paypal account and don't feel like setting one up. If you prefer you can also transfer money by bank, send an [mailto:nico.mollet(at)gmail.com e-mail] to get the correct banking details.  If you want to remain anonymous and not have your name appear in the list below, please let us know. 
+The easiest way to donate to the project is by sending money with *PayPal*.  You can donate with PayPal by using your credit card but note that PayPal will take a small processing fee if you don't already have a free PayPal account and don't feel like setting one up. If you prefer you can also transfer money by bank, send an [mailto:nico.mollet(at)gmail.com e-mail] to get the correct banking details.  If you want to remain anonymous and not have your name appear in the list below, please let us know. 
 
-===How to donate by using Paypal===
-Donating with Paypal is as quick and easy as 4 clicks and one amount away!
+===How to donate by using PayPal===
+Donating with PayPal is as quick and easy as 4 clicks and one amount away!
 
 <table cellspacing="0" cellpadding="12">
 <tr>
@@ -39,7 +39,7 @@ to *Thierry Milherou* (Project Contributor)
 </table>
 
 <wiki:comment>
-_Click_ or _Right-click_ and choose "*Open Link in New Tab*" (FF) "*Open Link in New Window*" (IE) on one or both of the Donate icon above to be transferred to the Paypal site. There you start by entering your donation amount and _Click_ "*Update Total*" on the top of the page.  After that you either _log in_ to your existing Paypal account or _create a new_ one.  Once you have done this you have the option to "*Add special instructions to seller*", for instance that you want to remain anonymous, before you _Click_ the yellow "*Donate €*(your amount) *Now*"-button down to the right and you are done and we are very grateful.
+_Click_ or _Right-click_ and choose "*Open Link in New Tab*" (FF) "*Open Link in New Window*" (IE) on one or both of the Donate icon above to be transferred to the PayPal site. There you start by entering your donation amount and _Click_ "*Update Total*" on the top of the page.  After that you either _log in_ to your existing PayPal account or _create a new_ one.  Once you have done this you have the option to "*Add special instructions to seller*", for instance that you want to remain anonymous, before you _Click_ the yellow "*Donate €*(your amount) *Now*"-button down to the right and you are done and we are very grateful.
 </wiki:comment>
 
 ==People who made a donation==
@@ -71,4 +71,4 @@ A big Thank You goes out to :
  * 31st July, 2009 - US $15 by Shane Mcnally, from Australia <wiki:comment>(football, rugby, balloons)</wiki:comment>
 
 
-We are very grateful for your contributions!
+We are very, very grateful for your contributions!

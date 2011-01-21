@@ -39,7 +39,7 @@ Icons made by Thierry Milherou: rape, crime scene, theft, cow abduction, abducti
 
 <BR>
 =Donations=
-If you feel this project is useful to you and want to support it and it's future development [Donate please consider donating money]. [http://code.google.com/p/google-maps-icons/wiki/Donate https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif]
+[http://code.google.com/p/google-maps-icons/wiki/Donate https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif] If you feel this project is useful to you and want to support it and it's future development [Donate please consider donating money].
 
 <BR>
 =Contribute or Make a Request=

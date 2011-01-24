@@ -32,9 +32,11 @@ If you are thinking about designing some icons of your own there are a couple of
 ===The Templates===
 To make it easier to follow our design rules we provide you with the templates we are using with the official Collection Set Colors, the icon frame and the transparent fading background. You can download the template files from here:
 
- * [http://google-maps-icons.googlecode.com/files/paint-net-template.pdn Paint.net template] (www.getPaint.NET)
- * [http://google-maps-icons.googlecode.com/files/template-empty.psd Photoshop Template] (without icons)
- * [http://google-maps-icons.googlecode.com/files/template.psd Photoshop Template] (with layers and icons)
+ * [http://google-maps-icons.googlecode.com/files/paint-net-template.pdn Paint.NET template] (www.getPaint.NET) (icons with backgrounds category colors but without symbols)
+ * [http://google-maps-icons.googlecode.com/files/photoshop-template.psd Photoshop Template] (icons with backgrounds category colors but without symbols)
+ * [http://google-maps-icons.googlecode.com/files/template.psd Photoshop Template] (icons with backgrounds category colors and many symbols)
+ * [http://google-maps-icons.googlecode.com/files/gimp-template.pdn GIMP template] (www.gimp.org) (icons with backgrounds category colors but without symbols)
+
 
 ===About Transparency===
 You need to understand how to work with semi-transparent pixels, like in the

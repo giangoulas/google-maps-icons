@@ -6,24 +6,23 @@ _Icones, Plans, Symboles, Cartes, Gratuites, Marqueurs, Cartographie, GIS, Carte
 [http://google-maps-icons.googlecode.com/files/GMI-HomeBanner-20110110.jpg]
 <br>
 <table >
-<tr><td colspan="2">Presentation language:</td>
+<tr><td colspan="2">Langue de Présentation:</td>
 <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/fr.gif]</td> <td align="left"><font size="1" color="#727272">[IconesPlans français]</font></td>
 <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/br.gif]</td> <td align="left"><font size="1" color="#727272">[IconesMapas português]</font></td>
 <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/es.gif]</td> <td align="left"><font size="1" color="#727272">[IconosMapas español]</font></td>
-<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/de.gif]</td> <td align="left"><font size="1" color="#727272">[Kartensymbole deutsch]</font></td> <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/it.gif]</td><td align="left"><font size="1" color="#727272">[IconeMappa italiano]</font></td> <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/nl.gif]</td><td align="left"><font size="1" color="#727272">[Kaarticonen nederlands]</font></td></tr>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/de.gif]</td> <td align="left"><font size="1" color="#727272">[Kartensymbole deutsch]</font></td>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/it.gif]</td><td align="left"><font size="1" color="#727272">[IconeMappa italiano]</font></td>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/nl.gif]</td><td align="left"><font size="1" color="#727272">[Kaarticonen nederlands]</font></td></tr>
 </table>
 
 *Map Icons Collection* est un pack de plus de 1000 icônes gratuites pour les points d'intérêt de vos cartes. Vous pouvez les placer manuellement avec la fonction "Mes cartes" de Google Maps, ou automatiquement avec Google Maps API.
 
 Organisées par couleur et par rubrique, vous avez une collection complète de marqueurs tels que : cinéma, école, banque, restaurant japonais, ou encore magasin de vêtements.
-<wiki:comment>
-[http://code.google.com/p/google-maps-icons/#All_the_markers Voir toutes les icônes de cartes]
-</wiki:comment>
- * <font size="4">*[IconDescriptions All our ICONS described, tagged and organized into categories]*</font>
 
- * [HowToAddNewIcons Ajoutez les icônes à vos cartes].
+ * <font size="4">*[IconDescriptions Tous nos ICÔNES décrites, étiquetés et organisés en catégories]*</font>
+
+ * [HowToAddNewIcons Ajoutez les icônes à vos cartes] ou à [GoogleEarthTutorial Google Earth].
  * [http://code.google.com/p/google-maps-icons/issues/entry Faites une suggestion] s'il vous manque une icône ou [Contribute si vous voulez contribuer au projet].
- * Suivez ce projet sur [http://www.twitter.com/nicomollet Twitter] et [http://friendfeed.com/nicomollet Friendfeed] ou [Contact contactez nous].
  * [Donate Faites un don pour montrer que vous appréciez ce projet] et permettre son développement ou simplement [Promote promouvez le projet].
 
 <br>
@@ -45,7 +44,7 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
 
 *[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Icônes Media]*
 
-*[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Icônes Nombres, Lettres & Symboles]*
+*[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Icônes Nombres & Lettres]*
 
 *[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Icônes Restaurants & Hôtels]*
 

@@ -1,4 +1,6 @@
 #labels Featured
+#sidebar tocIcons
+
 <wiki:toc max_depth="3" />
 
 Help us *promote this project*, or simply *share it with your friends*.<br/>Feel free to use the text and images below :
@@ -6,13 +8,14 @@ Help us *promote this project*, or simply *share it with your friends*.<br/>Feel
 
 =Short text presentation=
 
-*Map icons collection* is a pack of 500 free icons for your placemarks. You can put them manually in your Google Maps with the "My maps" feature, or automaticly with the Google Maps API.<br>
-Organized in color categories, you will get a complete collection of icons, such as cinema, school, bank, japanese restaurant and clothes store.
+*Map Icons Collection* is a set of more than 1000 free icons to use as placemarks for your POI (Point of Interests) locations on your maps. You can use them on Google Maps with the "My maps" feature, or automatically by using the Google Maps API.
 
-See the rest of the icons here : http://code.google.com/p/google-maps-icons/
+Organized into logical color coded categories, for better and quicker overview, you get a complete and diverse collection of unique markers for point of interests, for example cinemas, hotels, banks, restaurants and stores.
+
+The Project Home Page can be found here: http://code.google.com/p/google-maps-icons/
 
 
-=Goodies / banners=
+=Banners=
 
 [http://google-maps-icons.googlecode.com/files/banner88x31.gif]
 
@@ -20,7 +23,7 @@ See the rest of the icons here : http://code.google.com/p/google-maps-icons/
 
 [http://google-maps-icons.googlecode.com/files/banner88x31c.gif]
 
-[http://google-maps-icons.googlecode.com/files/presentation2.jpg]
+[http://google-maps-icons.googlecode.com/files/GMI-HomeBanner-20110110.jpg]
 
 =They talk about us / In the Press=
 
@@ -74,9 +77,9 @@ See the rest of the icons here : http://code.google.com/p/google-maps-icons/
  * http://www.geo2web.com/2009/03/08/some-google-maps-tools-tips/
  * http://nayk.sphere-software.org/index.php/2009/07/24/icons-for-google-maps/
 
-=Share on social nextworks=
+=Spread the word on the Social Networks=
 
-Click on an icon to share : <a href="http://twitter.com/home?status=Found a great pack of 300 free icons / placemarks for my maps http://code.google.com/p/google-maps-icons/" title="Click to share on Twitter"><img src="http://google-maps-icons.googlecode.com/files/twitter16x16.gif" alt="Share Map icons collection on Twitter"/></a> <a href="http://friendfeed.com/?url=http://code.google.com/p/google-maps-icons/&amp;title=Found a great pack of 300 free icons / placemarks for my maps" title="Click to share on Friendfeed"><img src="http://google-maps-icons.googlecode.com/files/friendfeed16x16.jpg" alt="Share Map icons collection on Friendfeed"/></a> <a href="http://www.facebook.com/share.php?u=http://code.google.com/p/google-maps-icons/&amp;t=Found a great pack of 300 free icons / placemarks for my maps" title="Click to share on Facebook"><img src="http://google-maps-icons.googlecode.com/files/facebook16x16.gif" alt="Share Map icons collection on Facebook"/></a> 
+Click on an icon to share: <a href="http://twitter.com/home?status=Found a great pack of over 1000 free icons/placemarks for my maps at http://code.google.com/p/google-maps-icons/" title="Click to share on Twitter"><img src="http://google-maps-icons.googlecode.com/files/twitter16x16.gif" alt="Share Map icons collection on Twitter"/></a> <a href="http://friendfeed.com/?url=http://code.google.com/p/google-maps-icons/&amp;title=Found a great pack of over 1000 free icons/placemarks for my maps" title="Click to share on Friendfeed"><img src="http://google-maps-icons.googlecode.com/files/friendfeed16x16.jpg" alt="Share Map Icons Collection on Friendfeed"/></a> <a href="http://www.facebook.com/share.php?u=http://code.google.com/p/google-maps-icons/&amp;t=Found a great pack of over 1000 free icons/placemarks for my maps" title="Click to share on Facebook"><img src="http://google-maps-icons.googlecode.com/files/facebook16x16.gif" alt="Share Map Icons Collection on Facebook"/></a> 
 
 
 <wiki:comment>

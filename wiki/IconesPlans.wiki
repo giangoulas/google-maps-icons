@@ -1,17 +1,17 @@
 #labels Translation
 #sidebar tocIcons
-_Icones, Plans, Symboles, Cartes, Gratuites, Marqueurs, Cartographie, GIS, Carte, POI_
+<font color="#727272">_Icones, Plans, Symboles, Cartes, Gratuites, Marqueurs, Cartographie, GIS, Carte, POI_</font>
 =MAP ICONS COLLECTION <font size="4" color="#727272">_(COLLECTION D´ICôNES POUR CARTES)_</font>=
 [http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/GMI-HomeBanner-20110110.jpg]
 <table >
 <tr>
 <td colspan="2">Langue de Présentation:</td>
-<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/fr.gif]</td> <td align="left"><font size="1" color="#727272">[IconesPlans français]</font></td>
-<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/br.gif]</td> <td align="left"><font size="1" color="#727272">[IconesMapas português]</font></td>
-<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/es.gif]</td> <td align="left"><font size="1" color="#727272">[IconosMapas español]</font></td>
 <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/de.gif]</td> <td align="left"><font size="1" color="#727272">[Kartensymbole deutsch]</font></td>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/fr.gif]</td> <td align="left"><font size="1" color="#727272">[IconesPlans français]</font></td>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/es.gif]</td> <td align="left"><font size="1" color="#727272">[IconosMapas español]</font></td>
 <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/it.gif]</td> <td align="left"><font size="1" color="#727272">[IconeMappa italiano]</font></td>
 <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/nl.gif]</td> <td align="left"><font size="1" color="#727272">[Kaarticonen nederlands]</font></td>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/br.gif]</td> <td align="left"><font size="1" color="#727272">[IconesMapas português]</font></td>
 </tr>
 </table>
 

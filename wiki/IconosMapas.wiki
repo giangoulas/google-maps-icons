@@ -27,16 +27,16 @@ Organizados en categorías lógicas de color codificado, para mejor visión de c
 
 <br>
 =Temas de Iconos de Mapas=
-*[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Iconos de la Administración, Oficinas y Industria]<br>
-*[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Iconos Amigos, Familia y Imuebles]<br>
-*[http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Iconos de Cultura & Entretenimiento]<br>
-*[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Iconos Varios]<br>
-*[http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Iconos de Niños y Educación]<br>
-*[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Iconos Eventos y el Tiempo]<br>
-*[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Iconos de Tiendas]<br>
-*[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Iconos de Medios de Comunicación]<br>
+*[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Iconos de la Administración, Oficinas y Industria]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Iconos Amigos, Familia y Imuebles]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Iconos de Cultura & Entretenimiento]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Iconos Varios]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Iconos de Niños y Educación]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Iconos Eventos y el Tiempo]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Iconos de Tiendas]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Iconos de Medios de Comunicación]*<br>
 *[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Iconos de Números y Letras]<br>
-*[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Iconos de Restaurantes y Hostelarias]<br>
-*[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Iconos de Deportes, Salud & Belleza]<br>
-*[http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Iconos de la Naturaleza y Turismo]<br>
-*[http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Iconos de Transportes]
+*[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Iconos de Restaurantes y Hostelarias]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Iconos de Deportes, Salud & Belleza]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Iconos de la Naturaleza y Turismo]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Iconos de Transportes]*

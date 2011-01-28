@@ -21,8 +21,8 @@ Organisiert in gefarbte Kategorien, haben Sie eine komplette Sammlung von Symbol
 
  * <font size="4">*[IconDescriptions Alle unsere SYMBOLE beschrieben, ettiketiert und in kategorien organiziert]*</font>
 
- * [HowToAddNewIcons Fügen Sie unsere Symbole zu in Ihre eigene Karten ein] oder [GoogleEarthTutorial Google Earth] ein.
- * [http://code.google.com/p/google-maps-icons/issues/list Machen Sie selbst eine Vorschlag] für ein Symbol wenn dies fehlt [Contribute helfen Sie mit an diesem Projekt].
+ * [HowToAddNewIcons Fügen Sie unsere Symbole zu in Ihre eigene Karten] oder [GoogleEarthTutorial Google Earth] ein.
+ * Schlagen Sie selber ein [http://code.google.com/p/google-maps-icons/issues/list Symbol vor] wenn ihr einige fehlen oder [Contribute helfen Sie] an diesem Projekt mit.
  * [Donate Spenden Sie als Zeichen der Anerkennungzu zeigen] um die Entwicklung dieses Projekt zu ermöglichen [Promote oder machen Sie einfach Werbung für das Projekt].
 
 <br>

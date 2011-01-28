@@ -35,7 +35,7 @@ Organizados en categorías lógicas de color codificado, para mejor visión de c
 *[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Iconos Eventos y el Tiempo]*<br>
 *[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Iconos de Tiendas]*<br>
 *[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Iconos de Medios de Comunicación]*<br>
-*[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Iconos de Números y Letras]<br>
+*[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Iconos de Números y Letras]*<br>
 *[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Iconos de Restaurantes y Hostelarias]*<br>
 *[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Iconos de Deportes, Salud & Belleza]*<br>
 *[http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Iconos de la Naturaleza y Turismo]*<br>

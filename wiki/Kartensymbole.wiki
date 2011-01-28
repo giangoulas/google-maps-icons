@@ -1,64 +1,42 @@
 #labels Translation
-=Symbole, Karten, Marker, POI=
-	
-*Map icons collection* ist ein Paket mit über 600 kostenlose Symbole für Points of
-Interest (interessanter Ort) auf Ihre Karten. 
-Sie können sie manuell mit der Option
-"Meine Karten" zufügen in Google Maps oder automatisch mit Google Maps API.
+#sidebar tocIcons
+<font color="#727272">_Symbole, Karten, Navigationsattributen, RIS, GIS, POI, Symbolische Darstellungen_</font>
+=MAP ICONS COLLECTION <font size="4" color="#727272">_(KARTEN SYMBOL SAMLUNG)_</font>=
+[http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/GMI-HomeBanner-20110110.jpg]
+<table>
+<tr>
+<td colspan="2">Sprache des Presentation:</td>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/de.gif]</td> <td align="left"><font size="1" color="#727272">[Kartensymbole deutsch]</font></td>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/fr.gif]</td> <td align="left"><font size="1" color="#727272">[IconesPlans français]</font></td>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/es.gif]</td> <td align="left"><font size="1" color="#727272">[IconosMapas español]</font></td>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/it.gif]</td> <td align="left"><font size="1" color="#727272">[IconeMappa italiano]</font></td>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/nl.gif]</td> <td align="left"><font size="1" color="#727272">[Kaarticonen nederlands]</font></td>
+<td width="30" align="right">[http://google-maps-icons.googlecode.com/files/br.gif]</td> <td align="left"><font size="1" color="#727272">[IconesMapas português]</font></td>
+</tr>
+</table>
 
-Organisiert in farbige Kategorien, haben Sie eine komplette Sammlung von Symbole wie:
-Kino, Schule, Bank, Restaurant oder Japanisches Kleidergeschäft.
+*Map Icons Collection* ist ein Paket mit über 1000 kostenlose Symbole für die Points of Interest (interessanter Orte) auf Ihre Karten. Sie können sie manuell mit der Option "Meine Karten" in Google Maps oder automatisch mit dem Google Maps API zufügen.
 
+Organisiert in gefarbte Kategorien, haben Sie eine komplette Sammlung von Symbole wie zum beispiel: Kino, Schule, Bank, Restaurant und Kleidergeschäft.
 
-[http://code.google.com/p/google-maps-icons/#All_the_markers Übersicht Aller Symbole]
+ * <font size="4">*[IconDescriptions Alle unsere SYMBOLE beschrieben, ettiketiert und in kategorien organiziert]*</font>
 
-[http://google-maps-icons.googlecode.com/files/presentation-de.jpg]
+ * [HowToAddNewIcons Fügen Sie unsere Symbole zu in Ihre eigene Karten ein] oder [GoogleEarthTutorial Google Earth] ein.
+ * [http://code.google.com/p/google-maps-icons/issues/list Machen Sie selbst eine Vorschlag] für ein Symbol wenn dies fehlt [Contribute helfen Sie mit an diesem Projekt].
+ * [Donate Spenden Sie als Zeichen der Anerkennungzu zeigen] um die Entwicklung dieses Projekt zu ermöglichen [Promote oder machen Sie einfach Werbung für das Projekt].
 
-=Zusammenfassung=
-  * [HowToAddNewIcons Fügen Sie unser selbst gemachte Symbole zu in Ihre eigene Karten].
-  * [http://code.google.com/p/google-maps-icons/issues/entry 
-Machen Sie selbst eine Vorschlag] für ein Symbol wenn dies fehlt [Contribute helfen Sie
-mit an diesem Projekt].
-  * Folgen Sie diesem Projekt über [http://www.twitter.com/nicomollet Twitter] oder [http://friendfeed.com/nicomollet Friendfeed] oder [Contact kontaktieren Sie uns].
-  * [Donate Spenden Sie als Zeichen der Anerkennungzu zeigen] um die Entwicklung dieses
-Projekt zu ermöglichen oder [Promote machen Sie einfach Werbung für das Projekt].
-
-=Themen Symbole map=
-
-[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Symbole Verwaltung, Büros und Industrie]
-
-[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Symbole Freunde, Familie und Immobilien]
-
-[http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Symbole Kultur & Unterhaltung]
-
-[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Symbole Verschiedene]
-
-[http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Symbole Kinder & Bildung]
-
-[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Symbole Veranstaltungen & Wetter]
-
-[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Symbole Geschäfte]
-
-[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Symbole Media]
-
-[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Symbole Zahlen, Buchstaben]
-
-[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Symbole Restaurants & Hotels]
-
-[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Symbole Sport, Gesundheit & Schönheit]
-
-[http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Symbole Tourismus & Natur]
-
-[http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Symbole Transport]
-
-
-=Stichwort=
-<font size="2">
-==[OfficesIcons Marker-Karte]==
-==[TourismIcons POI Karten]==
-==[SportsIcons Icons placemarks]==
-==[NumericIcons Free Symbole]==
-==[RestaurantsIcons GIS-Karten]==
-==[StoresIcons Points of interest]==
-==[TransportationIcons Mapping Symbole]==
-</font>
+<br>
+=Symbol Kategorien=
+*[http://google-maps-icons.googlecode.com/files/nav-offices.gif] [OfficesIcons Verwaltungs, Büro und Industrie Symbole]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-friends.gif] [FriendsIcons Freunde, Familie und Immobilien Symbole]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-culture.gif] [CultureIcons Kultur & Unterhaltungs Symbole]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-misc.gif] [MiscellaneousIcons Verschiedene Symbole]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-education.gif] [EducationIcons Kinder & Bildungs Symbole]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-events.gif] [EventsIcons Veranstaltungen & Wetter Symbole]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-stores.gif] [StoresIcons Geschäfts Symbolen]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-media.gif] [MediaIcons Media Symbolen]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-numeric.png] [NumericIcons Zahlen & Buchstabs Symbolen]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-restaurants.gif] [RestaurantsIcons Restaurants & Hotel Symbolen]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-sports.gif] [SportsIcons Sport, Gesundheit & Schönheits Symbolen]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-tourism.gif] [TourismIcons Tourismus & Natur Symbolen]*<br>
+*[http://google-maps-icons.googlecode.com/files/nav-transportation.gif] [TransportationIcons Transport Symbolen]*

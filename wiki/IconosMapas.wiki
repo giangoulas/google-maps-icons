@@ -21,7 +21,7 @@ Organizados por colores codificados en categorías lógicas, para una mejor y m�
 
  * <font size="4">*[IconDescriptions Todos nuestros ICONOS descritos, etiquetados y organizados por categorías]*</font>
 
- * Como [HowToAddNewIcons Iconos añadir] nuestros iconos a [HowToAddNewIcons Iconos tus mapas] o [GoogleEarthTutorial Google Earth].
+ * Como [HowToAddNewIcons añadir] nuestros iconos a [HowToAddNewIcons tus mapas] o a [GoogleEarthTutorial Google Earth].
  * Hacer una [http://code.google.com/p/google-maps-icons/issues/list sugerencia] si ves que falta un icono o si quieres [Contribute contribuir] al proyecto.
  * Se aceptan [Donate donaciones] como reconocimiento y soporte para futuras mejoras o simplemente para [Promote promover] este proyecto.
 

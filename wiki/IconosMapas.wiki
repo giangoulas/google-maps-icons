@@ -5,7 +5,7 @@
 [http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/GMI-HomeBanner-20110110.jpg]
 <table>
 <tr>
-<td colspan="2">Idioma del Presentación:</td>
+<td colspan="2">Idioma de la Presentación:</td>
 <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/de.gif]</td> <td align="left"><font size="1" color="#727272">[Kartensymbole deutsch]</font></td>
 <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/fr.gif]</td> <td align="left"><font size="1" color="#727272">[IconesPlans français]</font></td>
 <td width="30" align="right">[http://google-maps-icons.googlecode.com/files/es.gif]</td> <td align="left"><font size="1" color="#727272">[IconosMapas español]</font></td>
@@ -15,15 +15,15 @@
 </tr>
 </table>
 
-*Map Icons Collection* es un conjunto de mas que 1000 iconos gratuitos para resaltar los puntos de interés en sus mapas. Usted puede poner los manualmente en "Mis mapas" de Google Maps, o automáticamente con la API de Google Maps.
+*Map Icons Collection* es un conjunto de mas  de 1000 iconos gratuitos para resaltar los puntos de interés en sus mapas. Usted puede poner los manualmente en "Mis mapas" de Google Maps, o automáticamente con el API de Google Maps.
 
-Organizados en categorías lógicas de color codificado, para mejor visión de conjunto y más rápido, se obtiene una colección completa y diversa de los marcadores únicos para puntos de interés, por ejemplo, cines, hoteles, bancos, restaurantes y tiendas.
+Organizados por colores codificados en categorías lógicas, para una mejor y más rápida visualización. Se obtiene una colección completa y diversa de los marcadores únicos para puntos de interés, por ejemplo, cines, hoteles, bancos, restaurantes y tiendas.
 
- * <font size="4">*[IconDescriptions Todos nuestros ICONOS descritos, etiquetado y organizado en categorías]*</font>
+ * <font size="4">*[IconDescriptions Todos nuestros ICONOS descritos, etiquetados y organizados por categorías]*</font>
 
- * [HowToAddNewIcons Iconos Adjuntar a su mapas].
- * [http://code.google.com/p/google-maps-icons/issues/entry Hacer una sugerencia] si ves un icono que falta o [Contribute si quiere contribuir al proyecto].
- * [Donate Se aceptan donaciones para el reconocimiento y uso de los iconos] para desarrollar o simplemente [Promote promover este proyecto].
+ * Como [HowToAddNewIcons Iconos añadir] nuestros iconos a [HowToAddNewIcons Iconos tus mapas] o [GoogleEarthTutorial Google Earth].
+ * Hacer una [http://code.google.com/p/google-maps-icons/issues/list sugerencia] si ves que falta un icono o si quieres [Contribute contribuir] al proyecto.
+ * Se aceptan [Donate donaciones] como reconocimiento y soporte para futuras mejoras o simplemente para [Promote promover] este proyecto.
 
 <br>
 =Temas de Iconos de Mapas=

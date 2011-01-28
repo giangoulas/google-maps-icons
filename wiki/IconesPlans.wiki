@@ -22,7 +22,7 @@ Organisées par couleur et par rubrique, vous avez une collection complète de m
  * <font size="4">*[IconDescriptions Tous nos ICÔNES décrites, étiquetés et organisés en catégories]*</font>
 
  * [HowToAddNewIcons Ajoutez les icônes à vos cartes] ou à [GoogleEarthTutorial Google Earth].
- * [http://code.google.com/p/google-maps-icons/issues/entry Faites une suggestion] s'il vous manque une icône ou [Contribute si vous voulez contribuer au projet].
+ * [http://code.google.com/p/google-maps-icons/issues/list Faites une suggestion] s'il vous manque une icône ou [Contribute si vous voulez contribuer au projet].
  * [Donate Faites un don pour montrer que vous appréciez ce projet] et permettre son développement ou simplement [Promote promouvez le projet].
 
 <br>

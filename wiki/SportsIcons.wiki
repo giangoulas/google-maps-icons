@@ -83,6 +83,9 @@ Made by Linden Services : boules, swimming (sport), swimming (out)
 
 Made by Milherou Thierry : surface lift, deep sea fishing, paragliding, avalanches, paret, snorkeling, speed riding, bordercross, snowpark structures
 
+Made by Daniel Pikl : badminton
+
+
 <BR>
 =Donations=
 [http://code.google.com/p/google-maps-icons/wiki/Donate https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif] If you feel this project is useful to you and want to support it and it's future development [Donate please consider donating money].

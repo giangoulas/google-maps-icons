@@ -35,7 +35,7 @@ To make it easier to follow our design rules we provide you with the templates w
  * [http://google-maps-icons.googlecode.com/files/paint-net-template.pdn Paint.NET template] (www.getPaint.NET) (icons with backgrounds category colors but without symbols)
  * [http://google-maps-icons.googlecode.com/files/photoshop-template.psd Photoshop Template] (icons with backgrounds category colors but without symbols)
  * [http://google-maps-icons.googlecode.com/files/template.psd Photoshop Template] (icons with backgrounds category colors and many symbols)
- * [http://google-maps-icons.googlecode.com/files/gimp-template.pdn GIMP template] (www.gimp.org) (icons with backgrounds category colors but without symbols)
+ * [http://google-maps-icons.googlecode.com/files/gimp-template.xcf GIMP template] (www.gimp.org) (icons with backgrounds category colors but without symbols)
 
 
 ===About Transparency===

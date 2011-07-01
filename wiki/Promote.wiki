@@ -1,6 +1,14 @@
 #labels Featured
 #sidebar tocIcons
 
+
+<font color="orange" size="6">The project has moved. </font><br><br><font color="orange" size="6">A dedicated website, with new features. </font><br><br><font color="orange" size="6">Follow this URL : </font>
+
+= http://mapicons.nicolasmollet.com =
+
+[http://mapicons.nicolasmollet.com http://google-maps-icons.googlecode.com/files/mic-smallcap.gif] 
+
+
 <wiki:toc max_depth="3" />
 
 Help us *promote this project*, or simply *share it with your friends*. Feel free to use the text and images below:

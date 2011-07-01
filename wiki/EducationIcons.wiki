@@ -5,6 +5,7 @@
 = http://mapicons.nicolasmollet.com =
 
 [http://mapicons.nicolasmollet.com http://google-maps-icons.googlecode.com/files/mic-smallcap.gif] 
+
 <font color="#ef9e40" size="6">*Education & Kids map icons*</font>
 
 <wiki:toc max_depth="3" />

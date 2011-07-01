@@ -1,6 +1,14 @@
 #labels Featured
 #sidebar tocIcons
 
+
+<font color="orange" size="6">The project has moved. </font><br><br><font color="orange" size="6">A dedicated website, with new features. </font><br><br><font color="orange" size="6">Follow this URL : </font>
+
+= http://mapicons.nicolasmollet.com =
+
+[http://mapicons.nicolasmollet.com http://google-maps-icons.googlecode.com/files/mic-smallcap.gif] 
+
+
 <FONT color="#000000" size="6">*Icon Categories*</FONT>
 
 *<--- Here in the left menu you see the Icon Categories you can choose between.* _Click_ on the one you believe the icon you are looking for is in. You can then browse the icons sorted further into sub-categories, you can read the full descriptions and also search for icons based on tags. Another way to find icons is by *[http://code.google.com/p/google-maps-icons/downloads/list using the "Icon search" page]*.

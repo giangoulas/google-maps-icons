@@ -1,6 +1,15 @@
 #labels Translation
 =Iconen, Kaarten, Markers, POI, Kaart=
 
+
+<font color="orange" size="6">The project has moved. </font><br><br><font color="orange" size="6">A dedicated website, with new features. </font><br><br><font color="orange" size="6">Follow this URL : </font>
+
+= http://mapicons.nicolasmollet.com =
+
+[http://mapicons.nicolasmollet.com http://google-maps-icons.googlecode.com/files/mic-smallcap.gif] 
+
+
+
 *Map icons collection* is een pakket met meer dan 600 gratis iconen voor
 Points of Interest (Nuttige plaatsen) op uw eigen kaart. U kunt ze zelf handmatig
 toevoegen in uw "Google Maps" met de "Mijn kaarten" optie of automatisch met de

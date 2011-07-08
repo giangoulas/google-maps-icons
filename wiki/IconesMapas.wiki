@@ -1,4 +1,6 @@
 #labels Translation
+#sidebar tocIcons
+
 =Icones, Mapas, Symbolos, POI, Gratuitos, Marcadores=
 
 

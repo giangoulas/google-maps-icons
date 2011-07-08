@@ -1,5 +1,14 @@
 #labels Translation
 #sidebar tocIcons
+
+
+<font color="orange" size="6">The project has moved. </font><br><br><font color="orange" size="6">A dedicated website, with new features. </font><br><br><font color="orange" size="6">Follow this URL : </font>
+
+= http://mapicons.nicolasmollet.com =
+
+[http://mapicons.nicolasmollet.com http://google-maps-icons.googlecode.com/files/mic-smallcap.gif] 
+
+
 <font color="#727272">_Symbole, Karten, Navigationsattributen, RIS, GIS, POI, Symbolische Darstellungen_</font>
 =MAP ICONS COLLECTION <font size="4" color="#727272">_(KARTEN SYMBOL SAMLUNG)_</font>=
 [http://code.google.com/p/google-maps-icons/wiki/IconDescriptions http://google-maps-icons.googlecode.com/files/GMI-HomeBanner-20110110.jpg]

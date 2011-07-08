@@ -1,4 +1,6 @@
 #labels Translation
+#sidebar tocIcons
+
 =Icone, Mappa, Simboli, Carta, GIS, POI=
 
 

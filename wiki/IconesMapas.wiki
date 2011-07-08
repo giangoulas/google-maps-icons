@@ -1,6 +1,15 @@
 #labels Translation
 =Icones, Mapas, Symbolos, POI, Gratuitos, Marcadores=
 
+
+
+<font color="orange" size="6">The project has moved. </font><br><br><font color="orange" size="6">A dedicated website, with new features. </font><br><br><font color="orange" size="6">Follow this URL : </font>
+
+= http://mapicons.nicolasmollet.com =
+
+[http://mapicons.nicolasmollet.com http://google-maps-icons.googlecode.com/files/mic-smallcap.gif] 
+
+
 *Map icons collection* é um pacote com mais de 600 ícones gratuitos para destacar Pontos de Interesse nos seus mapas. Você pode colocá-los manualmente com "Meus mapas" do Google Maps, ou automaticamente com Google Maps API.
 
 Organizados por categoria e cor, dispomos de uma coleção completa de marcadores, tais como: cinema, escola, banco, restaurante japonês ou loja de roupas. 

@@ -2,9 +2,9 @@
 
 <font color="orange" size="6">The project has moved. </font><br><br><font color="orange" size="6">A dedicated website, with new features. </font><br><br><font color="orange" size="6">Follow this URL : </font>
 
-= http://mapicons.nicolasmollet.com =
+= http://mapicons.mapsmarker.com =
 
-[http://mapicons.nicolasmollet.com http://google-maps-icons.googlecode.com/files/mic-smallcap.gif] 
+[http://mapicons.mapsmarker.com http://google-maps-icons.googlecode.com/files/mic-smallcap.gif] 
 
 <font color="#000000" size="6">*Contact*</font>
 
